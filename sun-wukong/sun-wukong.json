@@ -8,10 +8,10 @@
   "note": "Unmatched (Restoration Games), set battle-of-legends-2. Datos transcritos de las cartas; uso privado.",
   "user": "alexkhudov2002",
   "bgg_link": null,
-  "created_on": "2026-11-17T14:58:30.151Z",
-  "deck_first_published_on": "2026-11-17T14:58:30.151Z",
-  "published_on": "2026-11-17T14:58:30.151Z",
-  "updated_on": "2026-11-17T14:58:30.151Z",
+  "created_on": "2026-11-17T16:30:22.746Z",
+  "deck_first_published_on": "2026-11-17T16:30:22.746Z",
+  "published_on": "2026-11-17T16:30:22.746Z",
+  "updated_on": "2026-11-17T16:30:22.746Z",
   "deck_published": false,
   "published": false,
   "liked": false,
@@ -35,7 +35,7 @@
       "move": 2,
       "isRanged": false,
       "specialAbility": "At the start of your turn, you may take 1 damage to summon a Clone in an empty space adjacent to Sun Wukong. Do not start with any Clones on the board.",
-      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/token-hero.png?v=66ae70981e"
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/token-hero.png?v=81aeb1e2ad"
     },
     "sidekick": {
       "name": "Clone",

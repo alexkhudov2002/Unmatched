@@ -8,10 +8,10 @@
   "note": "Unmatched (Restoration Games), set battle-of-legends-1. Datos transcritos de las cartas; uso privado.",
   "user": "alexkhudov2002",
   "bgg_link": null,
-  "created_on": "2026-11-17T14:53:50.030Z",
-  "deck_first_published_on": "2026-11-17T14:53:50.030Z",
-  "published_on": "2026-11-17T14:53:50.030Z",
-  "updated_on": "2026-11-17T14:53:50.030Z",
+  "created_on": "2026-11-17T16:30:23.756Z",
+  "deck_first_published_on": "2026-11-17T16:30:23.756Z",
+  "published_on": "2026-11-17T16:30:23.756Z",
+  "updated_on": "2026-11-17T16:30:23.756Z",
   "deck_published": false,
   "published": false,
   "liked": false,
@@ -22,7 +22,7 @@
   ],
   "savedTokens": [
     {
-      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/token-hero.png?v=612c753d46",
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/token-hero.png?v=9804ac9fe8",
       "clip": "circle",
       "label": "Alice",
       "rim": "#1F1F1F",
@@ -72,7 +72,7 @@
       "move": 2,
       "isRanged": false,
       "specialAbility": "When you place Alice, choose whether she starts the game BIG or SMALL. When Alice is BIG, add 2 to the value of her attack cards. When Alice is SMALL, add 1 to the value of her defense cards. Use Alice's size token to indicate her current size.",
-      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/token-hero.png?v=612c753d46"
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/token-hero.png?v=9804ac9fe8"
     },
     "sidekick": {
       "name": "The Jabberwock",

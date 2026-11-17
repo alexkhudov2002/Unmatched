@@ -10,10 +10,10 @@
       "note": "Unmatched (Restoration Games), set suns-origin. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:51:46.780Z",
-      "deck_first_published_on": "2026-11-17T14:51:46.780Z",
-      "published_on": "2026-11-17T14:51:46.780Z",
-      "updated_on": "2026-11-17T14:51:46.780Z",
+      "created_on": "2026-11-17T16:30:23.307Z",
+      "deck_first_published_on": "2026-11-17T16:30:23.307Z",
+      "published_on": "2026-11-17T16:30:23.307Z",
+      "updated_on": "2026-11-17T16:30:23.307Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -37,7 +37,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "MASTER STRATEGIST\nOther friendly fighters in Oda Nobunaga's zone add +1 to the value of their played combat cards. (Oda Nobunaga does not benefit from this ability.)",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/token-hero.png?v=f4f7492435"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/token-hero.png?v=1332aef68d"
         },
         "sidekick": {
           "name": "Honor Guard",
@@ -272,10 +272,10 @@
       "note": "Unmatched (Restoration Games), set suns-origin. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:51:47.119Z",
-      "deck_first_published_on": "2026-11-17T14:51:47.119Z",
-      "published_on": "2026-11-17T14:51:47.119Z",
-      "updated_on": "2026-11-17T14:51:47.119Z",
+      "created_on": "2026-11-17T16:30:23.575Z",
+      "deck_first_published_on": "2026-11-17T16:30:23.575Z",
+      "published_on": "2026-11-17T16:30:23.575Z",
+      "updated_on": "2026-11-17T16:30:23.575Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -299,7 +299,7 @@
           "move": 2,
           "isRanged": true,
           "specialAbility": "ATTACK OF OPPORTUNITY\nWhen an opposing hero leaves Tomoe Gozen's zone, deal 1 damage to that hero.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/token-hero.png?v=92fc259254"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/token-hero.png?v=d611e78654"
         },
         "sidekick": {
           "name": "Sidekick",

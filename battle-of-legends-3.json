@@ -10,10 +10,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-3. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T13:30:21.207Z",
-      "deck_first_published_on": "2026-11-17T13:30:21.207Z",
-      "published_on": "2026-11-17T13:30:21.207Z",
-      "updated_on": "2026-11-17T13:30:21.207Z",
+      "created_on": "2026-11-17T16:30:18.434Z",
+      "deck_first_published_on": "2026-11-17T16:30:18.434Z",
+      "published_on": "2026-11-17T16:30:18.434Z",
+      "updated_on": "2026-11-17T16:30:18.434Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -24,7 +24,7 @@
       ],
       "savedTokens": [
         {
-          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-hero.png?v=8fe6ad795d",
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-hero.png?v=6b5d56f58a",
           "clip": "circle",
           "label": "Blackbeard",
           "rim": "#1F1F1F",
@@ -87,7 +87,7 @@
           "move": 2,
           "isRanged": true,
           "specialAbility": "PRIVATEER TURNED PIRATE\nStart the game with 1 doubloon in the treasury, you have the other 2. At the start of your turn, you may pay 1 doubloon to gain 1 action. When Blackbeard takes combat damage, pay 1 doubloon.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-hero.png?v=8fe6ad795d"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-hero.png?v=6b5d56f58a"
         },
         "sidekick": {
           "name": "Sea Dog",
@@ -333,10 +333,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-3. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T13:30:21.480Z",
-      "deck_first_published_on": "2026-11-17T13:30:21.480Z",
-      "published_on": "2026-11-17T13:30:21.480Z",
-      "updated_on": "2026-11-17T13:30:21.480Z",
+      "created_on": "2026-11-17T16:30:18.694Z",
+      "deck_first_published_on": "2026-11-17T16:30:18.694Z",
+      "published_on": "2026-11-17T16:30:18.694Z",
+      "updated_on": "2026-11-17T16:30:18.694Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -360,7 +360,7 @@
           "move": 3,
           "isRanged": false,
           "specialAbility": "THE HUNGER\nAfter you attack, you may draw a card.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/token-hero.png?v=9475c13807"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/token-hero.png?v=6d388feef0"
         },
         "sidekick": {
           "name": "Sidekick",
@@ -588,10 +588,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-3. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T13:30:21.757Z",
-      "deck_first_published_on": "2026-11-17T13:30:21.757Z",
-      "published_on": "2026-11-17T13:30:21.757Z",
-      "updated_on": "2026-11-17T13:30:21.757Z",
+      "created_on": "2026-11-17T16:30:18.967Z",
+      "deck_first_published_on": "2026-11-17T16:30:18.967Z",
+      "published_on": "2026-11-17T16:30:18.967Z",
+      "updated_on": "2026-11-17T16:30:18.967Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -615,7 +615,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "MISCHIEF-MONGER\nAfter you play a TRICK, put that card into your opponent's hand instead of your discard pile. If an opponent discards a TRICK from their hand, return that card to your hand or the top of your deck. Add +1 to your move value for each TRICK in your opponents' hands.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/token-hero.png?v=79331e3d10"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/token-hero.png?v=0a2ab2839e"
         },
         "sidekick": {
           "name": "Sidekick",
@@ -843,10 +843,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-3. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T13:30:22.368Z",
-      "deck_first_published_on": "2026-11-17T13:30:22.368Z",
-      "published_on": "2026-11-17T13:30:22.368Z",
-      "updated_on": "2026-11-17T13:30:22.368Z",
+      "created_on": "2026-11-17T16:30:19.567Z",
+      "deck_first_published_on": "2026-11-17T16:30:19.567Z",
+      "published_on": "2026-11-17T16:30:19.567Z",
+      "updated_on": "2026-11-17T16:30:19.567Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -857,7 +857,7 @@
       ],
       "savedTokens": [
         {
-          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-hero.png?v=99266a1fa4",
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-hero.png?v=71788a4672",
           "clip": "circle",
           "label": "Pandora",
           "rim": "#1F1F1F",
@@ -977,7 +977,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "PANDORA'S BOX\nDo not start with any Kakodæmons on the board. At the start of your turn, open Pandora's Box.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-hero.png?v=99266a1fa4"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-hero.png?v=71788a4672"
         },
         "sidekick": {
           "name": "Kakodæmon",

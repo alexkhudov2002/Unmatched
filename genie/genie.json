@@ -8,10 +8,10 @@
   "note": "Unmatched (Restoration Games), set houdini-vs-genie. Datos transcritos de las cartas; uso privado.",
   "user": "alexkhudov2002",
   "bgg_link": null,
-  "created_on": "2026-11-17T14:50:10.879Z",
-  "deck_first_published_on": "2026-11-17T14:50:10.879Z",
-  "published_on": "2026-11-17T14:50:10.879Z",
-  "updated_on": "2026-11-17T14:50:10.879Z",
+  "created_on": "2026-11-17T16:30:21.917Z",
+  "deck_first_published_on": "2026-11-17T16:30:21.917Z",
+  "published_on": "2026-11-17T16:30:21.917Z",
+  "updated_on": "2026-11-17T16:30:21.917Z",
   "deck_published": false,
   "published": false,
   "liked": false,
@@ -35,7 +35,7 @@
       "move": 3,
       "isRanged": true,
       "specialAbility": "INFINITE POWER\nAt the start of your turn, you may discard 1 card to gain 1 action.",
-      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/token-hero.png?v=906cfd4ab5"
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/token-hero.png?v=78fe6b4b0f"
     },
     "sidekick": {
       "name": "Sidekick",

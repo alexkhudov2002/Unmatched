@@ -8,10 +8,10 @@
   "note": "Unmatched (Restoration Games), set cobble-fog. Datos transcritos de las cartas; uso privado.",
   "user": "alexkhudov2002",
   "bgg_link": null,
-  "created_on": "2026-11-17T13:05:57.705Z",
-  "deck_first_published_on": "2026-11-17T13:05:57.705Z",
-  "published_on": "2026-11-17T13:05:57.705Z",
-  "updated_on": "2026-11-17T13:05:57.705Z",
+  "created_on": "2026-11-17T16:30:18.150Z",
+  "deck_first_published_on": "2026-11-17T16:30:18.150Z",
+  "published_on": "2026-11-17T16:30:18.150Z",
+  "updated_on": "2026-11-17T16:30:18.150Z",
   "deck_published": false,
   "published": false,
   "liked": false,
@@ -22,7 +22,7 @@
   ],
   "savedTokens": [
     {
-      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/token-hero.png?v=10dd1a4c91",
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/token-hero.png?v=8a0ac013e0",
       "clip": "circle",
       "label": "Jekyll & Hyde",
       "rim": "#1F1F1F",
@@ -61,7 +61,7 @@
       "move": 2,
       "isRanged": false,
       "specialAbility": "Start the game as Dr. Jekyll. At the start of your turn, you may transform into Dr. Jekyll or Mr. Hyde. While Mr. Hyde: After you Maneuver, take 1 damage. (Use Jekyll & Hyde's transformation token to indicate who he currently is.)",
-      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/token-hero.png?v=10dd1a4c91"
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/token-hero.png?v=8a0ac013e0"
     },
     "sidekick": {
       "name": "Sidekick",

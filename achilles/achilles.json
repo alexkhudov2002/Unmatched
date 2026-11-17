@@ -8,10 +8,10 @@
   "note": "Unmatched (Restoration Games), set battle-of-legends-2. Datos transcritos de las cartas; uso privado.",
   "user": "alexkhudov2002",
   "bgg_link": null,
-  "created_on": "2026-11-17T14:58:29.562Z",
-  "deck_first_published_on": "2026-11-17T14:58:29.562Z",
-  "published_on": "2026-11-17T14:58:29.562Z",
-  "updated_on": "2026-11-17T14:58:29.562Z",
+  "created_on": "2026-11-17T16:30:22.187Z",
+  "deck_first_published_on": "2026-11-17T16:30:22.187Z",
+  "published_on": "2026-11-17T16:30:22.187Z",
+  "updated_on": "2026-11-17T16:30:22.187Z",
   "deck_published": false,
   "published": false,
   "liked": false,
@@ -35,7 +35,7 @@
       "move": 2,
       "isRanged": false,
       "specialAbility": "When Patroclus is defeated, discard 2 random cards. While Patroclus is defeated: add +2 to the value of all Achilles' attacks; if Achilles wins combat, draw 1 card.",
-      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/token-hero.png?v=9e6b2e2e8f"
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/token-hero.png?v=22250027f4"
     },
     "sidekick": {
       "name": "Patroclus",

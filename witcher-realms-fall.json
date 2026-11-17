@@ -10,10 +10,10 @@
       "note": "Unmatched (Restoration Games), set witcher-realms-fall. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:23:40.428Z",
-      "deck_first_published_on": "2026-11-17T14:23:40.428Z",
-      "published_on": "2026-11-17T14:23:40.428Z",
-      "updated_on": "2026-11-17T14:23:40.428Z",
+      "created_on": "2026-11-17T16:30:19.819Z",
+      "deck_first_published_on": "2026-11-17T16:30:19.819Z",
+      "published_on": "2026-11-17T16:30:19.819Z",
+      "updated_on": "2026-11-17T16:30:19.819Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -37,7 +37,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "KING OF THE WILD HUNT\nWhile all of your Red Riders are defeated, Eredin is ENRAGED. If Eredin is ENRAGED, add +1 to the value of your combat cards, and your move value is 3.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/token-hero.png?v=ecce4c329f"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/token-hero.png?v=c1e6cb1a0f"
         },
         "sidekick": {
           "name": "Red Rider",
@@ -266,10 +266,10 @@
       "note": "Unmatched (Restoration Games), set witcher-realms-fall. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:23:40.793Z",
-      "deck_first_published_on": "2026-11-17T14:23:40.793Z",
-      "published_on": "2026-11-17T14:23:40.793Z",
-      "updated_on": "2026-11-17T14:23:40.793Z",
+      "created_on": "2026-11-17T16:30:20.090Z",
+      "deck_first_published_on": "2026-11-17T16:30:20.090Z",
+      "published_on": "2026-11-17T16:30:20.090Z",
+      "updated_on": "2026-11-17T16:30:20.090Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -293,7 +293,7 @@
           "move": 2,
           "isRanged": true,
           "specialAbility": "TWO STEPS AHEAD\nAt the end of your turn, you may draw until you have a hand of 4 cards.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/token-hero.png?v=a8fbace318"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/token-hero.png?v=8fd7eadb1e"
         },
         "sidekick": {
           "name": "Dijkstra",

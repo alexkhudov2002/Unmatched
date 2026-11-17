@@ -10,10 +10,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-1. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:53:50.030Z",
-      "deck_first_published_on": "2026-11-17T14:53:50.030Z",
-      "published_on": "2026-11-17T14:53:50.030Z",
-      "updated_on": "2026-11-17T14:53:50.030Z",
+      "created_on": "2026-11-17T16:30:23.756Z",
+      "deck_first_published_on": "2026-11-17T16:30:23.756Z",
+      "published_on": "2026-11-17T16:30:23.756Z",
+      "updated_on": "2026-11-17T16:30:23.756Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -24,7 +24,7 @@
       ],
       "savedTokens": [
         {
-          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/token-hero.png?v=612c753d46",
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/token-hero.png?v=9804ac9fe8",
           "clip": "circle",
           "label": "Alice",
           "rim": "#1F1F1F",
@@ -74,7 +74,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "When you place Alice, choose whether she starts the game BIG or SMALL. When Alice is BIG, add 2 to the value of her attack cards. When Alice is SMALL, add 1 to the value of her defense cards. Use Alice's size token to indicate her current size.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/token-hero.png?v=612c753d46"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/token-hero.png?v=9804ac9fe8"
         },
         "sidekick": {
           "name": "The Jabberwock",
@@ -371,10 +371,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-1. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:53:50.377Z",
-      "deck_first_published_on": "2026-11-17T14:53:50.377Z",
-      "published_on": "2026-11-17T14:53:50.377Z",
-      "updated_on": "2026-11-17T14:53:50.377Z",
+      "created_on": "2026-11-17T16:30:23.912Z",
+      "deck_first_published_on": "2026-11-17T16:30:23.912Z",
+      "published_on": "2026-11-17T16:30:23.912Z",
+      "updated_on": "2026-11-17T16:30:23.912Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -398,7 +398,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "When King Arthur attacks, you may BOOST that attack. Play the BOOST card, face down, along with your attack card. If your opponent cancels the effects on your attack card, the BOOST is discarded without effect.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/token-hero.png?v=f41f7e63ee"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/token-hero.png?v=3ea8a00b2a"
         },
         "sidekick": {
           "name": "Merlin",
@@ -712,10 +712,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-1. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:53:50.665Z",
-      "deck_first_published_on": "2026-11-17T14:53:50.665Z",
-      "published_on": "2026-11-17T14:53:50.665Z",
-      "updated_on": "2026-11-17T14:53:50.665Z",
+      "created_on": "2026-11-17T16:30:24.058Z",
+      "deck_first_published_on": "2026-11-17T16:30:24.058Z",
+      "published_on": "2026-11-17T16:30:24.058Z",
+      "updated_on": "2026-11-17T16:30:24.058Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -739,7 +739,7 @@
           "move": 3,
           "isRanged": true,
           "specialAbility": "At the start of your turn, you may deal 1 damage to an opposing fighter in Medusa's zone.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/token-hero.png?v=f977ccdb63"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/token-hero.png?v=359798a938"
         },
         "sidekick": {
           "name": "Harpy",
@@ -968,10 +968,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-1. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:53:50.972Z",
-      "deck_first_published_on": "2026-11-17T14:53:50.972Z",
-      "published_on": "2026-11-17T14:53:50.972Z",
-      "updated_on": "2026-11-17T14:53:50.972Z",
+      "created_on": "2026-11-17T16:30:24.214Z",
+      "deck_first_published_on": "2026-11-17T16:30:24.214Z",
+      "published_on": "2026-11-17T16:30:24.214Z",
+      "updated_on": "2026-11-17T16:30:24.214Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -995,7 +995,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "When you maneuver, you may move your fighters +1 space for each VOYAGE card in your discard pile.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/token-hero.png?v=ce21fc80a1"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/token-hero.png?v=78751f9e1c"
         },
         "sidekick": {
           "name": "The Porter",

@@ -8,10 +8,10 @@
   "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
   "user": "alexkhudov2002",
   "bgg_link": null,
-  "created_on": "2026-11-17T14:38:17.190Z",
-  "deck_first_published_on": "2026-11-17T14:38:17.190Z",
-  "published_on": "2026-11-17T14:38:17.190Z",
-  "updated_on": "2026-11-17T14:38:17.190Z",
+  "created_on": "2026-11-17T16:30:20.622Z",
+  "deck_first_published_on": "2026-11-17T16:30:20.622Z",
+  "published_on": "2026-11-17T16:30:20.622Z",
+  "updated_on": "2026-11-17T16:30:20.622Z",
   "deck_published": false,
   "published": false,
   "liked": false,
@@ -35,7 +35,7 @@
       "move": 3,
       "isRanged": false,
       "specialAbility": "THE FIRST SUPERHERO\nIf you haven't taken a Maneuver action this turn, add +2 to the value of Golden Bat's attacks.",
-      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/token-hero.png?v=7bea43f974"
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/token-hero.png?v=57b07f88c1"
     },
     "sidekick": {
       "name": "Sidekick",

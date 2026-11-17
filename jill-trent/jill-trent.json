@@ -8,10 +8,10 @@
   "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
   "user": "alexkhudov2002",
   "bgg_link": null,
-  "created_on": "2026-11-17T14:51:47.393Z",
-  "deck_first_published_on": "2026-11-17T14:51:47.393Z",
-  "published_on": "2026-11-17T14:51:47.393Z",
-  "updated_on": "2026-11-17T14:51:47.393Z",
+  "created_on": "2026-11-17T16:30:20.956Z",
+  "deck_first_published_on": "2026-11-17T16:30:20.956Z",
+  "published_on": "2026-11-17T16:30:20.956Z",
+  "updated_on": "2026-11-17T16:30:20.956Z",
   "deck_published": false,
   "published": false,
   "liked": false,
@@ -22,7 +22,7 @@
   ],
   "savedTokens": [
     {
-      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-hero.png?v=8d44787575",
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-hero.png?v=0b11f15e64",
       "clip": "circle",
       "label": "Dr. Jill Trent",
       "rim": "#1F1F1F",
@@ -73,7 +73,7 @@
       "move": 2,
       "isRanged": false,
       "specialAbility": "GADGETOLOGY\nAt the start of your turn, activate one of your gadgets. Whenever Jill Trent attacks, resolve the active gadget's effect.",
-      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-hero.png?v=8d44787575"
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-hero.png?v=0b11f15e64"
     },
     "sidekick": {
       "name": "Daisy",

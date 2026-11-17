@@ -8,10 +8,10 @@
   "note": "Unmatched (Restoration Games), set battle-of-legends-2. Datos transcritos de las cartas; uso privado.",
   "user": "alexkhudov2002",
   "bgg_link": null,
-  "created_on": "2026-11-17T14:58:29.863Z",
-  "deck_first_published_on": "2026-11-17T14:58:29.863Z",
-  "published_on": "2026-11-17T14:58:29.863Z",
-  "updated_on": "2026-11-17T14:58:29.863Z",
+  "created_on": "2026-11-17T16:30:22.484Z",
+  "deck_first_published_on": "2026-11-17T16:30:22.484Z",
+  "published_on": "2026-11-17T16:30:22.484Z",
+  "updated_on": "2026-11-17T16:30:22.484Z",
   "deck_published": false,
   "published": false,
   "liked": false,
@@ -35,7 +35,7 @@
       "move": 3,
       "isRanged": false,
       "specialAbility": "At the start of your turn, if you have exactly 3 cards in hand, gain 1 action.",
-      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/token-hero.png?v=cb5e302211"
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/token-hero.png?v=a8bd08fdca"
     },
     "sidekick": {
       "name": "Sidekick",

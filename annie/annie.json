@@ -8,10 +8,10 @@
   "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
   "user": "alexkhudov2002",
   "bgg_link": null,
-  "created_on": "2026-11-17T14:38:16.869Z",
-  "deck_first_published_on": "2026-11-17T14:38:16.869Z",
-  "published_on": "2026-11-17T14:38:16.869Z",
-  "updated_on": "2026-11-17T14:38:16.869Z",
+  "created_on": "2026-11-17T16:30:20.356Z",
+  "deck_first_published_on": "2026-11-17T16:30:20.356Z",
+  "published_on": "2026-11-17T16:30:20.356Z",
+  "updated_on": "2026-11-17T16:30:20.356Z",
   "deck_published": false,
   "published": false,
   "liked": false,
@@ -35,7 +35,7 @@
       "move": 2,
       "isRanged": false,
       "specialAbility": "NECKLACE OF PEARLS\nAdd +2 to the value of Annie's attacks if she has less health than the defender.",
-      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/token-hero.png?v=e116cd811b"
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/token-hero.png?v=4198ee910b"
     },
     "sidekick": {
       "name": "Charlie",
@@ -43,7 +43,7 @@
       "hp": 8,
       "isRanged": true,
       "quote": "",
-      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/token-charlie.png?v=a233ca7537"
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/token-charlie.png?v=a61960f05e"
     },
     "cards": [
       {

@@ -8,10 +8,10 @@
   "note": "Unmatched (Restoration Games), set cobble-fog. Datos transcritos de las cartas; uso privado.",
   "user": "alexkhudov2002",
   "bgg_link": null,
-  "created_on": "2026-11-17T13:05:57.358Z",
-  "deck_first_published_on": "2026-11-17T13:05:57.358Z",
-  "published_on": "2026-11-17T13:05:57.358Z",
-  "updated_on": "2026-11-17T13:05:57.358Z",
+  "created_on": "2026-11-17T16:30:17.558Z",
+  "deck_first_published_on": "2026-11-17T16:30:17.558Z",
+  "published_on": "2026-11-17T16:30:17.558Z",
+  "updated_on": "2026-11-17T16:30:17.558Z",
   "deck_published": false,
   "published": false,
   "liked": false,
@@ -35,7 +35,7 @@
       "move": 2,
       "isRanged": false,
       "specialAbility": "At the start of your turn, you may deal 1 damage to a fighter adjacent to Dracula. If you do, draw a card.",
-      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/token-hero.png?v=49f0df3299"
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/token-hero.png?v=874294b459"
     },
     "sidekick": {
       "name": "Sister",

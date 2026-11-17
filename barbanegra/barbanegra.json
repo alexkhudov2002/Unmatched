@@ -8,10 +8,10 @@
   "note": "Unmatched (Restoration Games), set battle-of-legends-3. Datos transcritos de las cartas; uso privado.",
   "user": "alexkhudov2002",
   "bgg_link": null,
-  "created_on": "2026-11-17T13:30:21.207Z",
-  "deck_first_published_on": "2026-11-17T13:30:21.207Z",
-  "published_on": "2026-11-17T13:30:21.207Z",
-  "updated_on": "2026-11-17T13:30:21.207Z",
+  "created_on": "2026-11-17T16:30:18.434Z",
+  "deck_first_published_on": "2026-11-17T16:30:18.434Z",
+  "published_on": "2026-11-17T16:30:18.434Z",
+  "updated_on": "2026-11-17T16:30:18.434Z",
   "deck_published": false,
   "published": false,
   "liked": false,
@@ -22,7 +22,7 @@
   ],
   "savedTokens": [
     {
-      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-hero.png?v=8fe6ad795d",
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-hero.png?v=6b5d56f58a",
       "clip": "circle",
       "label": "Blackbeard",
       "rim": "#1F1F1F",
@@ -85,7 +85,7 @@
       "move": 2,
       "isRanged": true,
       "specialAbility": "PRIVATEER TURNED PIRATE\nStart the game with 1 doubloon in the treasury, you have the other 2. At the start of your turn, you may pay 1 doubloon to gain 1 action. When Blackbeard takes combat damage, pay 1 doubloon.",
-      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-hero.png?v=8fe6ad795d"
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-hero.png?v=6b5d56f58a"
     },
     "sidekick": {
       "name": "Sea Dog",

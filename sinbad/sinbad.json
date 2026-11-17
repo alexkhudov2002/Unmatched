@@ -8,10 +8,10 @@
   "note": "Unmatched (Restoration Games), set battle-of-legends-1. Datos transcritos de las cartas; uso privado.",
   "user": "alexkhudov2002",
   "bgg_link": null,
-  "created_on": "2026-11-17T14:53:50.972Z",
-  "deck_first_published_on": "2026-11-17T14:53:50.972Z",
-  "published_on": "2026-11-17T14:53:50.972Z",
-  "updated_on": "2026-11-17T14:53:50.972Z",
+  "created_on": "2026-11-17T16:30:24.214Z",
+  "deck_first_published_on": "2026-11-17T16:30:24.214Z",
+  "published_on": "2026-11-17T16:30:24.214Z",
+  "updated_on": "2026-11-17T16:30:24.214Z",
   "deck_published": false,
   "published": false,
   "liked": false,
@@ -35,7 +35,7 @@
       "move": 2,
       "isRanged": false,
       "specialAbility": "When you maneuver, you may move your fighters +1 space for each VOYAGE card in your discard pile.",
-      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/token-hero.png?v=ce21fc80a1"
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/token-hero.png?v=78751f9e1c"
     },
     "sidekick": {
       "name": "The Porter",

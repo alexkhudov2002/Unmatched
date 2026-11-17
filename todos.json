@@ -377,10 +377,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-2. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:58:29.562Z",
-      "deck_first_published_on": "2026-11-17T14:58:29.562Z",
-      "published_on": "2026-11-17T14:58:29.562Z",
-      "updated_on": "2026-11-17T14:58:29.562Z",
+      "created_on": "2026-11-17T16:30:22.187Z",
+      "deck_first_published_on": "2026-11-17T16:30:22.187Z",
+      "published_on": "2026-11-17T16:30:22.187Z",
+      "updated_on": "2026-11-17T16:30:22.187Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -404,7 +404,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "When Patroclus is defeated, discard 2 random cards. While Patroclus is defeated: add +2 to the value of all Achilles' attacks; if Achilles wins combat, draw 1 card.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/token-hero.png?v=9e6b2e2e8f"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/token-hero.png?v=22250027f4"
         },
         "sidekick": {
           "name": "Patroclus",
@@ -656,10 +656,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-1. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:53:50.030Z",
-      "deck_first_published_on": "2026-11-17T14:53:50.030Z",
-      "published_on": "2026-11-17T14:53:50.030Z",
-      "updated_on": "2026-11-17T14:53:50.030Z",
+      "created_on": "2026-11-17T16:30:23.756Z",
+      "deck_first_published_on": "2026-11-17T16:30:23.756Z",
+      "published_on": "2026-11-17T16:30:23.756Z",
+      "updated_on": "2026-11-17T16:30:23.756Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -670,7 +670,7 @@
       ],
       "savedTokens": [
         {
-          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/token-hero.png?v=612c753d46",
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/token-hero.png?v=9804ac9fe8",
           "clip": "circle",
           "label": "Alice",
           "rim": "#1F1F1F",
@@ -720,7 +720,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "When you place Alice, choose whether she starts the game BIG or SMALL. When Alice is BIG, add 2 to the value of her attack cards. When Alice is SMALL, add 1 to the value of her defense cards. Use Alice's size token to indicate her current size.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/token-hero.png?v=612c753d46"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/token-hero.png?v=9804ac9fe8"
         },
         "sidekick": {
           "name": "The Jabberwock",
@@ -1017,10 +1017,10 @@
       "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:38:16.869Z",
-      "deck_first_published_on": "2026-11-17T14:38:16.869Z",
-      "published_on": "2026-11-17T14:38:16.869Z",
-      "updated_on": "2026-11-17T14:38:16.869Z",
+      "created_on": "2026-11-17T16:30:20.356Z",
+      "deck_first_published_on": "2026-11-17T16:30:20.356Z",
+      "published_on": "2026-11-17T16:30:20.356Z",
+      "updated_on": "2026-11-17T16:30:20.356Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -1044,7 +1044,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "NECKLACE OF PEARLS\nAdd +2 to the value of Annie's attacks if she has less health than the defender.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/token-hero.png?v=e116cd811b"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/token-hero.png?v=4198ee910b"
         },
         "sidekick": {
           "name": "Charlie",
@@ -1052,7 +1052,7 @@
           "hp": 8,
           "isRanged": true,
           "quote": "",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/token-charlie.png?v=a233ca7537"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/token-charlie.png?v=a61960f05e"
         },
         "cards": [
           {
@@ -1631,10 +1631,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-3. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T13:30:21.207Z",
-      "deck_first_published_on": "2026-11-17T13:30:21.207Z",
-      "published_on": "2026-11-17T13:30:21.207Z",
-      "updated_on": "2026-11-17T13:30:21.207Z",
+      "created_on": "2026-11-17T16:30:18.434Z",
+      "deck_first_published_on": "2026-11-17T16:30:18.434Z",
+      "published_on": "2026-11-17T16:30:18.434Z",
+      "updated_on": "2026-11-17T16:30:18.434Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -1645,7 +1645,7 @@
       ],
       "savedTokens": [
         {
-          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-hero.png?v=8fe6ad795d",
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-hero.png?v=6b5d56f58a",
           "clip": "circle",
           "label": "Blackbeard",
           "rim": "#1F1F1F",
@@ -1708,7 +1708,7 @@
           "move": 2,
           "isRanged": true,
           "specialAbility": "PRIVATEER TURNED PIRATE\nStart the game with 1 doubloon in the treasury, you have the other 2. At the start of your turn, you may pay 1 doubloon to gain 1 action. When Blackbeard takes combat damage, pay 1 doubloon.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-hero.png?v=8fe6ad795d"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-hero.png?v=6b5d56f58a"
         },
         "sidekick": {
           "name": "Sea Dog",
@@ -1954,10 +1954,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-2. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:58:29.863Z",
-      "deck_first_published_on": "2026-11-17T14:58:29.863Z",
-      "published_on": "2026-11-17T14:58:29.863Z",
-      "updated_on": "2026-11-17T14:58:29.863Z",
+      "created_on": "2026-11-17T16:30:22.484Z",
+      "deck_first_published_on": "2026-11-17T16:30:22.484Z",
+      "published_on": "2026-11-17T16:30:22.484Z",
+      "updated_on": "2026-11-17T16:30:22.484Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -1981,7 +1981,7 @@
           "move": 3,
           "isRanged": false,
           "specialAbility": "At the start of your turn, if you have exactly 3 cards in hand, gain 1 action.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/token-hero.png?v=cb5e302211"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/token-hero.png?v=a8bd08fdca"
         },
         "sidekick": {
           "name": "Sidekick",
@@ -2249,10 +2249,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-3. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T13:30:21.480Z",
-      "deck_first_published_on": "2026-11-17T13:30:21.480Z",
-      "published_on": "2026-11-17T13:30:21.480Z",
-      "updated_on": "2026-11-17T13:30:21.480Z",
+      "created_on": "2026-11-17T16:30:18.694Z",
+      "deck_first_published_on": "2026-11-17T16:30:18.694Z",
+      "published_on": "2026-11-17T16:30:18.694Z",
+      "updated_on": "2026-11-17T16:30:18.694Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -2276,7 +2276,7 @@
           "move": 3,
           "isRanged": false,
           "specialAbility": "THE HUNGER\nAfter you attack, you may draw a card.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/token-hero.png?v=9475c13807"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/token-hero.png?v=6d388feef0"
         },
         "sidekick": {
           "name": "Sidekick",
@@ -3083,10 +3083,10 @@
       "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:51:47.393Z",
-      "deck_first_published_on": "2026-11-17T14:51:47.393Z",
-      "published_on": "2026-11-17T14:51:47.393Z",
-      "updated_on": "2026-11-17T14:51:47.393Z",
+      "created_on": "2026-11-17T16:30:20.956Z",
+      "deck_first_published_on": "2026-11-17T16:30:20.956Z",
+      "published_on": "2026-11-17T16:30:20.956Z",
+      "updated_on": "2026-11-17T16:30:20.956Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -3097,7 +3097,7 @@
       ],
       "savedTokens": [
         {
-          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-hero.png?v=8d44787575",
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-hero.png?v=0b11f15e64",
           "clip": "circle",
           "label": "Dr. Jill Trent",
           "rim": "#1F1F1F",
@@ -3148,7 +3148,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "GADGETOLOGY\nAt the start of your turn, activate one of your gadgets. Whenever Jill Trent attacks, resolve the active gadget's effect.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-hero.png?v=8d44787575"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-hero.png?v=0b11f15e64"
         },
         "sidekick": {
           "name": "Daisy",
@@ -3421,10 +3421,10 @@
       "note": "Unmatched (Restoration Games), set cobble-fog. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T13:05:57.358Z",
-      "deck_first_published_on": "2026-11-17T13:05:57.358Z",
-      "published_on": "2026-11-17T13:05:57.358Z",
-      "updated_on": "2026-11-17T13:05:57.358Z",
+      "created_on": "2026-11-17T16:30:17.558Z",
+      "deck_first_published_on": "2026-11-17T16:30:17.558Z",
+      "published_on": "2026-11-17T16:30:17.558Z",
+      "updated_on": "2026-11-17T16:30:17.558Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -3448,7 +3448,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "At the start of your turn, you may deal 1 damage to a fighter adjacent to Dracula. If you do, draw a card.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/token-hero.png?v=49f0df3299"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/token-hero.png?v=874294b459"
         },
         "sidekick": {
           "name": "Sister",
@@ -3711,10 +3711,10 @@
       "note": "Unmatched (Restoration Games), set witcher-realms-fall. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:23:40.428Z",
-      "deck_first_published_on": "2026-11-17T14:23:40.428Z",
-      "published_on": "2026-11-17T14:23:40.428Z",
-      "updated_on": "2026-11-17T14:23:40.428Z",
+      "created_on": "2026-11-17T16:30:19.819Z",
+      "deck_first_published_on": "2026-11-17T16:30:19.819Z",
+      "published_on": "2026-11-17T16:30:19.819Z",
+      "updated_on": "2026-11-17T16:30:19.819Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -3738,7 +3738,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "KING OF THE WILD HUNT\nWhile all of your Red Riders are defeated, Eredin is ENRAGED. If Eredin is ENRAGED, add +1 to the value of your combat cards, and your move value is 3.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/token-hero.png?v=ecce4c329f"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/token-hero.png?v=c1e6cb1a0f"
         },
         "sidekick": {
           "name": "Red Rider",
@@ -3967,10 +3967,10 @@
       "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:38:17.190Z",
-      "deck_first_published_on": "2026-11-17T14:38:17.190Z",
-      "published_on": "2026-11-17T14:38:17.190Z",
-      "updated_on": "2026-11-17T14:38:17.190Z",
+      "created_on": "2026-11-17T16:30:20.622Z",
+      "deck_first_published_on": "2026-11-17T16:30:20.622Z",
+      "published_on": "2026-11-17T16:30:20.622Z",
+      "updated_on": "2026-11-17T16:30:20.622Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -3994,7 +3994,7 @@
           "move": 3,
           "isRanged": false,
           "specialAbility": "THE FIRST SUPERHERO\nIf you haven't taken a Maneuver action this turn, add +2 to the value of Golden Bat's attacks.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/token-hero.png?v=7bea43f974"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/token-hero.png?v=57b07f88c1"
         },
         "sidekick": {
           "name": "Sidekick",
@@ -4580,10 +4580,10 @@
       "note": "Unmatched (Restoration Games), set houdini-vs-genie. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:50:10.582Z",
-      "deck_first_published_on": "2026-11-17T14:50:10.582Z",
-      "published_on": "2026-11-17T14:50:10.582Z",
-      "updated_on": "2026-11-17T14:50:10.582Z",
+      "created_on": "2026-11-17T16:30:21.634Z",
+      "deck_first_published_on": "2026-11-17T16:30:21.634Z",
+      "published_on": "2026-11-17T16:30:21.634Z",
+      "updated_on": "2026-11-17T16:30:21.634Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -4607,7 +4607,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "ESCAPE ARTIST\nWhen you take the maneuver action and BOOST, you may place Houdini in any space instead of moving. (Bess moves as normal.)",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/token-hero.png?v=904aa19635"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/token-hero.png?v=9c5052ee9b"
         },
         "sidekick": {
           "name": "Bess",
@@ -4870,10 +4870,10 @@
       "note": "Unmatched (Restoration Games), set cobble-fog. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T13:05:57.514Z",
-      "deck_first_published_on": "2026-11-17T13:05:57.514Z",
-      "published_on": "2026-11-17T13:05:57.514Z",
-      "updated_on": "2026-11-17T13:05:57.514Z",
+      "created_on": "2026-11-17T16:30:17.840Z",
+      "deck_first_published_on": "2026-11-17T16:30:17.840Z",
+      "published_on": "2026-11-17T16:30:17.840Z",
+      "updated_on": "2026-11-17T16:30:17.840Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -4884,7 +4884,7 @@
       ],
       "savedTokens": [
         {
-          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-hero.png?v=dedcf3dcd1",
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-hero.png?v=59a6565938",
           "clip": "circle",
           "label": "Invisible Man",
           "rim": "#1F1F1F",
@@ -4898,17 +4898,17 @@
         {
           "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-fog.png?v=0781bd077b",
           "size": 72,
-          "h": 72
+          "h": 46
         },
         {
           "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-fog.png?v=0781bd077b",
           "size": 72,
-          "h": 72
+          "h": 46
         },
         {
           "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-fog.png?v=0781bd077b",
           "size": 72,
-          "h": 72
+          "h": 46
         }
       ],
       "deck_data": {
@@ -4926,7 +4926,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "At the start of the game, after you place Invisible Man, place 3 fog tokens in separate spaces in his zone. When Invisible Man is on a space with a fog token, add 1 to the value of his defense cards. Invisible Man may move between two spaces with fog tokens as if they were adjacent.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-hero.png?v=dedcf3dcd1"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-hero.png?v=59a6565938"
         },
         "sidekick": {
           "name": "Sidekick",
@@ -5205,10 +5205,10 @@
       "note": "Unmatched (Restoration Games), set cobble-fog. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T13:05:57.705Z",
-      "deck_first_published_on": "2026-11-17T13:05:57.705Z",
-      "published_on": "2026-11-17T13:05:57.705Z",
-      "updated_on": "2026-11-17T13:05:57.705Z",
+      "created_on": "2026-11-17T16:30:18.150Z",
+      "deck_first_published_on": "2026-11-17T16:30:18.150Z",
+      "published_on": "2026-11-17T16:30:18.150Z",
+      "updated_on": "2026-11-17T16:30:18.150Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -5219,7 +5219,7 @@
       ],
       "savedTokens": [
         {
-          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/token-hero.png?v=10dd1a4c91",
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/token-hero.png?v=8a0ac013e0",
           "clip": "circle",
           "label": "Jekyll & Hyde",
           "rim": "#1F1F1F",
@@ -5258,7 +5258,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "Start the game as Dr. Jekyll. At the start of your turn, you may transform into Dr. Jekyll or Mr. Hyde. While Mr. Hyde: After you Maneuver, take 1 damage. (Use Jekyll & Hyde's transformation token to indicate who he currently is.)",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/token-hero.png?v=10dd1a4c91"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/token-hero.png?v=8a0ac013e0"
         },
         "sidekick": {
           "name": "Sidekick",
@@ -5520,10 +5520,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-1. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:53:50.377Z",
-      "deck_first_published_on": "2026-11-17T14:53:50.377Z",
-      "published_on": "2026-11-17T14:53:50.377Z",
-      "updated_on": "2026-11-17T14:53:50.377Z",
+      "created_on": "2026-11-17T16:30:23.912Z",
+      "deck_first_published_on": "2026-11-17T16:30:23.912Z",
+      "published_on": "2026-11-17T16:30:23.912Z",
+      "updated_on": "2026-11-17T16:30:23.912Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -5547,7 +5547,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "When King Arthur attacks, you may BOOST that attack. Play the BOOST card, face down, along with your attack card. If your opponent cancels the effects on your attack card, the BOOST is discarded without effect.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/token-hero.png?v=f41f7e63ee"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/token-hero.png?v=3ea8a00b2a"
         },
         "sidekick": {
           "name": "Merlin",
@@ -6140,10 +6140,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-3. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T13:30:21.757Z",
-      "deck_first_published_on": "2026-11-17T13:30:21.757Z",
-      "published_on": "2026-11-17T13:30:21.757Z",
-      "updated_on": "2026-11-17T13:30:21.757Z",
+      "created_on": "2026-11-17T16:30:18.967Z",
+      "deck_first_published_on": "2026-11-17T16:30:18.967Z",
+      "published_on": "2026-11-17T16:30:18.967Z",
+      "updated_on": "2026-11-17T16:30:18.967Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -6167,7 +6167,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "MISCHIEF-MONGER\nAfter you play a TRICK, put that card into your opponent's hand instead of your discard pile. If an opponent discards a TRICK from their hand, return that card to your hand or the top of your deck. Add +1 to your move value for each TRICK in your opponents' hands.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/token-hero.png?v=79331e3d10"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/token-hero.png?v=0a2ab2839e"
         },
         "sidekick": {
           "name": "Sidekick",
@@ -6395,10 +6395,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-1. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:53:50.665Z",
-      "deck_first_published_on": "2026-11-17T14:53:50.665Z",
-      "published_on": "2026-11-17T14:53:50.665Z",
-      "updated_on": "2026-11-17T14:53:50.665Z",
+      "created_on": "2026-11-17T16:30:24.058Z",
+      "deck_first_published_on": "2026-11-17T16:30:24.058Z",
+      "published_on": "2026-11-17T16:30:24.058Z",
+      "updated_on": "2026-11-17T16:30:24.058Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -6422,7 +6422,7 @@
           "move": 3,
           "isRanged": true,
           "specialAbility": "At the start of your turn, you may deal 1 damage to an opposing fighter in Medusa's zone.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/token-hero.png?v=f977ccdb63"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/token-hero.png?v=359798a938"
         },
         "sidekick": {
           "name": "Harpy",
@@ -6651,10 +6651,10 @@
       "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:38:18.063Z",
-      "deck_first_published_on": "2026-11-17T14:38:18.063Z",
-      "published_on": "2026-11-17T14:38:18.063Z",
-      "updated_on": "2026-11-17T14:38:18.063Z",
+      "created_on": "2026-11-17T16:30:21.301Z",
+      "deck_first_published_on": "2026-11-17T16:30:21.301Z",
+      "published_on": "2026-11-17T16:30:21.301Z",
+      "updated_on": "2026-11-17T16:30:21.301Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -6665,7 +6665,7 @@
       ],
       "savedTokens": [
         {
-          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-hero.png?v=27014f0aa8",
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-hero.png?v=e24313bfab",
           "clip": "circle",
           "label": "Nikola Tesla",
           "rim": "#1F1F1F",
@@ -6716,7 +6716,7 @@
           "move": 2,
           "isRanged": true,
           "specialAbility": "ELECTRICAL OVERFLOW\nStart the game with 1 coil charged. At the end of your turn, charge 1 coil. At the start of your turn, if both coils are charged, deal 1 damage to each opposing fighter adjacent to Tesla and move them up to 1 space.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-hero.png?v=27014f0aa8"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-hero.png?v=e24313bfab"
         },
         "sidekick": {
           "name": "Sidekick",
@@ -6944,10 +6944,10 @@
       "note": "Unmatched (Restoration Games), set suns-origin. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:51:46.780Z",
-      "deck_first_published_on": "2026-11-17T14:51:46.780Z",
-      "published_on": "2026-11-17T14:51:46.780Z",
-      "updated_on": "2026-11-17T14:51:46.780Z",
+      "created_on": "2026-11-17T16:30:23.307Z",
+      "deck_first_published_on": "2026-11-17T16:30:23.307Z",
+      "published_on": "2026-11-17T16:30:23.307Z",
+      "updated_on": "2026-11-17T16:30:23.307Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -6971,7 +6971,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "MASTER STRATEGIST\nOther friendly fighters in Oda Nobunaga's zone add +1 to the value of their played combat cards. (Oda Nobunaga does not benefit from this ability.)",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/token-hero.png?v=f4f7492435"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/token-hero.png?v=1332aef68d"
         },
         "sidekick": {
           "name": "Honor Guard",
@@ -7206,10 +7206,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-3. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T13:30:22.368Z",
-      "deck_first_published_on": "2026-11-17T13:30:22.368Z",
-      "published_on": "2026-11-17T13:30:22.368Z",
-      "updated_on": "2026-11-17T13:30:22.368Z",
+      "created_on": "2026-11-17T16:30:19.567Z",
+      "deck_first_published_on": "2026-11-17T16:30:19.567Z",
+      "published_on": "2026-11-17T16:30:19.567Z",
+      "updated_on": "2026-11-17T16:30:19.567Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -7220,7 +7220,7 @@
       ],
       "savedTokens": [
         {
-          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-hero.png?v=99266a1fa4",
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-hero.png?v=71788a4672",
           "clip": "circle",
           "label": "Pandora",
           "rim": "#1F1F1F",
@@ -7340,7 +7340,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "PANDORA'S BOX\nDo not start with any Kakodæmons on the board. At the start of your turn, open Pandora's Box.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-hero.png?v=99266a1fa4"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-hero.png?v=71788a4672"
         },
         "sidekick": {
           "name": "Kakodæmon",
@@ -7586,10 +7586,10 @@
       "note": "Unmatched (Restoration Games), set witcher-realms-fall. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:23:40.793Z",
-      "deck_first_published_on": "2026-11-17T14:23:40.793Z",
-      "published_on": "2026-11-17T14:23:40.793Z",
-      "updated_on": "2026-11-17T14:23:40.793Z",
+      "created_on": "2026-11-17T16:30:20.090Z",
+      "deck_first_published_on": "2026-11-17T16:30:20.090Z",
+      "published_on": "2026-11-17T16:30:20.090Z",
+      "updated_on": "2026-11-17T16:30:20.090Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -7613,7 +7613,7 @@
           "move": 2,
           "isRanged": true,
           "specialAbility": "TWO STEPS AHEAD\nAt the end of your turn, you may draw until you have a hand of 4 cards.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/token-hero.png?v=a8fbace318"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/token-hero.png?v=8fd7eadb1e"
         },
         "sidekick": {
           "name": "Dijkstra",
@@ -7876,10 +7876,10 @@
       "note": "Unmatched (Restoration Games), set cobble-fog. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T13:05:57.213Z",
-      "deck_first_published_on": "2026-11-17T13:05:57.213Z",
-      "published_on": "2026-11-17T13:05:57.213Z",
-      "updated_on": "2026-11-17T13:05:57.213Z",
+      "created_on": "2026-11-17T16:30:17.278Z",
+      "deck_first_published_on": "2026-11-17T16:30:17.278Z",
+      "published_on": "2026-11-17T16:30:17.278Z",
+      "updated_on": "2026-11-17T16:30:17.278Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -7903,7 +7903,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "Effects on HOLMES and DR. WATSON cards cannot be canceled by an opponent. (Effects on ANY cards can be canceled.)",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/token-hero.png?v=30c2f10bf4"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/token-hero.png?v=74a163b462"
         },
         "sidekick": {
           "name": "Dr. Watson",
@@ -8166,10 +8166,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-1. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:53:50.972Z",
-      "deck_first_published_on": "2026-11-17T14:53:50.972Z",
-      "published_on": "2026-11-17T14:53:50.972Z",
-      "updated_on": "2026-11-17T14:53:50.972Z",
+      "created_on": "2026-11-17T16:30:24.214Z",
+      "deck_first_published_on": "2026-11-17T16:30:24.214Z",
+      "published_on": "2026-11-17T16:30:24.214Z",
+      "updated_on": "2026-11-17T16:30:24.214Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -8193,7 +8193,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "When you maneuver, you may move your fighters +1 space for each VOYAGE card in your discard pile.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/token-hero.png?v=ce21fc80a1"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/token-hero.png?v=78751f9e1c"
         },
         "sidekick": {
           "name": "The Porter",
@@ -8507,10 +8507,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-2. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:58:30.151Z",
-      "deck_first_published_on": "2026-11-17T14:58:30.151Z",
-      "published_on": "2026-11-17T14:58:30.151Z",
-      "updated_on": "2026-11-17T14:58:30.151Z",
+      "created_on": "2026-11-17T16:30:22.746Z",
+      "deck_first_published_on": "2026-11-17T16:30:22.746Z",
+      "published_on": "2026-11-17T16:30:22.746Z",
+      "updated_on": "2026-11-17T16:30:22.746Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -8534,7 +8534,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "At the start of your turn, you may take 1 damage to summon a Clone in an empty space adjacent to Sun Wukong. Do not start with any Clones on the board.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/token-hero.png?v=66ae70981e"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/token-hero.png?v=81aeb1e2ad"
         },
         "sidekick": {
           "name": "Clone",
@@ -8786,10 +8786,10 @@
       "note": "Unmatched (Restoration Games), set houdini-vs-genie. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:50:10.879Z",
-      "deck_first_published_on": "2026-11-17T14:50:10.879Z",
-      "published_on": "2026-11-17T14:50:10.879Z",
-      "updated_on": "2026-11-17T14:50:10.879Z",
+      "created_on": "2026-11-17T16:30:21.917Z",
+      "deck_first_published_on": "2026-11-17T16:30:21.917Z",
+      "published_on": "2026-11-17T16:30:21.917Z",
+      "updated_on": "2026-11-17T16:30:21.917Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -8813,7 +8813,7 @@
           "move": 3,
           "isRanged": true,
           "specialAbility": "INFINITE POWER\nAt the start of your turn, you may discard 1 card to gain 1 action.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/token-hero.png?v=906cfd4ab5"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/token-hero.png?v=78fe6b4b0f"
         },
         "sidekick": {
           "name": "Sidekick",
@@ -9058,10 +9058,10 @@
       "note": "Unmatched (Restoration Games), set suns-origin. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:51:47.119Z",
-      "deck_first_published_on": "2026-11-17T14:51:47.119Z",
-      "published_on": "2026-11-17T14:51:47.119Z",
-      "updated_on": "2026-11-17T14:51:47.119Z",
+      "created_on": "2026-11-17T16:30:23.575Z",
+      "deck_first_published_on": "2026-11-17T16:30:23.575Z",
+      "published_on": "2026-11-17T16:30:23.575Z",
+      "updated_on": "2026-11-17T16:30:23.575Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -9085,7 +9085,7 @@
           "move": 2,
           "isRanged": true,
           "specialAbility": "ATTACK OF OPPORTUNITY\nWhen an opposing hero leaves Tomoe Gozen's zone, deal 1 damage to that hero.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/token-hero.png?v=92fc259254"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/token-hero.png?v=d611e78654"
         },
         "sidekick": {
           "name": "Sidekick",
@@ -9842,10 +9842,10 @@
       "note": "Unmatched (Restoration Games), set battle-of-legends-2. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:58:30.446Z",
-      "deck_first_published_on": "2026-11-17T14:58:30.446Z",
-      "published_on": "2026-11-17T14:58:30.446Z",
-      "updated_on": "2026-11-17T14:58:30.446Z",
+      "created_on": "2026-11-17T16:30:23.034Z",
+      "deck_first_published_on": "2026-11-17T16:30:23.034Z",
+      "published_on": "2026-11-17T16:30:23.034Z",
+      "updated_on": "2026-11-17T16:30:23.034Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -9869,7 +9869,7 @@
           "move": 2,
           "isRanged": true,
           "specialAbility": "If Yennenga would take damage, you may assign any amount of that damage to one or more Archers in her zone instead. (You may not assign more damage to an Archer than their remaining health.)",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/token-hero.png?v=9bf0a30671"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/token-hero.png?v=37b6967e80"
         },
         "sidekick": {
           "name": "Archer",

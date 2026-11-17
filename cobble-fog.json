@@ -10,10 +10,10 @@
       "note": "Unmatched (Restoration Games), set cobble-fog. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T13:05:57.358Z",
-      "deck_first_published_on": "2026-11-17T13:05:57.358Z",
-      "published_on": "2026-11-17T13:05:57.358Z",
-      "updated_on": "2026-11-17T13:05:57.358Z",
+      "created_on": "2026-11-17T16:30:17.558Z",
+      "deck_first_published_on": "2026-11-17T16:30:17.558Z",
+      "published_on": "2026-11-17T16:30:17.558Z",
+      "updated_on": "2026-11-17T16:30:17.558Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -37,7 +37,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "At the start of your turn, you may deal 1 damage to a fighter adjacent to Dracula. If you do, draw a card.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/token-hero.png?v=49f0df3299"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/token-hero.png?v=874294b459"
         },
         "sidekick": {
           "name": "Sister",
@@ -300,10 +300,10 @@
       "note": "Unmatched (Restoration Games), set cobble-fog. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T13:05:57.514Z",
-      "deck_first_published_on": "2026-11-17T13:05:57.514Z",
-      "published_on": "2026-11-17T13:05:57.514Z",
-      "updated_on": "2026-11-17T13:05:57.514Z",
+      "created_on": "2026-11-17T16:30:17.840Z",
+      "deck_first_published_on": "2026-11-17T16:30:17.840Z",
+      "published_on": "2026-11-17T16:30:17.840Z",
+      "updated_on": "2026-11-17T16:30:17.840Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -314,7 +314,7 @@
       ],
       "savedTokens": [
         {
-          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-hero.png?v=dedcf3dcd1",
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-hero.png?v=59a6565938",
           "clip": "circle",
           "label": "Invisible Man",
           "rim": "#1F1F1F",
@@ -328,17 +328,17 @@
         {
           "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-fog.png?v=0781bd077b",
           "size": 72,
-          "h": 72
+          "h": 46
         },
         {
           "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-fog.png?v=0781bd077b",
           "size": 72,
-          "h": 72
+          "h": 46
         },
         {
           "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-fog.png?v=0781bd077b",
           "size": 72,
-          "h": 72
+          "h": 46
         }
       ],
       "deck_data": {
@@ -356,7 +356,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "At the start of the game, after you place Invisible Man, place 3 fog tokens in separate spaces in his zone. When Invisible Man is on a space with a fog token, add 1 to the value of his defense cards. Invisible Man may move between two spaces with fog tokens as if they were adjacent.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-hero.png?v=dedcf3dcd1"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-hero.png?v=59a6565938"
         },
         "sidekick": {
           "name": "Sidekick",
@@ -635,10 +635,10 @@
       "note": "Unmatched (Restoration Games), set cobble-fog. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T13:05:57.705Z",
-      "deck_first_published_on": "2026-11-17T13:05:57.705Z",
-      "published_on": "2026-11-17T13:05:57.705Z",
-      "updated_on": "2026-11-17T13:05:57.705Z",
+      "created_on": "2026-11-17T16:30:18.150Z",
+      "deck_first_published_on": "2026-11-17T16:30:18.150Z",
+      "published_on": "2026-11-17T16:30:18.150Z",
+      "updated_on": "2026-11-17T16:30:18.150Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -649,7 +649,7 @@
       ],
       "savedTokens": [
         {
-          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/token-hero.png?v=10dd1a4c91",
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/token-hero.png?v=8a0ac013e0",
           "clip": "circle",
           "label": "Jekyll & Hyde",
           "rim": "#1F1F1F",
@@ -688,7 +688,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "Start the game as Dr. Jekyll. At the start of your turn, you may transform into Dr. Jekyll or Mr. Hyde. While Mr. Hyde: After you Maneuver, take 1 damage. (Use Jekyll & Hyde's transformation token to indicate who he currently is.)",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/token-hero.png?v=10dd1a4c91"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/token-hero.png?v=8a0ac013e0"
         },
         "sidekick": {
           "name": "Sidekick",
@@ -950,10 +950,10 @@
       "note": "Unmatched (Restoration Games), set cobble-fog. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T13:05:57.213Z",
-      "deck_first_published_on": "2026-11-17T13:05:57.213Z",
-      "published_on": "2026-11-17T13:05:57.213Z",
-      "updated_on": "2026-11-17T13:05:57.213Z",
+      "created_on": "2026-11-17T16:30:17.278Z",
+      "deck_first_published_on": "2026-11-17T16:30:17.278Z",
+      "published_on": "2026-11-17T16:30:17.278Z",
+      "updated_on": "2026-11-17T16:30:17.278Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -977,7 +977,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "Effects on HOLMES and DR. WATSON cards cannot be canceled by an opponent. (Effects on ANY cards can be canceled.)",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/token-hero.png?v=30c2f10bf4"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/token-hero.png?v=74a163b462"
         },
         "sidekick": {
           "name": "Dr. Watson",

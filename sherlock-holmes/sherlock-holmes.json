@@ -8,10 +8,10 @@
   "note": "Unmatched (Restoration Games), set cobble-fog. Datos transcritos de las cartas; uso privado.",
   "user": "alexkhudov2002",
   "bgg_link": null,
-  "created_on": "2026-11-17T13:05:57.213Z",
-  "deck_first_published_on": "2026-11-17T13:05:57.213Z",
-  "published_on": "2026-11-17T13:05:57.213Z",
-  "updated_on": "2026-11-17T13:05:57.213Z",
+  "created_on": "2026-11-17T16:30:17.278Z",
+  "deck_first_published_on": "2026-11-17T16:30:17.278Z",
+  "published_on": "2026-11-17T16:30:17.278Z",
+  "updated_on": "2026-11-17T16:30:17.278Z",
   "deck_published": false,
   "published": false,
   "liked": false,
@@ -35,7 +35,7 @@
       "move": 2,
       "isRanged": false,
       "specialAbility": "Effects on HOLMES and DR. WATSON cards cannot be canceled by an opponent. (Effects on ANY cards can be canceled.)",
-      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/token-hero.png?v=30c2f10bf4"
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/token-hero.png?v=74a163b462"
     },
     "sidekick": {
       "name": "Dr. Watson",

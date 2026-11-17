@@ -8,10 +8,10 @@
   "note": "Unmatched (Restoration Games), set battle-of-legends-3. Datos transcritos de las cartas; uso privado.",
   "user": "alexkhudov2002",
   "bgg_link": null,
-  "created_on": "2026-11-17T13:30:22.368Z",
-  "deck_first_published_on": "2026-11-17T13:30:22.368Z",
-  "published_on": "2026-11-17T13:30:22.368Z",
-  "updated_on": "2026-11-17T13:30:22.368Z",
+  "created_on": "2026-11-17T16:30:19.567Z",
+  "deck_first_published_on": "2026-11-17T16:30:19.567Z",
+  "published_on": "2026-11-17T16:30:19.567Z",
+  "updated_on": "2026-11-17T16:30:19.567Z",
   "deck_published": false,
   "published": false,
   "liked": false,
@@ -22,7 +22,7 @@
   ],
   "savedTokens": [
     {
-      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-hero.png?v=99266a1fa4",
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-hero.png?v=71788a4672",
       "clip": "circle",
       "label": "Pandora",
       "rim": "#1F1F1F",
@@ -142,7 +142,7 @@
       "move": 2,
       "isRanged": false,
       "specialAbility": "PANDORA'S BOX\nDo not start with any Kakodæmons on the board. At the start of your turn, open Pandora's Box.",
-      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-hero.png?v=99266a1fa4"
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-hero.png?v=71788a4672"
     },
     "sidekick": {
       "name": "Kakodæmon",

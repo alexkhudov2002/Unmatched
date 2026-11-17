@@ -10,10 +10,10 @@
       "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:38:16.869Z",
-      "deck_first_published_on": "2026-11-17T14:38:16.869Z",
-      "published_on": "2026-11-17T14:38:16.869Z",
-      "updated_on": "2026-11-17T14:38:16.869Z",
+      "created_on": "2026-11-17T16:30:20.356Z",
+      "deck_first_published_on": "2026-11-17T16:30:20.356Z",
+      "published_on": "2026-11-17T16:30:20.356Z",
+      "updated_on": "2026-11-17T16:30:20.356Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -37,7 +37,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "NECKLACE OF PEARLS\nAdd +2 to the value of Annie's attacks if she has less health than the defender.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/token-hero.png?v=e116cd811b"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/token-hero.png?v=4198ee910b"
         },
         "sidekick": {
           "name": "Charlie",
@@ -45,7 +45,7 @@
           "hp": 8,
           "isRanged": true,
           "quote": "",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/token-charlie.png?v=a233ca7537"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/token-charlie.png?v=a61960f05e"
         },
         "cards": [
           {
@@ -283,10 +283,10 @@
       "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:38:17.190Z",
-      "deck_first_published_on": "2026-11-17T14:38:17.190Z",
-      "published_on": "2026-11-17T14:38:17.190Z",
-      "updated_on": "2026-11-17T14:38:17.190Z",
+      "created_on": "2026-11-17T16:30:20.622Z",
+      "deck_first_published_on": "2026-11-17T16:30:20.622Z",
+      "published_on": "2026-11-17T16:30:20.622Z",
+      "updated_on": "2026-11-17T16:30:20.622Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -310,7 +310,7 @@
           "move": 3,
           "isRanged": false,
           "specialAbility": "THE FIRST SUPERHERO\nIf you haven't taken a Maneuver action this turn, add +2 to the value of Golden Bat's attacks.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/token-hero.png?v=7bea43f974"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/token-hero.png?v=57b07f88c1"
         },
         "sidekick": {
           "name": "Sidekick",
@@ -555,10 +555,10 @@
       "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:51:47.393Z",
-      "deck_first_published_on": "2026-11-17T14:51:47.393Z",
-      "published_on": "2026-11-17T14:51:47.393Z",
-      "updated_on": "2026-11-17T14:51:47.393Z",
+      "created_on": "2026-11-17T16:30:20.956Z",
+      "deck_first_published_on": "2026-11-17T16:30:20.956Z",
+      "published_on": "2026-11-17T16:30:20.956Z",
+      "updated_on": "2026-11-17T16:30:20.956Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -569,7 +569,7 @@
       ],
       "savedTokens": [
         {
-          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-hero.png?v=8d44787575",
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-hero.png?v=0b11f15e64",
           "clip": "circle",
           "label": "Dr. Jill Trent",
           "rim": "#1F1F1F",
@@ -620,7 +620,7 @@
           "move": 2,
           "isRanged": false,
           "specialAbility": "GADGETOLOGY\nAt the start of your turn, activate one of your gadgets. Whenever Jill Trent attacks, resolve the active gadget's effect.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-hero.png?v=8d44787575"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-hero.png?v=0b11f15e64"
         },
         "sidekick": {
           "name": "Daisy",
@@ -893,10 +893,10 @@
       "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-17T14:38:18.063Z",
-      "deck_first_published_on": "2026-11-17T14:38:18.063Z",
-      "published_on": "2026-11-17T14:38:18.063Z",
-      "updated_on": "2026-11-17T14:38:18.063Z",
+      "created_on": "2026-11-17T16:30:21.301Z",
+      "deck_first_published_on": "2026-11-17T16:30:21.301Z",
+      "published_on": "2026-11-17T16:30:21.301Z",
+      "updated_on": "2026-11-17T16:30:21.301Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -907,7 +907,7 @@
       ],
       "savedTokens": [
         {
-          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-hero.png?v=27014f0aa8",
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-hero.png?v=e24313bfab",
           "clip": "circle",
           "label": "Nikola Tesla",
           "rim": "#1F1F1F",
@@ -958,7 +958,7 @@
           "move": 2,
           "isRanged": true,
           "specialAbility": "ELECTRICAL OVERFLOW\nStart the game with 1 coil charged. At the end of your turn, charge 1 coil. At the start of your turn, if both coils are charged, deal 1 damage to each opposing fighter adjacent to Tesla and move them up to 1 space.",
-          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-hero.png?v=27014f0aa8"
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-hero.png?v=e24313bfab"
         },
         "sidekick": {
           "name": "Sidekick",

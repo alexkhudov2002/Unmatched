@@ -8,10 +8,10 @@
   "note": "Unmatched (Restoration Games), set battle-of-legends-2. Datos transcritos de las cartas; uso privado.",
   "user": "alexkhudov2002",
   "bgg_link": null,
-  "created_on": "2026-11-17T14:58:30.446Z",
-  "deck_first_published_on": "2026-11-17T14:58:30.446Z",
-  "published_on": "2026-11-17T14:58:30.446Z",
-  "updated_on": "2026-11-17T14:58:30.446Z",
+  "created_on": "2026-11-17T16:30:23.034Z",
+  "deck_first_published_on": "2026-11-17T16:30:23.034Z",
+  "published_on": "2026-11-17T16:30:23.034Z",
+  "updated_on": "2026-11-17T16:30:23.034Z",
   "deck_published": false,
   "published": false,
   "liked": false,
@@ -35,7 +35,7 @@
       "move": 2,
       "isRanged": true,
       "specialAbility": "If Yennenga would take damage, you may assign any amount of that damage to one or more Archers in her zone instead. (You may not assign more damage to an Archer than their remaining health.)",
-      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/token-hero.png?v=9bf0a30671"
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/token-hero.png?v=37b6967e80"
     },
     "sidekick": {
       "name": "Archer",

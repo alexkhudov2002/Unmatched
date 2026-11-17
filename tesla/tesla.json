@@ -8,10 +8,10 @@
   "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
   "user": "alexkhudov2002",
   "bgg_link": null,
-  "created_on": "2026-11-17T14:38:18.063Z",
-  "deck_first_published_on": "2026-11-17T14:38:18.063Z",
-  "published_on": "2026-11-17T14:38:18.063Z",
-  "updated_on": "2026-11-17T14:38:18.063Z",
+  "created_on": "2026-11-17T16:30:21.301Z",
+  "deck_first_published_on": "2026-11-17T16:30:21.301Z",
+  "published_on": "2026-11-17T16:30:21.301Z",
+  "updated_on": "2026-11-17T16:30:21.301Z",
   "deck_published": false,
   "published": false,
   "liked": false,
@@ -22,7 +22,7 @@
   ],
   "savedTokens": [
     {
-      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-hero.png?v=27014f0aa8",
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-hero.png?v=e24313bfab",
       "clip": "circle",
       "label": "Nikola Tesla",
       "rim": "#1F1F1F",
@@ -73,7 +73,7 @@
       "move": 2,
       "isRanged": true,
       "specialAbility": "ELECTRICAL OVERFLOW\nStart the game with 1 coil charged. At the end of your turn, charge 1 coil. At the start of your turn, if both coils are charged, deal 1 damage to each opposing fighter adjacent to Tesla and move them up to 1 space.",
-      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-hero.png?v=27014f0aa8"
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-hero.png?v=e24313bfab"
     },
     "sidekick": {
       "name": "Sidekick",

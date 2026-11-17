@@ -8,10 +8,10 @@
   "note": "Unmatched (Restoration Games), set suns-origin. Datos transcritos de las cartas; uso privado.",
   "user": "alexkhudov2002",
   "bgg_link": null,
-  "created_on": "2026-11-17T14:51:47.119Z",
-  "deck_first_published_on": "2026-11-17T14:51:47.119Z",
-  "published_on": "2026-11-17T14:51:47.119Z",
-  "updated_on": "2026-11-17T14:51:47.119Z",
+  "created_on": "2026-11-17T16:30:23.575Z",
+  "deck_first_published_on": "2026-11-17T16:30:23.575Z",
+  "published_on": "2026-11-17T16:30:23.575Z",
+  "updated_on": "2026-11-17T16:30:23.575Z",
   "deck_published": false,
   "published": false,
   "liked": false,
@@ -35,7 +35,7 @@
       "move": 2,
       "isRanged": true,
       "specialAbility": "ATTACK OF OPPORTUNITY\nWhen an opposing hero leaves Tomoe Gozen's zone, deal 1 damage to that hero.",
-      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/token-hero.png?v=92fc259254"
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/token-hero.png?v=d611e78654"
     },
     "sidekick": {
       "name": "Sidekick",
