@@ -1,0 +1,1218 @@
+{
+  "decks": [
+    {
+      "id": "um-barbanegra",
+      "family_id": "um-barbanegra",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Blackbeard",
+      "note": "Unmatched (Restoration Games), set battle-of-legends-3. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T13:30:21.207Z",
+      "deck_first_published_on": "2026-11-17T13:30:21.207Z",
+      "published_on": "2026-11-17T13:30:21.207Z",
+      "updated_on": "2026-11-17T13:30:21.207Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "battle-of-legends-3"
+      ],
+      "savedTokens": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-hero.png?v=8fe6ad795d",
+          "clip": "circle",
+          "label": "Blackbeard",
+          "rim": "#1F1F1F",
+          "initials": "B",
+          "size": 88,
+          "h": 88,
+          "counter": {
+            "link": "hero"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-sea-dog.png?v=c10019d341",
+          "clip": "circle",
+          "rim": "#1F1F1F",
+          "initials": "SD",
+          "size": 64,
+          "h": 64
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-sea-dog.png?v=c10019d341",
+          "clip": "circle",
+          "rim": "#1F1F1F",
+          "initials": "SD",
+          "size": 64,
+          "h": 64
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-doblon.png?v=a4c0d15fbe",
+          "size": 56,
+          "h": 60
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-doblon.png?v=a4c0d15fbe",
+          "size": 56,
+          "h": 60
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-doblon.png?v=a4c0d15fbe",
+          "size": 56,
+          "h": 60
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-cofre.png?v=56c957bf67",
+          "size": 96,
+          "h": 121
+        }
+      ],
+      "deck_data": {
+        "name": "Blackbeard",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Blackbeard",
+          "hp": 13,
+          "move": 2,
+          "isRanged": true,
+          "specialAbility": "PRIVATEER TURNED PIRATE\nStart the game with 1 doubloon in the treasury, you have the other 2. At the start of your turn, you may pay 1 doubloon to gain 1 action. When Blackbeard takes combat damage, pay 1 doubloon.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-hero.png?v=8fe6ad795d"
+        },
+        "sidekick": {
+          "name": "Sea Dog",
+          "quantity": 2,
+          "hp": 1,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-sea-dog.png?v=c10019d341"
+        },
+        "cards": [
+          {
+            "title": "Avast Ye!",
+            "quantity": 2,
+            "type": "attack",
+            "value": 5,
+            "boost": 3,
+            "characterName": "Blackbeard",
+            "basicText": "",
+            "immediateText": "Your opponent discards 1 random card unless (1 doubloon).",
+            "duringText": "",
+            "afterText": "Deal 1 damage to each opposing fighter in Blackbeard's zone unless (1 doubloon).",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/avast-ye.webp?v=e138384897",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/avast-ye.webp?v=e138384897"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+          },
+          {
+            "title": "A Brace of Primed Pistols",
+            "quantity": 2,
+            "type": "attack",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Blackbeard",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 3 damage to an opposing fighter in Blackbeard's zone unless (2 doubloons).",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/a-brace-of-primed-pistols.webp?v=ba1c84b9b4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/a-brace-of-primed-pistols.webp?v=ba1c84b9b4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+          },
+          {
+            "title": "Fearsome and Calculating",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Blackbeard",
+            "basicText": "",
+            "immediateText": "Look at your opponent's hand and choose 1 card for them to discard unless (1 doubloon).",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/fearsome-and-calculating.webp?v=caa929d8e8",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/fearsome-and-calculating.webp?v=caa929d8e8"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+          },
+          {
+            "title": "Give No Quarter",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If another friendly fighter is adjacent to the opposing fighter, this card's value is 5 instead.",
+            "afterText": "Gain 1 action unless (1 doubloon).",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/give-no-quarter.webp?v=ed77cdd1b8",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/give-no-quarter.webp?v=ed77cdd1b8"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+          },
+          {
+            "title": "Intimidating Visage",
+            "quantity": 2,
+            "type": "defence",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Blackbeard",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If Blackbeard is adjacent to an opposing fighter, he recovers 2 health.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/intimidating-visage.webp?v=993c78a210",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/intimidating-visage.webp?v=993c78a210"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+          },
+          {
+            "title": "Light the Fuse",
+            "quantity": 3,
+            "type": "attack",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Sea Dog",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move your fighter up to 2 spaces. Then, deal 1 damage to each fighter adjacent to them.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/light-the-fuse.webp?v=9700e5c6c3",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/light-the-fuse.webp?v=9700e5c6c3"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+          },
+          {
+            "title": "No Prey, No Pay",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BOOST this card.",
+            "afterText": "If you won the combat, draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/no-prey-no-pay.webp?v=326601eff3",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/no-prey-no-pay.webp?v=326601eff3"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+          },
+          {
+            "title": "Parley",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card unless (2 doubloons).",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/parley.webp?v=34a2a2969d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/parley.webp?v=34a2a2969d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+          },
+          {
+            "title": "Plunder",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Blackbeard",
+            "basicText": "Move each of your fighters up to 3 spaces. They may move through opposing fighters. Steal 1 doubloon from the treasury.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/plunder.webp?v=87677ba39a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/plunder.webp?v=87677ba39a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+          },
+          {
+            "title": "Queen Anne's Revenge",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 7,
+            "boost": 3,
+            "characterName": "Blackbeard",
+            "basicText": "This card's effects cannot be canceled.",
+            "immediateText": "",
+            "duringText": "Subtract 2 from this card's value for each doubloon your opponent pays.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/queen-annes-revenge.webp?v=1b39269585",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/queen-annes-revenge.webp?v=1b39269585"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+          },
+          {
+            "title": "Scourge of the Seven Seas",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Blackbeard",
+            "basicText": "Blackbeard recovers 2 health unless (1 doubloon).\nSummon a Sea Dog in any space unless (1 doubloon).\nGain 1 action unless (1 doubloon).",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/scourge-of-the-seven-seas.webp?v=a569ae4909",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/scourge-of-the-seven-seas.webp?v=a569ae4909"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+          },
+          {
+            "title": "Show a Leg!",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Summon a Sea Dog in Blackbeard's zone.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/show-a-leg.webp?v=3120a0df6c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/show-a-leg.webp?v=3120a0df6c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+          },
+          {
+            "title": "Blackbeard",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Blackbeard",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/hero.webp?v=c3596e0887",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/hero.webp?v=c3596e0887"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-chupacabra",
+      "family_id": "um-chupacabra",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Chupacabra",
+      "note": "Unmatched (Restoration Games), set battle-of-legends-3. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T13:30:21.480Z",
+      "deck_first_published_on": "2026-11-17T13:30:21.480Z",
+      "published_on": "2026-11-17T13:30:21.480Z",
+      "updated_on": "2026-11-17T13:30:21.480Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "battle-of-legends-3"
+      ],
+      "deck_data": {
+        "name": "Chupacabra",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Chupacabra",
+          "hp": 14,
+          "move": 3,
+          "isRanged": false,
+          "specialAbility": "THE HUNGER\nAfter you attack, you may draw a card.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/token-hero.png?v=9475c13807"
+        },
+        "sidekick": {
+          "name": "Sidekick",
+          "hp": null,
+          "quantity": null,
+          "isRanged": false,
+          "quote": ""
+        },
+        "cards": [
+          {
+            "title": "Ambush",
+            "quantity": 2,
+            "type": "attack",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Chupacabra",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Your opponent discards 1 random card. Add its BOOST value to this card's value.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/ambush.webp?v=40723260ae",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/ambush.webp?v=40723260ae"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+          },
+          {
+            "title": "Blood in the Air",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 4,
+            "characterName": "Chupacabra",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If you already won a combat this turn, you may BOOST this card.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/blood-in-the-air.webp?v=3a329a65e6",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/blood-in-the-air.webp?v=3a329a65e6"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+          },
+          {
+            "title": "Feeding",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Chupacabra",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If Chupacabra has 7 or less health, gain 1 action and it recovers 1 health.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/feeding.webp?v=4b321e0b6b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/feeding.webp?v=4b321e0b6b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+          },
+          {
+            "title": "Feint",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Chupacabra",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/feint.webp?v=b26c36e4be",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/feint.webp?v=b26c36e4be"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+          },
+          {
+            "title": "Natural Toughness",
+            "quantity": 2,
+            "type": "defence",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Chupacabra",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you lost the combat, return this card to your hand.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/natural-toughness.webp?v=0baf9109d0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/natural-toughness.webp?v=0baf9109d0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+          },
+          {
+            "title": "Ravenous Lunge",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Chupacabra",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Chupacabra recovers 1 health. If you won the combat, it recovers 2 instead.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/ravenous-lunge.webp?v=32a831afa3",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/ravenous-lunge.webp?v=32a831afa3"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+          },
+          {
+            "title": "The More They Struggle",
+            "quantity": 3,
+            "type": "attack",
+            "value": 0,
+            "boost": 3,
+            "characterName": "Chupacabra",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "The value of this card is equal to twice the printed value of your opponent's card.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/the-more-they-struggle.webp?v=bf027f5aaf",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/the-more-they-struggle.webp?v=bf027f5aaf"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+          },
+          {
+            "title": "Tooth and Tail",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Chupacabra",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 1 damage to up to 2 fighters adjacent to Chupacabra. Chupacabra recovers 1 health for each fighter damaged this way.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/tooth-and-tail.webp?v=dd38cf8869",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/tooth-and-tail.webp?v=dd38cf8869"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+          },
+          {
+            "title": "Traveler of the Night",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Chupacabra",
+            "basicText": "Move your fighter up to 4 spaces. They may move through opposing fighters. Gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/traveler-of-the-night.webp?v=4c27dce7ec",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/traveler-of-the-night.webp?v=4c27dce7ec"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+          },
+          {
+            "title": "Unsettle",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Chupacabra",
+            "basicText": "Choose an opponent with a fighter in Chupacabra's zone. They discard 1 card. You may deal 2 damage to Chupacabra to make them discard 2 cards instead.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/unsettle.webp?v=e1c60b1cd5",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/unsettle.webp?v=e1c60b1cd5"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+          },
+          {
+            "title": "Wounded Beast",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Chupacabra",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If Chupacabra has 7 or less health, this card's value is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/wounded-beast.webp?v=e2e2585364",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/wounded-beast.webp?v=e2e2585364"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+          },
+          {
+            "title": "Chupacabra",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Chupacabra",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/hero.webp?v=1e5018ae34",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/hero.webp?v=1e5018ae34"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-loki",
+      "family_id": "um-loki",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Loki",
+      "note": "Unmatched (Restoration Games), set battle-of-legends-3. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T13:30:21.757Z",
+      "deck_first_published_on": "2026-11-17T13:30:21.757Z",
+      "published_on": "2026-11-17T13:30:21.757Z",
+      "updated_on": "2026-11-17T13:30:21.757Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "battle-of-legends-3"
+      ],
+      "deck_data": {
+        "name": "Loki",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Loki",
+          "hp": 16,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "MISCHIEF-MONGER\nAfter you play a TRICK, put that card into your opponent's hand instead of your discard pile. If an opponent discards a TRICK from their hand, return that card to your hand or the top of your deck. Add +1 to your move value for each TRICK in your opponents' hands.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/token-hero.png?v=79331e3d10"
+        },
+        "sidekick": {
+          "name": "Sidekick",
+          "hp": null,
+          "quantity": null,
+          "isRanged": false,
+          "quote": ""
+        },
+        "cards": [
+          {
+            "title": "Trick: Baldr's Downfall",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 0,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card.\nDeal 2 damage to your hero.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/baldrs-downfall.webp?v=dcfeb69cea",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/baldrs-downfall.webp?v=dcfeb69cea"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+          },
+          {
+            "title": "Trick: Freyja's Rescue",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 0,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Swap the values of your card and your opponent's card.",
+            "afterText": "Loki recovers 3 health.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/freyjas-rescue.webp?v=ffccb22748",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/freyjas-rescue.webp?v=ffccb22748"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+          },
+          {
+            "title": "God of Mischief",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Loki",
+            "basicText": "",
+            "immediateText": "If your opponent played a TRICK, ignore that card's value. Otherwise, cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/god-of-mischief.webp?v=e57a2653df",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/god-of-mischief.webp?v=e57a2653df"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+          },
+          {
+            "title": "Lævateinn",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Loki",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Reveal a card in your opponent's hand. Add its BOOST value to this card's value. If you reveal a TRICK, put it in your hand.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/laevateinn.webp?v=d07549daad",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/laevateinn.webp?v=d07549daad"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+          },
+          {
+            "title": "Looking for Trouble",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Loki",
+            "basicText": "",
+            "immediateText": "If your opponent played a card, return it to their hand, look at their hand, and choose a card for them to play.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/looking-for-trouble.webp?v=6dfea5425e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/looking-for-trouble.webp?v=6dfea5425e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+          },
+          {
+            "title": "Malicious Flyting",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Loki",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card. If your opponent played a TRICK, draw 2 cards instead.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/malicious-flyting.webp?v=0f7adda510",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/malicious-flyting.webp?v=0f7adda510"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+          },
+          {
+            "title": "Ragnarök",
+            "quantity": 2,
+            "type": "attack",
+            "value": 0,
+            "boost": 3,
+            "characterName": "Loki",
+            "basicText": "This card's effects cannot be canceled.",
+            "immediateText": "",
+            "duringText": "Add +3 to this card's value for each TRICK in your opponent's hand.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/ragnarok.webp?v=eed627c647",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/ragnarok.webp?v=eed627c647"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+          },
+          {
+            "title": "Shapeshifter",
+            "quantity": 4,
+            "type": "attack",
+            "value": 0,
+            "boost": 2,
+            "characterName": "Loki",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Choose one effect: add +1 to this card's value for each card in your opponent's hand; gain 1 action.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/shapeshifter.webp?v=709e6e3dcb",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/shapeshifter.webp?v=709e6e3dcb"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+          },
+          {
+            "title": "Trick: Sindri's Bet",
+            "quantity": 2,
+            "type": "defence",
+            "value": 3,
+            "boost": 0,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Your opponent may discard a card. If they don't, subtract 3 from their card's value.",
+            "afterText": "Loki returns the top card of their discard pile to their hand.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/sindris-bet.webp?v=3fde6cd81c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/sindris-bet.webp?v=3fde6cd81c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+          },
+          {
+            "title": "Trick: Svaðilfari's Lure",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 0,
+            "characterName": "Any",
+            "basicText": "Place an opposing fighter adjacent to Loki.\nLoki reveals a card in your hand. Discard that card.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/svadilfaris-lure.webp?v=c8cf1d5db7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/svadilfaris-lure.webp?v=c8cf1d5db7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+          },
+          {
+            "title": "Underhanded",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Loki",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If your opponent has more cards in their hand than you, this card's value is 6 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/underhanded.webp?v=e96f354f7a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/underhanded.webp?v=e96f354f7a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+          },
+          {
+            "title": "Loki",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Loki",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/hero.webp?v=e049feb7ef",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/hero.webp?v=e049feb7ef"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-pandora",
+      "family_id": "um-pandora",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Pandora",
+      "note": "Unmatched (Restoration Games), set battle-of-legends-3. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T13:30:22.368Z",
+      "deck_first_published_on": "2026-11-17T13:30:22.368Z",
+      "published_on": "2026-11-17T13:30:22.368Z",
+      "updated_on": "2026-11-17T13:30:22.368Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "battle-of-legends-3"
+      ],
+      "savedTokens": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-hero.png?v=99266a1fa4",
+          "clip": "circle",
+          "label": "Pandora",
+          "rim": "#1F1F1F",
+          "initials": "P",
+          "size": 88,
+          "h": 88,
+          "counter": {
+            "link": "hero"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-kakodaemon.png?v=bff0e6383c",
+          "clip": "circle",
+          "rim": "#1F1F1F",
+          "initials": "K",
+          "size": 64,
+          "h": 64
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-kakodaemon.png?v=bff0e6383c",
+          "clip": "circle",
+          "rim": "#1F1F1F",
+          "initials": "K",
+          "size": 64,
+          "h": 64
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/caja/confusion.png?v=fa676d4e04",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 130,
+          "h": 86
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/caja/greed.png?v=d52e6152a5",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 130,
+          "h": 86
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/caja/hope.png?v=4f31bd20ee",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 130,
+          "h": 86
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/caja/misfortune.png?v=bdc819ba17",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 130,
+          "h": 86
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/caja/pain.png?v=e929ff0554",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 130,
+          "h": 86
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/caja/toil.png?v=35f7da5321",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 130,
+          "h": 86
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/caja/woe.png?v=e081759a26",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 130,
+          "h": 86
+        }
+      ],
+      "deck_data": {
+        "name": "Pandora",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Pandora",
+          "hp": 14,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "PANDORA'S BOX\nDo not start with any Kakodæmons on the board. At the start of your turn, open Pandora's Box.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-hero.png?v=99266a1fa4"
+        },
+        "sidekick": {
+          "name": "Kakodæmon",
+          "quantity": 2,
+          "hp": 1,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-kakodaemon.png?v=bff0e6383c"
+        },
+        "cards": [
+          {
+            "title": "Aphrodite's Beauty",
+            "quantity": 3,
+            "type": "attack",
+            "value": 0,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "Pandora recovers 1 health for each revealed MISERY.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/aphrodites-beauty.webp?v=ea83cf818c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/aphrodites-beauty.webp?v=ea83cf818c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+          },
+          {
+            "title": "Celestial Raiments",
+            "quantity": 2,
+            "type": "defence",
+            "value": 0,
+            "boost": 3,
+            "characterName": "Pandora",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Ignore the value of your opponent's card.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/celestial-raiments.webp?v=f38d5342f2",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/celestial-raiments.webp?v=f38d5342f2"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+          },
+          {
+            "title": "Divine Intervention",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Pandora",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move Pandora up to 5 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/divine-intervention.webp?v=ae5bdfc0ba",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/divine-intervention.webp?v=ae5bdfc0ba"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+          },
+          {
+            "title": "Feint",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/feint.webp?v=03f0f8f217",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/feint.webp?v=03f0f8f217"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+          },
+          {
+            "title": "Forged by Hephaestus",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "Place your fighter in any space. Gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/forged-by-hephaestus.webp?v=fdb0d43ae7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/forged-by-hephaestus.webp?v=fdb0d43ae7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+          },
+          {
+            "title": "Guided by the Fates",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Discard the top card of your deck. Add its BOOST value to this card's value.",
+            "afterText": "If you won the combat, Pandora recovers 2 health.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/guided-by-the-fates.webp?v=8d26656e14",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/guided-by-the-fates.webp?v=8d26656e14"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+          },
+          {
+            "title": "Hera's Curiosity",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 4,
+            "characterName": "Pandora",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Add +1 to this card's value for each revealed MISERY.",
+            "afterText": "Look at your opponent's hand.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/heras-curiosity.webp?v=61d6f6f22a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/heras-curiosity.webp?v=61d6f6f22a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+          },
+          {
+            "title": "Hindsight",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Pandora",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, return a card from your discard pile to the top of your deck.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/hindsight.webp?v=bf0e603530",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/hindsight.webp?v=bf0e603530"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+          },
+          {
+            "title": "Malice",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Kakodæmon",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Your opponent discards 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/malice.webp?v=ddcd0b5824",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/malice.webp?v=ddcd0b5824"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+          },
+          {
+            "title": "Offering to the Gods",
+            "quantity": 2,
+            "type": "defence",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Pandora",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BOOST this card.",
+            "afterText": "If you won the combat, deal 2 damage to the opposing fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/offering-to-the-gods.webp?v=20c4843abf",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/offering-to-the-gods.webp?v=20c4843abf"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+          },
+          {
+            "title": "Spite",
+            "quantity": 2,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Kakodæmon",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 1 damage to each fighter adjacent to your fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/spite.webp?v=d6adea95e2",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/spite.webp?v=d6adea95e2"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+          },
+          {
+            "title": "Zeus's Mischief",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 1,
+            "characterName": "Pandora",
+            "basicText": "Draw 1 card for each revealed MISERY. Move an opposing fighter up to 1 space. Gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/zeus-mischief.webp?v=e5ffaa0bc5",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/zeus-mischief.webp?v=e5ffaa0bc5"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+          },
+          {
+            "title": "Pandora",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Pandora",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/hero.webp?v=18ddb85b5b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/hero.webp?v=18ddb85b5b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    }
+  ],
+  "maps": []
+}

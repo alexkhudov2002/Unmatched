@@ -1,0 +1,255 @@
+{
+  "id": "um-loki",
+  "family_id": "um-loki",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Loki",
+  "note": "Unmatched (Restoration Games), set battle-of-legends-3. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T13:30:21.757Z",
+  "deck_first_published_on": "2026-11-17T13:30:21.757Z",
+  "published_on": "2026-11-17T13:30:21.757Z",
+  "updated_on": "2026-11-17T13:30:21.757Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "battle-of-legends-3"
+  ],
+  "deck_data": {
+    "name": "Loki",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Loki",
+      "hp": 16,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "MISCHIEF-MONGER\nAfter you play a TRICK, put that card into your opponent's hand instead of your discard pile. If an opponent discards a TRICK from their hand, return that card to your hand or the top of your deck. Add +1 to your move value for each TRICK in your opponents' hands.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/token-hero.png?v=79331e3d10"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Trick: Baldr's Downfall",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 0,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card.\nDeal 2 damage to your hero.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/baldrs-downfall.webp?v=dcfeb69cea",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/baldrs-downfall.webp?v=dcfeb69cea"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+      },
+      {
+        "title": "Trick: Freyja's Rescue",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 0,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Swap the values of your card and your opponent's card.",
+        "afterText": "Loki recovers 3 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/freyjas-rescue.webp?v=ffccb22748",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/freyjas-rescue.webp?v=ffccb22748"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+      },
+      {
+        "title": "God of Mischief",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Loki",
+        "basicText": "",
+        "immediateText": "If your opponent played a TRICK, ignore that card's value. Otherwise, cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/god-of-mischief.webp?v=e57a2653df",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/god-of-mischief.webp?v=e57a2653df"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+      },
+      {
+        "title": "Lævateinn",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Loki",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Reveal a card in your opponent's hand. Add its BOOST value to this card's value. If you reveal a TRICK, put it in your hand.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/laevateinn.webp?v=d07549daad",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/laevateinn.webp?v=d07549daad"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+      },
+      {
+        "title": "Looking for Trouble",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Loki",
+        "basicText": "",
+        "immediateText": "If your opponent played a card, return it to their hand, look at their hand, and choose a card for them to play.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/looking-for-trouble.webp?v=6dfea5425e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/looking-for-trouble.webp?v=6dfea5425e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+      },
+      {
+        "title": "Malicious Flyting",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Loki",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card. If your opponent played a TRICK, draw 2 cards instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/malicious-flyting.webp?v=0f7adda510",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/malicious-flyting.webp?v=0f7adda510"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+      },
+      {
+        "title": "Ragnarök",
+        "quantity": 2,
+        "type": "attack",
+        "value": 0,
+        "boost": 3,
+        "characterName": "Loki",
+        "basicText": "This card's effects cannot be canceled.",
+        "immediateText": "",
+        "duringText": "Add +3 to this card's value for each TRICK in your opponent's hand.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/ragnarok.webp?v=eed627c647",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/ragnarok.webp?v=eed627c647"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+      },
+      {
+        "title": "Shapeshifter",
+        "quantity": 4,
+        "type": "attack",
+        "value": 0,
+        "boost": 2,
+        "characterName": "Loki",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Choose one effect: add +1 to this card's value for each card in your opponent's hand; gain 1 action.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/shapeshifter.webp?v=709e6e3dcb",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/shapeshifter.webp?v=709e6e3dcb"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+      },
+      {
+        "title": "Trick: Sindri's Bet",
+        "quantity": 2,
+        "type": "defence",
+        "value": 3,
+        "boost": 0,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Your opponent may discard a card. If they don't, subtract 3 from their card's value.",
+        "afterText": "Loki returns the top card of their discard pile to their hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/sindris-bet.webp?v=3fde6cd81c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/sindris-bet.webp?v=3fde6cd81c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+      },
+      {
+        "title": "Trick: Svaðilfari's Lure",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 0,
+        "characterName": "Any",
+        "basicText": "Place an opposing fighter adjacent to Loki.\nLoki reveals a card in your hand. Discard that card.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/svadilfaris-lure.webp?v=c8cf1d5db7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/svadilfaris-lure.webp?v=c8cf1d5db7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+      },
+      {
+        "title": "Underhanded",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Loki",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If your opponent has more cards in their hand than you, this card's value is 6 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/underhanded.webp?v=e96f354f7a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/cards/underhanded.webp?v=e96f354f7a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264"
+      },
+      {
+        "title": "Loki",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Loki",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/hero.webp?v=e049feb7ef",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/hero.webp?v=e049feb7ef"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/loki/back.webp?v=8da3504264",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

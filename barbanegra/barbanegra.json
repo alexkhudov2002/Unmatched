@@ -1,0 +1,323 @@
+{
+  "id": "um-barbanegra",
+  "family_id": "um-barbanegra",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Blackbeard",
+  "note": "Unmatched (Restoration Games), set battle-of-legends-3. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T13:30:21.207Z",
+  "deck_first_published_on": "2026-11-17T13:30:21.207Z",
+  "published_on": "2026-11-17T13:30:21.207Z",
+  "updated_on": "2026-11-17T13:30:21.207Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "battle-of-legends-3"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-hero.png?v=8fe6ad795d",
+      "clip": "circle",
+      "label": "Blackbeard",
+      "rim": "#1F1F1F",
+      "initials": "B",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-sea-dog.png?v=c10019d341",
+      "clip": "circle",
+      "rim": "#1F1F1F",
+      "initials": "SD",
+      "size": 64,
+      "h": 64
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-sea-dog.png?v=c10019d341",
+      "clip": "circle",
+      "rim": "#1F1F1F",
+      "initials": "SD",
+      "size": 64,
+      "h": 64
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-doblon.png?v=a4c0d15fbe",
+      "size": 56,
+      "h": 60
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-doblon.png?v=a4c0d15fbe",
+      "size": 56,
+      "h": 60
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-doblon.png?v=a4c0d15fbe",
+      "size": 56,
+      "h": 60
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-cofre.png?v=56c957bf67",
+      "size": 96,
+      "h": 121
+    }
+  ],
+  "deck_data": {
+    "name": "Blackbeard",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Blackbeard",
+      "hp": 13,
+      "move": 2,
+      "isRanged": true,
+      "specialAbility": "PRIVATEER TURNED PIRATE\nStart the game with 1 doubloon in the treasury, you have the other 2. At the start of your turn, you may pay 1 doubloon to gain 1 action. When Blackbeard takes combat damage, pay 1 doubloon.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-hero.png?v=8fe6ad795d"
+    },
+    "sidekick": {
+      "name": "Sea Dog",
+      "quantity": 2,
+      "hp": 1,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/token-sea-dog.png?v=c10019d341"
+    },
+    "cards": [
+      {
+        "title": "Avast Ye!",
+        "quantity": 2,
+        "type": "attack",
+        "value": 5,
+        "boost": 3,
+        "characterName": "Blackbeard",
+        "basicText": "",
+        "immediateText": "Your opponent discards 1 random card unless (1 doubloon).",
+        "duringText": "",
+        "afterText": "Deal 1 damage to each opposing fighter in Blackbeard's zone unless (1 doubloon).",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/avast-ye.webp?v=e138384897",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/avast-ye.webp?v=e138384897"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+      },
+      {
+        "title": "A Brace of Primed Pistols",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Blackbeard",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 3 damage to an opposing fighter in Blackbeard's zone unless (2 doubloons).",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/a-brace-of-primed-pistols.webp?v=ba1c84b9b4",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/a-brace-of-primed-pistols.webp?v=ba1c84b9b4"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+      },
+      {
+        "title": "Fearsome and Calculating",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Blackbeard",
+        "basicText": "",
+        "immediateText": "Look at your opponent's hand and choose 1 card for them to discard unless (1 doubloon).",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/fearsome-and-calculating.webp?v=caa929d8e8",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/fearsome-and-calculating.webp?v=caa929d8e8"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+      },
+      {
+        "title": "Give No Quarter",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If another friendly fighter is adjacent to the opposing fighter, this card's value is 5 instead.",
+        "afterText": "Gain 1 action unless (1 doubloon).",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/give-no-quarter.webp?v=ed77cdd1b8",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/give-no-quarter.webp?v=ed77cdd1b8"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+      },
+      {
+        "title": "Intimidating Visage",
+        "quantity": 2,
+        "type": "defence",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Blackbeard",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If Blackbeard is adjacent to an opposing fighter, he recovers 2 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/intimidating-visage.webp?v=993c78a210",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/intimidating-visage.webp?v=993c78a210"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+      },
+      {
+        "title": "Light the Fuse",
+        "quantity": 3,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Sea Dog",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move your fighter up to 2 spaces. Then, deal 1 damage to each fighter adjacent to them.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/light-the-fuse.webp?v=9700e5c6c3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/light-the-fuse.webp?v=9700e5c6c3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+      },
+      {
+        "title": "No Prey, No Pay",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this card.",
+        "afterText": "If you won the combat, draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/no-prey-no-pay.webp?v=326601eff3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/no-prey-no-pay.webp?v=326601eff3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+      },
+      {
+        "title": "Parley",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card unless (2 doubloons).",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/parley.webp?v=34a2a2969d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/parley.webp?v=34a2a2969d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+      },
+      {
+        "title": "Plunder",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Blackbeard",
+        "basicText": "Move each of your fighters up to 3 spaces. They may move through opposing fighters. Steal 1 doubloon from the treasury.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/plunder.webp?v=87677ba39a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/plunder.webp?v=87677ba39a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+      },
+      {
+        "title": "Queen Anne's Revenge",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 7,
+        "boost": 3,
+        "characterName": "Blackbeard",
+        "basicText": "This card's effects cannot be canceled.",
+        "immediateText": "",
+        "duringText": "Subtract 2 from this card's value for each doubloon your opponent pays.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/queen-annes-revenge.webp?v=1b39269585",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/queen-annes-revenge.webp?v=1b39269585"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+      },
+      {
+        "title": "Scourge of the Seven Seas",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Blackbeard",
+        "basicText": "Blackbeard recovers 2 health unless (1 doubloon).\nSummon a Sea Dog in any space unless (1 doubloon).\nGain 1 action unless (1 doubloon).",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/scourge-of-the-seven-seas.webp?v=a569ae4909",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/scourge-of-the-seven-seas.webp?v=a569ae4909"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+      },
+      {
+        "title": "Show a Leg!",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Summon a Sea Dog in Blackbeard's zone.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/show-a-leg.webp?v=3120a0df6c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/cards/show-a-leg.webp?v=3120a0df6c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75"
+      },
+      {
+        "title": "Blackbeard",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Blackbeard",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/hero.webp?v=c3596e0887",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/hero.webp?v=c3596e0887"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/barbanegra/back.webp?v=052ed30a75",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

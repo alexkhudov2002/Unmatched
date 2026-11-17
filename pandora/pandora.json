@@ -1,0 +1,380 @@
+{
+  "id": "um-pandora",
+  "family_id": "um-pandora",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Pandora",
+  "note": "Unmatched (Restoration Games), set battle-of-legends-3. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T13:30:22.368Z",
+  "deck_first_published_on": "2026-11-17T13:30:22.368Z",
+  "published_on": "2026-11-17T13:30:22.368Z",
+  "updated_on": "2026-11-17T13:30:22.368Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "battle-of-legends-3"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-hero.png?v=99266a1fa4",
+      "clip": "circle",
+      "label": "Pandora",
+      "rim": "#1F1F1F",
+      "initials": "P",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-kakodaemon.png?v=bff0e6383c",
+      "clip": "circle",
+      "rim": "#1F1F1F",
+      "initials": "K",
+      "size": 64,
+      "h": 64
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-kakodaemon.png?v=bff0e6383c",
+      "clip": "circle",
+      "rim": "#1F1F1F",
+      "initials": "K",
+      "size": 64,
+      "h": 64
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/caja/confusion.png?v=fa676d4e04",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "size": 130,
+      "h": 86
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/caja/greed.png?v=d52e6152a5",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "size": 130,
+      "h": 86
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/caja/hope.png?v=4f31bd20ee",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "size": 130,
+      "h": 86
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/caja/misfortune.png?v=bdc819ba17",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "size": 130,
+      "h": 86
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/caja/pain.png?v=e929ff0554",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "size": 130,
+      "h": 86
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/caja/toil.png?v=35f7da5321",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "size": 130,
+      "h": 86
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/caja/woe.png?v=e081759a26",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "size": 130,
+      "h": 86
+    }
+  ],
+  "deck_data": {
+    "name": "Pandora",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Pandora",
+      "hp": 14,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "PANDORA'S BOX\nDo not start with any Kakodæmons on the board. At the start of your turn, open Pandora's Box.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-hero.png?v=99266a1fa4"
+    },
+    "sidekick": {
+      "name": "Kakodæmon",
+      "quantity": 2,
+      "hp": 1,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/token-kakodaemon.png?v=bff0e6383c"
+    },
+    "cards": [
+      {
+        "title": "Aphrodite's Beauty",
+        "quantity": 3,
+        "type": "attack",
+        "value": 0,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "Pandora recovers 1 health for each revealed MISERY.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/aphrodites-beauty.webp?v=ea83cf818c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/aphrodites-beauty.webp?v=ea83cf818c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+      },
+      {
+        "title": "Celestial Raiments",
+        "quantity": 2,
+        "type": "defence",
+        "value": 0,
+        "boost": 3,
+        "characterName": "Pandora",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Ignore the value of your opponent's card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/celestial-raiments.webp?v=f38d5342f2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/celestial-raiments.webp?v=f38d5342f2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+      },
+      {
+        "title": "Divine Intervention",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Pandora",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move Pandora up to 5 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/divine-intervention.webp?v=ae5bdfc0ba",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/divine-intervention.webp?v=ae5bdfc0ba"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/feint.webp?v=03f0f8f217",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/feint.webp?v=03f0f8f217"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+      },
+      {
+        "title": "Forged by Hephaestus",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "Place your fighter in any space. Gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/forged-by-hephaestus.webp?v=fdb0d43ae7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/forged-by-hephaestus.webp?v=fdb0d43ae7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+      },
+      {
+        "title": "Guided by the Fates",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Discard the top card of your deck. Add its BOOST value to this card's value.",
+        "afterText": "If you won the combat, Pandora recovers 2 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/guided-by-the-fates.webp?v=8d26656e14",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/guided-by-the-fates.webp?v=8d26656e14"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+      },
+      {
+        "title": "Hera's Curiosity",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 4,
+        "characterName": "Pandora",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Add +1 to this card's value for each revealed MISERY.",
+        "afterText": "Look at your opponent's hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/heras-curiosity.webp?v=61d6f6f22a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/heras-curiosity.webp?v=61d6f6f22a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+      },
+      {
+        "title": "Hindsight",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Pandora",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, return a card from your discard pile to the top of your deck.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/hindsight.webp?v=bf0e603530",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/hindsight.webp?v=bf0e603530"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+      },
+      {
+        "title": "Malice",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Kakodæmon",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Your opponent discards 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/malice.webp?v=ddcd0b5824",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/malice.webp?v=ddcd0b5824"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+      },
+      {
+        "title": "Offering to the Gods",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Pandora",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this card.",
+        "afterText": "If you won the combat, deal 2 damage to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/offering-to-the-gods.webp?v=20c4843abf",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/offering-to-the-gods.webp?v=20c4843abf"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+      },
+      {
+        "title": "Spite",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Kakodæmon",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 1 damage to each fighter adjacent to your fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/spite.webp?v=d6adea95e2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/spite.webp?v=d6adea95e2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+      },
+      {
+        "title": "Zeus's Mischief",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "Pandora",
+        "basicText": "Draw 1 card for each revealed MISERY. Move an opposing fighter up to 1 space. Gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/zeus-mischief.webp?v=e5ffaa0bc5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/cards/zeus-mischief.webp?v=e5ffaa0bc5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa"
+      },
+      {
+        "title": "Pandora",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Pandora",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/hero.webp?v=18ddb85b5b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/hero.webp?v=18ddb85b5b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pandora/back.webp?v=2650b1fbfa",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

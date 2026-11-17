@@ -1,0 +1,255 @@
+{
+  "id": "um-chupacabra",
+  "family_id": "um-chupacabra",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Chupacabra",
+  "note": "Unmatched (Restoration Games), set battle-of-legends-3. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T13:30:21.480Z",
+  "deck_first_published_on": "2026-11-17T13:30:21.480Z",
+  "published_on": "2026-11-17T13:30:21.480Z",
+  "updated_on": "2026-11-17T13:30:21.480Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "battle-of-legends-3"
+  ],
+  "deck_data": {
+    "name": "Chupacabra",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Chupacabra",
+      "hp": 14,
+      "move": 3,
+      "isRanged": false,
+      "specialAbility": "THE HUNGER\nAfter you attack, you may draw a card.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/token-hero.png?v=9475c13807"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Ambush",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Chupacabra",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Your opponent discards 1 random card. Add its BOOST value to this card's value.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/ambush.webp?v=40723260ae",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/ambush.webp?v=40723260ae"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+      },
+      {
+        "title": "Blood in the Air",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 4,
+        "characterName": "Chupacabra",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If you already won a combat this turn, you may BOOST this card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/blood-in-the-air.webp?v=3a329a65e6",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/blood-in-the-air.webp?v=3a329a65e6"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+      },
+      {
+        "title": "Feeding",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Chupacabra",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If Chupacabra has 7 or less health, gain 1 action and it recovers 1 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/feeding.webp?v=4b321e0b6b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/feeding.webp?v=4b321e0b6b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Chupacabra",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/feint.webp?v=b26c36e4be",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/feint.webp?v=b26c36e4be"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+      },
+      {
+        "title": "Natural Toughness",
+        "quantity": 2,
+        "type": "defence",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Chupacabra",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you lost the combat, return this card to your hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/natural-toughness.webp?v=0baf9109d0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/natural-toughness.webp?v=0baf9109d0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+      },
+      {
+        "title": "Ravenous Lunge",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Chupacabra",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Chupacabra recovers 1 health. If you won the combat, it recovers 2 instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/ravenous-lunge.webp?v=32a831afa3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/ravenous-lunge.webp?v=32a831afa3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+      },
+      {
+        "title": "The More They Struggle",
+        "quantity": 3,
+        "type": "attack",
+        "value": 0,
+        "boost": 3,
+        "characterName": "Chupacabra",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "The value of this card is equal to twice the printed value of your opponent's card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/the-more-they-struggle.webp?v=bf027f5aaf",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/the-more-they-struggle.webp?v=bf027f5aaf"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+      },
+      {
+        "title": "Tooth and Tail",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Chupacabra",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 1 damage to up to 2 fighters adjacent to Chupacabra. Chupacabra recovers 1 health for each fighter damaged this way.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/tooth-and-tail.webp?v=dd38cf8869",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/tooth-and-tail.webp?v=dd38cf8869"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+      },
+      {
+        "title": "Traveler of the Night",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Chupacabra",
+        "basicText": "Move your fighter up to 4 spaces. They may move through opposing fighters. Gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/traveler-of-the-night.webp?v=4c27dce7ec",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/traveler-of-the-night.webp?v=4c27dce7ec"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+      },
+      {
+        "title": "Unsettle",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Chupacabra",
+        "basicText": "Choose an opponent with a fighter in Chupacabra's zone. They discard 1 card. You may deal 2 damage to Chupacabra to make them discard 2 cards instead.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/unsettle.webp?v=e1c60b1cd5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/unsettle.webp?v=e1c60b1cd5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+      },
+      {
+        "title": "Wounded Beast",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Chupacabra",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If Chupacabra has 7 or less health, this card's value is 5 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/wounded-beast.webp?v=e2e2585364",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/cards/wounded-beast.webp?v=e2e2585364"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863"
+      },
+      {
+        "title": "Chupacabra",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Chupacabra",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/hero.webp?v=1e5018ae34",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/hero.webp?v=1e5018ae34"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}
