@@ -1,0 +1,1333 @@
+{
+  "decks": [
+    {
+      "id": "um-abe",
+      "family_id": "um-abe",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Abe Sapien",
+      "note": "Unmatched (Restoration Games), set hellboy. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T15:14:24.611Z",
+      "deck_first_published_on": "2026-11-17T15:14:24.611Z",
+      "published_on": "2026-11-17T15:14:24.611Z",
+      "updated_on": "2026-11-17T15:14:24.611Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "hellboy"
+      ],
+      "savedTokens": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/token-hero.png?v=e4397146c1",
+          "clip": "circle",
+          "label": "Abe Sapien",
+          "rim": "#1F1F1F",
+          "initials": "AS",
+          "size": 88,
+          "h": 88,
+          "counter": {
+            "link": "hero"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/token-b-p-r-d-agent.png?v=618229fb7d",
+          "clip": "circle",
+          "rim": "#1F1F1F",
+          "initials": "BA",
+          "size": 64,
+          "h": 64
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/token-b-p-r-d-agent.png?v=618229fb7d",
+          "clip": "circle",
+          "rim": "#1F1F1F",
+          "initials": "BA",
+          "size": 64,
+          "h": 64
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/token-b-p-r-d-agent.png?v=618229fb7d",
+          "clip": "circle",
+          "rim": "#1F1F1F",
+          "initials": "BA",
+          "size": 64,
+          "h": 64
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/token-intuition.png?v=89ac870675",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 74,
+          "h": 44
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/token-intuition.png?v=89ac870675",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 74,
+          "h": 44
+        }
+      ],
+      "deck_data": {
+        "name": "Abe Sapien",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Abe Sapien",
+          "hp": 13,
+          "move": 2,
+          "isRanged": true,
+          "specialAbility": "UNCANNY INTUITION\nYou have two Intuition tokens. When Abe deals combat damage to an adjacent fighter, activate a token.\nWhen Abe is attacked, if you have an active token, deactivate it, then draw 1 card, and the attack is played face up.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/token-hero.png?v=e4397146c1"
+        },
+        "sidekick": {
+          "name": "B.P.R.D. Agent",
+          "quantity": 3,
+          "hp": 1,
+          "isRanged": true,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/token-b-p-r-d-agent.png?v=618229fb7d"
+        },
+        "cards": [
+          {
+            "title": "Advanced Psychometry",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Abe Sapien",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If the opposing fighter is adjacent, look at your opponent's hand.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/advanced-psychometry.webp?v=557b2abb00",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/advanced-psychometry.webp?v=557b2abb00"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+          },
+          {
+            "title": "Arcane Dampener",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "If the opposing fighter is adjacent, subtract 3 from the value of your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/arcane-dampener.webp?v=4e9a44167d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/arcane-dampener.webp?v=4e9a44167d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+          },
+          {
+            "title": "B.P.R.D. Training",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card. Move each friendly fighter up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/b-p-r-d-training.webp?v=28ae1f5862",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/b-p-r-d-training.webp?v=28ae1f5862"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+          },
+          {
+            "title": "B.P.R.D. Utility Belt",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Abe Sapien",
+            "basicText": "Add +1 to your next attack this turn. A friendly fighter recovers 1 health. Move a friendly fighter up to 1 space. Gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/b-p-r-d-utility-belt.webp?v=66cc80cba0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/b-p-r-d-utility-belt.webp?v=66cc80cba0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+          },
+          {
+            "title": "Cold Iron and Holy Water",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Your opponent can not gain actions or draw cards this turn.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/cold-iron-and-holy-water.webp?v=5133cd0a64",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/cold-iron-and-holy-water.webp?v=5133cd0a64"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+          },
+          {
+            "title": "Concussion Device",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 2 damage to an adjacent opposing fighter and move them up to 3 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/concussion-device.webp?v=79ee5b8994",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/concussion-device.webp?v=79ee5b8994"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+          },
+          {
+            "title": "Counterhex Shield",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Abe Sapien",
+            "basicText": "Draw 1 card. Gain 1 action.\nONGOING: Other players' effects can't damage your fighters, move your fighters, or force you to discard cards.\nDiscard this at the start of your next turn.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/counterhex-shield.webp?v=98d8c2c850",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/counterhex-shield.webp?v=98d8c2c850"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+          },
+          {
+            "title": "Every Possible Angle",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 4,
+            "characterName": "Abe Sapien",
+            "basicText": "Look at an opponent's hand and choose a card. Put it on top of their deck.\nMove Abe up to 3 spaces.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/every-possible-angle.webp?v=40b06264c2",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/every-possible-angle.webp?v=40b06264c2"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+          },
+          {
+            "title": "Faster. Stronger.",
+            "quantity": 2,
+            "type": "attack",
+            "value": 5,
+            "boost": 2,
+            "characterName": "Abe Sapien",
+            "basicText": "",
+            "immediateText": "Move Abe up to 2 spaces.",
+            "duringText": "",
+            "afterText": "Gain 1 action.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/faster-stronger.webp?v=3e58991780",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/faster-stronger.webp?v=3e58991780"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+          },
+          {
+            "title": "Leap Away",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, move one of the fighters in the combat up to 4 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/leap-away.webp?v=3667eb547f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/leap-away.webp?v=3667eb547f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+          },
+          {
+            "title": "Perfect Shot",
+            "quantity": 2,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Abe Sapien",
+            "basicText": "You may play this card face up and predict the printed value of your opponent's card.",
+            "immediateText": "",
+            "duringText": "If you predicted correctly, add +2 to this card's value.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/perfect-shot.webp?v=9e8e7c3316",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/perfect-shot.webp?v=9e8e7c3316"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+          },
+          {
+            "title": "Shock and Awe",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If your fighter began this turn in a different space, this card's value becomes 4.",
+            "afterText": "Your opponent discards a card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/shock-and-awe.webp?v=d4185b798d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/shock-and-awe.webp?v=d4185b798d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+          },
+          {
+            "title": "Secure the Scene",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 3,
+            "characterName": "B.P.R.D. Agent",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Summon a B.P.R.D. Agent in Abe's zone. Move a friendly fighter up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/secure-the-scene.webp?v=61aaccfd4a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/secure-the-scene.webp?v=61aaccfd4a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+          },
+          {
+            "title": "Ward and Prepare",
+            "quantity": 2,
+            "type": "defence",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "Return a scheme from your discard pile to your hand.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/ward-and-prepare.webp?v=3eca18d894",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/ward-and-prepare.webp?v=3eca18d894"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+          },
+          {
+            "title": "Abe Sapien",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Abe Sapien",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/hero.webp?v=ba46e6b64c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/hero.webp?v=ba46e6b64c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-baba-yaga",
+      "family_id": "um-baba-yaga",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Baba Yaga",
+      "note": "Unmatched (Restoration Games), set hellboy. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T15:14:24.948Z",
+      "deck_first_published_on": "2026-11-17T15:14:24.948Z",
+      "published_on": "2026-11-17T15:14:24.948Z",
+      "updated_on": "2026-11-17T15:14:24.948Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "hellboy"
+      ],
+      "deck_data": {
+        "name": "Baba Yaga",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/back.webp?v=d7217e8f74",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Baba Yaga",
+          "hp": 13,
+          "move": 2,
+          "isRanged": true,
+          "specialAbility": "FATEFUL BARGAINS\nIf Baba Yaga and Koschei share a zone and Baba Yaga would take effect damage, you may have Koschei take that damage instead.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/token-hero.png?v=cc5d98fc1c"
+        },
+        "sidekick": {
+          "name": "Koschei",
+          "quantity": 1,
+          "hp": 3,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/token-koschei.png?v=77e3532a15"
+        },
+        "cards": [
+          {
+            "title": "Bound in Blood",
+            "quantity": 2,
+            "type": "defence",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Baba Yaga",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If Koschei and Baba Yaga share a zone, he takes the combat damage instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/bound-in-blood.webp?v=b379928c19",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/bound-in-blood.webp?v=b379928c19"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/back.webp?v=d7217e8f74"
+          },
+          {
+            "title": "Deathless",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Summon Koschei as close to Baba Yaga as possible. Set his health to 3.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/deathless.webp?v=e182359ec0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/deathless.webp?v=e182359ec0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/back.webp?v=d7217e8f74"
+          },
+          {
+            "title": "Death's Release",
+            "quantity": 2,
+            "type": "attack",
+            "value": 5,
+            "boost": 1,
+            "characterName": "Koschei",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Koschei recovers 2 health. Place him in any space.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/deaths-release.webp?v=6172294f27",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/deaths-release.webp?v=6172294f27"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/back.webp?v=d7217e8f74"
+          },
+          {
+            "title": "Exploit",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/exploit.webp?v=070dc827a3",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/exploit.webp?v=070dc827a3"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/back.webp?v=d7217e8f74"
+          },
+          {
+            "title": "Foul Journey",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Baba Yaga",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Place a fighter in the combat in any space. If you have an active ongoing scheme, Baba Yaga recovers 1 health.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/foul-journey.webp?v=1a2ed9a322",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/foul-journey.webp?v=1a2ed9a322"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/back.webp?v=d7217e8f74"
+          },
+          {
+            "title": "Hasten Towards Death",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 1 damage to the attacking fighter. The attacking player gains 1 action.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/hasten-towards-death.webp?v=a1be185846",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/hasten-towards-death.webp?v=a1be185846"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/back.webp?v=d7217e8f74"
+          },
+          {
+            "title": "Iron Teeth",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Baba Yaga",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 1 damage to an adjacent fighter. If you have an active ongoing scheme, Baba Yaga recovers 2 health.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/iron-teeth.webp?v=da21fc7b01",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/iron-teeth.webp?v=da21fc7b01"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/back.webp?v=d7217e8f74"
+          },
+          {
+            "title": "Out of Time",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BOOST this card.",
+            "afterText": "End the turn.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/out-of-time.webp?v=d888853436",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/out-of-time.webp?v=d888853436"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/back.webp?v=d7217e8f74"
+          },
+          {
+            "title": "Pact of Mortality",
+            "quantity": 1,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Baba Yaga",
+            "basicText": "Return a defeated fighter to any space in Baba Yaga's zone. Set their health to 3.\nONGOING: Increase all effect damage by 1, except for damage from exhaustion.\nDiscard this immediately if Baba Yaga takes 2 or more combat damage.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/pact-of-mortality.webp?v=bcf960eb24",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/pact-of-mortality.webp?v=bcf960eb24"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/back.webp?v=d7217e8f74"
+          },
+          {
+            "title": "Pact of Peace",
+            "quantity": 1,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Baba Yaga",
+            "basicText": "Deal 1 damage to each other fighter in Baba Yaga's zone. Gain 1 action.\nONGOING: At the end of each turn, deal 1 damage to each hero that attacked.\nDiscard this immediately if Baba Yaga takes 2 or more combat damage.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/pact-of-peace.webp?v=03a0b99eac",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/pact-of-peace.webp?v=03a0b99eac"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/back.webp?v=d7217e8f74"
+          },
+          {
+            "title": "Pact of Secrecy",
+            "quantity": 1,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Baba Yaga",
+            "basicText": "All players draw up to 2 cards, then shuffle all but 2 cards from their hand into their deck.\nONGOING: Players have a maximum hand size of 3.\nDiscard this immediately if Baba Yaga takes 2 or more combat damage.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/pact-of-secrecy.webp?v=986041e10a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/pact-of-secrecy.webp?v=986041e10a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/back.webp?v=d7217e8f74"
+          },
+          {
+            "title": "Pact of Time",
+            "quantity": 1,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Baba Yaga",
+            "basicText": "Each player shuffles up to 2 cards from their discard pile into their deck.\nONGOING: Players cannot gain actions.\nDiscard this immediately if Baba Yaga takes 2 or more combat damage.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/pact-of-time.webp?v=0cee536cd1",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/pact-of-time.webp?v=0cee536cd1"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/back.webp?v=d7217e8f74"
+          },
+          {
+            "title": "Pact of Freedom",
+            "quantity": 1,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Baba Yaga",
+            "basicText": "Draw 2 cards. Place a hero in any space.\nONGOING: Players cannot attack as their first action each turn.\nDiscard this immediately if Baba Yaga takes 2 or more combat damage.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/pact-of-freedom.webp?v=fe81476e42",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/pact-of-freedom.webp?v=fe81476e42"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/back.webp?v=d7217e8f74"
+          },
+          {
+            "title": "Read the Bones",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Baba Yaga",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Look at the top 5 cards of your deck. Put one in your hand. Randomly put the rest on the bottom of your deck.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/read-the-bones.webp?v=3a494ad49d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/read-the-bones.webp?v=3a494ad49d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/back.webp?v=d7217e8f74"
+          },
+          {
+            "title": "Remove a Painful Memory",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Look at your opponent's hand. If you have an active ongoing scheme, choose one of those cards, then deal 2 damage to the opposing fighter unless they discard it.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/remove-a-painful-memory.webp?v=8bcad16b9f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/remove-a-painful-memory.webp?v=8bcad16b9f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/back.webp?v=d7217e8f74"
+          },
+          {
+            "title": "The Time for Deals Is Done",
+            "quantity": 2,
+            "type": "attack",
+            "value": 5,
+            "boost": 4,
+            "characterName": "Baba Yaga",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you have an active ongoing scheme, deal 2 damage to each other fighter in Baba Yaga's zone, then discard that scheme.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/the-time-for-deals-is-done.webp?v=8ed110c3eb",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/cards/the-time-for-deals-is-done.webp?v=8ed110c3eb"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/back.webp?v=d7217e8f74"
+          },
+          {
+            "title": "Baba Yaga",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Baba Yaga",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/hero.webp?v=88c663a785",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/hero.webp?v=88c663a785"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/back.webp?v=d7217e8f74",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-hellboy",
+      "family_id": "um-hellboy",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Hellboy",
+      "note": "Unmatched (Restoration Games), set hellboy. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T15:14:24.262Z",
+      "deck_first_published_on": "2026-11-17T15:14:24.262Z",
+      "published_on": "2026-11-17T15:14:24.262Z",
+      "updated_on": "2026-11-17T15:14:24.262Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "hellboy"
+      ],
+      "savedTokens": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/token-hero.png?v=0d8a68177b",
+          "clip": "circle",
+          "label": "Hellboy",
+          "rim": "#1F1F1F",
+          "initials": "H",
+          "size": 88,
+          "h": 88,
+          "counter": {
+            "link": "hero"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/token-lobster-johnson.png?v=930e7848a4",
+          "clip": "circle",
+          "label": "Lobster Johnson",
+          "rim": "#1F1F1F",
+          "initials": "LJ",
+          "size": 64,
+          "h": 64,
+          "counter": {
+            "link": "sidekick"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/token-ability.png?v=efe3a85dd9",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 163,
+          "h": 100
+        }
+      ],
+      "deck_data": {
+        "name": "Hellboy",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Hellboy",
+          "hp": 18,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "AHH CRAP!\nAt the start of the game, place the Hellboy Special Ability Token over this card with the OCCULT DETECTIVE side up.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/token-hero.png?v=0d8a68177b"
+        },
+        "sidekick": {
+          "name": "Lobster Johnson",
+          "quantity": 1,
+          "hp": 6,
+          "isRanged": true,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/token-lobster-johnson.png?v=930e7848a4"
+        },
+        "cards": [
+          {
+            "title": "And Upon His Brow Is Set a Crown of Flame",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 4,
+            "characterName": "Hellboy",
+            "basicText": "Discard your hand. Draw 2 cards. Gain 2 actions.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/and-upon-his-brow-is-set-a-crown-of-flame.webp?v=18ac1e10c7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/and-upon-his-brow-is-set-a-crown-of-flame.webp?v=18ac1e10c7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+          },
+          {
+            "title": "B.P.R.D. Training",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card. Move each friendly fighter up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/b-p-r-d-training.webp?v=1fca23e744",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/b-p-r-d-training.webp?v=1fca23e744"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+          },
+          {
+            "title": "Confront Any Demon or God",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Hellboy",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card. If you lost the combat, look at your opponent's hand and choose a card for them to discard.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/confront-any-demon-or-god.webp?v=daf7d9b242",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/confront-any-demon-or-god.webp?v=daf7d9b242"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+          },
+          {
+            "title": "Excalibur",
+            "quantity": 1,
+            "type": "attack",
+            "value": 6,
+            "boost": 3,
+            "characterName": "Hellboy",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/excalibur.webp?v=cdc366f64e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/excalibur.webp?v=cdc366f64e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+          },
+          {
+            "title": "Glimpse of Hell",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 2 cards, then shuffle a card from your hand into your deck.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/glimpse-of-hell.webp?v=e260224e20",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/glimpse-of-hell.webp?v=e260224e20"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+          },
+          {
+            "title": "Horseshoes and Hand Grenades",
+            "quantity": 3,
+            "type": "attack",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 1 damage to each other fighter in your fighter's zone.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/horseshoes-and-hand-grenades.webp?v=cf629f670c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/horseshoes-and-hand-grenades.webp?v=cf629f670c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+          },
+          {
+            "title": "On Earth as It Is in Hell",
+            "quantity": 2,
+            "type": "defence",
+            "value": 0,
+            "boost": 2,
+            "characterName": "Hellboy",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "This card's value becomes the number of destiny cards in your discard pile.",
+            "afterText": "If you lost the combat, Hellboy recovers 2 health.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/on-earth-as-it-is-in-hell.webp?v=5821a63643",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/on-earth-as-it-is-in-hell.webp?v=5821a63643"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+          },
+          {
+            "title": "Pancakes!",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Hellboy",
+            "basicText": "Choose two different effects:\n► Hellboy recovers 2 health\n► put up to 2 non-scheme cards in your discard pile on the bottom of your deck\n► draw 2 cards",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/pancakes.webp?v=7ddc6d1417",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/pancakes.webp?v=7ddc6d1417"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+          },
+          {
+            "title": "Planned Recklessness",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Your fighters can't take damage from effects this turn. If Hellboy is OCCULT DETECTIVE, cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/planned-recklessness.webp?v=f1ad629ee3",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/planned-recklessness.webp?v=f1ad629ee3"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+          },
+          {
+            "title": "Posthumous Power",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Lobster Johnson",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Choose one:\n► each friendly fighter recovers 1 health\n► deal 1 damage to any fighter\n► move any fighter up to 3 spaces",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/posthumous-power.webp?v=f98df45acf",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/posthumous-power.webp?v=f98df45acf"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+          },
+          {
+            "title": "Right Hand of Doom",
+            "quantity": 4,
+            "type": "attack",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Hellboy",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move an adjacent fighter up to 1 space. If Hellboy is OCCULT DETECTIVE, move Hellboy up to 1 space.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/right-hand-of-doom.webp?v=eed8c7eea4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/right-hand-of-doom.webp?v=eed8c7eea4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+          },
+          {
+            "title": "Second Shot",
+            "quantity": 2,
+            "type": "attack",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Lobster Johnson",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BOOST this card.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/second-shot.webp?v=75004b763a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/second-shot.webp?v=75004b763a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+          },
+          {
+            "title": "Service Pistol",
+            "quantity": 1,
+            "type": "attack",
+            "value": 5,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/service-pistol.webp?v=46a47dc28c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/service-pistol.webp?v=46a47dc28c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+          },
+          {
+            "title": "Hellboy",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Hellboy",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/hero.webp?v=07f9ffe9b5",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/hero.webp?v=07f9ffe9b5"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Occult Detective",
+            "content": "At the start of your turn, if Hellboy is in an opponent's starting space, you may draw 2 cards.\nWhen you have 6 or more destiny cards in your discard pile, switch to ANUNG UN RAMA."
+          },
+          {
+            "title": "Anung Un Rama",
+            "content": "At the start of your turn, discard 1 card. Move Hellboy a number of spaces up to its BOOST value.\nAdd +2 to Hellboy's attacks.\nWhen you have 5 or fewer destiny cards in your discard pile, switch to OCCULT DETECTIVE."
+          },
+          {
+            "title": "Destiny cards",
+            "content": "Cards with the crown icon: And Upon His Brow Is Set a Crown of Flame, Confront Any Demon or God, Excalibur, On Earth as It Is in Hell, Right Hand of Doom."
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-liz",
+      "family_id": "um-liz",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Liz Sherman",
+      "note": "Unmatched (Restoration Games), set hellboy. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T15:14:25.248Z",
+      "deck_first_published_on": "2026-11-17T15:14:25.248Z",
+      "published_on": "2026-11-17T15:14:25.248Z",
+      "updated_on": "2026-11-17T15:14:25.248Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "hellboy"
+      ],
+      "deck_data": {
+        "name": "Liz Sherman",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/back.webp?v=f429e082b8",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Liz Sherman",
+          "hp": 16,
+          "move": 3,
+          "isRanged": true,
+          "specialAbility": "WILDFIRE\nWhenever you discard a burning card from your hand or deck, put it into your hand.\nAt the start of your turn, discard the bottom card of your deck. If it's a burning card, deal 1 damage to another fighter in Liz's zone. Otherwise, move Liz up to 2 spaces.",
+          "quote": "The fire is not my enemy, it is a part of me, it is mine.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/token-hero.png?v=45a7bf5743"
+        },
+        "sidekick": {
+          "name": "Sidekick",
+          "hp": null,
+          "quantity": null,
+          "isRanged": false,
+          "quote": ""
+        },
+        "cards": [
+          {
+            "title": "B.P.R.D. Training",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Liz Sherman",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card. Move each friendly fighter up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/b-p-r-d-training.webp?v=70dfcbeb39",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/b-p-r-d-training.webp?v=70dfcbeb39"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/back.webp?v=f429e082b8"
+          },
+          {
+            "title": "Burning Barrier",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 0,
+            "characterName": "Liz Sherman",
+            "basicText": "",
+            "immediateText": "The opposing fighter cannot leave their space this turn.",
+            "duringText": "",
+            "afterText": "Deal 1 damage to each opposing fighter in Liz's zone.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/burning-barrier.webp?v=15d7429743",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/burning-barrier.webp?v=15d7429743"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/back.webp?v=f429e082b8"
+          },
+          {
+            "title": "Evade",
+            "quantity": 2,
+            "type": "defence",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Liz Sherman",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/evade.webp?v=41698888f5",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/evade.webp?v=41698888f5"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/back.webp?v=f429e082b8"
+          },
+          {
+            "title": "Feint",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Liz Sherman",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/feint.webp?v=fa2e6b2273",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/feint.webp?v=fa2e6b2273"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/back.webp?v=f429e082b8"
+          },
+          {
+            "title": "Fight or Flight",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Liz Sherman",
+            "basicText": "Draw 1 card. Move Liz up to 5 spaces. She may move through opposing fighters.\nONGOING: Add +1 to the value of your combat cards.\nDiscard this at the start of your next turn.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/fight-or-flight.webp?v=1c2c01237b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/fight-or-flight.webp?v=1c2c01237b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/back.webp?v=f429e082b8"
+          },
+          {
+            "title": "Fireball",
+            "quantity": 2,
+            "type": "attack",
+            "value": 5,
+            "boost": 0,
+            "characterName": "Liz Sherman",
+            "basicText": "",
+            "immediateText": "Deal 1 damage to each opposing fighter adjacent to the defender.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/fireball.webp?v=c807a96e40",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/fireball.webp?v=c807a96e40"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/back.webp?v=f429e082b8"
+          },
+          {
+            "title": "Flame Lash",
+            "quantity": 3,
+            "type": "attack",
+            "value": 1,
+            "boost": 0,
+            "characterName": "Liz Sherman",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Discard the bottom card of your deck. Add its BOOST value to this card's value.",
+            "afterText": "Gain 1 action.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/flame-lash.webp?v=670ffb9a8d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/flame-lash.webp?v=670ffb9a8d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/back.webp?v=f429e082b8"
+          },
+          {
+            "title": "Fleeting Moments",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Liz Sherman",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You and your opponent both discard 1 random card, then you both draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/fleeting-moments.webp?v=75b411f804",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/fleeting-moments.webp?v=75b411f804"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/back.webp?v=f429e082b8"
+          },
+          {
+            "title": "Incinerate",
+            "quantity": 1,
+            "type": "attack",
+            "value": 7,
+            "boost": 0,
+            "characterName": "Liz Sherman",
+            "basicText": "This card's effects cannot be canceled.",
+            "immediateText": "",
+            "duringText": "Your opponent may discard 2 cards to ignore this card's value.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/incinerate.webp?v=629abcaf37",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/incinerate.webp?v=629abcaf37"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/back.webp?v=f429e082b8"
+          },
+          {
+            "title": "Pyrotechnics",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 0,
+            "characterName": "Liz Sherman",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You may put up to 2 cards from your hand on the bottom of your deck in any order.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/pyrotechnics.webp?v=69bf25cf4d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/pyrotechnics.webp?v=69bf25cf4d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/back.webp?v=f429e082b8"
+          },
+          {
+            "title": "Rekindle",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Liz Sherman",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Shuffle up to 3 cards from your discard pile into your deck.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/rekindle.webp?v=40deeb77a6",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/rekindle.webp?v=40deeb77a6"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/back.webp?v=f429e082b8"
+          },
+          {
+            "title": "Searing Clarity",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 0,
+            "characterName": "Liz Sherman",
+            "basicText": "Shuffle a non-scheme card from your discard pile into your deck. Gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/searing-clarity.webp?v=fa067635c1",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/cards/searing-clarity.webp?v=fa067635c1"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/back.webp?v=f429e082b8"
+          },
+          {
+            "title": "Liz Sherman",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Liz Sherman",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/hero.webp?v=c1cbae20b4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/hero.webp?v=c1cbae20b4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/back.webp?v=f429e082b8",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Burning cards",
+            "content": "Cards with the flame icon before their name (they have no BOOST value): Burning Barrier, Fireball, Flame Lash, Incinerate, Pyrotechnics, Searing Clarity."
+          }
+        ]
+      }
+    }
+  ],
+  "maps": []
+}

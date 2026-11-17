@@ -1,0 +1,341 @@
+{
+  "id": "um-hellboy",
+  "family_id": "um-hellboy",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Hellboy",
+  "note": "Unmatched (Restoration Games), set hellboy. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T15:14:24.262Z",
+  "deck_first_published_on": "2026-11-17T15:14:24.262Z",
+  "published_on": "2026-11-17T15:14:24.262Z",
+  "updated_on": "2026-11-17T15:14:24.262Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "hellboy"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/token-hero.png?v=0d8a68177b",
+      "clip": "circle",
+      "label": "Hellboy",
+      "rim": "#1F1F1F",
+      "initials": "H",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/token-lobster-johnson.png?v=930e7848a4",
+      "clip": "circle",
+      "label": "Lobster Johnson",
+      "rim": "#1F1F1F",
+      "initials": "LJ",
+      "size": 64,
+      "h": 64,
+      "counter": {
+        "link": "sidekick"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/token-ability.png?v=efe3a85dd9",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "size": 163,
+      "h": 100
+    }
+  ],
+  "deck_data": {
+    "name": "Hellboy",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Hellboy",
+      "hp": 18,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "AHH CRAP!\nAt the start of the game, place the Hellboy Special Ability Token over this card with the OCCULT DETECTIVE side up.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/token-hero.png?v=0d8a68177b"
+    },
+    "sidekick": {
+      "name": "Lobster Johnson",
+      "quantity": 1,
+      "hp": 6,
+      "isRanged": true,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/token-lobster-johnson.png?v=930e7848a4"
+    },
+    "cards": [
+      {
+        "title": "And Upon His Brow Is Set a Crown of Flame",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 4,
+        "characterName": "Hellboy",
+        "basicText": "Discard your hand. Draw 2 cards. Gain 2 actions.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/and-upon-his-brow-is-set-a-crown-of-flame.webp?v=18ac1e10c7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/and-upon-his-brow-is-set-a-crown-of-flame.webp?v=18ac1e10c7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+      },
+      {
+        "title": "B.P.R.D. Training",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card. Move each friendly fighter up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/b-p-r-d-training.webp?v=1fca23e744",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/b-p-r-d-training.webp?v=1fca23e744"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+      },
+      {
+        "title": "Confront Any Demon or God",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Hellboy",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card. If you lost the combat, look at your opponent's hand and choose a card for them to discard.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/confront-any-demon-or-god.webp?v=daf7d9b242",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/confront-any-demon-or-god.webp?v=daf7d9b242"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+      },
+      {
+        "title": "Excalibur",
+        "quantity": 1,
+        "type": "attack",
+        "value": 6,
+        "boost": 3,
+        "characterName": "Hellboy",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/excalibur.webp?v=cdc366f64e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/excalibur.webp?v=cdc366f64e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+      },
+      {
+        "title": "Glimpse of Hell",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 2 cards, then shuffle a card from your hand into your deck.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/glimpse-of-hell.webp?v=e260224e20",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/glimpse-of-hell.webp?v=e260224e20"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+      },
+      {
+        "title": "Horseshoes and Hand Grenades",
+        "quantity": 3,
+        "type": "attack",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 1 damage to each other fighter in your fighter's zone.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/horseshoes-and-hand-grenades.webp?v=cf629f670c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/horseshoes-and-hand-grenades.webp?v=cf629f670c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+      },
+      {
+        "title": "On Earth as It Is in Hell",
+        "quantity": 2,
+        "type": "defence",
+        "value": 0,
+        "boost": 2,
+        "characterName": "Hellboy",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "This card's value becomes the number of destiny cards in your discard pile.",
+        "afterText": "If you lost the combat, Hellboy recovers 2 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/on-earth-as-it-is-in-hell.webp?v=5821a63643",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/on-earth-as-it-is-in-hell.webp?v=5821a63643"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+      },
+      {
+        "title": "Pancakes!",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Hellboy",
+        "basicText": "Choose two different effects:\n► Hellboy recovers 2 health\n► put up to 2 non-scheme cards in your discard pile on the bottom of your deck\n► draw 2 cards",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/pancakes.webp?v=7ddc6d1417",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/pancakes.webp?v=7ddc6d1417"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+      },
+      {
+        "title": "Planned Recklessness",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Your fighters can't take damage from effects this turn. If Hellboy is OCCULT DETECTIVE, cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/planned-recklessness.webp?v=f1ad629ee3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/planned-recklessness.webp?v=f1ad629ee3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+      },
+      {
+        "title": "Posthumous Power",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Lobster Johnson",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Choose one:\n► each friendly fighter recovers 1 health\n► deal 1 damage to any fighter\n► move any fighter up to 3 spaces",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/posthumous-power.webp?v=f98df45acf",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/posthumous-power.webp?v=f98df45acf"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+      },
+      {
+        "title": "Right Hand of Doom",
+        "quantity": 4,
+        "type": "attack",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Hellboy",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move an adjacent fighter up to 1 space. If Hellboy is OCCULT DETECTIVE, move Hellboy up to 1 space.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/right-hand-of-doom.webp?v=eed8c7eea4",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/right-hand-of-doom.webp?v=eed8c7eea4"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+      },
+      {
+        "title": "Second Shot",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Lobster Johnson",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/second-shot.webp?v=75004b763a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/second-shot.webp?v=75004b763a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+      },
+      {
+        "title": "Service Pistol",
+        "quantity": 1,
+        "type": "attack",
+        "value": 5,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/service-pistol.webp?v=46a47dc28c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/cards/service-pistol.webp?v=46a47dc28c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a"
+      },
+      {
+        "title": "Hellboy",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Hellboy",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/hero.webp?v=07f9ffe9b5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/hero.webp?v=07f9ffe9b5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy/back.webp?v=657946a72a",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Occult Detective",
+        "content": "At the start of your turn, if Hellboy is in an opponent's starting space, you may draw 2 cards.\nWhen you have 6 or more destiny cards in your discard pile, switch to ANUNG UN RAMA."
+      },
+      {
+        "title": "Anung Un Rama",
+        "content": "At the start of your turn, discard 1 card. Move Hellboy a number of spaces up to its BOOST value.\nAdd +2 to Hellboy's attacks.\nWhen you have 5 or fewer destiny cards in your discard pile, switch to OCCULT DETECTIVE."
+      },
+      {
+        "title": "Destiny cards",
+        "content": "Cards with the crown icon: And Upon His Brow Is Set a Crown of Flame, Confront Any Demon or God, Excalibur, On Earth as It Is in Hell, Right Hand of Doom."
+      }
+    ]
+  }
+}

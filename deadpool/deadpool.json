@@ -1,0 +1,579 @@
+{
+  "id": "um-deadpool",
+  "family_id": "um-deadpool",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Deadpool",
+  "note": "Unmatched (Restoration Games), set deadpool. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T15:55:51.394Z",
+  "deck_first_published_on": "2026-11-17T15:55:51.394Z",
+  "published_on": "2026-11-17T15:55:51.394Z",
+  "updated_on": "2026-11-17T15:55:51.394Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "deadpool"
+  ],
+  "deck_data": {
+    "name": "Deadpool",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Deadpool",
+      "hp": 10,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "HEALING FACTOR\nAfter you attack, Deadpool recovers 1 health.\nAlso, if your opponent's real name is Logan, all your attacks are +5.",
+      "quote": "Soy prácticamente inmortal. Mi sentido común, por desgracia, no tiene ese superpoder.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/token-hero.png?v=f899f6dc28"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "3 of Hearts",
+        "quantity": 1,
+        "type": "attack",
+        "value": 3,
+        "boost": 4,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/3-of-hearts.webp?v=625468c44a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/3-of-hearts.webp?v=625468c44a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "And for My Next Move...",
+        "quantity": 1,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 2 damage to the opposing fighter OR move your fighter up to 3 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/and-for-my-next-move.webp?v=b0a3144492",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/and-for-my-next-move.webp?v=b0a3144492"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Call Me",
+        "quantity": 1,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If your opponent's name is on this card, its value is 4.",
+        "afterText": "Your opponent writes their name on this card if it's not there already.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/call-me.webp?v=df86b12b1e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/call-me.webp?v=df86b12b1e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Cha-Ching!",
+        "quantity": 1,
+        "type": "attack",
+        "value": 1,
+        "boost": 3,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/cha-ching.webp?v=556a507404",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/cha-ching.webp?v=556a507404"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Chimichanga Break!",
+        "quantity": 1,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If there is food on the table, the value of this card is 5 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/chimichanga-break.webp?v=ec7e409572",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/chimichanga-break.webp?v=ec7e409572"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Deadpool Merc for Hire, LLC",
+        "quantity": 1,
+        "type": "attack",
+        "value": 5,
+        "boost": 1,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 1 damage to the opposing fighter if you own the Deadpool Unmatched set.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/deadpool-merc-for-hire-llc.webp?v=6b84bef8a7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/deadpool-merc-for-hire-llc.webp?v=6b84bef8a7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Dumpster Divin' Deadpool",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "Deadpool",
+        "basicText": "Shuffle 5 cards from your discard pile into your deck. Recover 1 health.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/dumpster-divin-deadpool.webp?v=2b83ddd01e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/dumpster-divin-deadpool.webp?v=2b83ddd01e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Eat Me",
+        "quantity": 1,
+        "type": "defence",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "Say \"eat me\" to your opponent.",
+        "duringText": "Say \"eat me\" to your opponent.",
+        "afterText": "If you lost combat, say \"eat me\" to your opponent.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/eat-me.webp?v=70a22bfa0c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/eat-me.webp?v=70a22bfa0c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Excuse Me While I Grow Some Limbs",
+        "quantity": 1,
+        "type": "attack",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Your opponent discards a card. If you won the combat, they discard two instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/excuse-me-while-i-grow-some-limbs.webp?v=e71ad60b7d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/excuse-me-while-i-grow-some-limbs.webp?v=e71ad60b7d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Exploding Card!",
+        "quantity": 1,
+        "type": "attack",
+        "value": 1,
+        "boost": 4,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If you made an exploding noise when you revealed this card, the value of this card is 4.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/exploding-card.webp?v=3f190dba36",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/exploding-card.webp?v=3f190dba36"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Faint",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Deadpool",
+        "basicText": "Tip your figure over. Make a fainting noise. Recover 2 health. Reset your figure.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/faint.webp?v=fea58c4aa5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/faint.webp?v=fea58c4aa5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Feint",
+        "quantity": 1,
+        "type": "versatile",
+        "value": 2,
+        "boost": 0,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/feint.webp?v=0b5521f787",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/feint.webp?v=0b5521f787"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Gaze of Stone",
+        "quantity": 1,
+        "type": "attack",
+        "value": 2,
+        "boost": 4,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, deal 8 damage to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/gaze-of-stone.webp?v=395eb123f9",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/gaze-of-stone.webp?v=395eb123f9"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Gimme Gimme Chimichanga",
+        "quantity": 1,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw a card. Recover 1 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/gimme-gimme-chimichanga.webp?v=3fcccad0e4",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/gimme-gimme-chimichanga.webp?v=3fcccad0e4"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Holy Mackerel!",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Deadpool",
+        "basicText": "Guess the name of a card in your opponent's hand. Your opponent must discard all cards with that name. Otherwise they say \"go fish\" and you draw a card.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/holy-mackerel.webp?v=146ae1e4b2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/holy-mackerel.webp?v=146ae1e4b2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "I Always Get the Last Word!",
+        "quantity": 1,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you attacked, deal 1 damage to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/i-always-get-the-last-word.webp?v=0d6a6b62c3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/i-always-get-the-last-word.webp?v=0d6a6b62c3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "I'm Not Wearing Pants",
+        "quantity": 1,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If this card isn't sleeved, its value is 5.",
+        "afterText": "If you're not wearing any pants, go put some on.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/im-not-wearing-pants.webp?v=8d24952323",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/im-not-wearing-pants.webp?v=8d24952323"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Klunkin' Heads",
+        "quantity": 1,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, deal 3 damage to each other opposing fighter adjacent to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/klunkin-heads.webp?v=fadfa960e5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/klunkin-heads.webp?v=fadfa960e5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Non-Retinal Scan",
+        "quantity": 1,
+        "type": "versatile",
+        "value": 3,
+        "boost": 4,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Look at your opponent's hand. Recover 1 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/non-retinal-scan.webp?v=594bc09122",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/non-retinal-scan.webp?v=594bc09122"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Passwords",
+        "quantity": 1,
+        "type": "defence",
+        "value": 5,
+        "boost": 1,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Your opponent looks at your hand and chooses a card for you to discard.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/passwords.webp?v=d5c6acf573",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/passwords.webp?v=d5c6acf573"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Push to Teleport",
+        "quantity": 1,
+        "type": "versatile",
+        "value": 2,
+        "boost": 6,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/push-to-teleport.webp?v=de90d5228f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/push-to-teleport.webp?v=de90d5228f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Rob's Pouch & Shoe Emporium",
+        "quantity": 1,
+        "type": "attack",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move the opposing fighter one space. Just one.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/robs-pouch-shoe-emporium.webp?v=9249eb2687",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/robs-pouch-shoe-emporium.webp?v=9249eb2687"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Super Feint",
+        "quantity": 1,
+        "type": "versatile",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Deadpool",
+        "basicText": "This card can't be canceled!",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/super-feint.webp?v=f24a660287",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/super-feint.webp?v=f24a660287"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Sweet!",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Deadpool",
+        "basicText": "Move to a space in a yellow-ish zone. Then move to a different space in a yellow-ish zone.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/sweet.webp?v=a16014c0ce",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/sweet.webp?v=a16014c0ce"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "They Have an Amazing Buffet",
+        "quantity": 1,
+        "type": "defence",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Recover 2 health. Then, if you are at full health, take 2 damage.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/they-have-an-amazing-buffet.webp?v=56dc857b4c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/they-have-an-amazing-buffet.webp?v=56dc857b4c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Time Out",
+        "quantity": 1,
+        "type": "versatile",
+        "value": 0,
+        "boost": 3,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "Call time out. Look through your deck and pick a card you could play. Discard this card and play that one instead.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/time-out.webp?v=c27076c9cf",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/time-out.webp?v=c27076c9cf"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Transit Card",
+        "quantity": 1,
+        "type": "defence",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move to any space in your zone.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/transit-card.webp?v=d91a664f51",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/transit-card.webp?v=d91a664f51"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Underrated Super Heroes",
+        "quantity": 1,
+        "type": "attack",
+        "value": 6,
+        "boost": 2,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/underrated-super-heroes.webp?v=2847c3dfc1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/underrated-super-heroes.webp?v=2847c3dfc1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Wanna Bet?",
+        "quantity": 1,
+        "type": "attack",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Deadpool",
+        "basicText": "After the game: If you won the game your opponent buys you a drink. If you lost the game, you buy them a drink.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/wanna-bet.webp?v=053333bb1d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/wanna-bet.webp?v=053333bb1d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Xavier Institute Faculty",
+        "quantity": 1,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Deadpool",
+        "basicText": "You may play this card as a ranged attack.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/xavier-institute-faculty.webp?v=54c16f95fa",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/cards/xavier-institute-faculty.webp?v=54c16f95fa"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6"
+      },
+      {
+        "title": "Deadpool",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Deadpool",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/hero.webp?v=0bdbc021ab",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/hero.webp?v=0bdbc021ab"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

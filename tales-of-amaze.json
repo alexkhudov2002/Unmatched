@@ -1,0 +1,1181 @@
+{
+  "decks": [
+    {
+      "id": "um-annie",
+      "family_id": "um-annie",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Annie Christmas",
+      "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T14:38:16.869Z",
+      "deck_first_published_on": "2026-11-17T14:38:16.869Z",
+      "published_on": "2026-11-17T14:38:16.869Z",
+      "updated_on": "2026-11-17T14:38:16.869Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "tales-of-amaze"
+      ],
+      "deck_data": {
+        "name": "Annie Christmas",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Annie Christmas",
+          "hp": 14,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "NECKLACE OF PEARLS\nAdd +2 to the value of Annie's attacks if she has less health than the defender.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/token-hero.png?v=e116cd811b"
+        },
+        "sidekick": {
+          "name": "Charlie",
+          "quantity": 1,
+          "hp": 8,
+          "isRanged": true,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/token-charlie.png?v=a233ca7537"
+        },
+        "cards": [
+          {
+            "title": "A Few More Pearls",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Annie Christmas",
+            "basicText": "Deal 2 damage to each opposing fighter adjacent to Annie.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/a-few-more-pearls.webp?v=3464786e9d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/a-few-more-pearls.webp?v=3464786e9d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+          },
+          {
+            "title": "Better Together",
+            "quantity": 4,
+            "type": "versatile",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If your fighter is adjacent to a friendly fighter, your fighter and each friendly fighter adjacent to them recover 1 health.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/better-together.webp?v=c51c18ecde",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/better-together.webp?v=c51c18ecde"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+          },
+          {
+            "title": "Bottom Dealing",
+            "quantity": 2,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Charlie",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Reveal the bottom card of your deck. Increase the value of this card by the BOOST value of the revealed card, then put the revealed card on the top or the bottom of your deck.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/bottom-dealing.webp?v=21ec72b8ba",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/bottom-dealing.webp?v=21ec72b8ba"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+          },
+          {
+            "title": "Captain's Orders",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Annie Christmas",
+            "basicText": "Place Annie in any empty space in her zone. Then, place another friendly fighter in an empty space in Annie's zone. Gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/captains-orders.webp?v=fbc4d0de98",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/captains-orders.webp?v=fbc4d0de98"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+          },
+          {
+            "title": "Keep Your Hands to Yourself",
+            "quantity": 3,
+            "type": "defence",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Annie Christmas",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move each fighter in the combat up to 2 space.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/keep-your-hands-to-yourself.webp?v=11d3470b5c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/keep-your-hands-to-yourself.webp?v=11d3470b5c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+          },
+          {
+            "title": "Lagniappe",
+            "quantity": 3,
+            "type": "attack",
+            "value": 5,
+            "boost": 2,
+            "characterName": "Annie Christmas",
+            "basicText": "",
+            "immediateText": "Deal up to 2 damage to Annie to draw that many cards. (This may cause her special ability to apply.)",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/lagniappe.webp?v=c8167299d2",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/lagniappe.webp?v=c8167299d2"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+          },
+          {
+            "title": "Long Shot",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If the opposing fighter is not adjacent to your fighter, this card's value is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/long-shot.webp?v=8686589d37",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/long-shot.webp?v=8686589d37"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+          },
+          {
+            "title": "Mississippi Queen",
+            "quantity": 3,
+            "type": "defence",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Annie Christmas",
+            "basicText": "",
+            "immediateText": "Damage cannot reduce Annie's health below 1 this turn.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/mississippi-queen.webp?v=a60671bb0c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/mississippi-queen.webp?v=a60671bb0c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+          },
+          {
+            "title": "Quite a Pair",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "You may reveal two cards from your hand with the same name. If you do, cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/quite-a-pair.webp?v=780520ceb4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/quite-a-pair.webp?v=780520ceb4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+          },
+          {
+            "title": "Slick Talker",
+            "quantity": 2,
+            "type": "defence",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Annie and Charlie may swap spaces. If they do, your other fighter is now the defender.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/slick-talker.webp?v=9beb9de051",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/slick-talker.webp?v=9beb9de051"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+          },
+          {
+            "title": "Striking Beauty",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 1,
+            "boost": 3,
+            "characterName": "Annie Christmas",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 1 damage to the opposing fighter. If you won the combat, deal 2 damage instead.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/striking-beauty.webp?v=155383b767",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/striking-beauty.webp?v=155383b767"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+          },
+          {
+            "title": "The Turn and the River",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Charlie",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 2 cards.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/the-turn-and-the-river.webp?v=bde7e2e3a0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/the-turn-and-the-river.webp?v=bde7e2e3a0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+          },
+          {
+            "title": "Annie Christmas",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Annie Christmas",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/hero.webp?v=ccee48d06f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/hero.webp?v=ccee48d06f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-golden-bat",
+      "family_id": "um-golden-bat",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Golden Bat",
+      "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T14:38:17.190Z",
+      "deck_first_published_on": "2026-11-17T14:38:17.190Z",
+      "published_on": "2026-11-17T14:38:17.190Z",
+      "updated_on": "2026-11-17T14:38:17.190Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "tales-of-amaze"
+      ],
+      "deck_data": {
+        "name": "Golden Bat",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Golden Bat",
+          "hp": 18,
+          "move": 3,
+          "isRanged": false,
+          "specialAbility": "THE FIRST SUPERHERO\nIf you haven't taken a Maneuver action this turn, add +2 to the value of Golden Bat's attacks.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/token-hero.png?v=7bea43f974"
+        },
+        "sidekick": {
+          "name": "Sidekick",
+          "hp": null,
+          "quantity": null,
+          "isRanged": false,
+          "quote": ""
+        },
+        "cards": [
+          {
+            "title": "Alpine Fortress",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Golden Bat",
+            "basicText": "Choose a card in your discard pile and shuffle it into your deck. Draw 2 cards. Move Golden Bat up to 4 spaces.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/alpine-fortress.webp?v=52c2ee6992",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/alpine-fortress.webp?v=52c2ee6992"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+          },
+          {
+            "title": "Arrive Just in Time",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Golden Bat",
+            "basicText": "Place Golden Bat in any space.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/arrive-just-in-time.webp?v=560a9cef8b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/arrive-just-in-time.webp?v=560a9cef8b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+          },
+          {
+            "title": "A Punch to Shake the Earth",
+            "quantity": 3,
+            "type": "attack",
+            "value": 1,
+            "boost": 1,
+            "characterName": "Golden Bat",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 1 damage to each opposing fighter in your zone. If you won the combat, deal 2 damage instead.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/a-punch-to-shake-the-earth.webp?v=6c24d97288",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/a-punch-to-shake-the-earth.webp?v=6c24d97288"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+          },
+          {
+            "title": "He Laughs at Your Feebleness",
+            "quantity": 2,
+            "type": "defence",
+            "value": 5,
+            "boost": 3,
+            "characterName": "Golden Bat",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/he-laughs-at-your-feebleness.webp?v=5c2e0c8dbc",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/he-laughs-at-your-feebleness.webp?v=5c2e0c8dbc"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+          },
+          {
+            "title": "Imposing Presence",
+            "quantity": 2,
+            "type": "defence",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Golden Bat",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/imposing-presence.webp?v=8b574a1282",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/imposing-presence.webp?v=8b574a1282"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+          },
+          {
+            "title": "Insight of the Ancients",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Golden Bat",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, return a random card in your discard pile to your hand.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/insight-of-the-ancients.webp?v=bfb6553e70",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/insight-of-the-ancients.webp?v=bfb6553e70"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+          },
+          {
+            "title": "Like a Flash of Golden Light",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Golden Bat",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If Golden Bat shares no zones with the space he started this turn in, this card's value is 4 instead.",
+            "afterText": "Move Golden Bat up to 5 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/like-a-flash-of-golden-light.webp?v=486a3fad72",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/like-a-flash-of-golden-light.webp?v=486a3fad72"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+          },
+          {
+            "title": "Sight Beyond Sight",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Golden Bat",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Look at the top 3 cards of your opponent's deck. Put them back in any order.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/sight-beyond-sight.webp?v=72af324626",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/sight-beyond-sight.webp?v=72af324626"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+          },
+          {
+            "title": "Skirmish",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Golden Bat",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, move one of the fighters in the combat up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/skirmish.webp?v=8759297259",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/skirmish.webp?v=8759297259"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+          },
+          {
+            "title": "Super Strength",
+            "quantity": 2,
+            "type": "attack",
+            "value": 5,
+            "boost": 1,
+            "characterName": "Golden Bat",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/super-strength.webp?v=647e25c3b2",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/super-strength.webp?v=647e25c3b2"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+          },
+          {
+            "title": "Terrifying Roar",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Golden Bat",
+            "basicText": "",
+            "immediateText": "Fighters cannot leave their spaces for the rest of the turn.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/terrifying-roar.webp?v=a11d2809f8",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/terrifying-roar.webp?v=a11d2809f8"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+          },
+          {
+            "title": "Vaporizing Eyebeams",
+            "quantity": 3,
+            "type": "attack",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Golden Bat",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Your opponent discards 1 random card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/vaporizing-eyebeams.webp?v=33f4f6fbf3",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/vaporizing-eyebeams.webp?v=33f4f6fbf3"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+          },
+          {
+            "title": "Golden Bat",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Golden Bat",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/hero.webp?v=92714cd87f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/hero.webp?v=92714cd87f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-jill-trent",
+      "family_id": "um-jill-trent",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Dr. Jill Trent",
+      "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T14:51:47.393Z",
+      "deck_first_published_on": "2026-11-17T14:51:47.393Z",
+      "published_on": "2026-11-17T14:51:47.393Z",
+      "updated_on": "2026-11-17T14:51:47.393Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "tales-of-amaze"
+      ],
+      "savedTokens": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-hero.png?v=8d44787575",
+          "clip": "circle",
+          "label": "Dr. Jill Trent",
+          "rim": "#1F1F1F",
+          "initials": "DJ",
+          "size": 88,
+          "h": 88,
+          "counter": {
+            "link": "hero"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-daisy.png?v=2c5235f50a",
+          "clip": "circle",
+          "label": "Daisy",
+          "rim": "#1F1F1F",
+          "initials": "D",
+          "size": 64,
+          "h": 64,
+          "counter": {
+            "link": "sidekick"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-gadget.png?v=83e8e93e03",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "clip": "circle",
+          "size": 72,
+          "h": 72
+        }
+      ],
+      "deck_data": {
+        "name": "Dr. Jill Trent",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Dr. Jill Trent",
+          "hp": 13,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "GADGETOLOGY\nAt the start of your turn, activate one of your gadgets. Whenever Jill Trent attacks, resolve the active gadget's effect.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-hero.png?v=8d44787575"
+        },
+        "sidekick": {
+          "name": "Daisy",
+          "quantity": 1,
+          "hp": 6,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-daisy.png?v=2c5235f50a"
+        },
+        "cards": [
+          {
+            "title": "Ace Fighter",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 5,
+            "boost": 3,
+            "characterName": "Daisy",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/ace-fighter.webp?v=d3e07d0f79",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/ace-fighter.webp?v=d3e07d0f79"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+          },
+          {
+            "title": "Battle of Wits",
+            "quantity": 3,
+            "type": "attack",
+            "value": 2,
+            "boost": 4,
+            "characterName": "Dr. Jill Trent",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Reveal the top card of your deck and your opponent's deck. If your card has a higher BOOST value, deal 3 damage to the opposing fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/battle-of-wits.webp?v=a049db694d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/battle-of-wits.webp?v=a049db694d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+          },
+          {
+            "title": "Caught Red-Handed",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 1,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Your opponent discards 1 card. If you won the combat, they discard 2 cards instead.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/caught-red-handed.webp?v=75fe69f390",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/caught-red-handed.webp?v=75fe69f390"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+          },
+          {
+            "title": "Energizing Spray",
+            "quantity": 2,
+            "type": "attack",
+            "value": 5,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Gain 1 action.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/energizing-spray.webp?v=1de7e72af1",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/energizing-spray.webp?v=1de7e72af1"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+          },
+          {
+            "title": "Gyroscopic Jetpack",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move your fighter up to 2 spaces. They may move through opposing fighters.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/gyroscopic-jetpack.webp?v=0fc29f6310",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/gyroscopic-jetpack.webp?v=0fc29f6310"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+          },
+          {
+            "title": "Helpful Assistant",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Daisy",
+            "basicText": "Shuffle up to 3 Jill Trent cards in your discard pile back into your deck. Draw 1 card.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/helpful-assistant.webp?v=6cfd3c6d77",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/helpful-assistant.webp?v=6cfd3c6d77"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+          },
+          {
+            "title": "Hypnotist",
+            "quantity": 2,
+            "type": "defence",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Dr. Jill Trent",
+            "basicText": "",
+            "immediateText": "If your active gadget is Hypnoray Blaster, cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/hypnotist.webp?v=17dd2d0d21",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/hypnotist.webp?v=17dd2d0d21"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+          },
+          {
+            "title": "Indestructible Cloth",
+            "quantity": 2,
+            "type": "defence",
+            "value": 5,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "This combat, your fighter does not take damage from effects other than combat damage.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/indestructible-cloth.webp?v=e3c6e04e58",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/indestructible-cloth.webp?v=e3c6e04e58"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+          },
+          {
+            "title": "Insightful Deduction",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Reveal the top 3 cards of your opponent's deck. Put one of them on the bottom of the deck and the rest on top in any order.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/insightful-deduction.webp?v=6e91981520",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/insightful-deduction.webp?v=6e91981520"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+          },
+          {
+            "title": "Laser Pen",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 1 damage to the opposing fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/laser-pen.webp?v=d3cb655bfc",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/laser-pen.webp?v=d3cb655bfc"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+          },
+          {
+            "title": "Sisters in Arms",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Daisy",
+            "basicText": "This card's effects cannot be canceled. If Daisy and Jill Trent are adjacent and Daisy is attacking, Daisy gains the effect of Jill Trent's gadget.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/sisters-in-arms.webp?v=9c979882b3",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/sisters-in-arms.webp?v=9c979882b3"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+          },
+          {
+            "title": "Stasis Diffuser",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "The value of your opponent's card is equal to its printed value and cannot be changed.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/stasis-diffuser.webp?v=6483f8014b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/stasis-diffuser.webp?v=6483f8014b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+          },
+          {
+            "title": "Utility Belt",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Dr. Jill Trent",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Choose one: ► Jill Trent recovers 1 health ► move Jill Trent 1 space ► draw 1 card",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/utility-belt.webp?v=954b8e163f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/utility-belt.webp?v=954b8e163f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+          },
+          {
+            "title": "Dr. Jill Trent",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Dr. Jill Trent",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/hero.webp?v=e6131087de",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/hero.webp?v=e6131087de"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Hypnoray Blaster",
+            "content": "DURING COMBAT: If your card's printed value is lower than your opponent's, reveal the top card of your opponent's deck. Increase the value of your attack by the BOOST value of the revealed card."
+          },
+          {
+            "title": "Ultrabiotic Tonic",
+            "content": "AFTER COMBAT: If your card's printed value is higher than your opponent's, Jill Trent recovers 1 health."
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-tesla",
+      "family_id": "um-tesla",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Nikola Tesla",
+      "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T14:38:18.063Z",
+      "deck_first_published_on": "2026-11-17T14:38:18.063Z",
+      "published_on": "2026-11-17T14:38:18.063Z",
+      "updated_on": "2026-11-17T14:38:18.063Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "tales-of-amaze"
+      ],
+      "savedTokens": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-hero.png?v=27014f0aa8",
+          "clip": "circle",
+          "label": "Nikola Tesla",
+          "rim": "#1F1F1F",
+          "initials": "NT",
+          "size": 88,
+          "h": 88,
+          "counter": {
+            "link": "hero"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-bobinas.png?v=1a5d57ffe8",
+          "clip": "circle",
+          "size": 56,
+          "h": 56,
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 1
+          },
+          "altIndex": 0
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-bobinas.png?v=1a5d57ffe8",
+          "clip": "circle",
+          "size": 56,
+          "h": 56,
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1
+        }
+      ],
+      "deck_data": {
+        "name": "Nikola Tesla",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Nikola Tesla",
+          "hp": 14,
+          "move": 2,
+          "isRanged": true,
+          "specialAbility": "ELECTRICAL OVERFLOW\nStart the game with 1 coil charged. At the end of your turn, charge 1 coil. At the start of your turn, if both coils are charged, deal 1 damage to each opposing fighter adjacent to Tesla and move them up to 1 space.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-hero.png?v=27014f0aa8"
+        },
+        "sidekick": {
+          "name": "Sidekick",
+          "hp": null,
+          "quantity": null,
+          "isRanged": false,
+          "quote": ""
+        },
+        "cards": [
+          {
+            "title": "7 Hertz",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Nikola Tesla",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You may discharge coils: ⚡ - Gain 1 action. ⚡⚡ - Also, draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/7-hertz.webp?v=b31fedb9c5",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/7-hertz.webp?v=b31fedb9c5"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+          },
+          {
+            "title": "Death Ray",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 4,
+            "characterName": "Nikola Tesla",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may discharge coils: ⚡ - This card's value is 5. ⚡⚡ - Instead, this card's value is 7.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/death-ray.webp?v=93a16f5ba5",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/death-ray.webp?v=93a16f5ba5"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+          },
+          {
+            "title": "Fully Charged",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 1,
+            "characterName": "Nikola Tesla",
+            "basicText": "Charge both coils. Gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/fully-charged.webp?v=b13dfc4ad0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/fully-charged.webp?v=b13dfc4ad0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+          },
+          {
+            "title": "Intense Experimentation",
+            "quantity": 3,
+            "type": "defence",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Nikola Tesla",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card. You may discharge coils: ⚡ - Instead, draw 2 cards. ⚡⚡ - Instead, draw 3 cards and Tesla recovers 1 health.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/intense-experimentation.webp?v=42c23cfdc0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/intense-experimentation.webp?v=42c23cfdc0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+          },
+          {
+            "title": "Kinetic Induction",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Nikola Tesla",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Charge one coil. If you won the combat, charge both.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/kinetic-induction.webp?v=86caa46314",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/kinetic-induction.webp?v=86caa46314"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+          },
+          {
+            "title": "Lightning Storm",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Nikola Tesla",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You may discharge coils: ⚡ - Deal 1 damage to each opposing fighter in your zone. ⚡⚡ - Instead, deal 2 damage.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/lightning-storm.webp?v=1e98eec674",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/lightning-storm.webp?v=1e98eec674"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+          },
+          {
+            "title": "Polyphase Coils",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Nikola Tesla",
+            "basicText": "",
+            "immediateText": "You may discharge coils: ⚡ - Cancel all effects on your opponent's card. ⚡⚡ - Also, ignore that card's value.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/polyphase-coils.webp?v=db7ea4043f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/polyphase-coils.webp?v=db7ea4043f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+          },
+          {
+            "title": "Remote Control",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Nikola Tesla",
+            "basicText": "Move all opposing fighters up to 2 spaces. Gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/remote-control.webp?v=9f6bf9bd0d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/remote-control.webp?v=9f6bf9bd0d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+          },
+          {
+            "title": "Repulsion Blast",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Nikola Tesla",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move the opposing fighter up to 2 spaces. You may discharge coils: ⚡ - Also, move Tesla up to 2 spaces. ⚡⚡ - Also, your opponent discards 1 random card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/repulsion-blast.webp?v=b6aaa41f11",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/repulsion-blast.webp?v=b6aaa41f11"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+          },
+          {
+            "title": "The Alternating Current",
+            "quantity": 2,
+            "type": "attack",
+            "value": 5,
+            "boost": 3,
+            "characterName": "Nikola Tesla",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Choose one: ► Charge both coils ► Discharge both coils to have Tesla recover 2 health",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/the-alternating-current.webp?v=b469e6f7bb",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/the-alternating-current.webp?v=b469e6f7bb"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+          },
+          {
+            "title": "X-Ray Radiation",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Nikola Tesla",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Reveal the top card of your opponent's deck. You may discharge coils: ⚡ - Discard that card. ⚡⚡ - Also add its BOOST value to this card's value.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/x-ray-radiation.webp?v=92c48df548",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/x-ray-radiation.webp?v=92c48df548"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+          },
+          {
+            "title": "Nikola Tesla",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Nikola Tesla",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/hero.webp?v=719085b2d4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/hero.webp?v=719085b2d4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    }
+  ],
+  "maps": []
+}

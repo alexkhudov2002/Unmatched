@@ -1,0 +1,295 @@
+{
+  "id": "um-bloody-mary",
+  "family_id": "um-bloody-mary",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Bloody Mary",
+  "note": "Unmatched (Restoration Games), set battle-of-legends-2. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T14:58:29.863Z",
+  "deck_first_published_on": "2026-11-17T14:58:29.863Z",
+  "published_on": "2026-11-17T14:58:29.863Z",
+  "updated_on": "2026-11-17T14:58:29.863Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "battle-of-legends-2"
+  ],
+  "deck_data": {
+    "name": "Bloody Mary",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Bloody Mary",
+      "hp": 16,
+      "move": 3,
+      "isRanged": false,
+      "specialAbility": "At the start of your turn, if you have exactly 3 cards in hand, gain 1 action.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/token-hero.png?v=cb5e302211"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Bloody Requiem",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 4,
+        "characterName": "Bloody Mary",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "► BLOODY REPRISE (bonus attack)\nBLOODY REPRISE (0) — DURING COMBAT: If your opponent played a card against BLOODY REQUIEM, this attack's value is that card's printed value.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/bloody-requiem.webp?v=00c8afc0cf",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/bloody-requiem.webp?v=00c8afc0cf"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+      },
+      {
+        "title": "Broken Glass",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Bloody Mary",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may increase or decrease the value of this card by 1.",
+        "afterText": "If the value of this card matches your opponent's card, draw 1 card and the opposing fighter takes 2 damage.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/broken-glass.webp?v=9355ddbee7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/broken-glass.webp?v=9355ddbee7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+      },
+      {
+        "title": "Closer Than She Appears",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Bloody Mary",
+        "basicText": "Move Bloody Mary up to 1 space. Draw 1 card. Gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/closer-than-she-appears.webp?v=331c102311",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/closer-than-she-appears.webp?v=331c102311"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+      },
+      {
+        "title": "Evade",
+        "quantity": 3,
+        "type": "defence",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Bloody Mary",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/evade.webp?v=1b91a5b3eb",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/evade.webp?v=1b91a5b3eb"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+      },
+      {
+        "title": "Feint",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Bloody Mary",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/feint.webp?v=dcf441193a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/feint.webp?v=dcf441193a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+      },
+      {
+        "title": "Ghostly Touch",
+        "quantity": 2,
+        "type": "attack",
+        "value": 1,
+        "boost": 2,
+        "characterName": "Bloody Mary",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this attack.",
+        "afterText": "If this is your third action this turn, recover 3 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/ghostly-touch.webp?v=43cc08ecba",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/ghostly-touch.webp?v=43cc08ecba"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+      },
+      {
+        "title": "Infinity Mirror",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Bloody Mary",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Choose one of the fighters in the combat and move them up to 4 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/infinity-mirror.webp?v=6482041bd9",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/infinity-mirror.webp?v=6482041bd9"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+      },
+      {
+        "title": "Jump Scare",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Bloody Mary",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If Bloody Mary shares no zones with the space she started in this turn, this card's value is 6 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/jump-scare.webp?v=96d3c33ef7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/jump-scare.webp?v=96d3c33ef7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+      },
+      {
+        "title": "Mirror Image",
+        "quantity": 2,
+        "type": "defence",
+        "value": 0,
+        "boost": 2,
+        "characterName": "Bloody Mary",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "The value of this card is equal to the printed value of your opponent's card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/mirror-image.webp?v=799c86e393",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/mirror-image.webp?v=799c86e393"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+      },
+      {
+        "title": "Out of the Mirror",
+        "quantity": 2,
+        "type": "attack",
+        "value": 1,
+        "boost": 2,
+        "characterName": "Bloody Mary",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Your opponent discards 1 random card. Add its BOOST value to this card's value.",
+        "afterText": "If this is your third action, draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/out-of-the-mirror.webp?v=c6940c61cd",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/out-of-the-mirror.webp?v=c6940c61cd"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+      },
+      {
+        "title": "Speak Three Times",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Bloody Mary",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If this is your third action this turn, the value of this card is 7 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/speak-three-times.webp?v=f682b57e68",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/speak-three-times.webp?v=f682b57e68"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+      },
+      {
+        "title": "Stolen Memories",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Bloody Mary",
+        "basicText": "Look at an opponent's hand and choose a card. Your opponent may discard it. If they don't, their hero takes damage equal to its BOOST value.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/stolen-memories.webp?v=2310af6487",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/stolen-memories.webp?v=2310af6487"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+      },
+      {
+        "title": "Trick of the Light",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Bloody Mary",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "You may place Bloody Mary in any empty space adjacent to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/trick-of-the-light.webp?v=3dc8ec4bfe",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/trick-of-the-light.webp?v=3dc8ec4bfe"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+      },
+      {
+        "title": "Bloody Mary",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Bloody Mary",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/hero.webp?v=f4e764b357",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/hero.webp?v=f4e764b357"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Bonus attacks",
+        "content": "Each hero in this set has cards with a bonus attack that allows the fighter to make a second attack with one attack action. When you play a card with a bonus attack, resolve the main attack as normal. The bonus attack is triggered by the AFTER COMBAT effect of the first attack. If that effect is canceled (by Feint, for example) the bonus attack does not occur.\n\nIf the bonus attack triggers, resolve that attack like a normal attack between the same attacker and defender as if the attacker played the bonus attack as a new attack card. The bonus attack has a new name, value, and effect. The BOOST value is the same. The bonus attack targets the same defender even if they are no longer a valid target. If the defender is defeated during the first attack, there is no bonus attack."
+      }
+    ]
+  }
+}

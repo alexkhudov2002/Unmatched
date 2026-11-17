@@ -1,0 +1,256 @@
+{
+  "id": "um-eredin",
+  "family_id": "um-eredin",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Eredin",
+  "note": "Unmatched (Restoration Games), set witcher-realms-fall. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T14:23:40.428Z",
+  "deck_first_published_on": "2026-11-17T14:23:40.428Z",
+  "published_on": "2026-11-17T14:23:40.428Z",
+  "updated_on": "2026-11-17T14:23:40.428Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "witcher-realms-fall"
+  ],
+  "deck_data": {
+    "name": "Eredin",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/back.webp?v=2951590f22",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Eredin",
+      "hp": 14,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "KING OF THE WILD HUNT\nWhile all of your Red Riders are defeated, Eredin is ENRAGED. If Eredin is ENRAGED, add +1 to the value of your combat cards, and your move value is 3.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/token-hero.png?v=ecce4c329f"
+    },
+    "sidekick": {
+      "name": "Red Rider",
+      "quantity": 4,
+      "hp": 1,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/token-red-rider.png?v=35ad57381d"
+    },
+    "cards": [
+      {
+        "title": "Backhand",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Eredin",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Your opponent puts 1 random card from their hand on top of their deck. If Eredin is ENRAGED, they discard it instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/backhand.webp?v=eaebe91d1b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/backhand.webp?v=eaebe91d1b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/back.webp?v=2951590f22"
+      },
+      {
+        "title": "Brutal Strike",
+        "quantity": 3,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Eredin",
+        "basicText": "This card's effects cannot be canceled.",
+        "immediateText": "",
+        "duringText": "If your opponent's card has an IMMEDIATELY effect, ignore their card's value.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/brutal-strike.webp?v=aa0e9e0e09",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/brutal-strike.webp?v=aa0e9e0e09"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/back.webp?v=2951590f22"
+      },
+      {
+        "title": "Close for the Kill",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 4,
+        "characterName": "Any",
+        "basicText": "Draw 2 cards.\nMove each of your fighters up to 3 spaces. They may move through opposing fighters.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/close-for-the-kill.webp?v=219cceadfa",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/close-for-the-kill.webp?v=219cceadfa"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/back.webp?v=2951590f22"
+      },
+      {
+        "title": "Foul Purpose",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "If Eredin is ENRAGED, you may play this card face-up to target a fighter in any space.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "You may defeat a Red Rider to return this card to your hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/foul-purpose.webp?v=1ce51e7394",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/foul-purpose.webp?v=1ce51e7394"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/back.webp?v=2951590f22"
+      },
+      {
+        "title": "Icy Guile",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "If Eredin is ENRAGED, cancel all effects on your opponent's card.",
+        "duringText": "You may defeat a Red Rider to ignore the value of your opponent's card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/icy-guile.webp?v=70096e09ee",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/icy-guile.webp?v=70096e09ee"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/back.webp?v=2951590f22"
+      },
+      {
+        "title": "Implacable",
+        "quantity": 3,
+        "type": "defence",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Eredin",
+        "basicText": "If Eredin is ENRAGED, you may play this card as an attack.",
+        "immediateText": "",
+        "duringText": "You may BOOST this card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/implacable.webp?v=ac6ffe2b30",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/implacable.webp?v=ac6ffe2b30"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/back.webp?v=2951590f22"
+      },
+      {
+        "title": "Might of the Aen Elle",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Eredin",
+        "basicText": "Draw 1 card. Gain 1 action.\nONGOING: Eredin does not take damage except combat damage or from exhaustion.\nDiscard this card at the end of your turn if you didn't attack.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/might-of-the-aen-elle.webp?v=cb7c63d852",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/might-of-the-aen-elle.webp?v=cb7c63d852"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/back.webp?v=2951590f22"
+      },
+      {
+        "title": "Portal Defense",
+        "quantity": 2,
+        "type": "defence",
+        "value": 0,
+        "boost": 1,
+        "characterName": "Eredin",
+        "basicText": "",
+        "immediateText": "Eredin swaps spaces with an adjacent friendly fighter. That fighter is now the defender.",
+        "duringText": "",
+        "afterText": "If Eredin is ENRAGED, draw 2 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/portal-defense.webp?v=11bcb99b61",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/portal-defense.webp?v=11bcb99b61"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/back.webp?v=2951590f22"
+      },
+      {
+        "title": "Skirmish",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, move one of the fighters in the combat up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/skirmish.webp?v=3f51700b1c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/skirmish.webp?v=3f51700b1c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/back.webp?v=2951590f22"
+      },
+      {
+        "title": "Unyielding Hordes",
+        "quantity": 3,
+        "type": "attack",
+        "value": 1,
+        "boost": 2,
+        "characterName": "Red Rider",
+        "basicText": "",
+        "immediateText": "Return a defeated Red Rider to any space.",
+        "duringText": "Add +1 to this card's value for each other friendly fighter adjacent to the opposing fighter.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/unyielding-hordes.webp?v=4961e28ffa",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/unyielding-hordes.webp?v=4961e28ffa"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/back.webp?v=2951590f22"
+      },
+      {
+        "title": "Wild Hunt",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 1 damage to each opposing fighter that is adjacent to at least one of your fighters. If Eredin is ENRAGED, deal 2 damage instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/wild-hunt.webp?v=9efdbfe8d5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/cards/wild-hunt.webp?v=9efdbfe8d5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/back.webp?v=2951590f22"
+      },
+      {
+        "title": "Eredin",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Eredin",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/hero.webp?v=4a2d644e8b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/hero.webp?v=4a2d644e8b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/eredin/back.webp?v=2951590f22",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "id": "um-genie",
+  "family_id": "um-genie",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "The Genie",
+  "note": "Unmatched (Restoration Games), set houdini-vs-genie. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T14:50:10.879Z",
+  "deck_first_published_on": "2026-11-17T14:50:10.879Z",
+  "published_on": "2026-11-17T14:50:10.879Z",
+  "updated_on": "2026-11-17T14:50:10.879Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "houdini-vs-genie"
+  ],
+  "deck_data": {
+    "name": "The Genie",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/back.webp?v=b1278f0b80",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "The Genie",
+      "hp": 16,
+      "move": 3,
+      "isRanged": true,
+      "specialAbility": "INFINITE POWER\nAt the start of your turn, you may discard 1 card to gain 1 action.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/token-hero.png?v=906cfd4ab5"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Back in the Lamp",
+        "quantity": 3,
+        "type": "defence",
+        "value": 0,
+        "boost": 1,
+        "characterName": "The Genie",
+        "basicText": "",
+        "immediateText": "The Genie recovers 4 health.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/back-in-the-lamp.webp?v=46bb699e88",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/back-in-the-lamp.webp?v=46bb699e88"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/back.webp?v=b1278f0b80"
+      },
+      {
+        "title": "Careful What You Wish For",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "The Genie",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you lost the combat, deal 1 damage to an adjacent opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/careful-what-you-wish-for.webp?v=243a5c41b8",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/careful-what-you-wish-for.webp?v=243a5c41b8"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/back.webp?v=b1278f0b80"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "The Genie",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/feint.webp?v=337c814197",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/feint.webp?v=337c814197"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/back.webp?v=b1278f0b80"
+      },
+      {
+        "title": "Imprisoned Wrath",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 1,
+        "characterName": "The Genie",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "You may discard 2 cards to deal 2 damage to an adjacent opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/imprisoned-wrath.webp?v=47137956b2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/imprisoned-wrath.webp?v=47137956b2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/back.webp?v=b1278f0b80"
+      },
+      {
+        "title": "I Am Freed",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "The Genie",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Place the Genie in any empty space. Then, deal 1 damage to each adjacent fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/i-am-freed.webp?v=4a8b770c31",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/i-am-freed.webp?v=4a8b770c31"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/back.webp?v=b1278f0b80"
+      },
+      {
+        "title": "I Grant You ... Death",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "The Genie",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "You may deal 1 damage to an adjacent fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/i-grant-you-death.webp?v=70b33410aa",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/i-grant-you-death.webp?v=70b33410aa"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/back.webp?v=b1278f0b80"
+      },
+      {
+        "title": "I've Made Sultans Out of Less",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "The Genie",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Look at your opponent's hand and choose a card for them to discard.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/ive-made-sultans-out-of-less.webp?v=e696b56b44",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/ive-made-sultans-out-of-less.webp?v=e696b56b44"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/back.webp?v=b1278f0b80"
+      },
+      {
+        "title": "Prisoner's Torment",
+        "quantity": 2,
+        "type": "defence",
+        "value": 1,
+        "boost": 2,
+        "characterName": "The Genie",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw cards equal to the amount of combat damage you took.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/prisoners-torment.webp?v=fcc4bc5f32",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/prisoners-torment.webp?v=fcc4bc5f32"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/back.webp?v=b1278f0b80"
+      },
+      {
+        "title": "This Is No Parlor Trick",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 1,
+        "boost": 2,
+        "characterName": "The Genie",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "The value of your opponent's card is equal to its BOOST value.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/this-is-no-parlor-trick.webp?v=79b5b0c58d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/this-is-no-parlor-trick.webp?v=79b5b0c58d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/back.webp?v=b1278f0b80"
+      },
+      {
+        "title": "Three Wishes",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "The Genie",
+        "basicText": "Gain 1 action and choose one effect: ▸ draw 5 cards ▸ for the rest of your turn, your cards' values are 4 and cannot be changed ▸ each opponent discards 2 cards",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/three-wishes.webp?v=d5159297ca",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/three-wishes.webp?v=d5159297ca"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/back.webp?v=b1278f0b80"
+      },
+      {
+        "title": "Wishing for More Wishes",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "The Genie",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Your opponent draws 1 card. Draw 3 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/wishing-for-more-wishes.webp?v=c80fd140bb",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/wishing-for-more-wishes.webp?v=c80fd140bb"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/back.webp?v=b1278f0b80"
+      },
+      {
+        "title": "Your Wish Is My Command",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 1,
+        "characterName": "The Genie",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, you may discard 2 cards to gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/your-wish-is-my-command.webp?v=62ad7d24b9",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/cards/your-wish-is-my-command.webp?v=62ad7d24b9"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/back.webp?v=b1278f0b80"
+      },
+      {
+        "title": "The Genie",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "The Genie",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/hero.webp?v=320d8e7f70",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/hero.webp?v=320d8e7f70"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/genie/back.webp?v=b1278f0b80",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

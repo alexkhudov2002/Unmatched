@@ -1,0 +1,539 @@
+{
+  "decks": [
+    {
+      "id": "um-oda-nobunaga",
+      "family_id": "um-oda-nobunaga",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Oda Nobunaga",
+      "note": "Unmatched (Restoration Games), set suns-origin. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T14:51:46.780Z",
+      "deck_first_published_on": "2026-11-17T14:51:46.780Z",
+      "published_on": "2026-11-17T14:51:46.780Z",
+      "updated_on": "2026-11-17T14:51:46.780Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "suns-origin"
+      ],
+      "deck_data": {
+        "name": "Oda Nobunaga",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/back.webp?v=e9a61b9f7c",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Oda Nobunaga",
+          "hp": 13,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "MASTER STRATEGIST\nOther friendly fighters in Oda Nobunaga's zone add +1 to the value of their played combat cards. (Oda Nobunaga does not benefit from this ability.)",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/token-hero.png?v=f4f7492435"
+        },
+        "sidekick": {
+          "name": "Honor Guard",
+          "quantity": 2,
+          "hp": 6,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/token-honor-guard.png?v=e14d3fb92e"
+        },
+        "cards": [
+          {
+            "title": "Battle Maneuvers",
+            "quantity": 4,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card. Then, move each of your fighters up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/battle-maneuvers.webp?v=a08a79c430",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/battle-maneuvers.webp?v=a08a79c430"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/back.webp?v=e9a61b9f7c"
+          },
+          {
+            "title": "Demon King of the Sixth Heaven",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Oda Nobunaga",
+            "basicText": "Deal 2 damage to each opposing flanked fighter.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/demon-king-of-the-sixth-heaven.webp?v=13889e5018",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/demon-king-of-the-sixth-heaven.webp?v=13889e5018"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/back.webp?v=e9a61b9f7c"
+          },
+          {
+            "title": "Fire and Flames",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If the opposing fighter is flanked, this card's value is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/fire-and-flames.webp?v=373ede6b0a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/fire-and-flames.webp?v=373ede6b0a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/back.webp?v=e9a61b9f7c"
+          },
+          {
+            "title": "Lightning and Thunder",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Honor Guard",
+            "basicText": "",
+            "immediateText": "If the opposing fighter is flanked, cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "Move your fighter up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/lightning-and-thunder.webp?v=c3ce87e5ef",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/lightning-and-thunder.webp?v=c3ce87e5ef"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/back.webp?v=e9a61b9f7c"
+          },
+          {
+            "title": "Momentous Shift",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If your fighter started this turn in a different space, this card's value is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/momentous-shift.webp?v=425121cdb1",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/momentous-shift.webp?v=425121cdb1"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/back.webp?v=e9a61b9f7c"
+          },
+          {
+            "title": "Patience and Strategy",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 1,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If the opposing fighter is flanked, your fighter recovers 2 health.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/patience-and-strategy.webp?v=d5e54c80dd",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/patience-and-strategy.webp?v=d5e54c80dd"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/back.webp?v=e9a61b9f7c"
+          },
+          {
+            "title": "Pragmatism",
+            "quantity": 3,
+            "type": "defence",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Oda Nobunaga",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/pragmatism.webp?v=241bb04dfe",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/pragmatism.webp?v=241bb04dfe"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/back.webp?v=e9a61b9f7c"
+          },
+          {
+            "title": "Reinforce",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "Choose two different effects: each friendly fighter recovers 1 health; draw 2 cards; gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/reinforce.webp?v=7fdcb53e17",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/reinforce.webp?v=7fdcb53e17"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/back.webp?v=e9a61b9f7c"
+          },
+          {
+            "title": "Spring the Trap",
+            "quantity": 3,
+            "type": "defence",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Your fighter may swap spaces with an adjacent friendly fighter. If they do, the other fighter is now the defender.",
+            "duringText": "",
+            "afterText": "Deal 1 damage to the opposing fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/spring-the-trap.webp?v=078bc84c09",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/spring-the-trap.webp?v=078bc84c09"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/back.webp?v=e9a61b9f7c"
+          },
+          {
+            "title": "Student of War",
+            "quantity": 2,
+            "type": "attack",
+            "value": 5,
+            "boost": 2,
+            "characterName": "Oda Nobunaga",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw a number of cards equal to the amount of combat damage dealt to the opposing fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/student-of-war.webp?v=a88a5ffe44",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/student-of-war.webp?v=a88a5ffe44"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/back.webp?v=e9a61b9f7c"
+          },
+          {
+            "title": "Sun and Moon",
+            "quantity": 2,
+            "type": "attack",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Honor Guard",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If the opposing fighter is flanked, ignore the value of your opponent's card.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/sun-and-moon.webp?v=60bdaabbc4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/cards/sun-and-moon.webp?v=60bdaabbc4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/back.webp?v=e9a61b9f7c"
+          },
+          {
+            "title": "Oda Nobunaga",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Oda Nobunaga",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/hero.webp?v=7b04ebe7eb",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/hero.webp?v=7b04ebe7eb"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/oda-nobunaga/back.webp?v=e9a61b9f7c",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Flanking",
+            "content": "An opposing fighter is flanked when they are adjacent to two or more fighters under your control (Oda Nobunaga or his Honor Guard). Other friendly fighters (in team or cooperative play) do not count toward this effect."
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-tomoe-gozen",
+      "family_id": "um-tomoe-gozen",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Tomoe Gozen",
+      "note": "Unmatched (Restoration Games), set suns-origin. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T14:51:47.119Z",
+      "deck_first_published_on": "2026-11-17T14:51:47.119Z",
+      "published_on": "2026-11-17T14:51:47.119Z",
+      "updated_on": "2026-11-17T14:51:47.119Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "suns-origin"
+      ],
+      "deck_data": {
+        "name": "Tomoe Gozen",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/back.webp?v=90e588266b",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Tomoe Gozen",
+          "hp": 14,
+          "move": 2,
+          "isRanged": true,
+          "specialAbility": "ATTACK OF OPPORTUNITY\nWhen an opposing hero leaves Tomoe Gozen's zone, deal 1 damage to that hero.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/token-hero.png?v=92fc259254"
+        },
+        "sidekick": {
+          "name": "Sidekick",
+          "hp": null,
+          "quantity": null,
+          "isRanged": false,
+          "quote": ""
+        },
+        "cards": [
+          {
+            "title": "A Warrior's Way",
+            "quantity": 2,
+            "type": "attack",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Tomoe Gozen",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move the opposing fighter up to 3 spaces. Then, if they are a hero, place Tomoe Gozen in a space adjacent to them.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/a-warriors-way.webp?v=709bcfe5fa",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/a-warriors-way.webp?v=709bcfe5fa"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/back.webp?v=90e588266b"
+          },
+          {
+            "title": "A Worthy Opponent",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Tomoe Gozen",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If the opposing fighter is a hero, this card's value is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/a-worthy-opponent.webp?v=7737cdc236",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/a-worthy-opponent.webp?v=7737cdc236"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/back.webp?v=90e588266b"
+          },
+          {
+            "title": "Confront Any Demon or God",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Tomoe Gozen",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card. Then, if you lost the combat, look at your opponent's hand and choose 1 card for them to discard.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/confront-any-demon-or-god.webp?v=8f06f5d093",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/confront-any-demon-or-god.webp?v=8f06f5d093"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/back.webp?v=90e588266b"
+          },
+          {
+            "title": "Deeds of Valor",
+            "quantity": 3,
+            "type": "defence",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Tomoe Gozen",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Tomoe Gozen cannot take more than 2 combat damage this combat.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/deeds-of-valor.webp?v=4c0d7fe13a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/deeds-of-valor.webp?v=4c0d7fe13a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/back.webp?v=90e588266b"
+          },
+          {
+            "title": "Fearsome Strength",
+            "quantity": 2,
+            "type": "attack",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Tomoe Gozen",
+            "basicText": "",
+            "immediateText": "Tomoe Gozen may swap spaces with an adjacent fighter.",
+            "duringText": "",
+            "afterText": "Deal 1 damage to an adjacent fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/fearsome-strength.webp?v=caf9274978",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/fearsome-strength.webp?v=caf9274978"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/back.webp?v=90e588266b"
+          },
+          {
+            "title": "Five Against Thousands",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Tomoe Gozen",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If Tomoe Gozen is adjacent to the opposing fighter, you may discard a card to put this card back into your hand.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/five-against-thousands.webp?v=3225f06179",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/five-against-thousands.webp?v=3225f06179"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/back.webp?v=90e588266b"
+          },
+          {
+            "title": "Flash of Steel",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Tomoe Gozen",
+            "basicText": "",
+            "immediateText": "If the opposing fighter is a hero, cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "If the opposing fighter is adjacent, deal 1 damage to them.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/flash-of-steel.webp?v=2a5bf630e7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/flash-of-steel.webp?v=2a5bf630e7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/back.webp?v=90e588266b"
+          },
+          {
+            "title": "Lord Kiso's Final Stand",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Tomoe Gozen",
+            "basicText": "Move Tomoe Gozen up to 3 spaces. She may move through sidekicks. Then, choose one: Tomoe Gozen recovers 2 health; gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/lord-kisos-final-stand.webp?v=8df4aea82c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/lord-kisos-final-stand.webp?v=8df4aea82c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/back.webp?v=90e588266b"
+          },
+          {
+            "title": "Piercing Shot",
+            "quantity": 3,
+            "type": "attack",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Tomoe Gozen",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 2 cards.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/piercing-shot.webp?v=1662b3d0ff",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/piercing-shot.webp?v=1662b3d0ff"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/back.webp?v=90e588266b"
+          },
+          {
+            "title": "Refuse to Retreat",
+            "quantity": 2,
+            "type": "defence",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Tomoe Gozen",
+            "basicText": "",
+            "immediateText": "Tomoe Gozen cannot leave her space for the rest of the turn.",
+            "duringText": "",
+            "afterText": "If the opposing fighter is adjacent, your opponent discards 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/refuse-to-retreat.webp?v=2c6e7ab504",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/refuse-to-retreat.webp?v=2c6e7ab504"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/back.webp?v=90e588266b"
+          },
+          {
+            "title": "Skirmish",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Tomoe Gozen",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, move a fighter in the combat up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/skirmish.webp?v=863fbf89c0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/skirmish.webp?v=863fbf89c0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/back.webp?v=90e588266b"
+          },
+          {
+            "title": "Witness My Last Battle",
+            "quantity": 2,
+            "type": "attack",
+            "value": 7,
+            "boost": 4,
+            "characterName": "Tomoe Gozen",
+            "basicText": "This attack can only target a fighter adjacent to Tomoe Gozen. Play it face up.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "End the turn.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/witness-my-last-battle.webp?v=672bb004b4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/cards/witness-my-last-battle.webp?v=672bb004b4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/back.webp?v=90e588266b"
+          },
+          {
+            "title": "Tomoe Gozen",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Tomoe Gozen",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/hero.webp?v=0b78319211",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/hero.webp?v=0b78319211"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tomoe-gozen/back.webp?v=90e588266b",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    }
+  ],
+  "maps": []
+}

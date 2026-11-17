@@ -1,0 +1,290 @@
+{
+  "id": "um-philippa",
+  "family_id": "um-philippa",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Philippa",
+  "note": "Unmatched (Restoration Games), set witcher-realms-fall. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T14:23:40.793Z",
+  "deck_first_published_on": "2026-11-17T14:23:40.793Z",
+  "published_on": "2026-11-17T14:23:40.793Z",
+  "updated_on": "2026-11-17T14:23:40.793Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "witcher-realms-fall"
+  ],
+  "deck_data": {
+    "name": "Philippa",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/back.webp?v=070a99e5fe",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Philippa",
+      "hp": 12,
+      "move": 2,
+      "isRanged": true,
+      "specialAbility": "TWO STEPS AHEAD\nAt the end of your turn, you may draw until you have a hand of 4 cards.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/token-hero.png?v=a8fbace318"
+    },
+    "sidekick": {
+      "name": "Dijkstra",
+      "quantity": 1,
+      "hp": 6,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/token-dijkstra.png?v=3994a5bc3f"
+    },
+    "cards": [
+      {
+        "title": "Backup Plan",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Philippa",
+        "basicText": "Choose one: ► set Philippa's health to 5 ► draw 3 cards",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/backup-plan.webp?v=651c3b8b54",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/backup-plan.webp?v=651c3b8b54"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/back.webp?v=070a99e5fe"
+      },
+      {
+        "title": "Blinding Dust",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Philippa",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "You may discard 1 card. If you do, deal damage to the opposing fighter equal to its BOOST value.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/blinding-dust.webp?v=1fcb492fc5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/blinding-dust.webp?v=1fcb492fc5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/back.webp?v=070a99e5fe"
+      },
+      {
+        "title": "Chain Lightning",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Philippa",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Choose a zone Philippa is in. Deal 1 damage to each opposing fighter in that zone.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/chain-lightning.webp?v=d7771ff044",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/chain-lightning.webp?v=d7771ff044"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/back.webp?v=070a99e5fe"
+      },
+      {
+        "title": "Cunning",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Your opponent may discard 1 card. If they don't, deal 2 damage to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/cunning.webp?v=0c4f7dfafa",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/cunning.webp?v=0c4f7dfafa"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/back.webp?v=070a99e5fe"
+      },
+      {
+        "title": "Do My Bidding",
+        "quantity": 2,
+        "type": "defence",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Return your opponent's card to their hand. Look at their hand and choose a card for them to play. (It may be the same card.)",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/do-my-bidding.webp?v=a47fa72446",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/do-my-bidding.webp?v=a47fa72446"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/back.webp?v=070a99e5fe"
+      },
+      {
+        "title": "Lightning Bolt",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Philippa",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you haven't taken a maneuver action this turn, deal 1 damage to each opposing fighter in Philippa's zone.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/lightning-bolt.webp?v=88e29e69c7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/lightning-bolt.webp?v=88e29e69c7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/back.webp?v=070a99e5fe"
+      },
+      {
+        "title": "Owlform",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Philippa",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Discard any number of cards from your hand. Add +1 to this card's value for each card discarded.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/owlform.webp?v=156aa45353",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/owlform.webp?v=156aa45353"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/back.webp?v=070a99e5fe"
+      },
+      {
+        "title": "Paralyzing Fetters",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Philippa",
+        "basicText": "",
+        "immediateText": "The value of your opponent's card is equal to its printed value and cannot be changed.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/paralyzing-fetters.webp?v=242d29c404",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/paralyzing-fetters.webp?v=242d29c404"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/back.webp?v=070a99e5fe"
+      },
+      {
+        "title": "Polymorphy",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Philippa",
+        "basicText": "Place Philippa in any space.\nONGOING: Philippa's move value is 5.\nDiscard this card at the end of your turn if Philippa is not in a zone with an opposing fighter.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/polymorphy.webp?v=b08d150351",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/polymorphy.webp?v=b08d150351"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/back.webp?v=070a99e5fe"
+      },
+      {
+        "title": "Redanian Plot",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Your opponent may discard 1 card. If they don't, ignore their card's value.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/redanian-plot.webp?v=1271b6e527",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/redanian-plot.webp?v=1271b6e527"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/back.webp?v=070a99e5fe"
+      },
+      {
+        "title": "Regicide",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If the opposing fighter is a hero, this card's value is 6 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/regicide.webp?v=52abb24724",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/regicide.webp?v=52abb24724"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/back.webp?v=070a99e5fe"
+      },
+      {
+        "title": "Spellbreaker",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Philippa",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "End the turn.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/spellbreaker.webp?v=09d9be26ea",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/spellbreaker.webp?v=09d9be26ea"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/back.webp?v=070a99e5fe"
+      },
+      {
+        "title": "Spymaster's Ruse",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Dijkstra",
+        "basicText": "Choose an opponent. They reveal 4 cards from their hand. Choose 2 of those cards for them to discard. Then, they draw 2 cards.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/spymasters-ruse.webp?v=5926b579b5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/cards/spymasters-ruse.webp?v=5926b579b5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/back.webp?v=070a99e5fe"
+      },
+      {
+        "title": "Philippa",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Philippa",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/hero.webp?v=a546f4f849",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/hero.webp?v=a546f4f849"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/philippa/back.webp?v=070a99e5fe",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

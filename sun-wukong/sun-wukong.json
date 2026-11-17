@@ -1,0 +1,279 @@
+{
+  "id": "um-sun-wukong",
+  "family_id": "um-sun-wukong",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Sun Wukong",
+  "note": "Unmatched (Restoration Games), set battle-of-legends-2. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T14:58:30.151Z",
+  "deck_first_published_on": "2026-11-17T14:58:30.151Z",
+  "published_on": "2026-11-17T14:58:30.151Z",
+  "updated_on": "2026-11-17T14:58:30.151Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "battle-of-legends-2"
+  ],
+  "deck_data": {
+    "name": "Sun Wukong",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Sun Wukong",
+      "hp": 17,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "At the start of your turn, you may take 1 damage to summon a Clone in an empty space adjacent to Sun Wukong. Do not start with any Clones on the board.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/token-hero.png?v=66ae70981e"
+    },
+    "sidekick": {
+      "name": "Clone",
+      "quantity": 3,
+      "hp": 1,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/token-clone.png?v=1d456686f7"
+    },
+    "cards": [
+      {
+        "title": "72 Transformations",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Take an OX FORM, TORTOISE FORM, or PHOENIX FORM from your discard pile and return it to your hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/72-transformations.webp?v=8dcc086592",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/72-transformations.webp?v=8dcc086592"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+      },
+      {
+        "title": "Bewilderment",
+        "quantity": 2,
+        "type": "defence",
+        "value": 0,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Prevent all combat damage.",
+        "afterText": "You may place your fighter in any space.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/bewilderment.webp?v=5c5055feca",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/bewilderment.webp?v=5c5055feca"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+      },
+      {
+        "title": "Fiery Eyes That See",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "Look at an opponent's hand and choose a card. Put that card on the bottom of their deck. You each draw 1 card.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/fiery-eyes-that-see.webp?v=c5549c6dad",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/fiery-eyes-that-see.webp?v=c5549c6dad"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+      },
+      {
+        "title": "Golden Chain Mail",
+        "quantity": 2,
+        "type": "defence",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Any combat damage you would take is dealt to the opposing fighter instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/golden-chain-mail.webp?v=9889a5b581",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/golden-chain-mail.webp?v=9889a5b581"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+      },
+      {
+        "title": "Infinite Strikes",
+        "quantity": 3,
+        "type": "attack",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "For each other friendly fighter adjacent to the opposing fighter, increase the value of this card by +1.",
+        "afterText": "Gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/infinite-strikes.webp?v=f7ce47ecce",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/infinite-strikes.webp?v=f7ce47ecce"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+      },
+      {
+        "title": "Ox Form",
+        "quantity": 2,
+        "type": "attack",
+        "value": 7,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "This card's effects cannot be canceled.",
+        "immediateText": "",
+        "duringText": "If your opponent played a card, they may BOOST it.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/ox-form.webp?v=b32403995a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/ox-form.webp?v=b32403995a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+      },
+      {
+        "title": "Phoenix Form",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "Sun Wukong recovers 1 health for each Clone on the board.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/phoenix-form.webp?v=40fd30d560",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/phoenix-form.webp?v=40fd30d560"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+      },
+      {
+        "title": "Ruyi Jingo Bang",
+        "quantity": 3,
+        "type": "attack",
+        "value": 0,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If your opponent played a defense card, ► TRICKED YOU (bonus attack).\nTRICKED YOU (4)",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/ruyi-jingu-bang.webp?v=cf0ac81946",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/ruyi-jingu-bang.webp?v=cf0ac81946"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+      },
+      {
+        "title": "Sly Monkey",
+        "quantity": 4,
+        "type": "versatile",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If Sun Wukong played this card, summon a Clone in Sun Wukong's space, then place Sun Wukong in a space in his zone.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/sly-monkey.webp?v=7411a95ae6",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/sly-monkey.webp?v=7411a95ae6"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+      },
+      {
+        "title": "Taunting Laughter",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Your opponent may discard 1 card from their hand. If they don't, ignore their card's value.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/taunting-laughter.webp?v=80f4bd97a1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/taunting-laughter.webp?v=80f4bd97a1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+      },
+      {
+        "title": "Tortoise Form",
+        "quantity": 2,
+        "type": "defence",
+        "value": 5,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Your opponent may BOOST their attack.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/tortoise-form.webp?v=5e2b963c48",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/tortoise-form.webp?v=5e2b963c48"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+      },
+      {
+        "title": "Wily Fighting",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 1 damage to each opposing fighter adjacent to your fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/wily-fighting.webp?v=046457af69",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/wily-fighting.webp?v=046457af69"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+      },
+      {
+        "title": "Sun Wukong",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Sun Wukong",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/hero.webp?v=17320bc9bc",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/hero.webp?v=17320bc9bc"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Bonus attacks",
+        "content": "Each hero in this set has cards with a bonus attack that allows the fighter to make a second attack with one attack action. When you play a card with a bonus attack, resolve the main attack as normal. The bonus attack is triggered by the AFTER COMBAT effect of the first attack. If that effect is canceled (by Feint, for example) the bonus attack does not occur.\n\nIf the bonus attack triggers, resolve that attack like a normal attack between the same attacker and defender as if the attacker played the bonus attack as a new attack card. The bonus attack has a new name, value, and effect. The BOOST value is the same. The bonus attack targets the same defender even if they are no longer a valid target. If the defender is defeated during the first attack, there is no bonus attack."
+      }
+    ]
+  }
+}

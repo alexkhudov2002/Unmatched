@@ -1,0 +1,1137 @@
+{
+  "decks": [
+    {
+      "id": "um-achilles",
+      "family_id": "um-achilles",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Achilles",
+      "note": "Unmatched (Restoration Games), set battle-of-legends-2. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T14:58:29.562Z",
+      "deck_first_published_on": "2026-11-17T14:58:29.562Z",
+      "published_on": "2026-11-17T14:58:29.562Z",
+      "updated_on": "2026-11-17T14:58:29.562Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "battle-of-legends-2"
+      ],
+      "deck_data": {
+        "name": "Achilles",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Achilles",
+          "hp": 18,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "When Patroclus is defeated, discard 2 random cards. While Patroclus is defeated: add +2 to the value of all Achilles' attacks; if Achilles wins combat, draw 1 card.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/token-hero.png?v=9e6b2e2e8f"
+        },
+        "sidekick": {
+          "name": "Patroclus",
+          "quantity": 1,
+          "hp": 6,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/token-patroclus.png?v=842dba221d"
+        },
+        "cards": [
+          {
+            "title": "Achilles' Heel",
+            "quantity": 3,
+            "type": "defence",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Achilles",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you lost the combat, your opponent gains 1 action.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/achilles-heel.webp?v=3ebd7dcb21",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/achilles-heel.webp?v=3ebd7dcb21"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+          },
+          {
+            "title": "Battle Frenzy",
+            "quantity": 2,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Patroclus",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 2 damage to both fighters in the combat.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/battle-frenzy.webp?v=d764c995ba",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/battle-frenzy.webp?v=d764c995ba"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+          },
+          {
+            "title": "Battle Hardened",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Choose a card in your discard pile and return it to your hand.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/battle-hardened.webp?v=97008fb8bb",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/battle-hardened.webp?v=97008fb8bb"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+          },
+          {
+            "title": "Blessed by Hermes",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move each of your fighters up to 3 spaces. They may move through opposing fighters.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/blessed-by-hermes.webp?v=f09715742d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/blessed-by-hermes.webp?v=f09715742d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+          },
+          {
+            "title": "Brothers in Arms",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If Patroclus is not defeated, gain 1 action.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/brothers-in-arms.webp?v=8dcbac6c59",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/brothers-in-arms.webp?v=8dcbac6c59"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+          },
+          {
+            "title": "Feint",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/feint.webp?v=39e6de29a9",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/feint.webp?v=39e6de29a9"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+          },
+          {
+            "title": "Skirmish",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, choose one of the fighters in the combat and move them up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/skirmish.webp?v=3ae9421f65",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/skirmish.webp?v=3ae9421f65"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+          },
+          {
+            "title": "Spear Throw",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 1,
+            "characterName": "Achilles",
+            "basicText": "Deal 2 damage to an opposing fighter in Achilles' zone.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/spear-throw.webp?v=6b9dd0dcc9",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/spear-throw.webp?v=6b9dd0dcc9"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+          },
+          {
+            "title": "Test for Weakness",
+            "quantity": 3,
+            "type": "attack",
+            "value": 1,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "► RELENTLESS ASSAULT (bonus attack)\nRELENTLESS ASSAULT (3)",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/test-for-weakness.webp?v=97e12a56d8",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/test-for-weakness.webp?v=97e12a56d8"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+          },
+          {
+            "title": "The Day of Your Doom",
+            "quantity": 2,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Patroclus",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may deal 2 damage to Patroclus. If you do, the value of this attack is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/the-day-of-your-doom.webp?v=bc8d715e3b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/the-day-of-your-doom.webp?v=bc8d715e3b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+          },
+          {
+            "title": "Under Achilles' Helm",
+            "quantity": 3,
+            "type": "defence",
+            "value": 2,
+            "boost": 4,
+            "characterName": "Achilles",
+            "basicText": "",
+            "immediateText": "If Patroclus is not defeated, Achilles may swap spaces with him. If he does, Patroclus is now the defender.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/under-achilles-helm.webp?v=f2aae86136",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/under-achilles-helm.webp?v=f2aae86136"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+          },
+          {
+            "title": "Wily Fighting",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 1 damage to each opposing fighter adjacent to your fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/wily-fighting.webp?v=d7dda2109f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/wily-fighting.webp?v=d7dda2109f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+          },
+          {
+            "title": "Achilles",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Achilles",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/hero.webp?v=a45b05c929",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/hero.webp?v=a45b05c929"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Bonus attacks",
+            "content": "Each hero in this set has cards with a bonus attack that allows the fighter to make a second attack with one attack action. When you play a card with a bonus attack, resolve the main attack as normal. The bonus attack is triggered by the AFTER COMBAT effect of the first attack. If that effect is canceled (by Feint, for example) the bonus attack does not occur.\n\nIf the bonus attack triggers, resolve that attack like a normal attack between the same attacker and defender as if the attacker played the bonus attack as a new attack card. The bonus attack has a new name, value, and effect. The BOOST value is the same. The bonus attack targets the same defender even if they are no longer a valid target. If the defender is defeated during the first attack, there is no bonus attack."
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-bloody-mary",
+      "family_id": "um-bloody-mary",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Bloody Mary",
+      "note": "Unmatched (Restoration Games), set battle-of-legends-2. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T14:58:29.863Z",
+      "deck_first_published_on": "2026-11-17T14:58:29.863Z",
+      "published_on": "2026-11-17T14:58:29.863Z",
+      "updated_on": "2026-11-17T14:58:29.863Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "battle-of-legends-2"
+      ],
+      "deck_data": {
+        "name": "Bloody Mary",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Bloody Mary",
+          "hp": 16,
+          "move": 3,
+          "isRanged": false,
+          "specialAbility": "At the start of your turn, if you have exactly 3 cards in hand, gain 1 action.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/token-hero.png?v=cb5e302211"
+        },
+        "sidekick": {
+          "name": "Sidekick",
+          "hp": null,
+          "quantity": null,
+          "isRanged": false,
+          "quote": ""
+        },
+        "cards": [
+          {
+            "title": "Bloody Requiem",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 4,
+            "characterName": "Bloody Mary",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "► BLOODY REPRISE (bonus attack)\nBLOODY REPRISE (0) — DURING COMBAT: If your opponent played a card against BLOODY REQUIEM, this attack's value is that card's printed value.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/bloody-requiem.webp?v=00c8afc0cf",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/bloody-requiem.webp?v=00c8afc0cf"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+          },
+          {
+            "title": "Broken Glass",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Bloody Mary",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may increase or decrease the value of this card by 1.",
+            "afterText": "If the value of this card matches your opponent's card, draw 1 card and the opposing fighter takes 2 damage.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/broken-glass.webp?v=9355ddbee7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/broken-glass.webp?v=9355ddbee7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+          },
+          {
+            "title": "Closer Than She Appears",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Bloody Mary",
+            "basicText": "Move Bloody Mary up to 1 space. Draw 1 card. Gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/closer-than-she-appears.webp?v=331c102311",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/closer-than-she-appears.webp?v=331c102311"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+          },
+          {
+            "title": "Evade",
+            "quantity": 3,
+            "type": "defence",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Bloody Mary",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/evade.webp?v=1b91a5b3eb",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/evade.webp?v=1b91a5b3eb"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+          },
+          {
+            "title": "Feint",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Bloody Mary",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/feint.webp?v=dcf441193a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/feint.webp?v=dcf441193a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+          },
+          {
+            "title": "Ghostly Touch",
+            "quantity": 2,
+            "type": "attack",
+            "value": 1,
+            "boost": 2,
+            "characterName": "Bloody Mary",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BOOST this attack.",
+            "afterText": "If this is your third action this turn, recover 3 health.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/ghostly-touch.webp?v=43cc08ecba",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/ghostly-touch.webp?v=43cc08ecba"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+          },
+          {
+            "title": "Infinity Mirror",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Bloody Mary",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Choose one of the fighters in the combat and move them up to 4 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/infinity-mirror.webp?v=6482041bd9",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/infinity-mirror.webp?v=6482041bd9"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+          },
+          {
+            "title": "Jump Scare",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Bloody Mary",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If Bloody Mary shares no zones with the space she started in this turn, this card's value is 6 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/jump-scare.webp?v=96d3c33ef7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/jump-scare.webp?v=96d3c33ef7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+          },
+          {
+            "title": "Mirror Image",
+            "quantity": 2,
+            "type": "defence",
+            "value": 0,
+            "boost": 2,
+            "characterName": "Bloody Mary",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "The value of this card is equal to the printed value of your opponent's card.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/mirror-image.webp?v=799c86e393",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/mirror-image.webp?v=799c86e393"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+          },
+          {
+            "title": "Out of the Mirror",
+            "quantity": 2,
+            "type": "attack",
+            "value": 1,
+            "boost": 2,
+            "characterName": "Bloody Mary",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Your opponent discards 1 random card. Add its BOOST value to this card's value.",
+            "afterText": "If this is your third action, draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/out-of-the-mirror.webp?v=c6940c61cd",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/out-of-the-mirror.webp?v=c6940c61cd"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+          },
+          {
+            "title": "Speak Three Times",
+            "quantity": 2,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Bloody Mary",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If this is your third action this turn, the value of this card is 7 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/speak-three-times.webp?v=f682b57e68",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/speak-three-times.webp?v=f682b57e68"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+          },
+          {
+            "title": "Stolen Memories",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Bloody Mary",
+            "basicText": "Look at an opponent's hand and choose a card. Your opponent may discard it. If they don't, their hero takes damage equal to its BOOST value.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/stolen-memories.webp?v=2310af6487",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/stolen-memories.webp?v=2310af6487"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+          },
+          {
+            "title": "Trick of the Light",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Bloody Mary",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You may place Bloody Mary in any empty space adjacent to the opposing fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/trick-of-the-light.webp?v=3dc8ec4bfe",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/cards/trick-of-the-light.webp?v=3dc8ec4bfe"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9"
+          },
+          {
+            "title": "Bloody Mary",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Bloody Mary",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/hero.webp?v=f4e764b357",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/hero.webp?v=f4e764b357"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bloody-mary/back.webp?v=a7a2af04f9",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Bonus attacks",
+            "content": "Each hero in this set has cards with a bonus attack that allows the fighter to make a second attack with one attack action. When you play a card with a bonus attack, resolve the main attack as normal. The bonus attack is triggered by the AFTER COMBAT effect of the first attack. If that effect is canceled (by Feint, for example) the bonus attack does not occur.\n\nIf the bonus attack triggers, resolve that attack like a normal attack between the same attacker and defender as if the attacker played the bonus attack as a new attack card. The bonus attack has a new name, value, and effect. The BOOST value is the same. The bonus attack targets the same defender even if they are no longer a valid target. If the defender is defeated during the first attack, there is no bonus attack."
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-sun-wukong",
+      "family_id": "um-sun-wukong",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Sun Wukong",
+      "note": "Unmatched (Restoration Games), set battle-of-legends-2. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T14:58:30.151Z",
+      "deck_first_published_on": "2026-11-17T14:58:30.151Z",
+      "published_on": "2026-11-17T14:58:30.151Z",
+      "updated_on": "2026-11-17T14:58:30.151Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "battle-of-legends-2"
+      ],
+      "deck_data": {
+        "name": "Sun Wukong",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Sun Wukong",
+          "hp": 17,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "At the start of your turn, you may take 1 damage to summon a Clone in an empty space adjacent to Sun Wukong. Do not start with any Clones on the board.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/token-hero.png?v=66ae70981e"
+        },
+        "sidekick": {
+          "name": "Clone",
+          "quantity": 3,
+          "hp": 1,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/token-clone.png?v=1d456686f7"
+        },
+        "cards": [
+          {
+            "title": "72 Transformations",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Take an OX FORM, TORTOISE FORM, or PHOENIX FORM from your discard pile and return it to your hand.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/72-transformations.webp?v=8dcc086592",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/72-transformations.webp?v=8dcc086592"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+          },
+          {
+            "title": "Bewilderment",
+            "quantity": 2,
+            "type": "defence",
+            "value": 0,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Prevent all combat damage.",
+            "afterText": "You may place your fighter in any space.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/bewilderment.webp?v=5c5055feca",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/bewilderment.webp?v=5c5055feca"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+          },
+          {
+            "title": "Fiery Eyes That See",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "Look at an opponent's hand and choose a card. Put that card on the bottom of their deck. You each draw 1 card.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/fiery-eyes-that-see.webp?v=c5549c6dad",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/fiery-eyes-that-see.webp?v=c5549c6dad"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+          },
+          {
+            "title": "Golden Chain Mail",
+            "quantity": 2,
+            "type": "defence",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Any combat damage you would take is dealt to the opposing fighter instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/golden-chain-mail.webp?v=9889a5b581",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/golden-chain-mail.webp?v=9889a5b581"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+          },
+          {
+            "title": "Infinite Strikes",
+            "quantity": 3,
+            "type": "attack",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "For each other friendly fighter adjacent to the opposing fighter, increase the value of this card by +1.",
+            "afterText": "Gain 1 action.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/infinite-strikes.webp?v=f7ce47ecce",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/infinite-strikes.webp?v=f7ce47ecce"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+          },
+          {
+            "title": "Ox Form",
+            "quantity": 2,
+            "type": "attack",
+            "value": 7,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "This card's effects cannot be canceled.",
+            "immediateText": "",
+            "duringText": "If your opponent played a card, they may BOOST it.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/ox-form.webp?v=b32403995a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/ox-form.webp?v=b32403995a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+          },
+          {
+            "title": "Phoenix Form",
+            "quantity": 1,
+            "type": "scheme",
+            "value": null,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "Sun Wukong recovers 1 health for each Clone on the board.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/phoenix-form.webp?v=40fd30d560",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/phoenix-form.webp?v=40fd30d560"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+          },
+          {
+            "title": "Ruyi Jingo Bang",
+            "quantity": 3,
+            "type": "attack",
+            "value": 0,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If your opponent played a defense card, ► TRICKED YOU (bonus attack).\nTRICKED YOU (4)",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/ruyi-jingu-bang.webp?v=cf0ac81946",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/ruyi-jingu-bang.webp?v=cf0ac81946"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+          },
+          {
+            "title": "Sly Monkey",
+            "quantity": 4,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If Sun Wukong played this card, summon a Clone in Sun Wukong's space, then place Sun Wukong in a space in his zone.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/sly-monkey.webp?v=7411a95ae6",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/sly-monkey.webp?v=7411a95ae6"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+          },
+          {
+            "title": "Taunting Laughter",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Your opponent may discard 1 card from their hand. If they don't, ignore their card's value.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/taunting-laughter.webp?v=80f4bd97a1",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/taunting-laughter.webp?v=80f4bd97a1"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+          },
+          {
+            "title": "Tortoise Form",
+            "quantity": 2,
+            "type": "defence",
+            "value": 5,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Your opponent may BOOST their attack.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/tortoise-form.webp?v=5e2b963c48",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/tortoise-form.webp?v=5e2b963c48"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+          },
+          {
+            "title": "Wily Fighting",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 1 damage to each opposing fighter adjacent to your fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/wily-fighting.webp?v=046457af69",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/cards/wily-fighting.webp?v=046457af69"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3"
+          },
+          {
+            "title": "Sun Wukong",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Sun Wukong",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/hero.webp?v=17320bc9bc",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/hero.webp?v=17320bc9bc"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sun-wukong/back.webp?v=194fecf7b3",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Bonus attacks",
+            "content": "Each hero in this set has cards with a bonus attack that allows the fighter to make a second attack with one attack action. When you play a card with a bonus attack, resolve the main attack as normal. The bonus attack is triggered by the AFTER COMBAT effect of the first attack. If that effect is canceled (by Feint, for example) the bonus attack does not occur.\n\nIf the bonus attack triggers, resolve that attack like a normal attack between the same attacker and defender as if the attacker played the bonus attack as a new attack card. The bonus attack has a new name, value, and effect. The BOOST value is the same. The bonus attack targets the same defender even if they are no longer a valid target. If the defender is defeated during the first attack, there is no bonus attack."
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-yennenga",
+      "family_id": "um-yennenga",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Yennenga",
+      "note": "Unmatched (Restoration Games), set battle-of-legends-2. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T14:58:30.446Z",
+      "deck_first_published_on": "2026-11-17T14:58:30.446Z",
+      "published_on": "2026-11-17T14:58:30.446Z",
+      "updated_on": "2026-11-17T14:58:30.446Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "battle-of-legends-2"
+      ],
+      "deck_data": {
+        "name": "Yennenga",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Yennenga",
+          "hp": 15,
+          "move": 2,
+          "isRanged": true,
+          "specialAbility": "If Yennenga would take damage, you may assign any amount of that damage to one or more Archers in her zone instead. (You may not assign more damage to an Archer than their remaining health.)",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/token-hero.png?v=9bf0a30671"
+        },
+        "sidekick": {
+          "name": "Archer",
+          "quantity": 2,
+          "hp": 2,
+          "isRanged": true,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/token-archer.png?v=0f68adef98"
+        },
+        "cards": [
+          {
+            "title": "Divide and Conquer",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Archer",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If your fighter is not in Yennenga's zone, the value of this card is 4 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/divide-and-conquer.webp?v=e04d6c2685",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/divide-and-conquer.webp?v=e04d6c2685"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+          },
+          {
+            "title": "Jaws of the Beast",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Yennenga",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "For each zone the opposing fighter is in, increase the value of this card by +1.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/jaws-of-the-beast.webp?v=55be01374c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/jaws-of-the-beast.webp?v=55be01374c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+          },
+          {
+            "title": "Master of the Hunt",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Yennenga",
+            "basicText": "Gain 2 actions.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/master-of-the-hunt.webp?v=539ff8eef2",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/master-of-the-hunt.webp?v=539ff8eef2"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+          },
+          {
+            "title": "Momentous Shift",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If your fighter started this turn in a different space, this card's value is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/momentous-shift.webp?v=a4827d9e69",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/momentous-shift.webp?v=a4827d9e69"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+          },
+          {
+            "title": "One with the Land",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Yennenga",
+            "basicText": "Move each of your fighters up to 2 spaces. Each of your fighters recovers 1 health. Draw 1 card.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/one-with-the-land.webp?v=438a8236d4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/one-with-the-land.webp?v=438a8236d4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+          },
+          {
+            "title": "Pin the Prey",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 1,
+            "boost": 2,
+            "characterName": "Archer",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move the opposing fighter up to 4 spaces. Your opponent discards 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/pin-the-prey.webp?v=9ce84ee1ff",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/pin-the-prey.webp?v=9ce84ee1ff"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+          },
+          {
+            "title": "Point Blank",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Yennenga",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If the opposing fighter is adjacent to Yennenga, deal 2 damage to that fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/point-blank.webp?v=d55512baa0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/point-blank.webp?v=d55512baa0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+          },
+          {
+            "title": "Rain of Arrows",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Yennenga",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "► VOLLEY (bonus attack)\nVOLLEY (3)",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/rain-of-arrows.webp?v=8368fcff5e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/rain-of-arrows.webp?v=8368fcff5e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+          },
+          {
+            "title": "Shield Formation",
+            "quantity": 2,
+            "type": "defence",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Yennenga",
+            "basicText": "",
+            "immediateText": "Your opponent may discard a card. If they don't, return a defeated Archer to a space in Yennenga's zone.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/shield-formation.webp?v=ef146d7094",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/shield-formation.webp?v=ef146d7094"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+          },
+          {
+            "title": "Skirmish",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, choose one of the fighters in the combat and move them up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/skirmish.webp?v=cd67bae65f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/skirmish.webp?v=cd67bae65f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+          },
+          {
+            "title": "Stallion Charge",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Yennenga",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move Yennenga up to 5 spaces. She may move through opposing fighters. Then, deal 1 damage to each opposing fighter she moved through.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/stallion-charge.webp?v=a534c90432",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/stallion-charge.webp?v=a534c90432"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+          },
+          {
+            "title": "Surprise Volley",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "You may return a defeated Archer to a space in the opposing fighter's zone. If you do, that Archer is now the attacker. If you don't, gain 1 action.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/surprise-volley.webp?v=72884b519f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/surprise-volley.webp?v=72884b519f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+          },
+          {
+            "title": "Yennenga",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Yennenga",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/hero.webp?v=6857618043",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/hero.webp?v=6857618043"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Bonus attacks",
+            "content": "Each hero in this set has cards with a bonus attack that allows the fighter to make a second attack with one attack action. When you play a card with a bonus attack, resolve the main attack as normal. The bonus attack is triggered by the AFTER COMBAT effect of the first attack. If that effect is canceled (by Feint, for example) the bonus attack does not occur.\n\nIf the bonus attack triggers, resolve that attack like a normal attack between the same attacker and defender as if the attacker played the bonus attack as a new attack card. The bonus attack has a new name, value, and effect. The BOOST value is the same. The bonus attack targets the same defender even if they are no longer a valid target. If the defender is defeated during the first attack, there is no bonus attack."
+          }
+        ]
+      }
+    }
+  ],
+  "maps": []
+}

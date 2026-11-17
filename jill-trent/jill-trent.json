@@ -1,0 +1,338 @@
+{
+  "id": "um-jill-trent",
+  "family_id": "um-jill-trent",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Dr. Jill Trent",
+  "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T14:51:47.393Z",
+  "deck_first_published_on": "2026-11-17T14:51:47.393Z",
+  "published_on": "2026-11-17T14:51:47.393Z",
+  "updated_on": "2026-11-17T14:51:47.393Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "tales-of-amaze"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-hero.png?v=8d44787575",
+      "clip": "circle",
+      "label": "Dr. Jill Trent",
+      "rim": "#1F1F1F",
+      "initials": "DJ",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-daisy.png?v=2c5235f50a",
+      "clip": "circle",
+      "label": "Daisy",
+      "rim": "#1F1F1F",
+      "initials": "D",
+      "size": 64,
+      "h": 64,
+      "counter": {
+        "link": "sidekick"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-gadget.png?v=83e8e93e03",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "clip": "circle",
+      "size": 72,
+      "h": 72
+    }
+  ],
+  "deck_data": {
+    "name": "Dr. Jill Trent",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Dr. Jill Trent",
+      "hp": 13,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "GADGETOLOGY\nAt the start of your turn, activate one of your gadgets. Whenever Jill Trent attacks, resolve the active gadget's effect.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-hero.png?v=8d44787575"
+    },
+    "sidekick": {
+      "name": "Daisy",
+      "quantity": 1,
+      "hp": 6,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/token-daisy.png?v=2c5235f50a"
+    },
+    "cards": [
+      {
+        "title": "Ace Fighter",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 5,
+        "boost": 3,
+        "characterName": "Daisy",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/ace-fighter.webp?v=d3e07d0f79",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/ace-fighter.webp?v=d3e07d0f79"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+      },
+      {
+        "title": "Battle of Wits",
+        "quantity": 3,
+        "type": "attack",
+        "value": 2,
+        "boost": 4,
+        "characterName": "Dr. Jill Trent",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Reveal the top card of your deck and your opponent's deck. If your card has a higher BOOST value, deal 3 damage to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/battle-of-wits.webp?v=a049db694d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/battle-of-wits.webp?v=a049db694d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+      },
+      {
+        "title": "Caught Red-Handed",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 1,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Your opponent discards 1 card. If you won the combat, they discard 2 cards instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/caught-red-handed.webp?v=75fe69f390",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/caught-red-handed.webp?v=75fe69f390"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+      },
+      {
+        "title": "Energizing Spray",
+        "quantity": 2,
+        "type": "attack",
+        "value": 5,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/energizing-spray.webp?v=1de7e72af1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/energizing-spray.webp?v=1de7e72af1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+      },
+      {
+        "title": "Gyroscopic Jetpack",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move your fighter up to 2 spaces. They may move through opposing fighters.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/gyroscopic-jetpack.webp?v=0fc29f6310",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/gyroscopic-jetpack.webp?v=0fc29f6310"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+      },
+      {
+        "title": "Helpful Assistant",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Daisy",
+        "basicText": "Shuffle up to 3 Jill Trent cards in your discard pile back into your deck. Draw 1 card.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/helpful-assistant.webp?v=6cfd3c6d77",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/helpful-assistant.webp?v=6cfd3c6d77"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+      },
+      {
+        "title": "Hypnotist",
+        "quantity": 2,
+        "type": "defence",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Dr. Jill Trent",
+        "basicText": "",
+        "immediateText": "If your active gadget is Hypnoray Blaster, cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/hypnotist.webp?v=17dd2d0d21",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/hypnotist.webp?v=17dd2d0d21"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+      },
+      {
+        "title": "Indestructible Cloth",
+        "quantity": 2,
+        "type": "defence",
+        "value": 5,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "This combat, your fighter does not take damage from effects other than combat damage.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/indestructible-cloth.webp?v=e3c6e04e58",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/indestructible-cloth.webp?v=e3c6e04e58"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+      },
+      {
+        "title": "Insightful Deduction",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Reveal the top 3 cards of your opponent's deck. Put one of them on the bottom of the deck and the rest on top in any order.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/insightful-deduction.webp?v=6e91981520",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/insightful-deduction.webp?v=6e91981520"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+      },
+      {
+        "title": "Laser Pen",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 1 damage to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/laser-pen.webp?v=d3cb655bfc",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/laser-pen.webp?v=d3cb655bfc"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+      },
+      {
+        "title": "Sisters in Arms",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Daisy",
+        "basicText": "This card's effects cannot be canceled. If Daisy and Jill Trent are adjacent and Daisy is attacking, Daisy gains the effect of Jill Trent's gadget.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/sisters-in-arms.webp?v=9c979882b3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/sisters-in-arms.webp?v=9c979882b3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+      },
+      {
+        "title": "Stasis Diffuser",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "The value of your opponent's card is equal to its printed value and cannot be changed.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/stasis-diffuser.webp?v=6483f8014b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/stasis-diffuser.webp?v=6483f8014b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+      },
+      {
+        "title": "Utility Belt",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Dr. Jill Trent",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Choose one: ► Jill Trent recovers 1 health ► move Jill Trent 1 space ► draw 1 card",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/utility-belt.webp?v=954b8e163f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/cards/utility-belt.webp?v=954b8e163f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89"
+      },
+      {
+        "title": "Dr. Jill Trent",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Dr. Jill Trent",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/hero.webp?v=e6131087de",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/hero.webp?v=e6131087de"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jill-trent/back.webp?v=5c465f6f89",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Hypnoray Blaster",
+        "content": "DURING COMBAT: If your card's printed value is lower than your opponent's, reveal the top card of your opponent's deck. Increase the value of your attack by the BOOST value of the revealed card."
+      },
+      {
+        "title": "Ultrabiotic Tonic",
+        "content": "AFTER COMBAT: If your card's printed value is higher than your opponent's, Jill Trent recovers 1 health."
+      }
+    ]
+  }
+}

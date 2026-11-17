@@ -1,0 +1,341 @@
+{
+  "id": "um-sinbad",
+  "family_id": "um-sinbad",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Sinbad",
+  "note": "Unmatched (Restoration Games), set battle-of-legends-1. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T14:53:50.972Z",
+  "deck_first_published_on": "2026-11-17T14:53:50.972Z",
+  "published_on": "2026-11-17T14:53:50.972Z",
+  "updated_on": "2026-11-17T14:53:50.972Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "battle-of-legends-1"
+  ],
+  "deck_data": {
+    "name": "Sinbad",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Sinbad",
+      "hp": 15,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "When you maneuver, you may move your fighters +1 space for each VOYAGE card in your discard pile.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/token-hero.png?v=ce21fc80a1"
+    },
+    "sidekick": {
+      "name": "The Porter",
+      "quantity": 1,
+      "hp": 6,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/token-the-porter.png?v=df9cbdd597"
+    },
+    "cards": [
+      {
+        "title": "By Fortune and Fate",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 1,
+        "characterName": "The Porter",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 2 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/by-fortune-and-fate.webp?v=6d0b034a30",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/by-fortune-and-fate.webp?v=6d0b034a30"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+      },
+      {
+        "title": "Commanding Impact",
+        "quantity": 1,
+        "type": "attack",
+        "value": 5,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/commanding-impact.webp?v=8de05dd90c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/commanding-impact.webp?v=8de05dd90c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+      },
+      {
+        "title": "Exploit",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/exploit.webp?v=e827d46a76",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/exploit.webp?v=e827d46a76"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/feint.webp?v=7a834f26ea",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/feint.webp?v=7a834f26ea"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+      },
+      {
+        "title": "Leap Away",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, choose one of the fighters in the combat and move them up to 4 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/leap-away.webp?v=afcef1b0b3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/leap-away.webp?v=afcef1b0b3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+      },
+      {
+        "title": "Momentous Shift",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If your fighter started this turn in a different space, this card's value is 5 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/momentous-shift.webp?v=a641be8b43",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/momentous-shift.webp?v=a641be8b43"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+      },
+      {
+        "title": "Regroup",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 1,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/regroup.webp?v=4ef3e3e4f0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/regroup.webp?v=4ef3e3e4f0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+      },
+      {
+        "title": "Riches Beyond Compare",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "Sinbad",
+        "basicText": "Draw 3 cards.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/riches-beyond-compare.webp?v=b18c02a434",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/riches-beyond-compare.webp?v=b18c02a434"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+      },
+      {
+        "title": "Toil and Danger",
+        "quantity": 4,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Sinbad",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move Sinbad up to 3 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/toil-and-danger.webp?v=a6846ba8dc",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/toil-and-danger.webp?v=a6846ba8dc"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+      },
+      {
+        "title": "Voyage Home",
+        "quantity": 1,
+        "type": "attack",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Sinbad",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "This card's value is +1 for each other VOYAGE card in your discard pile.",
+        "afterText": "Take all other VOYAGE cards from your discard pile and add them to your hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-home.webp?v=1f7a45b0f3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-home.webp?v=1f7a45b0f3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+      },
+      {
+        "title": "Voyage to the Cannibals with the Root of Madness",
+        "quantity": 1,
+        "type": "attack",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Sinbad",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "This card's value is +1 for each other VOYAGE card in your discard pile.",
+        "afterText": "You may move Sinbad up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-cannibals.webp?v=52ee6b3a57",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-cannibals.webp?v=52ee6b3a57"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+      },
+      {
+        "title": "Voyage to the City of the Man-Eating Apes",
+        "quantity": 1,
+        "type": "attack",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Sinbad",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "This card's value is +1 for each other VOYAGE card in your discard pile.",
+        "afterText": "Deal 2 damage to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-man-eating-apes.webp?v=d72c66d388",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-man-eating-apes.webp?v=d72c66d388"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+      },
+      {
+        "title": "Voyage to the City of the King of Serendib",
+        "quantity": 1,
+        "type": "attack",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Sinbad",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "This card's value is +1 for each other VOYAGE card in your discard pile.",
+        "afterText": "Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-king-of-serendib.webp?v=40852aab20",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-king-of-serendib.webp?v=40852aab20"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+      },
+      {
+        "title": "Voyage to the Creature with Eyes Like Coals of Fire",
+        "quantity": 1,
+        "type": "attack",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Sinbad",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "This card's value is +1 for each other VOYAGE card in your discard pile.",
+        "afterText": "Your opponent discards 1 random card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-creature.webp?v=57e5a6ae9a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-creature.webp?v=57e5a6ae9a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+      },
+      {
+        "title": "Voyage to the Island That Was a Whale",
+        "quantity": 1,
+        "type": "attack",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Sinbad",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "This card's value is +1 for each other VOYAGE card in your discard pile.",
+        "afterText": "Sinbad recovers 2 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-island-whale.webp?v=353dd1743a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-island-whale.webp?v=353dd1743a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+      },
+      {
+        "title": "Voyage to the Valley of the Giant Snakes",
+        "quantity": 1,
+        "type": "attack",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Sinbad",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "This card's value is +1 for each other VOYAGE card in your discard pile.",
+        "afterText": "Look at your opponent's hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-giant-snakes.webp?v=80af530ce7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-giant-snakes.webp?v=80af530ce7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+      },
+      {
+        "title": "Sinbad",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Sinbad",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/hero.webp?v=e7956f7cb3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/hero.webp?v=e7956f7cb3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

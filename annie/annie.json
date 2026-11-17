@@ -1,0 +1,273 @@
+{
+  "id": "um-annie",
+  "family_id": "um-annie",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Annie Christmas",
+  "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T14:38:16.869Z",
+  "deck_first_published_on": "2026-11-17T14:38:16.869Z",
+  "published_on": "2026-11-17T14:38:16.869Z",
+  "updated_on": "2026-11-17T14:38:16.869Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "tales-of-amaze"
+  ],
+  "deck_data": {
+    "name": "Annie Christmas",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Annie Christmas",
+      "hp": 14,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "NECKLACE OF PEARLS\nAdd +2 to the value of Annie's attacks if she has less health than the defender.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/token-hero.png?v=e116cd811b"
+    },
+    "sidekick": {
+      "name": "Charlie",
+      "quantity": 1,
+      "hp": 8,
+      "isRanged": true,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/token-charlie.png?v=a233ca7537"
+    },
+    "cards": [
+      {
+        "title": "A Few More Pearls",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Annie Christmas",
+        "basicText": "Deal 2 damage to each opposing fighter adjacent to Annie.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/a-few-more-pearls.webp?v=3464786e9d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/a-few-more-pearls.webp?v=3464786e9d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+      },
+      {
+        "title": "Better Together",
+        "quantity": 4,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If your fighter is adjacent to a friendly fighter, your fighter and each friendly fighter adjacent to them recover 1 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/better-together.webp?v=c51c18ecde",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/better-together.webp?v=c51c18ecde"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+      },
+      {
+        "title": "Bottom Dealing",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Charlie",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Reveal the bottom card of your deck. Increase the value of this card by the BOOST value of the revealed card, then put the revealed card on the top or the bottom of your deck.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/bottom-dealing.webp?v=21ec72b8ba",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/bottom-dealing.webp?v=21ec72b8ba"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+      },
+      {
+        "title": "Captain's Orders",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Annie Christmas",
+        "basicText": "Place Annie in any empty space in her zone. Then, place another friendly fighter in an empty space in Annie's zone. Gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/captains-orders.webp?v=fbc4d0de98",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/captains-orders.webp?v=fbc4d0de98"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+      },
+      {
+        "title": "Keep Your Hands to Yourself",
+        "quantity": 3,
+        "type": "defence",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Annie Christmas",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move each fighter in the combat up to 2 space.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/keep-your-hands-to-yourself.webp?v=11d3470b5c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/keep-your-hands-to-yourself.webp?v=11d3470b5c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+      },
+      {
+        "title": "Lagniappe",
+        "quantity": 3,
+        "type": "attack",
+        "value": 5,
+        "boost": 2,
+        "characterName": "Annie Christmas",
+        "basicText": "",
+        "immediateText": "Deal up to 2 damage to Annie to draw that many cards. (This may cause her special ability to apply.)",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/lagniappe.webp?v=c8167299d2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/lagniappe.webp?v=c8167299d2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+      },
+      {
+        "title": "Long Shot",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If the opposing fighter is not adjacent to your fighter, this card's value is 5 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/long-shot.webp?v=8686589d37",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/long-shot.webp?v=8686589d37"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+      },
+      {
+        "title": "Mississippi Queen",
+        "quantity": 3,
+        "type": "defence",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Annie Christmas",
+        "basicText": "",
+        "immediateText": "Damage cannot reduce Annie's health below 1 this turn.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/mississippi-queen.webp?v=a60671bb0c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/mississippi-queen.webp?v=a60671bb0c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+      },
+      {
+        "title": "Quite a Pair",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "You may reveal two cards from your hand with the same name. If you do, cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/quite-a-pair.webp?v=780520ceb4",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/quite-a-pair.webp?v=780520ceb4"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+      },
+      {
+        "title": "Slick Talker",
+        "quantity": 2,
+        "type": "defence",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Annie and Charlie may swap spaces. If they do, your other fighter is now the defender.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/slick-talker.webp?v=9beb9de051",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/slick-talker.webp?v=9beb9de051"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+      },
+      {
+        "title": "Striking Beauty",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 1,
+        "boost": 3,
+        "characterName": "Annie Christmas",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 1 damage to the opposing fighter. If you won the combat, deal 2 damage instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/striking-beauty.webp?v=155383b767",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/striking-beauty.webp?v=155383b767"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+      },
+      {
+        "title": "The Turn and the River",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Charlie",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 2 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/the-turn-and-the-river.webp?v=bde7e2e3a0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/cards/the-turn-and-the-river.webp?v=bde7e2e3a0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c"
+      },
+      {
+        "title": "Annie Christmas",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Annie Christmas",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/hero.webp?v=ccee48d06f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/hero.webp?v=ccee48d06f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/annie/back.webp?v=8f4229d76c",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

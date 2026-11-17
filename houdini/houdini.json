@@ -1,0 +1,290 @@
+{
+  "id": "um-houdini",
+  "family_id": "um-houdini",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Houdini",
+  "note": "Unmatched (Restoration Games), set houdini-vs-genie. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T14:50:10.582Z",
+  "deck_first_published_on": "2026-11-17T14:50:10.582Z",
+  "published_on": "2026-11-17T14:50:10.582Z",
+  "updated_on": "2026-11-17T14:50:10.582Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "houdini-vs-genie"
+  ],
+  "deck_data": {
+    "name": "Houdini",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/back.webp?v=6d8ad0c205",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Houdini",
+      "hp": 14,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "ESCAPE ARTIST\nWhen you take the maneuver action and BOOST, you may place Houdini in any space instead of moving. (Bess moves as normal.)",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/token-hero.png?v=904aa19635"
+    },
+    "sidekick": {
+      "name": "Bess",
+      "quantity": 1,
+      "hp": 5,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/token-bess.png?v=6134139836"
+    },
+    "cards": [
+      {
+        "title": "All Part of the Show",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "This card's effects cannot be canceled.\nBOOST: Houdini recovers 2 health.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If your fighter was defeated, set their health to 4 instead and place them in any space. (This effect happens even if Houdini was defeated.)",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/all-part-of-the-show.webp?v=538c4db6ac",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/all-part-of-the-show.webp?v=538c4db6ac"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/back.webp?v=6d8ad0c205"
+      },
+      {
+        "title": "And the Beautiful Bess!",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Bess",
+        "basicText": "If you discard this card as a result of an opponent's effect, draw 1 card.\nBOOST: If it's your turn, gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/and-the-beautiful-bess.webp?v=d74fa4d6c0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/and-the-beautiful-bess.webp?v=d74fa4d6c0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/back.webp?v=6d8ad0c205"
+      },
+      {
+        "title": "An Illusion of My Own Design",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Houdini",
+        "basicText": "",
+        "immediateText": "Your opponent may BOOST their card.",
+        "duringText": "You may BOOST this card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/an-illusion-of-my-own-design.webp?v=00ab5a2629",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/an-illusion-of-my-own-design.webp?v=00ab5a2629"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/back.webp?v=6d8ad0c205"
+      },
+      {
+        "title": "A Magician Never Reveals His Secrets",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 4,
+        "characterName": "Houdini",
+        "basicText": "Draw 2 cards. Gain 1 action.\nIf an effect would let an opponent look at your hand, you may reveal this card and cancel that effect.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/a-magician-never-reveals-his-secrets.webp?v=76a5bb342a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/a-magician-never-reveals-his-secrets.webp?v=76a5bb342a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/back.webp?v=6d8ad0c205"
+      },
+      {
+        "title": "Flourish",
+        "quantity": 4,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "BOOST: Draw 1 card.",
+        "immediateText": "",
+        "duringText": "You may BOOST this card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/flourish.webp?v=38a22f1e5c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/flourish.webp?v=38a22f1e5c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/back.webp?v=6d8ad0c205"
+      },
+      {
+        "title": "For My Next Trick",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move one of your fighters up to 1 space. Draw 1 card. Gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/for-my-next-trick.webp?v=7b568085f5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/for-my-next-trick.webp?v=7b568085f5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/back.webp?v=6d8ad0c205"
+      },
+      {
+        "title": "Grand Escape",
+        "quantity": 3,
+        "type": "defence",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Houdini",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this card.",
+        "afterText": "If you won the combat, place your fighter in any space.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/grand-escape.webp?v=4f35ddd0fb",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/grand-escape.webp?v=4f35ddd0fb"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/back.webp?v=6d8ad0c205"
+      },
+      {
+        "title": "Misdirection",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "BOOST: Deal 2 damage to any fighter.",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/misdirection.webp?v=a3897137ab",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/misdirection.webp?v=a3897137ab"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/back.webp?v=6d8ad0c205"
+      },
+      {
+        "title": "Set the Stage",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Bess",
+        "basicText": "Draw 3 cards. Then, put a card in your hand on top of your deck.\nBOOST: Look at an opponent's hand and choose a card for them to discard.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/set-the-stage.webp?v=269ae6927d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/set-the-stage.webp?v=269ae6927d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/back.webp?v=6d8ad0c205"
+      },
+      {
+        "title": "Sleight of Hand",
+        "quantity": 2,
+        "type": "attack",
+        "value": 1,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "BOOST: Draw 1 card.",
+        "immediateText": "You may return this card to your hand and choose a different card to play. Resolve all effects on that card as normal.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/sleight-of-hand.webp?v=d1eb6171c5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/sleight-of-hand.webp?v=d1eb6171c5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/back.webp?v=6d8ad0c205"
+      },
+      {
+        "title": "Smoke and Mirrors",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Houdini and Bess may swap spaces. If they do, your other fighter is now in the combat.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/smoke-and-mirrors.webp?v=f5bae8b82c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/smoke-and-mirrors.webp?v=f5bae8b82c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/back.webp?v=6d8ad0c205"
+      },
+      {
+        "title": "The Big Reveal",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Houdini",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this card twice.",
+        "afterText": "Return one card you boosted with to your hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/the-big-reveal.webp?v=bec1a21fef",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/the-big-reveal.webp?v=bec1a21fef"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/back.webp?v=6d8ad0c205"
+      },
+      {
+        "title": "Vanishing Act",
+        "quantity": 3,
+        "type": "defence",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Houdini",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Choose one of the fighters in the combat and move them up to 3 spaces. They may move through their opposing fighters.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/vanishing-act.webp?v=ac4ed01580",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/cards/vanishing-act.webp?v=ac4ed01580"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/back.webp?v=6d8ad0c205"
+      },
+      {
+        "title": "Houdini",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Houdini",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/hero.webp?v=f8f7000c3b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/hero.webp?v=f8f7000c3b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/houdini/back.webp?v=6d8ad0c205",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "id": "um-achilles",
+  "family_id": "um-achilles",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Achilles",
+  "note": "Unmatched (Restoration Games), set battle-of-legends-2. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T14:58:29.562Z",
+  "deck_first_published_on": "2026-11-17T14:58:29.562Z",
+  "published_on": "2026-11-17T14:58:29.562Z",
+  "updated_on": "2026-11-17T14:58:29.562Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "battle-of-legends-2"
+  ],
+  "deck_data": {
+    "name": "Achilles",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Achilles",
+      "hp": 18,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "When Patroclus is defeated, discard 2 random cards. While Patroclus is defeated: add +2 to the value of all Achilles' attacks; if Achilles wins combat, draw 1 card.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/token-hero.png?v=9e6b2e2e8f"
+    },
+    "sidekick": {
+      "name": "Patroclus",
+      "quantity": 1,
+      "hp": 6,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/token-patroclus.png?v=842dba221d"
+    },
+    "cards": [
+      {
+        "title": "Achilles' Heel",
+        "quantity": 3,
+        "type": "defence",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Achilles",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you lost the combat, your opponent gains 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/achilles-heel.webp?v=3ebd7dcb21",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/achilles-heel.webp?v=3ebd7dcb21"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+      },
+      {
+        "title": "Battle Frenzy",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Patroclus",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 2 damage to both fighters in the combat.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/battle-frenzy.webp?v=d764c995ba",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/battle-frenzy.webp?v=d764c995ba"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+      },
+      {
+        "title": "Battle Hardened",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Choose a card in your discard pile and return it to your hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/battle-hardened.webp?v=97008fb8bb",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/battle-hardened.webp?v=97008fb8bb"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+      },
+      {
+        "title": "Blessed by Hermes",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move each of your fighters up to 3 spaces. They may move through opposing fighters.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/blessed-by-hermes.webp?v=f09715742d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/blessed-by-hermes.webp?v=f09715742d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+      },
+      {
+        "title": "Brothers in Arms",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If Patroclus is not defeated, gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/brothers-in-arms.webp?v=8dcbac6c59",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/brothers-in-arms.webp?v=8dcbac6c59"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/feint.webp?v=39e6de29a9",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/feint.webp?v=39e6de29a9"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+      },
+      {
+        "title": "Skirmish",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, choose one of the fighters in the combat and move them up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/skirmish.webp?v=3ae9421f65",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/skirmish.webp?v=3ae9421f65"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+      },
+      {
+        "title": "Spear Throw",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "Achilles",
+        "basicText": "Deal 2 damage to an opposing fighter in Achilles' zone.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/spear-throw.webp?v=6b9dd0dcc9",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/spear-throw.webp?v=6b9dd0dcc9"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+      },
+      {
+        "title": "Test for Weakness",
+        "quantity": 3,
+        "type": "attack",
+        "value": 1,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "► RELENTLESS ASSAULT (bonus attack)\nRELENTLESS ASSAULT (3)",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/test-for-weakness.webp?v=97e12a56d8",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/test-for-weakness.webp?v=97e12a56d8"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+      },
+      {
+        "title": "The Day of Your Doom",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Patroclus",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may deal 2 damage to Patroclus. If you do, the value of this attack is 5 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/the-day-of-your-doom.webp?v=bc8d715e3b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/the-day-of-your-doom.webp?v=bc8d715e3b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+      },
+      {
+        "title": "Under Achilles' Helm",
+        "quantity": 3,
+        "type": "defence",
+        "value": 2,
+        "boost": 4,
+        "characterName": "Achilles",
+        "basicText": "",
+        "immediateText": "If Patroclus is not defeated, Achilles may swap spaces with him. If he does, Patroclus is now the defender.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/under-achilles-helm.webp?v=f2aae86136",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/under-achilles-helm.webp?v=f2aae86136"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+      },
+      {
+        "title": "Wily Fighting",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 1 damage to each opposing fighter adjacent to your fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/wily-fighting.webp?v=d7dda2109f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/cards/wily-fighting.webp?v=d7dda2109f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7"
+      },
+      {
+        "title": "Achilles",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Achilles",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/hero.webp?v=a45b05c929",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/hero.webp?v=a45b05c929"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/achilles/back.webp?v=5e52b8a1e7",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Bonus attacks",
+        "content": "Each hero in this set has cards with a bonus attack that allows the fighter to make a second attack with one attack action. When you play a card with a bonus attack, resolve the main attack as normal. The bonus attack is triggered by the AFTER COMBAT effect of the first attack. If that effect is canceled (by Feint, for example) the bonus attack does not occur.\n\nIf the bonus attack triggers, resolve that attack like a normal attack between the same attacker and defender as if the attacker played the bonus attack as a new attack card. The bonus attack has a new name, value, and effect. The BOOST value is the same. The bonus attack targets the same defender even if they are no longer a valid target. If the defender is defeated during the first attack, there is no bonus attack."
+      }
+    ]
+  }
+}

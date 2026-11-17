@@ -1,0 +1,293 @@
+{
+  "id": "um-tesla",
+  "family_id": "um-tesla",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Nikola Tesla",
+  "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T14:38:18.063Z",
+  "deck_first_published_on": "2026-11-17T14:38:18.063Z",
+  "published_on": "2026-11-17T14:38:18.063Z",
+  "updated_on": "2026-11-17T14:38:18.063Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "tales-of-amaze"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-hero.png?v=27014f0aa8",
+      "clip": "circle",
+      "label": "Nikola Tesla",
+      "rim": "#1F1F1F",
+      "initials": "NT",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-bobinas.png?v=1a5d57ffe8",
+      "clip": "circle",
+      "size": 56,
+      "h": 56,
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 1
+      },
+      "altIndex": 0
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-bobinas.png?v=1a5d57ffe8",
+      "clip": "circle",
+      "size": 56,
+      "h": 56,
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1
+    }
+  ],
+  "deck_data": {
+    "name": "Nikola Tesla",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Nikola Tesla",
+      "hp": 14,
+      "move": 2,
+      "isRanged": true,
+      "specialAbility": "ELECTRICAL OVERFLOW\nStart the game with 1 coil charged. At the end of your turn, charge 1 coil. At the start of your turn, if both coils are charged, deal 1 damage to each opposing fighter adjacent to Tesla and move them up to 1 space.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/token-hero.png?v=27014f0aa8"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "7 Hertz",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Nikola Tesla",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "You may discharge coils: ⚡ - Gain 1 action. ⚡⚡ - Also, draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/7-hertz.webp?v=b31fedb9c5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/7-hertz.webp?v=b31fedb9c5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+      },
+      {
+        "title": "Death Ray",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 4,
+        "characterName": "Nikola Tesla",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may discharge coils: ⚡ - This card's value is 5. ⚡⚡ - Instead, this card's value is 7.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/death-ray.webp?v=93a16f5ba5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/death-ray.webp?v=93a16f5ba5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+      },
+      {
+        "title": "Fully Charged",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "Nikola Tesla",
+        "basicText": "Charge both coils. Gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/fully-charged.webp?v=b13dfc4ad0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/fully-charged.webp?v=b13dfc4ad0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+      },
+      {
+        "title": "Intense Experimentation",
+        "quantity": 3,
+        "type": "defence",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Nikola Tesla",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card. You may discharge coils: ⚡ - Instead, draw 2 cards. ⚡⚡ - Instead, draw 3 cards and Tesla recovers 1 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/intense-experimentation.webp?v=42c23cfdc0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/intense-experimentation.webp?v=42c23cfdc0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+      },
+      {
+        "title": "Kinetic Induction",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Nikola Tesla",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Charge one coil. If you won the combat, charge both.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/kinetic-induction.webp?v=86caa46314",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/kinetic-induction.webp?v=86caa46314"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+      },
+      {
+        "title": "Lightning Storm",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Nikola Tesla",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "You may discharge coils: ⚡ - Deal 1 damage to each opposing fighter in your zone. ⚡⚡ - Instead, deal 2 damage.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/lightning-storm.webp?v=1e98eec674",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/lightning-storm.webp?v=1e98eec674"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+      },
+      {
+        "title": "Polyphase Coils",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Nikola Tesla",
+        "basicText": "",
+        "immediateText": "You may discharge coils: ⚡ - Cancel all effects on your opponent's card. ⚡⚡ - Also, ignore that card's value.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/polyphase-coils.webp?v=db7ea4043f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/polyphase-coils.webp?v=db7ea4043f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+      },
+      {
+        "title": "Remote Control",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Nikola Tesla",
+        "basicText": "Move all opposing fighters up to 2 spaces. Gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/remote-control.webp?v=9f6bf9bd0d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/remote-control.webp?v=9f6bf9bd0d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+      },
+      {
+        "title": "Repulsion Blast",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Nikola Tesla",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move the opposing fighter up to 2 spaces. You may discharge coils: ⚡ - Also, move Tesla up to 2 spaces. ⚡⚡ - Also, your opponent discards 1 random card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/repulsion-blast.webp?v=b6aaa41f11",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/repulsion-blast.webp?v=b6aaa41f11"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+      },
+      {
+        "title": "The Alternating Current",
+        "quantity": 2,
+        "type": "attack",
+        "value": 5,
+        "boost": 3,
+        "characterName": "Nikola Tesla",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Choose one: ► Charge both coils ► Discharge both coils to have Tesla recover 2 health",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/the-alternating-current.webp?v=b469e6f7bb",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/the-alternating-current.webp?v=b469e6f7bb"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+      },
+      {
+        "title": "X-Ray Radiation",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Nikola Tesla",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Reveal the top card of your opponent's deck. You may discharge coils: ⚡ - Discard that card. ⚡⚡ - Also add its BOOST value to this card's value.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/x-ray-radiation.webp?v=92c48df548",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/cards/x-ray-radiation.webp?v=92c48df548"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d"
+      },
+      {
+        "title": "Nikola Tesla",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Nikola Tesla",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/hero.webp?v=719085b2d4",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/hero.webp?v=719085b2d4"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tesla/back.webp?v=a1f65ea18d",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

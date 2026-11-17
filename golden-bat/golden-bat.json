@@ -1,0 +1,272 @@
+{
+  "id": "um-golden-bat",
+  "family_id": "um-golden-bat",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Golden Bat",
+  "note": "Unmatched (Restoration Games), set tales-of-amaze. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T14:38:17.190Z",
+  "deck_first_published_on": "2026-11-17T14:38:17.190Z",
+  "published_on": "2026-11-17T14:38:17.190Z",
+  "updated_on": "2026-11-17T14:38:17.190Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "tales-of-amaze"
+  ],
+  "deck_data": {
+    "name": "Golden Bat",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Golden Bat",
+      "hp": 18,
+      "move": 3,
+      "isRanged": false,
+      "specialAbility": "THE FIRST SUPERHERO\nIf you haven't taken a Maneuver action this turn, add +2 to the value of Golden Bat's attacks.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/token-hero.png?v=7bea43f974"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Alpine Fortress",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Golden Bat",
+        "basicText": "Choose a card in your discard pile and shuffle it into your deck. Draw 2 cards. Move Golden Bat up to 4 spaces.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/alpine-fortress.webp?v=52c2ee6992",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/alpine-fortress.webp?v=52c2ee6992"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+      },
+      {
+        "title": "Arrive Just in Time",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Golden Bat",
+        "basicText": "Place Golden Bat in any space.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/arrive-just-in-time.webp?v=560a9cef8b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/arrive-just-in-time.webp?v=560a9cef8b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+      },
+      {
+        "title": "A Punch to Shake the Earth",
+        "quantity": 3,
+        "type": "attack",
+        "value": 1,
+        "boost": 1,
+        "characterName": "Golden Bat",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 1 damage to each opposing fighter in your zone. If you won the combat, deal 2 damage instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/a-punch-to-shake-the-earth.webp?v=6c24d97288",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/a-punch-to-shake-the-earth.webp?v=6c24d97288"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+      },
+      {
+        "title": "He Laughs at Your Feebleness",
+        "quantity": 2,
+        "type": "defence",
+        "value": 5,
+        "boost": 3,
+        "characterName": "Golden Bat",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/he-laughs-at-your-feebleness.webp?v=5c2e0c8dbc",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/he-laughs-at-your-feebleness.webp?v=5c2e0c8dbc"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+      },
+      {
+        "title": "Imposing Presence",
+        "quantity": 2,
+        "type": "defence",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Golden Bat",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/imposing-presence.webp?v=8b574a1282",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/imposing-presence.webp?v=8b574a1282"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+      },
+      {
+        "title": "Insight of the Ancients",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Golden Bat",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, return a random card in your discard pile to your hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/insight-of-the-ancients.webp?v=bfb6553e70",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/insight-of-the-ancients.webp?v=bfb6553e70"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+      },
+      {
+        "title": "Like a Flash of Golden Light",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Golden Bat",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If Golden Bat shares no zones with the space he started this turn in, this card's value is 4 instead.",
+        "afterText": "Move Golden Bat up to 5 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/like-a-flash-of-golden-light.webp?v=486a3fad72",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/like-a-flash-of-golden-light.webp?v=486a3fad72"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+      },
+      {
+        "title": "Sight Beyond Sight",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Golden Bat",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Look at the top 3 cards of your opponent's deck. Put them back in any order.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/sight-beyond-sight.webp?v=72af324626",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/sight-beyond-sight.webp?v=72af324626"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+      },
+      {
+        "title": "Skirmish",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Golden Bat",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, move one of the fighters in the combat up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/skirmish.webp?v=8759297259",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/skirmish.webp?v=8759297259"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+      },
+      {
+        "title": "Super Strength",
+        "quantity": 2,
+        "type": "attack",
+        "value": 5,
+        "boost": 1,
+        "characterName": "Golden Bat",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/super-strength.webp?v=647e25c3b2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/super-strength.webp?v=647e25c3b2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+      },
+      {
+        "title": "Terrifying Roar",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Golden Bat",
+        "basicText": "",
+        "immediateText": "Fighters cannot leave their spaces for the rest of the turn.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/terrifying-roar.webp?v=a11d2809f8",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/terrifying-roar.webp?v=a11d2809f8"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+      },
+      {
+        "title": "Vaporizing Eyebeams",
+        "quantity": 3,
+        "type": "attack",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Golden Bat",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Your opponent discards 1 random card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/vaporizing-eyebeams.webp?v=33f4f6fbf3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/cards/vaporizing-eyebeams.webp?v=33f4f6fbf3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0"
+      },
+      {
+        "title": "Golden Bat",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Golden Bat",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/hero.webp?v=92714cd87f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/hero.webp?v=92714cd87f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/golden-bat/back.webp?v=01402c00b0",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

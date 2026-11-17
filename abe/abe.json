@@ -1,0 +1,367 @@
+{
+  "id": "um-abe",
+  "family_id": "um-abe",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Abe Sapien",
+  "note": "Unmatched (Restoration Games), set hellboy. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T15:14:24.611Z",
+  "deck_first_published_on": "2026-11-17T15:14:24.611Z",
+  "published_on": "2026-11-17T15:14:24.611Z",
+  "updated_on": "2026-11-17T15:14:24.611Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "hellboy"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/token-hero.png?v=e4397146c1",
+      "clip": "circle",
+      "label": "Abe Sapien",
+      "rim": "#1F1F1F",
+      "initials": "AS",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/token-b-p-r-d-agent.png?v=618229fb7d",
+      "clip": "circle",
+      "rim": "#1F1F1F",
+      "initials": "BA",
+      "size": 64,
+      "h": 64
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/token-b-p-r-d-agent.png?v=618229fb7d",
+      "clip": "circle",
+      "rim": "#1F1F1F",
+      "initials": "BA",
+      "size": 64,
+      "h": 64
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/token-b-p-r-d-agent.png?v=618229fb7d",
+      "clip": "circle",
+      "rim": "#1F1F1F",
+      "initials": "BA",
+      "size": 64,
+      "h": 64
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/token-intuition.png?v=89ac870675",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "size": 74,
+      "h": 44
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/token-intuition.png?v=89ac870675",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "size": 74,
+      "h": 44
+    }
+  ],
+  "deck_data": {
+    "name": "Abe Sapien",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Abe Sapien",
+      "hp": 13,
+      "move": 2,
+      "isRanged": true,
+      "specialAbility": "UNCANNY INTUITION\nYou have two Intuition tokens. When Abe deals combat damage to an adjacent fighter, activate a token.\nWhen Abe is attacked, if you have an active token, deactivate it, then draw 1 card, and the attack is played face up.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/token-hero.png?v=e4397146c1"
+    },
+    "sidekick": {
+      "name": "B.P.R.D. Agent",
+      "quantity": 3,
+      "hp": 1,
+      "isRanged": true,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/token-b-p-r-d-agent.png?v=618229fb7d"
+    },
+    "cards": [
+      {
+        "title": "Advanced Psychometry",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Abe Sapien",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If the opposing fighter is adjacent, look at your opponent's hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/advanced-psychometry.webp?v=557b2abb00",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/advanced-psychometry.webp?v=557b2abb00"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+      },
+      {
+        "title": "Arcane Dampener",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "If the opposing fighter is adjacent, subtract 3 from the value of your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/arcane-dampener.webp?v=4e9a44167d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/arcane-dampener.webp?v=4e9a44167d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+      },
+      {
+        "title": "B.P.R.D. Training",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card. Move each friendly fighter up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/b-p-r-d-training.webp?v=28ae1f5862",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/b-p-r-d-training.webp?v=28ae1f5862"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+      },
+      {
+        "title": "B.P.R.D. Utility Belt",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Abe Sapien",
+        "basicText": "Add +1 to your next attack this turn. A friendly fighter recovers 1 health. Move a friendly fighter up to 1 space. Gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/b-p-r-d-utility-belt.webp?v=66cc80cba0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/b-p-r-d-utility-belt.webp?v=66cc80cba0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+      },
+      {
+        "title": "Cold Iron and Holy Water",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Your opponent can not gain actions or draw cards this turn.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/cold-iron-and-holy-water.webp?v=5133cd0a64",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/cold-iron-and-holy-water.webp?v=5133cd0a64"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+      },
+      {
+        "title": "Concussion Device",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 2 damage to an adjacent opposing fighter and move them up to 3 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/concussion-device.webp?v=79ee5b8994",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/concussion-device.webp?v=79ee5b8994"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+      },
+      {
+        "title": "Counterhex Shield",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Abe Sapien",
+        "basicText": "Draw 1 card. Gain 1 action.\nONGOING: Other players' effects can't damage your fighters, move your fighters, or force you to discard cards.\nDiscard this at the start of your next turn.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/counterhex-shield.webp?v=98d8c2c850",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/counterhex-shield.webp?v=98d8c2c850"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+      },
+      {
+        "title": "Every Possible Angle",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 4,
+        "characterName": "Abe Sapien",
+        "basicText": "Look at an opponent's hand and choose a card. Put it on top of their deck.\nMove Abe up to 3 spaces.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/every-possible-angle.webp?v=40b06264c2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/every-possible-angle.webp?v=40b06264c2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+      },
+      {
+        "title": "Faster. Stronger.",
+        "quantity": 2,
+        "type": "attack",
+        "value": 5,
+        "boost": 2,
+        "characterName": "Abe Sapien",
+        "basicText": "",
+        "immediateText": "Move Abe up to 2 spaces.",
+        "duringText": "",
+        "afterText": "Gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/faster-stronger.webp?v=3e58991780",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/faster-stronger.webp?v=3e58991780"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+      },
+      {
+        "title": "Leap Away",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, move one of the fighters in the combat up to 4 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/leap-away.webp?v=3667eb547f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/leap-away.webp?v=3667eb547f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+      },
+      {
+        "title": "Perfect Shot",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Abe Sapien",
+        "basicText": "You may play this card face up and predict the printed value of your opponent's card.",
+        "immediateText": "",
+        "duringText": "If you predicted correctly, add +2 to this card's value.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/perfect-shot.webp?v=9e8e7c3316",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/perfect-shot.webp?v=9e8e7c3316"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+      },
+      {
+        "title": "Shock and Awe",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If your fighter began this turn in a different space, this card's value becomes 4.",
+        "afterText": "Your opponent discards a card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/shock-and-awe.webp?v=d4185b798d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/shock-and-awe.webp?v=d4185b798d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+      },
+      {
+        "title": "Secure the Scene",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "B.P.R.D. Agent",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Summon a B.P.R.D. Agent in Abe's zone. Move a friendly fighter up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/secure-the-scene.webp?v=61aaccfd4a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/secure-the-scene.webp?v=61aaccfd4a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+      },
+      {
+        "title": "Ward and Prepare",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "Return a scheme from your discard pile to your hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/ward-and-prepare.webp?v=3eca18d894",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/cards/ward-and-prepare.webp?v=3eca18d894"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c"
+      },
+      {
+        "title": "Abe Sapien",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Abe Sapien",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/hero.webp?v=ba46e6b64c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/hero.webp?v=ba46e6b64c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/abe/back.webp?v=1d5f72ad0c",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

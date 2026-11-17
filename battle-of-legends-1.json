@@ -1,0 +1,1304 @@
+{
+  "decks": [
+    {
+      "id": "um-alice",
+      "family_id": "um-alice",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Alice",
+      "note": "Unmatched (Restoration Games), set battle-of-legends-1. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T14:53:50.030Z",
+      "deck_first_published_on": "2026-11-17T14:53:50.030Z",
+      "published_on": "2026-11-17T14:53:50.030Z",
+      "updated_on": "2026-11-17T14:53:50.030Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "battle-of-legends-1"
+      ],
+      "savedTokens": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/token-hero.png?v=612c753d46",
+          "clip": "circle",
+          "label": "Alice",
+          "rim": "#1F1F1F",
+          "initials": "A",
+          "size": 88,
+          "h": 88,
+          "counter": {
+            "link": "hero"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/token-the-jabberwock.png?v=d8a85f8be3",
+          "clip": "circle",
+          "label": "The Jabberwock",
+          "rim": "#1F1F1F",
+          "initials": "J",
+          "size": 64,
+          "h": 64,
+          "counter": {
+            "link": "sidekick"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/token-size.png?v=8ff8462225",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 41,
+          "h": 80
+        }
+      ],
+      "deck_data": {
+        "name": "Alice",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/back.webp?v=d7bd2f87a9",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Alice",
+          "hp": 13,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "When you place Alice, choose whether she starts the game BIG or SMALL. When Alice is BIG, add 2 to the value of her attack cards. When Alice is SMALL, add 1 to the value of her defense cards. Use Alice's size token to indicate her current size.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/token-hero.png?v=612c753d46"
+        },
+        "sidekick": {
+          "name": "The Jabberwock",
+          "quantity": 1,
+          "hp": 8,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/token-the-jabberwock.png?v=d8a85f8be3"
+        },
+        "cards": [
+          {
+            "title": "Claws That Catch",
+            "quantity": 2,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "The Jabberwock",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If the opposing fighter is a hero, this card's value is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/claws-that-catch.webp?v=a735476265",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/claws-that-catch.webp?v=a735476265"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/back.webp?v=d7bd2f87a9"
+          },
+          {
+            "title": "Drink Me",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Alice",
+            "basicText": "Draw 2 cards. Change size.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/drink-me.webp?v=05f3ce3693",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/drink-me.webp?v=05f3ce3693"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/back.webp?v=d7bd2f87a9"
+          },
+          {
+            "title": "Eat Me",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Alice",
+            "basicText": "Move Alice up to 3 spaces. Change size.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/eat-me.webp?v=f03ad3740b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/eat-me.webp?v=f03ad3740b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/back.webp?v=d7bd2f87a9"
+          },
+          {
+            "title": "Feint",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/feint.webp?v=a70e382208",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/feint.webp?v=a70e382208"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/back.webp?v=d7bd2f87a9"
+          },
+          {
+            "title": "I'm Late, I'm Late",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Alice",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move Alice up to 5 spaces. Change size.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/im-late-im-late.webp?v=97b80410bd",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/im-late-im-late.webp?v=97b80410bd"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/back.webp?v=d7bd2f87a9"
+          },
+          {
+            "title": "Jaws That Bite",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 2,
+            "characterName": "The Jabberwock",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 2 damage to any one fighter adjacent to the Jabberwock.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/jaws-that-bite.webp?v=61bc50ed22",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/jaws-that-bite.webp?v=61bc50ed22"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/back.webp?v=d7bd2f87a9"
+          },
+          {
+            "title": "Looking Glass",
+            "quantity": 2,
+            "type": "defence",
+            "value": 2,
+            "boost": 4,
+            "characterName": "Alice",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Choose 2 different effects: draw 2 cards; Alice recovers 3 health; place Alice in any other space.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/looking-glass.webp?v=196fca4d1b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/looking-glass.webp?v=196fca4d1b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/back.webp?v=d7bd2f87a9"
+          },
+          {
+            "title": "Mad as a Hatter",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Alice",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move each of your fighters up to 2 spaces. Change size.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/mad-as-a-hatter.webp?v=2ad4a63bf3",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/mad-as-a-hatter.webp?v=2ad4a63bf3"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/back.webp?v=d7bd2f87a9"
+          },
+          {
+            "title": "Manxome Foe",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Discard the top card of your deck. Add its BOOST value to this card's value.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/manxome-foe.webp?v=a320be361c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/manxome-foe.webp?v=a320be361c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/back.webp?v=d7bd2f87a9"
+          },
+          {
+            "title": "Momentous Shift",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If your fighter started this turn in a different space, this card's value is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/momentous-shift.webp?v=2f591eabe4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/momentous-shift.webp?v=2f591eabe4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/back.webp?v=d7bd2f87a9"
+          },
+          {
+            "title": "O Frabjous Day!",
+            "quantity": 1,
+            "type": "attack",
+            "value": 4,
+            "boost": 4,
+            "characterName": "Alice",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Change size.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/o-frabjous-day.webp?v=1eb4391ae7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/o-frabjous-day.webp?v=1eb4391ae7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/back.webp?v=d7bd2f87a9"
+          },
+          {
+            "title": "Regroup",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 1,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/regroup.webp?v=67113f5751",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/regroup.webp?v=67113f5751"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/back.webp?v=d7bd2f87a9"
+          },
+          {
+            "title": "Skirmish",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, choose one of the fighters in the combat and move them up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/skirmish.webp?v=0a1087d097",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/skirmish.webp?v=0a1087d097"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/back.webp?v=d7bd2f87a9"
+          },
+          {
+            "title": "Snicker-Snack",
+            "quantity": 1,
+            "type": "attack",
+            "value": 3,
+            "boost": 4,
+            "characterName": "Alice",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, look at your opponent's hand and choose 1 card for them to discard.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/snicker-snack.webp?v=cb07e10ba5",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/snicker-snack.webp?v=cb07e10ba5"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/back.webp?v=d7bd2f87a9"
+          },
+          {
+            "title": "The Other Side of the Mushroom",
+            "quantity": 1,
+            "type": "attack",
+            "value": 3,
+            "boost": 4,
+            "characterName": "Alice",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move Alice up to 3 spaces. Change size.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/the-other-side-of-the-mushroom.webp?v=218220041e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/cards/the-other-side-of-the-mushroom.webp?v=218220041e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/back.webp?v=d7bd2f87a9"
+          },
+          {
+            "title": "Alice",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Alice",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/hero.webp?v=81e63623f0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/hero.webp?v=81e63623f0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/alice/back.webp?v=d7bd2f87a9",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-king-arthur",
+      "family_id": "um-king-arthur",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "King Arthur",
+      "note": "Unmatched (Restoration Games), set battle-of-legends-1. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T14:53:50.377Z",
+      "deck_first_published_on": "2026-11-17T14:53:50.377Z",
+      "published_on": "2026-11-17T14:53:50.377Z",
+      "updated_on": "2026-11-17T14:53:50.377Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "battle-of-legends-1"
+      ],
+      "deck_data": {
+        "name": "King Arthur",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/back.webp?v=d3a601f042",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "King Arthur",
+          "hp": 18,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "When King Arthur attacks, you may BOOST that attack. Play the BOOST card, face down, along with your attack card. If your opponent cancels the effects on your attack card, the BOOST is discarded without effect.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/token-hero.png?v=f41f7e63ee"
+        },
+        "sidekick": {
+          "name": "Merlin",
+          "quantity": 1,
+          "hp": 7,
+          "isRanged": true,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/token-merlin.png?v=9dce4e403a"
+        },
+        "cards": [
+          {
+            "title": "Aid the Chosen One",
+            "quantity": 1,
+            "type": "attack",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Merlin",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, draw 2 cards.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/aid-the-chosen-one.webp?v=65ee808191",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/aid-the-chosen-one.webp?v=65ee808191"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/back.webp?v=d3a601f042"
+          },
+          {
+            "title": "Bewilderment",
+            "quantity": 2,
+            "type": "defence",
+            "value": 0,
+            "boost": 2,
+            "characterName": "Merlin",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Prevent all damage.",
+            "afterText": "You may place Merlin in any space.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/bewilderment.webp?v=b5daa55327",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/bewilderment.webp?v=b5daa55327"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/back.webp?v=d3a601f042"
+          },
+          {
+            "title": "Command the Storms",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Merlin",
+            "basicText": "Move each fighter up to 3 spaces. (This includes opposing fighters.)",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/command-the-storms.webp?v=7fba2ac67b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/command-the-storms.webp?v=7fba2ac67b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/back.webp?v=d3a601f042"
+          },
+          {
+            "title": "Divine Intervention",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "King Arthur",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move King Arthur up to 5 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/divine-intervention.webp?v=d000e00c8f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/divine-intervention.webp?v=d000e00c8f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/back.webp?v=d3a601f042"
+          },
+          {
+            "title": "Excalibur",
+            "quantity": 1,
+            "type": "attack",
+            "value": 6,
+            "boost": 3,
+            "characterName": "King Arthur",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/excalibur.webp?v=2861d0bd50",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/excalibur.webp?v=2861d0bd50"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/back.webp?v=d3a601f042"
+          },
+          {
+            "title": "Feint",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/feint.webp?v=c894b30d1d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/feint.webp?v=c894b30d1d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/back.webp?v=d3a601f042"
+          },
+          {
+            "title": "Momentous Shift",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If your fighter started this turn in a different space, this card's value is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/momentous-shift.webp?v=6e966f5e4c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/momentous-shift.webp?v=6e966f5e4c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/back.webp?v=d3a601f042"
+          },
+          {
+            "title": "Noble Sacrifice",
+            "quantity": 3,
+            "type": "attack",
+            "value": 2,
+            "boost": 3,
+            "characterName": "King Arthur",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BOOST this attack. (This is in addition to any boost from King Arthur's special ability.)",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/noble-sacrifice.webp?v=e111618a03",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/noble-sacrifice.webp?v=e111618a03"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/back.webp?v=d3a601f042"
+          },
+          {
+            "title": "Prophecy",
+            "quantity": 1,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Merlin",
+            "basicText": "Look at the top 4 cards of your deck. Add 2 of them to your hand and put the other 2 back on top of your deck, in any order.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/prophecy.webp?v=72783f44d8",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/prophecy.webp?v=72783f44d8"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/back.webp?v=d3a601f042"
+          },
+          {
+            "title": "Regroup",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 1,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/regroup.webp?v=8fa2fbb13e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/regroup.webp?v=8fa2fbb13e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/back.webp?v=d3a601f042"
+          },
+          {
+            "title": "Restless Spirits",
+            "quantity": 1,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Merlin",
+            "basicText": "Choose any space in Merlin's zone. Deal 2 damage to each opposing fighter in that space and in one adjacent space. If at least one fighter is defeated this way, draw 1 card.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/restless-spirits.webp?v=90566efb05",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/restless-spirits.webp?v=90566efb05"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/back.webp?v=d3a601f042"
+          },
+          {
+            "title": "Skirmish",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, choose one of the fighters in the combat and move them up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/skirmish.webp?v=09b30f0388",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/skirmish.webp?v=09b30f0388"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/back.webp?v=d3a601f042"
+          },
+          {
+            "title": "Swift Strike",
+            "quantity": 2,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move your fighter up to 4 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/swift-strike.webp?v=de35b96d84",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/swift-strike.webp?v=de35b96d84"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/back.webp?v=d3a601f042"
+          },
+          {
+            "title": "The Aid of Morgana",
+            "quantity": 1,
+            "type": "attack",
+            "value": 4,
+            "boost": 2,
+            "characterName": "King Arthur",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 2 cards.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/the-aid-of-morgana.webp?v=3206963910",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/the-aid-of-morgana.webp?v=3206963910"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/back.webp?v=d3a601f042"
+          },
+          {
+            "title": "The Holy Grail",
+            "quantity": 1,
+            "type": "defence",
+            "value": 1,
+            "boost": 2,
+            "characterName": "King Arthur",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If King Arthur has 4 or less health but is not defeated, set his health to 8.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/the-holy-grail.webp?v=3ee37adbde",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/the-holy-grail.webp?v=3ee37adbde"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/back.webp?v=d3a601f042"
+          },
+          {
+            "title": "The Lady of the Lake",
+            "quantity": 1,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "King Arthur",
+            "basicText": "Search your deck and discard pile for the EXCALIBUR card. Add it to your hand. If you searched your deck, shuffle it.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/the-lady-of-the-lake.webp?v=d1a5c2760e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/cards/the-lady-of-the-lake.webp?v=d1a5c2760e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/back.webp?v=d3a601f042"
+          },
+          {
+            "title": "King Arthur",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "King Arthur",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/hero.webp?v=f503d9312c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/hero.webp?v=f503d9312c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/king-arthur/back.webp?v=d3a601f042",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-medusa",
+      "family_id": "um-medusa",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Medusa",
+      "note": "Unmatched (Restoration Games), set battle-of-legends-1. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T14:53:50.665Z",
+      "deck_first_published_on": "2026-11-17T14:53:50.665Z",
+      "published_on": "2026-11-17T14:53:50.665Z",
+      "updated_on": "2026-11-17T14:53:50.665Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "battle-of-legends-1"
+      ],
+      "deck_data": {
+        "name": "Medusa",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/back.webp?v=946806b244",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Medusa",
+          "hp": 16,
+          "move": 3,
+          "isRanged": true,
+          "specialAbility": "At the start of your turn, you may deal 1 damage to an opposing fighter in Medusa's zone.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/token-hero.png?v=f977ccdb63"
+        },
+        "sidekick": {
+          "name": "Harpy",
+          "quantity": 3,
+          "hp": 1,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/token-harpy.png?v=d63ec4c0f2"
+        },
+        "cards": [
+          {
+            "title": "A Momentary Glance",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 4,
+            "characterName": "Medusa",
+            "basicText": "Deal 2 damage to any one fighter in Medusa's zone.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/a-momentary-glance.webp?v=164fccaf0e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/a-momentary-glance.webp?v=164fccaf0e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/back.webp?v=946806b244"
+          },
+          {
+            "title": "Clutching Claws",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Harpy",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Your opponent discards 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/clutching-claws.webp?v=cd9d7ba612",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/clutching-claws.webp?v=cd9d7ba612"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/back.webp?v=946806b244"
+          },
+          {
+            "title": "Dash",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move your fighter up to 3 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/dash.webp?v=abceeec8a5",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/dash.webp?v=abceeec8a5"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/back.webp?v=946806b244"
+          },
+          {
+            "title": "Feint",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/feint.webp?v=de09ed2003",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/feint.webp?v=de09ed2003"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/back.webp?v=946806b244"
+          },
+          {
+            "title": "Gaze of Stone",
+            "quantity": 3,
+            "type": "attack",
+            "value": 2,
+            "boost": 4,
+            "characterName": "Medusa",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, deal 8 damage to the opposing fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/gaze-of-stone.webp?v=0a34a49bba",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/gaze-of-stone.webp?v=0a34a49bba"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/back.webp?v=946806b244"
+          },
+          {
+            "title": "Hiss and Slither",
+            "quantity": 3,
+            "type": "defence",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Medusa",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Your opponent discards 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/hiss-and-slither.webp?v=5876e515d0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/hiss-and-slither.webp?v=5876e515d0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/back.webp?v=946806b244"
+          },
+          {
+            "title": "Regroup",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 1,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/regroup.webp?v=aba0654b85",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/regroup.webp?v=aba0654b85"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/back.webp?v=946806b244"
+          },
+          {
+            "title": "Second Shot",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Medusa",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BOOST this attack.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/second-shot.webp?v=bbd4a62f41",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/second-shot.webp?v=bbd4a62f41"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/back.webp?v=946806b244"
+          },
+          {
+            "title": "Snipe",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/snipe.webp?v=9d53349f0e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/snipe.webp?v=9d53349f0e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/back.webp?v=946806b244"
+          },
+          {
+            "title": "The Hounds of Mighty Zeus",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Harpy",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move each Harpy up to 3 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/the-hounds-of-mighty-zeus.webp?v=dcab39e80e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/the-hounds-of-mighty-zeus.webp?v=dcab39e80e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/back.webp?v=946806b244"
+          },
+          {
+            "title": "Winged Frenzy",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "Move each of your fighters up to 3 spaces. You may move them through spaces containing opposing fighters. Then, return a defeated Harpy (if any) to any space in Medusa's zone.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/winged-frenzy.webp?v=e641029010",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/cards/winged-frenzy.webp?v=e641029010"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/back.webp?v=946806b244"
+          },
+          {
+            "title": "Medusa",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Medusa",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/hero.webp?v=066c9c7303",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/hero.webp?v=066c9c7303"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/medusa/back.webp?v=946806b244",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-sinbad",
+      "family_id": "um-sinbad",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Sinbad",
+      "note": "Unmatched (Restoration Games), set battle-of-legends-1. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T14:53:50.972Z",
+      "deck_first_published_on": "2026-11-17T14:53:50.972Z",
+      "published_on": "2026-11-17T14:53:50.972Z",
+      "updated_on": "2026-11-17T14:53:50.972Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "battle-of-legends-1"
+      ],
+      "deck_data": {
+        "name": "Sinbad",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Sinbad",
+          "hp": 15,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "When you maneuver, you may move your fighters +1 space for each VOYAGE card in your discard pile.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/token-hero.png?v=ce21fc80a1"
+        },
+        "sidekick": {
+          "name": "The Porter",
+          "quantity": 1,
+          "hp": 6,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/token-the-porter.png?v=df9cbdd597"
+        },
+        "cards": [
+          {
+            "title": "By Fortune and Fate",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 1,
+            "characterName": "The Porter",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 2 cards.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/by-fortune-and-fate.webp?v=6d0b034a30",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/by-fortune-and-fate.webp?v=6d0b034a30"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+          },
+          {
+            "title": "Commanding Impact",
+            "quantity": 1,
+            "type": "attack",
+            "value": 5,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/commanding-impact.webp?v=8de05dd90c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/commanding-impact.webp?v=8de05dd90c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+          },
+          {
+            "title": "Exploit",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/exploit.webp?v=e827d46a76",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/exploit.webp?v=e827d46a76"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+          },
+          {
+            "title": "Feint",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/feint.webp?v=7a834f26ea",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/feint.webp?v=7a834f26ea"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+          },
+          {
+            "title": "Leap Away",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, choose one of the fighters in the combat and move them up to 4 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/leap-away.webp?v=afcef1b0b3",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/leap-away.webp?v=afcef1b0b3"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+          },
+          {
+            "title": "Momentous Shift",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If your fighter started this turn in a different space, this card's value is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/momentous-shift.webp?v=a641be8b43",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/momentous-shift.webp?v=a641be8b43"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+          },
+          {
+            "title": "Regroup",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 1,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/regroup.webp?v=4ef3e3e4f0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/regroup.webp?v=4ef3e3e4f0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+          },
+          {
+            "title": "Riches Beyond Compare",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 1,
+            "characterName": "Sinbad",
+            "basicText": "Draw 3 cards.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/riches-beyond-compare.webp?v=b18c02a434",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/riches-beyond-compare.webp?v=b18c02a434"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+          },
+          {
+            "title": "Toil and Danger",
+            "quantity": 4,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Sinbad",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move Sinbad up to 3 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/toil-and-danger.webp?v=a6846ba8dc",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/toil-and-danger.webp?v=a6846ba8dc"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+          },
+          {
+            "title": "Voyage Home",
+            "quantity": 1,
+            "type": "attack",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Sinbad",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "This card's value is +1 for each other VOYAGE card in your discard pile.",
+            "afterText": "Take all other VOYAGE cards from your discard pile and add them to your hand.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-home.webp?v=1f7a45b0f3",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-home.webp?v=1f7a45b0f3"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+          },
+          {
+            "title": "Voyage to the Cannibals with the Root of Madness",
+            "quantity": 1,
+            "type": "attack",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Sinbad",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "This card's value is +1 for each other VOYAGE card in your discard pile.",
+            "afterText": "You may move Sinbad up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-cannibals.webp?v=52ee6b3a57",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-cannibals.webp?v=52ee6b3a57"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+          },
+          {
+            "title": "Voyage to the City of the Man-Eating Apes",
+            "quantity": 1,
+            "type": "attack",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Sinbad",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "This card's value is +1 for each other VOYAGE card in your discard pile.",
+            "afterText": "Deal 2 damage to the opposing fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-man-eating-apes.webp?v=d72c66d388",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-man-eating-apes.webp?v=d72c66d388"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+          },
+          {
+            "title": "Voyage to the City of the King of Serendib",
+            "quantity": 1,
+            "type": "attack",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Sinbad",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "This card's value is +1 for each other VOYAGE card in your discard pile.",
+            "afterText": "Draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-king-of-serendib.webp?v=40852aab20",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-king-of-serendib.webp?v=40852aab20"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+          },
+          {
+            "title": "Voyage to the Creature with Eyes Like Coals of Fire",
+            "quantity": 1,
+            "type": "attack",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Sinbad",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "This card's value is +1 for each other VOYAGE card in your discard pile.",
+            "afterText": "Your opponent discards 1 random card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-creature.webp?v=57e5a6ae9a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-creature.webp?v=57e5a6ae9a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+          },
+          {
+            "title": "Voyage to the Island That Was a Whale",
+            "quantity": 1,
+            "type": "attack",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Sinbad",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "This card's value is +1 for each other VOYAGE card in your discard pile.",
+            "afterText": "Sinbad recovers 2 health.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-island-whale.webp?v=353dd1743a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-island-whale.webp?v=353dd1743a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+          },
+          {
+            "title": "Voyage to the Valley of the Giant Snakes",
+            "quantity": 1,
+            "type": "attack",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Sinbad",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "This card's value is +1 for each other VOYAGE card in your discard pile.",
+            "afterText": "Look at your opponent's hand.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-giant-snakes.webp?v=80af530ce7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/cards/voyage-to-the-giant-snakes.webp?v=80af530ce7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045"
+          },
+          {
+            "title": "Sinbad",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Sinbad",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/hero.webp?v=e7956f7cb3",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/hero.webp?v=e7956f7cb3"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    }
+  ],
+  "maps": []
+}

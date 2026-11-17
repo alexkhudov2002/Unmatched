@@ -1,0 +1,279 @@
+{
+  "id": "um-yennenga",
+  "family_id": "um-yennenga",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Yennenga",
+  "note": "Unmatched (Restoration Games), set battle-of-legends-2. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T14:58:30.446Z",
+  "deck_first_published_on": "2026-11-17T14:58:30.446Z",
+  "published_on": "2026-11-17T14:58:30.446Z",
+  "updated_on": "2026-11-17T14:58:30.446Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "battle-of-legends-2"
+  ],
+  "deck_data": {
+    "name": "Yennenga",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Yennenga",
+      "hp": 15,
+      "move": 2,
+      "isRanged": true,
+      "specialAbility": "If Yennenga would take damage, you may assign any amount of that damage to one or more Archers in her zone instead. (You may not assign more damage to an Archer than their remaining health.)",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/token-hero.png?v=9bf0a30671"
+    },
+    "sidekick": {
+      "name": "Archer",
+      "quantity": 2,
+      "hp": 2,
+      "isRanged": true,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/token-archer.png?v=0f68adef98"
+    },
+    "cards": [
+      {
+        "title": "Divide and Conquer",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Archer",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If your fighter is not in Yennenga's zone, the value of this card is 4 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/divide-and-conquer.webp?v=e04d6c2685",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/divide-and-conquer.webp?v=e04d6c2685"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+      },
+      {
+        "title": "Jaws of the Beast",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Yennenga",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "For each zone the opposing fighter is in, increase the value of this card by +1.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/jaws-of-the-beast.webp?v=55be01374c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/jaws-of-the-beast.webp?v=55be01374c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+      },
+      {
+        "title": "Master of the Hunt",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Yennenga",
+        "basicText": "Gain 2 actions.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/master-of-the-hunt.webp?v=539ff8eef2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/master-of-the-hunt.webp?v=539ff8eef2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+      },
+      {
+        "title": "Momentous Shift",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If your fighter started this turn in a different space, this card's value is 5 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/momentous-shift.webp?v=a4827d9e69",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/momentous-shift.webp?v=a4827d9e69"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+      },
+      {
+        "title": "One with the Land",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Yennenga",
+        "basicText": "Move each of your fighters up to 2 spaces. Each of your fighters recovers 1 health. Draw 1 card.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/one-with-the-land.webp?v=438a8236d4",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/one-with-the-land.webp?v=438a8236d4"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+      },
+      {
+        "title": "Pin the Prey",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 1,
+        "boost": 2,
+        "characterName": "Archer",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move the opposing fighter up to 4 spaces. Your opponent discards 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/pin-the-prey.webp?v=9ce84ee1ff",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/pin-the-prey.webp?v=9ce84ee1ff"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+      },
+      {
+        "title": "Point Blank",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Yennenga",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If the opposing fighter is adjacent to Yennenga, deal 2 damage to that fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/point-blank.webp?v=d55512baa0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/point-blank.webp?v=d55512baa0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+      },
+      {
+        "title": "Rain of Arrows",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Yennenga",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "► VOLLEY (bonus attack)\nVOLLEY (3)",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/rain-of-arrows.webp?v=8368fcff5e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/rain-of-arrows.webp?v=8368fcff5e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+      },
+      {
+        "title": "Shield Formation",
+        "quantity": 2,
+        "type": "defence",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Yennenga",
+        "basicText": "",
+        "immediateText": "Your opponent may discard a card. If they don't, return a defeated Archer to a space in Yennenga's zone.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/shield-formation.webp?v=ef146d7094",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/shield-formation.webp?v=ef146d7094"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+      },
+      {
+        "title": "Skirmish",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, choose one of the fighters in the combat and move them up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/skirmish.webp?v=cd67bae65f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/skirmish.webp?v=cd67bae65f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+      },
+      {
+        "title": "Stallion Charge",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Yennenga",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move Yennenga up to 5 spaces. She may move through opposing fighters. Then, deal 1 damage to each opposing fighter she moved through.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/stallion-charge.webp?v=a534c90432",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/stallion-charge.webp?v=a534c90432"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+      },
+      {
+        "title": "Surprise Volley",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "You may return a defeated Archer to a space in the opposing fighter's zone. If you do, that Archer is now the attacker. If you don't, gain 1 action.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/surprise-volley.webp?v=72884b519f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/cards/surprise-volley.webp?v=72884b519f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711"
+      },
+      {
+        "title": "Yennenga",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Yennenga",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/hero.webp?v=6857618043",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/hero.webp?v=6857618043"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/yennenga/back.webp?v=185cdc2711",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Bonus attacks",
+        "content": "Each hero in this set has cards with a bonus attack that allows the fighter to make a second attack with one attack action. When you play a card with a bonus attack, resolve the main attack as normal. The bonus attack is triggered by the AFTER COMBAT effect of the first attack. If that effect is canceled (by Feint, for example) the bonus attack does not occur.\n\nIf the bonus attack triggers, resolve that attack like a normal attack between the same attacker and defender as if the attacker played the bonus attack as a new attack card. The bonus attack has a new name, value, and effect. The BOOST value is the same. The bonus attack targets the same defender even if they are no longer a valid target. If the defender is defeated during the first attack, there is no bonus attack."
+      }
+    ]
+  }
+}

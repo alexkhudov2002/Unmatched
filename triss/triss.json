@@ -1,0 +1,256 @@
+{
+  "id": "um-triss",
+  "family_id": "um-triss",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Triss (Yennefer de compañera)",
+  "note": "Unmatched (Restoration Games), set witcher-realms-fall. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T14:23:41.452Z",
+  "deck_first_published_on": "2026-11-17T14:23:41.452Z",
+  "published_on": "2026-11-17T14:23:41.452Z",
+  "updated_on": "2026-11-17T14:23:41.452Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "witcher-realms-fall"
+  ],
+  "deck_data": {
+    "name": "Triss (Yennefer de compañera)",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/back.webp?v=feaec2948e",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Triss",
+      "hp": 14,
+      "move": 2,
+      "isRanged": true,
+      "specialAbility": "MERIGOLD THE FEARLESS\nAt the beginning of the game, choose Yennefer or Triss to be your hero. After Triss plays a scheme, deal 2 damage to a fighter adjacent to Triss.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/token-hero.png?v=13d37ffa73"
+    },
+    "sidekick": {
+      "name": "Yennefer",
+      "quantity": 1,
+      "hp": 6,
+      "isRanged": true,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/token-yennefer.png?v=2fce363ab1"
+    },
+    "cards": [
+      {
+        "title": "Advisor to the King",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "Each of your fighters recovers 1 health. Draw 1 card.\nONGOING: Your BOOST values are +1.\nDiscard this card at the end of your turn if you didn't attack.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/advisor-to-the-king.webp?v=93acb1c5d0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/advisor-to-the-king.webp?v=93acb1c5d0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/back.webp?v=feaec2948e"
+      },
+      {
+        "title": "Ball Lightning",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, your opponent discards 1 card. Otherwise, both players discard 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/ball-lightning.webp?v=c542840ce1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/ball-lightning.webp?v=c542840ce1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/back.webp?v=feaec2948e"
+      },
+      {
+        "title": "Echoing Blast",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, return this card to your hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/echoing-blast.webp?v=cdb3545776",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/echoing-blast.webp?v=cdb3545776"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/back.webp?v=feaec2948e"
+      },
+      {
+        "title": "Incinerate",
+        "quantity": 3,
+        "type": "attack",
+        "value": 7,
+        "boost": 2,
+        "characterName": "Yennefer",
+        "basicText": "This card's effects cannot be canceled.",
+        "immediateText": "",
+        "duringText": "Your opponent may discard 2 cards to ignore this card's value.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/incinerate.webp?v=55d0e879a7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/incinerate.webp?v=55d0e879a7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/back.webp?v=feaec2948e"
+      },
+      {
+        "title": "Lodge of Sorceresses",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "Each player simultaneously reveals a card from their hand and draws cards equal to their card's BOOST value. Then, the player(s) who drew the most cards deals that much damage to their hero.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/lodge-of-sorceresses.webp?v=c677fd2e7b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/lodge-of-sorceresses.webp?v=c677fd2e7b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/back.webp?v=feaec2948e"
+      },
+      {
+        "title": "Magical Barrier",
+        "quantity": 3,
+        "type": "defence",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Your fighter recovers 1 health.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/magical-barrier.webp?v=5de58b7718",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/magical-barrier.webp?v=5de58b7718"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/back.webp?v=feaec2948e"
+      },
+      {
+        "title": "Merigold's Hailstorm",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Triss",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Your opponent chooses one: ► they discard 2 cards ► deal 3 damage to their hero ► they discard the top 4 cards of their deck",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/merigolds-hailstorm.webp?v=9715eddca4",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/merigolds-hailstorm.webp?v=9715eddca4"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/back.webp?v=feaec2948e"
+      },
+      {
+        "title": "Paralyzing Fetters",
+        "quantity": 3,
+        "type": "defence",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "The value of your opponent's card is equal to its printed value and cannot be changed.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/paralyzing-fetters.webp?v=0034a8c074",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/paralyzing-fetters.webp?v=0034a8c074"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/back.webp?v=feaec2948e"
+      },
+      {
+        "title": "Portal to Anywhere",
+        "quantity": 3,
+        "type": "attack",
+        "value": 1,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Place a fighter in the combat in any space. Gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/portal-to-anywhere.webp?v=723df57ddc",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/portal-to-anywhere.webp?v=723df57ddc"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/back.webp?v=feaec2948e"
+      },
+      {
+        "title": "Quick and Ready",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Place your fighter in any space in their zone. Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/quick-and-ready.webp?v=307a809a2b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/quick-and-ready.webp?v=307a809a2b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/back.webp?v=feaec2948e"
+      },
+      {
+        "title": "Telepathy",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Your opponent may discard 1 card. If they don't, cancel all effects on their card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/telepathy.webp?v=74d2b57a47",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/cards/telepathy.webp?v=74d2b57a47"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/back.webp?v=feaec2948e"
+      },
+      {
+        "title": "Triss",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Triss",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/hero.webp?v=85785defd1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/hero.webp?v=85785defd1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/triss/back.webp?v=feaec2948e",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}
