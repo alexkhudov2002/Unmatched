@@ -8,10 +8,10 @@
   "note": "Unmatched (Restoration Games), set cobble-fog. Datos transcritos de las cartas; uso privado.",
   "user": "alexkhudov2002",
   "bgg_link": null,
-  "created_on": "2026-11-17T12:24:12.665Z",
-  "deck_first_published_on": "2026-11-17T12:24:12.665Z",
-  "published_on": "2026-11-17T12:24:12.665Z",
-  "updated_on": "2026-11-17T12:24:12.665Z",
+  "created_on": "2026-11-17T12:55:49.311Z",
+  "deck_first_published_on": "2026-11-17T12:55:49.311Z",
+  "published_on": "2026-11-17T12:55:49.311Z",
+  "updated_on": "2026-11-17T12:55:49.311Z",
   "deck_published": false,
   "published": false,
   "liked": false,
@@ -19,13 +19,6 @@
   "tags": [
     "unmatched",
     "cobble-fog"
-  ],
-  "savedTokens": [
-    {
-      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/hero.webp?v=8c59f40e01",
-      "size": 130,
-      "h": 182
-    }
   ],
   "deck_data": {
     "name": "Sherlock Holmes",
