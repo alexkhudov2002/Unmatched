@@ -1,0 +1,1235 @@
+{
+  "decks": [
+    {
+      "id": "um-dracula",
+      "family_id": "um-dracula",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Dracula",
+      "note": "Unmatched (Restoration Games), set cobble-fog. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T13:05:57.358Z",
+      "deck_first_published_on": "2026-11-17T13:05:57.358Z",
+      "published_on": "2026-11-17T13:05:57.358Z",
+      "updated_on": "2026-11-17T13:05:57.358Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "cobble-fog"
+      ],
+      "deck_data": {
+        "name": "Dracula",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Dracula",
+          "hp": 13,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "At the start of your turn, you may deal 1 damage to a fighter adjacent to Dracula. If you do, draw a card.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/token-hero.png?v=49f0df3299"
+        },
+        "sidekick": {
+          "name": "Sister",
+          "quantity": 3,
+          "hp": 1,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/token-sister.png?v=00de1cf926"
+        },
+        "cards": [
+          {
+            "title": "Ambush",
+            "quantity": 2,
+            "type": "attack",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Your opponent discards 1 random card. Add its BOOST value to this card's attack value.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/ambush.webp?v=d33cc50490",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/ambush.webp?v=d33cc50490"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+          },
+          {
+            "title": "Baptism of Blood",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Dracula",
+            "basicText": "Recover 2 health. Return a defeated Sister (if any) to any space in Dracula's zone.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/baptism-of-blood.webp?v=22b58df7c1",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/baptism-of-blood.webp?v=22b58df7c1"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+          },
+          {
+            "title": "Beastform",
+            "quantity": 2,
+            "type": "attack",
+            "value": 6,
+            "boost": 4,
+            "characterName": "Dracula",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may discard any number of cards from your hand. This card's value is +1 for each card you discard.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/beastform.webp?v=29ed93c5b3",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/beastform.webp?v=29ed93c5b3"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+          },
+          {
+            "title": "Dash",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move your fighter up to 3 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/dash.webp?v=7f4ea6e6bd",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/dash.webp?v=7f4ea6e6bd"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+          },
+          {
+            "title": "Do My Bidding",
+            "quantity": 2,
+            "type": "defence",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Dracula",
+            "basicText": "",
+            "immediateText": "Return your opponent's attack card to their hand. Look at their hand and choose an attack or versatile card for them to play. (It may be the same card.)",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/do-my-bidding.webp?v=97d780fb1f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/do-my-bidding.webp?v=97d780fb1f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+          },
+          {
+            "title": "Exploit",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/exploit.webp?v=c1b57d357d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/exploit.webp?v=c1b57d357d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+          },
+          {
+            "title": "Feeding Frenzy",
+            "quantity": 2,
+            "type": "attack",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Dracula",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "This card's value is +1 for each Sister in the same zone as the opposing fighter.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/feeding-frenzy.webp?v=9b2fc05e5d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/feeding-frenzy.webp?v=9b2fc05e5d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+          },
+          {
+            "title": "Feint",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/feint.webp?v=8125c5a6cb",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/feint.webp?v=8125c5a6cb"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+          },
+          {
+            "title": "Look Into My Eyes",
+            "quantity": 2,
+            "type": "defence",
+            "value": 1,
+            "boost": 2,
+            "characterName": "Dracula",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Add the BOOST value from your opponent's attack card to the defense value of this card.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/look-into-my-eyes.webp?v=6aa4c8cb34",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/look-into-my-eyes.webp?v=6aa4c8cb34"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+          },
+          {
+            "title": "Mistform",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Dracula",
+            "basicText": "Place Dracula in any space. Gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/mistform.webp?v=b517b3a732",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/mistform.webp?v=b517b3a732"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+          },
+          {
+            "title": "Prey Upon",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 4,
+            "characterName": "Dracula",
+            "basicText": "Deal 1 damage to all opposing fighters adjacent to Dracula. Dracula recovers 1 health for each damage dealt.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/prey-upon.webp?v=c048b54152",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/prey-upon.webp?v=c048b54152"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+          },
+          {
+            "title": "Ravening Seduction",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Sister",
+            "basicText": "Move any fighter up to 2 spaces. After moving, deal 1 damage to the moved fighter for each Sister adjacent to them.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/ravening-seduction.webp?v=ca4d888475",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/ravening-seduction.webp?v=ca4d888475"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+          },
+          {
+            "title": "Thirst for Sustenance",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Sister",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, place Dracula in any space adjacent to the opposing fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/thirst-for-sustenance.webp?v=5e95b1594c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/thirst-for-sustenance.webp?v=5e95b1594c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+          },
+          {
+            "title": "Dracula",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Dracula",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/hero.webp?v=fe70901494",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/hero.webp?v=fe70901494"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-hombre-invisible",
+      "family_id": "um-hombre-invisible",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Invisible Man",
+      "note": "Unmatched (Restoration Games), set cobble-fog. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T13:05:57.514Z",
+      "deck_first_published_on": "2026-11-17T13:05:57.514Z",
+      "published_on": "2026-11-17T13:05:57.514Z",
+      "updated_on": "2026-11-17T13:05:57.514Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "cobble-fog"
+      ],
+      "savedTokens": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-hero.png?v=dedcf3dcd1",
+          "clip": "circle",
+          "label": "Invisible Man",
+          "rim": "#1F1F1F",
+          "initials": "IM",
+          "size": 88,
+          "h": 88,
+          "counter": {
+            "link": "hero"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-fog.png?v=0781bd077b",
+          "size": 72,
+          "h": 72
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-fog.png?v=0781bd077b",
+          "size": 72,
+          "h": 72
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-fog.png?v=0781bd077b",
+          "size": 72,
+          "h": 72
+        }
+      ],
+      "deck_data": {
+        "name": "Invisible Man",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/back.webp?v=57bdfc1f04",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Invisible Man",
+          "hp": 15,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "At the start of the game, after you place Invisible Man, place 3 fog tokens in separate spaces in his zone. When Invisible Man is on a space with a fog token, add 1 to the value of his defense cards. Invisible Man may move between two spaces with fog tokens as if they were adjacent.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/token-hero.png?v=dedcf3dcd1"
+        },
+        "sidekick": {
+          "name": "Sidekick",
+          "hp": null,
+          "quantity": null,
+          "isRanged": false,
+          "quote": ""
+        },
+        "cards": [
+          {
+            "title": "Coded Notes",
+            "quantity": 2,
+            "type": "defence",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Invisible Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 3 cards, then choose 2 cards from your hand and put them on top of your deck in any order.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/coded-notes.webp?v=b0e7f9cfac",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/coded-notes.webp?v=b0e7f9cfac"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/back.webp?v=57bdfc1f04"
+          },
+          {
+            "title": "Confound",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Invisible Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Your opponent may choose to discard 1 card. If they do not, you may move each fog token to any other space.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/confound.webp?v=50e2697b8f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/confound.webp?v=50e2697b8f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/back.webp?v=57bdfc1f04"
+          },
+          {
+            "title": "Covert Preparation",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Invisible Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card. Move 1 fog token up to 2 spaces, then your opponent moves a different fog token up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/covert-preparation.webp?v=0e71d21a9c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/covert-preparation.webp?v=0e71d21a9c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/back.webp?v=57bdfc1f04"
+          },
+          {
+            "title": "Dreaming of Revenge",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Invisible Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If Invisible Man is on a space with a fog token, all opposing fighters on spaces with fog tokens take 1 damage.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/dreaming-of-revenge.webp?v=a9c7aff524",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/dreaming-of-revenge.webp?v=a9c7aff524"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/back.webp?v=57bdfc1f04"
+          },
+          {
+            "title": "Emerge from Mist",
+            "quantity": 2,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Invisible Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If Invisible Man started this turn on a space with a fog token, this card's value is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/emerge-from-mist.webp?v=59a3989075",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/emerge-from-mist.webp?v=59a3989075"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/back.webp?v=57bdfc1f04"
+          },
+          {
+            "title": "Impossible to See",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Invisible Man",
+            "basicText": "",
+            "immediateText": "The value of your opponent's attack or defense is 0 and cannot be changed by card effects. (Other card effects still happen.)",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/impossible-to-see.webp?v=51fcf6c544",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/impossible-to-see.webp?v=51fcf6c544"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/back.webp?v=57bdfc1f04"
+          },
+          {
+            "title": "Into Thin Air",
+            "quantity": 2,
+            "type": "defence",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Invisible Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move Invisible Man up to 1 space. Your opponent then moves a fog token up to 3 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/into-thin-air.webp?v=4359af9a99",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/into-thin-air.webp?v=4359af9a99"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/back.webp?v=57bdfc1f04"
+          },
+          {
+            "title": "Lurking",
+            "quantity": 2,
+            "type": "defence",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Invisible Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card and choose 1 effect: move Invisible Man to a space with a fog token; or move 1 fog token up to 3 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/lurking.webp?v=004def0c4f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/lurking.webp?v=004def0c4f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/back.webp?v=57bdfc1f04"
+          },
+          {
+            "title": "Reign of Terror",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 1,
+            "characterName": "Invisible Man",
+            "basicText": "If Invisible Man is on a space with a fog token, deal 2 damage to any one opposing fighter.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/reign-of-terror.webp?v=ff6f48bb88",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/reign-of-terror.webp?v=ff6f48bb88"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/back.webp?v=57bdfc1f04"
+          },
+          {
+            "title": "Rolling Fog",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 1,
+            "characterName": "Invisible Man",
+            "basicText": "Move 1 fog token to another space. Gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/rolling-fog.webp?v=fbc895a95e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/rolling-fog.webp?v=fbc895a95e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/back.webp?v=57bdfc1f04"
+          },
+          {
+            "title": "Slip Away",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Invisible Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move 1 fog token to a space without a fighter, then place Invisible Man on that space.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/slip-away.webp?v=cbd017fbfd",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/slip-away.webp?v=cbd017fbfd"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/back.webp?v=57bdfc1f04"
+          },
+          {
+            "title": "Step Lightly",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 1,
+            "characterName": "Invisible Man",
+            "basicText": "Deal 1 damage to one adjacent fighter. If Invisible Man is on a space with a fog token, deal 3 damage instead. Your opponent then moves a fog token up to 2 spaces.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/step-lightly.webp?v=11b4b2a6be",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/step-lightly.webp?v=11b4b2a6be"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/back.webp?v=57bdfc1f04"
+          },
+          {
+            "title": "Surprise Attack",
+            "quantity": 2,
+            "type": "attack",
+            "value": 5,
+            "boost": 1,
+            "characterName": "Invisible Man",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "If Invisible Man is on a space with a fog token, move that fog token to another space.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/surprise-attack.webp?v=fe3e24024b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/surprise-attack.webp?v=fe3e24024b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/back.webp?v=57bdfc1f04"
+          },
+          {
+            "title": "Vanish",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Invisible Man",
+            "basicText": "Recover 1 health. Remove Invisible Man from the board. At the start of your next turn, place Invisible Man in any space. (If you played this as your first action, end your turn.)",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/vanish.webp?v=57eb1bfe89",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/cards/vanish.webp?v=57eb1bfe89"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/back.webp?v=57bdfc1f04"
+          },
+          {
+            "title": "Invisible Man",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Invisible Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/hero.webp?v=443861e7a8",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/hero.webp?v=443861e7a8"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hombre-invisible/back.webp?v=57bdfc1f04",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-jekyll-hyde",
+      "family_id": "um-jekyll-hyde",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Jekyll & Hyde",
+      "note": "Unmatched (Restoration Games), set cobble-fog. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T13:05:57.705Z",
+      "deck_first_published_on": "2026-11-17T13:05:57.705Z",
+      "published_on": "2026-11-17T13:05:57.705Z",
+      "updated_on": "2026-11-17T13:05:57.705Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "cobble-fog"
+      ],
+      "savedTokens": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/token-hero.png?v=10dd1a4c91",
+          "clip": "circle",
+          "label": "Jekyll & Hyde",
+          "rim": "#1F1F1F",
+          "initials": "JH",
+          "size": 88,
+          "h": 88,
+          "counter": {
+            "link": "hero"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/token-transformation.png?v=09ba2866bc",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "clip": "circle",
+          "size": 72,
+          "h": 72
+        }
+      ],
+      "deck_data": {
+        "name": "Jekyll & Hyde",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Jekyll & Hyde",
+          "hp": 16,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "Start the game as Dr. Jekyll. At the start of your turn, you may transform into Dr. Jekyll or Mr. Hyde. While Mr. Hyde: After you Maneuver, take 1 damage. (Use Jekyll & Hyde's transformation token to indicate who he currently is.)",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/token-hero.png?v=10dd1a4c91"
+        },
+        "sidekick": {
+          "name": "Sidekick",
+          "hp": null,
+          "quantity": null,
+          "isRanged": false,
+          "quote": ""
+        },
+        "cards": [
+          {
+            "title": "Calming Research",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Dr. Jekyll",
+            "basicText": "Recover 2 health. Draw up to 3 cards. Keep one and put any others on the bottom of your deck in any order.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/calming-research.webp?v=b4cff532b0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/calming-research.webp?v=b4cff532b0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+          },
+          {
+            "title": "Distracted Triage",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Dr. Jekyll",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, recover 2 health.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/distracted-triage.webp?v=a616170194",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/distracted-triage.webp?v=a616170194"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+          },
+          {
+            "title": "Duality of Man",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If you are Dr. Jekyll and playing this card to defend, this card's value is 6 instead. If you are Mr. Hyde and playing this card to attack, this card's value is 6 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/duality-of-man.webp?v=4819ee7505",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/duality-of-man.webp?v=4819ee7505"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+          },
+          {
+            "title": "Feint",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/feint.webp?v=2d55082d91",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/feint.webp?v=2d55082d91"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+          },
+          {
+            "title": "Forever Hyde",
+            "quantity": 2,
+            "type": "attack",
+            "value": 5,
+            "boost": 2,
+            "characterName": "Mr. Hyde",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may discard Dr. Jekyll cards. Add 2 to this card's value for each card discarded.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/forever-hyde.webp?v=65acc11d5b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/forever-hyde.webp?v=65acc11d5b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+          },
+          {
+            "title": "Madness Relents",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Mr. Hyde",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Transform to Dr. Jekyll.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/madness-relents.webp?v=cc72164624",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/madness-relents.webp?v=cc72164624"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+          },
+          {
+            "title": "Pure Evil",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Mr. Hyde",
+            "basicText": "Place Mr. Hyde in any space in his zone. Mr. Hyde deals 2 damage to all adjacent fighters.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/pure-evil.webp?v=0e74af3b13",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/pure-evil.webp?v=0e74af3b13"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+          },
+          {
+            "title": "Recoiling Blow",
+            "quantity": 2,
+            "type": "attack",
+            "value": 5,
+            "boost": 2,
+            "characterName": "Mr. Hyde",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Place Mr. Hyde in any space in his zone. Transform to Dr. Jekyll.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/recoiling-blow.webp?v=7fe3cc509d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/recoiling-blow.webp?v=7fe3cc509d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+          },
+          {
+            "title": "Scientific Method",
+            "quantity": 2,
+            "type": "defence",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Dr. Jekyll",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw a number of cards equal to the damage you were dealt.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/scientific-method.webp?v=179ffd44b0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/scientific-method.webp?v=179ffd44b0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+          },
+          {
+            "title": "Skirmish",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, choose one of the fighters in the combat and move them up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/skirmish.webp?v=62a60edf0c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/skirmish.webp?v=62a60edf0c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+          },
+          {
+            "title": "Strange Case",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Mr. Hyde",
+            "basicText": "Reveal the top card of your deck. Deal damage equal to its BOOST value to one adjacent fighter. Put the card in your hand.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/strange-case.webp?v=c3582df228",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/strange-case.webp?v=c3582df228"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+          },
+          {
+            "title": "Succumb to Compulsion",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Dr. Jekyll",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move up to 2 spaces. Transform to Mr. Hyde.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/succumb-to-compulsion.webp?v=bd604089f6",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/succumb-to-compulsion.webp?v=bd604089f6"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+          },
+          {
+            "title": "With Haste!",
+            "quantity": 2,
+            "type": "defence",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Dr. Jekyll",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move Dr. Jekyll up to 4 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/with-haste.webp?v=06983f6273",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/with-haste.webp?v=06983f6273"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+          },
+          {
+            "title": "Jekyll & Hyde",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Jekyll & Hyde",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/hero.webp?v=99fb278d53",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/hero.webp?v=99fb278d53"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-sherlock-holmes",
+      "family_id": "um-sherlock-holmes",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Sherlock Holmes",
+      "note": "Unmatched (Restoration Games), set cobble-fog. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-17T13:05:57.213Z",
+      "deck_first_published_on": "2026-11-17T13:05:57.213Z",
+      "published_on": "2026-11-17T13:05:57.213Z",
+      "updated_on": "2026-11-17T13:05:57.213Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "cobble-fog"
+      ],
+      "deck_data": {
+        "name": "Sherlock Holmes",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/back.webp?v=f2d2f0a1cc",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Sherlock Holmes",
+          "hp": 16,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "Effects on HOLMES and DR. WATSON cards cannot be canceled by an opponent. (Effects on ANY cards can be canceled.)",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/token-hero.png?v=30c2f10bf4"
+        },
+        "sidekick": {
+          "name": "Dr. Watson",
+          "quantity": 1,
+          "hp": 8,
+          "isRanged": true,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/token-dr-watson.png?v=a671c165d5"
+        },
+        "cards": [
+          {
+            "title": "Administer Aid",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Dr. Watson",
+            "basicText": "Place Dr. Watson in a space adjacent to Holmes. Holmes recovers 1 health. Draw 1 card.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/administer-aid.webp?v=63519c26fb",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/administer-aid.webp?v=63519c26fb"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/back.webp?v=f2d2f0a1cc"
+          },
+          {
+            "title": "Confirm Suspicion",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 1,
+            "characterName": "Sherlock Holmes",
+            "basicText": "Choose an opponent and name a value. Your opponent must choose and discard one card matching that attack or defense value. Their hero takes damage equal to the BOOST value of the discarded card. If they do not have a card of the named value, they must reveal their hand instead.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/confirm-suspicion.webp?v=d6138a2a99",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/confirm-suspicion.webp?v=d6138a2a99"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/back.webp?v=f2d2f0a1cc"
+          },
+          {
+            "title": "Counterpunch",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Sherlock Holmes",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If Holmes is adjacent to the opposing fighter, deal 2 damage to that fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/counterpunch.webp?v=2963b4b9d6",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/counterpunch.webp?v=2963b4b9d6"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/back.webp?v=f2d2f0a1cc"
+          },
+          {
+            "title": "Deduce Strategy",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Sherlock Holmes",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may change the printed value of the opponent's card to its BOOST value. (If a card does not have a BOOST value, it is treated as 0.)",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/deduce-strategy.webp?v=9f0fe5f22f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/deduce-strategy.webp?v=9f0fe5f22f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/back.webp?v=f2d2f0a1cc"
+          },
+          {
+            "title": "Education Never Ends",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, your opponent draws 1 card. If you lost the combat, you draw 2 cards.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/education-never-ends.webp?v=ac24ef9733",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/education-never-ends.webp?v=ac24ef9733"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/back.webp?v=f2d2f0a1cc"
+          },
+          {
+            "title": "Elementary",
+            "quantity": 2,
+            "type": "defence",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Sherlock Holmes",
+            "basicText": "Play this card face up. Predict the printed attack value of the opponent's card.",
+            "immediateText": "",
+            "duringText": "If you predicted the correct value, cancel all effects on your opponent's card and ignore its attack value.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/elementary.webp?v=7110e2b23d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/elementary.webp?v=7110e2b23d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/back.webp?v=f2d2f0a1cc"
+          },
+          {
+            "title": "Eliminate the Impossible",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Sherlock Holmes",
+            "basicText": "Choose an opponent. Look at their hand and choose 1 card for them to discard.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/eliminate-the-impossible.webp?v=bdaccc3d9c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/eliminate-the-impossible.webp?v=bdaccc3d9c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/back.webp?v=f2d2f0a1cc"
+          },
+          {
+            "title": "Feint",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/feint.webp?v=9f97054e09",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/feint.webp?v=9f97054e09"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/back.webp?v=f2d2f0a1cc"
+          },
+          {
+            "title": "Fixed Point in a Changing Age",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Dr. Watson",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If Dr. Watson is adjacent to Holmes, they each recover 1 health.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/fixed-point-in-a-changing-age.webp?v=48e40e7fbe",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/fixed-point-in-a-changing-age.webp?v=48e40e7fbe"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/back.webp?v=f2d2f0a1cc"
+          },
+          {
+            "title": "Master of Disguise",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Sherlock Holmes",
+            "basicText": "Choose an opponent. Holmes swaps spaces with their hero. Deal 1 damage to that hero.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/master-of-disguise.webp?v=3dfa147bee",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/master-of-disguise.webp?v=3dfa147bee"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/back.webp?v=f2d2f0a1cc"
+          },
+          {
+            "title": "Service Revolver",
+            "quantity": 2,
+            "type": "attack",
+            "value": 5,
+            "boost": 3,
+            "characterName": "Dr. Watson",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/service-revolver.webp?v=6f77e6274e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/service-revolver.webp?v=6f77e6274e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/back.webp?v=f2d2f0a1cc"
+          },
+          {
+            "title": "Study Methods",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, look at your opponent's hand.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/study-methods.webp?v=bcd7e776b3",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/study-methods.webp?v=bcd7e776b3"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/back.webp?v=f2d2f0a1cc"
+          },
+          {
+            "title": "The Game Is Afoot",
+            "quantity": 2,
+            "type": "attack",
+            "value": 5,
+            "boost": 2,
+            "characterName": "Sherlock Holmes",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move Holmes up to 3 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/the-game-is-afoot.webp?v=d3e54d3c6b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/cards/the-game-is-afoot.webp?v=d3e54d3c6b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/back.webp?v=f2d2f0a1cc"
+          },
+          {
+            "title": "Sherlock Holmes",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Sherlock Holmes",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/hero.webp?v=8c59f40e01",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/hero.webp?v=8c59f40e01"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/back.webp?v=f2d2f0a1cc",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    }
+  ],
+  "maps": []
+}

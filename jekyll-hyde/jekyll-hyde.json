@@ -1,0 +1,315 @@
+{
+  "id": "um-jekyll-hyde",
+  "family_id": "um-jekyll-hyde",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Jekyll & Hyde",
+  "note": "Unmatched (Restoration Games), set cobble-fog. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T13:05:57.705Z",
+  "deck_first_published_on": "2026-11-17T13:05:57.705Z",
+  "published_on": "2026-11-17T13:05:57.705Z",
+  "updated_on": "2026-11-17T13:05:57.705Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "cobble-fog"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/token-hero.png?v=10dd1a4c91",
+      "clip": "circle",
+      "label": "Jekyll & Hyde",
+      "rim": "#1F1F1F",
+      "initials": "JH",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/token-transformation.png?v=09ba2866bc",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "clip": "circle",
+      "size": 72,
+      "h": 72
+    }
+  ],
+  "deck_data": {
+    "name": "Jekyll & Hyde",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Jekyll & Hyde",
+      "hp": 16,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "Start the game as Dr. Jekyll. At the start of your turn, you may transform into Dr. Jekyll or Mr. Hyde. While Mr. Hyde: After you Maneuver, take 1 damage. (Use Jekyll & Hyde's transformation token to indicate who he currently is.)",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/token-hero.png?v=10dd1a4c91"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Calming Research",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Dr. Jekyll",
+        "basicText": "Recover 2 health. Draw up to 3 cards. Keep one and put any others on the bottom of your deck in any order.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/calming-research.webp?v=b4cff532b0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/calming-research.webp?v=b4cff532b0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+      },
+      {
+        "title": "Distracted Triage",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Dr. Jekyll",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, recover 2 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/distracted-triage.webp?v=a616170194",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/distracted-triage.webp?v=a616170194"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+      },
+      {
+        "title": "Duality of Man",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If you are Dr. Jekyll and playing this card to defend, this card's value is 6 instead. If you are Mr. Hyde and playing this card to attack, this card's value is 6 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/duality-of-man.webp?v=4819ee7505",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/duality-of-man.webp?v=4819ee7505"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/feint.webp?v=2d55082d91",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/feint.webp?v=2d55082d91"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+      },
+      {
+        "title": "Forever Hyde",
+        "quantity": 2,
+        "type": "attack",
+        "value": 5,
+        "boost": 2,
+        "characterName": "Mr. Hyde",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may discard Dr. Jekyll cards. Add 2 to this card's value for each card discarded.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/forever-hyde.webp?v=65acc11d5b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/forever-hyde.webp?v=65acc11d5b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+      },
+      {
+        "title": "Madness Relents",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Mr. Hyde",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Transform to Dr. Jekyll.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/madness-relents.webp?v=cc72164624",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/madness-relents.webp?v=cc72164624"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+      },
+      {
+        "title": "Pure Evil",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Mr. Hyde",
+        "basicText": "Place Mr. Hyde in any space in his zone. Mr. Hyde deals 2 damage to all adjacent fighters.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/pure-evil.webp?v=0e74af3b13",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/pure-evil.webp?v=0e74af3b13"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+      },
+      {
+        "title": "Recoiling Blow",
+        "quantity": 2,
+        "type": "attack",
+        "value": 5,
+        "boost": 2,
+        "characterName": "Mr. Hyde",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Place Mr. Hyde in any space in his zone. Transform to Dr. Jekyll.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/recoiling-blow.webp?v=7fe3cc509d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/recoiling-blow.webp?v=7fe3cc509d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+      },
+      {
+        "title": "Scientific Method",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Dr. Jekyll",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw a number of cards equal to the damage you were dealt.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/scientific-method.webp?v=179ffd44b0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/scientific-method.webp?v=179ffd44b0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+      },
+      {
+        "title": "Skirmish",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, choose one of the fighters in the combat and move them up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/skirmish.webp?v=62a60edf0c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/skirmish.webp?v=62a60edf0c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+      },
+      {
+        "title": "Strange Case",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Mr. Hyde",
+        "basicText": "Reveal the top card of your deck. Deal damage equal to its BOOST value to one adjacent fighter. Put the card in your hand.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/strange-case.webp?v=c3582df228",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/strange-case.webp?v=c3582df228"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+      },
+      {
+        "title": "Succumb to Compulsion",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Dr. Jekyll",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move up to 2 spaces. Transform to Mr. Hyde.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/succumb-to-compulsion.webp?v=bd604089f6",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/succumb-to-compulsion.webp?v=bd604089f6"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+      },
+      {
+        "title": "With Haste!",
+        "quantity": 2,
+        "type": "defence",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Dr. Jekyll",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move Dr. Jekyll up to 4 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/with-haste.webp?v=06983f6273",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/cards/with-haste.webp?v=06983f6273"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103"
+      },
+      {
+        "title": "Jekyll & Hyde",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Jekyll & Hyde",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/hero.webp?v=99fb278d53",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/hero.webp?v=99fb278d53"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/jekyll-hyde/back.webp?v=8e21e07103",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

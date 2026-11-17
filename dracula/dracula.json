@@ -1,0 +1,290 @@
+{
+  "id": "um-dracula",
+  "family_id": "um-dracula",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Dracula",
+  "note": "Unmatched (Restoration Games), set cobble-fog. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-17T13:05:57.358Z",
+  "deck_first_published_on": "2026-11-17T13:05:57.358Z",
+  "published_on": "2026-11-17T13:05:57.358Z",
+  "updated_on": "2026-11-17T13:05:57.358Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "cobble-fog"
+  ],
+  "deck_data": {
+    "name": "Dracula",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Dracula",
+      "hp": 13,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "At the start of your turn, you may deal 1 damage to a fighter adjacent to Dracula. If you do, draw a card.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/token-hero.png?v=49f0df3299"
+    },
+    "sidekick": {
+      "name": "Sister",
+      "quantity": 3,
+      "hp": 1,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/token-sister.png?v=00de1cf926"
+    },
+    "cards": [
+      {
+        "title": "Ambush",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Your opponent discards 1 random card. Add its BOOST value to this card's attack value.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/ambush.webp?v=d33cc50490",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/ambush.webp?v=d33cc50490"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+      },
+      {
+        "title": "Baptism of Blood",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Dracula",
+        "basicText": "Recover 2 health. Return a defeated Sister (if any) to any space in Dracula's zone.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/baptism-of-blood.webp?v=22b58df7c1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/baptism-of-blood.webp?v=22b58df7c1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+      },
+      {
+        "title": "Beastform",
+        "quantity": 2,
+        "type": "attack",
+        "value": 6,
+        "boost": 4,
+        "characterName": "Dracula",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may discard any number of cards from your hand. This card's value is +1 for each card you discard.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/beastform.webp?v=29ed93c5b3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/beastform.webp?v=29ed93c5b3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+      },
+      {
+        "title": "Dash",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move your fighter up to 3 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/dash.webp?v=7f4ea6e6bd",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/dash.webp?v=7f4ea6e6bd"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+      },
+      {
+        "title": "Do My Bidding",
+        "quantity": 2,
+        "type": "defence",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Dracula",
+        "basicText": "",
+        "immediateText": "Return your opponent's attack card to their hand. Look at their hand and choose an attack or versatile card for them to play. (It may be the same card.)",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/do-my-bidding.webp?v=97d780fb1f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/do-my-bidding.webp?v=97d780fb1f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+      },
+      {
+        "title": "Exploit",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/exploit.webp?v=c1b57d357d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/exploit.webp?v=c1b57d357d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+      },
+      {
+        "title": "Feeding Frenzy",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Dracula",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "This card's value is +1 for each Sister in the same zone as the opposing fighter.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/feeding-frenzy.webp?v=9b2fc05e5d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/feeding-frenzy.webp?v=9b2fc05e5d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/feint.webp?v=8125c5a6cb",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/feint.webp?v=8125c5a6cb"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+      },
+      {
+        "title": "Look Into My Eyes",
+        "quantity": 2,
+        "type": "defence",
+        "value": 1,
+        "boost": 2,
+        "characterName": "Dracula",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Add the BOOST value from your opponent's attack card to the defense value of this card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/look-into-my-eyes.webp?v=6aa4c8cb34",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/look-into-my-eyes.webp?v=6aa4c8cb34"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+      },
+      {
+        "title": "Mistform",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Dracula",
+        "basicText": "Place Dracula in any space. Gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/mistform.webp?v=b517b3a732",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/mistform.webp?v=b517b3a732"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+      },
+      {
+        "title": "Prey Upon",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 4,
+        "characterName": "Dracula",
+        "basicText": "Deal 1 damage to all opposing fighters adjacent to Dracula. Dracula recovers 1 health for each damage dealt.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/prey-upon.webp?v=c048b54152",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/prey-upon.webp?v=c048b54152"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+      },
+      {
+        "title": "Ravening Seduction",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Sister",
+        "basicText": "Move any fighter up to 2 spaces. After moving, deal 1 damage to the moved fighter for each Sister adjacent to them.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/ravening-seduction.webp?v=ca4d888475",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/ravening-seduction.webp?v=ca4d888475"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+      },
+      {
+        "title": "Thirst for Sustenance",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Sister",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, place Dracula in any space adjacent to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/thirst-for-sustenance.webp?v=5e95b1594c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/cards/thirst-for-sustenance.webp?v=5e95b1594c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17"
+      },
+      {
+        "title": "Dracula",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Dracula",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/hero.webp?v=fe70901494",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/hero.webp?v=fe70901494"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dracula/back.webp?v=63811efe17",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}
