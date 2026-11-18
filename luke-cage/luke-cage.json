@@ -1,0 +1,290 @@
+{
+  "id": "um-luke-cage",
+  "family_id": "um-luke-cage",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Luke Cage",
+  "note": "Unmatched (Restoration Games), set redemption-row. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-18T16:22:19.999Z",
+  "deck_first_published_on": "2026-11-18T16:22:19.999Z",
+  "published_on": "2026-11-18T16:22:19.999Z",
+  "updated_on": "2026-11-18T16:22:19.999Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "redemption-row"
+  ],
+  "deck_data": {
+    "name": "Luke Cage",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Luke Cage",
+      "hp": 13,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "Luke Cage takes 2 less combat damage from attacks.\nWhen defending, Luke Cage wins combat if he takes no damage even if he didn't play a card.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/token-hero.png?v=db9a47ee65"
+    },
+    "sidekick": {
+      "name": "Misty Knight",
+      "quantity": 1,
+      "hp": 6,
+      "isRanged": true,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/token-misty-knight.png?v=1bbda82f88"
+    },
+    "cards": [
+      {
+        "title": "Commanding Impact",
+        "quantity": 3,
+        "type": "attack",
+        "value": 5,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/commanding-impact.webp?v=8e00f87eee",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/commanding-impact.webp?v=8e00f87eee"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+      },
+      {
+        "title": "Daughter of the Dragon",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Misty Knight",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If Misty Knight is adjacent to the opposing fighter, the value of this card is 6 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/daughter-of-the-dragon.webp?v=c8740a5dab",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/daughter-of-the-dragon.webp?v=c8740a5dab"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+      },
+      {
+        "title": "Get Paid",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Luke Cage",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, draw 2 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/get-paid.webp?v=a66ae6eb87",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/get-paid.webp?v=a66ae6eb87"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+      },
+      {
+        "title": "Got My Back?",
+        "quantity": 2,
+        "type": "defence",
+        "value": 1,
+        "boost": 2,
+        "characterName": "Misty Knight",
+        "basicText": "",
+        "immediateText": "Misty Knight may swap spaces with Luke Cage. If she does, Luke Cage is now the defender.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/got-my-back.webp?v=d70ef1da0e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/got-my-back.webp?v=d70ef1da0e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+      },
+      {
+        "title": "Hero for Hire",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Luke Cage",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this attack.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/hero-for-hire.webp?v=aa1479bc35",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/hero-for-hire.webp?v=aa1479bc35"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+      },
+      {
+        "title": "Power Man",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Luke Cage",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move the opposing fighter up to 3 spaces. You may move them through other opposing fighters. Deal 1 damage to them and each opposing fighter they moved through.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/power-man.webp?v=2d3a890198",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/power-man.webp?v=2d3a890198"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+      },
+      {
+        "title": "Pushback",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Misty Knight",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move the opposing fighter up to 3 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/pushback.webp?v=82e9ff0bcc",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/pushback.webp?v=82e9ff0bcc"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+      },
+      {
+        "title": "Regroup",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 1,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/regroup.webp?v=b4544dbaa5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/regroup.webp?v=b4544dbaa5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+      },
+      {
+        "title": "Skin Like Titanium",
+        "quantity": 2,
+        "type": "defence",
+        "value": 0,
+        "boost": 1,
+        "characterName": "Luke Cage",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you lost the combat, deal damage to the opposing fighter equal to the amount of combat damage you took.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/skin-like-titanium.webp?v=5ce3bdd207",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/skin-like-titanium.webp?v=5ce3bdd207"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+      },
+      {
+        "title": "Still Standing",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, choose 2 cards in your discard pile and shuffle them into your deck.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/still-standing.webp?v=2d3e827352",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/still-standing.webp?v=2d3e827352"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+      },
+      {
+        "title": "Sweet Christmas!",
+        "quantity": 2,
+        "type": "attack",
+        "value": 6,
+        "boost": 1,
+        "characterName": "Luke Cage",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/sweet-christmas.webp?v=f955324e73",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/sweet-christmas.webp?v=f955324e73"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+      },
+      {
+        "title": "Trash Talk",
+        "quantity": 3,
+        "type": "defence",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "If you won the combat, end the turn.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/trash-talk.webp?v=7976779e36",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/trash-talk.webp?v=7976779e36"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+      },
+      {
+        "title": "Where's My Money?",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "Luke Cage",
+        "basicText": "Place Luke Cage adjacent to the nearest opposing fighter.\nGain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/where-s-my-money.webp?v=59c94e057f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/where-s-my-money.webp?v=59c94e057f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+      },
+      {
+        "title": "Luke Cage",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Luke Cage",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/hero.webp?v=e1e9c94ac2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/hero.webp?v=e1e9c94ac2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

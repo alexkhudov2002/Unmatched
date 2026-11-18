@@ -1,0 +1,273 @@
+{
+  "id": "um-bullseye",
+  "family_id": "um-bullseye",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Bullseye",
+  "note": "Unmatched (Restoration Games), set hells-kitchen. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-18T16:22:18.506Z",
+  "deck_first_published_on": "2026-11-18T16:22:18.506Z",
+  "published_on": "2026-11-18T16:22:18.506Z",
+  "updated_on": "2026-11-18T16:22:18.506Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "hells-kitchen"
+  ],
+  "deck_data": {
+    "name": "Bullseye",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Bullseye",
+      "hp": 14,
+      "move": 2,
+      "isRanged": true,
+      "specialAbility": "Bullseye can attack from up to 5 spaces away (ignoring zones).",
+      "quote": "In real life, if he's quick and smart, and nasty enough -- the BAD guy wins!",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/token-hero.png?v=0a1bc8a952"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Arrogant but Effective",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Bullseye",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "You are considered to have won this combat. Move Bullseye up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/arrogant-but-effective.webp?v=eb0a12ea05",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/arrogant-but-effective.webp?v=eb0a12ea05"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+      },
+      {
+        "title": "Feint",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Bullseye",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/feint.webp?v=d9fd8e5086",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/feint.webp?v=d9fd8e5086"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+      },
+      {
+        "title": "For My Next Trick",
+        "quantity": 3,
+        "type": "attack",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Bullseye",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move Bullseye up to 1 space. Draw 1 card. Gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/for-my-next-trick.webp?v=792e029a99",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/for-my-next-trick.webp?v=792e029a99"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+      },
+      {
+        "title": "I'm Better and I'll Prove It",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Bullseye",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If you already won a combat this turn, the value of this card is 6 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/i-m-better-and-i-ll-prove-it.webp?v=8f6a4b5a51",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/i-m-better-and-i-ll-prove-it.webp?v=8f6a4b5a51"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+      },
+      {
+        "title": "I Never Miss",
+        "quantity": 4,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Bullseye",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this attack. If you don't BOOST this attack, draw 1 card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/i-never-miss.webp?v=59d421c03a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/i-never-miss.webp?v=59d421c03a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+      },
+      {
+        "title": "I Planned to Be Here",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Bullseye",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If you started your turn in your current space, the value of this card is 5 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/i-planned-to-be-here.webp?v=57b16a50d8",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/i-planned-to-be-here.webp?v=57b16a50d8"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+      },
+      {
+        "title": "Master Strategist",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Bullseye",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move Bullseye exactly 4 spaces. He may move through opposing fighters.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/master-strategist.webp?v=c5d308b97b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/master-strategist.webp?v=c5d308b97b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+      },
+      {
+        "title": "Ricochet",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Bullseye",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If the opposing fighter was not defeated, deal 1 damage to a fighter in the opposing fighter's zone.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/ricochet.webp?v=f2d4a22518",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/ricochet.webp?v=f2d4a22518"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+      },
+      {
+        "title": "Right Between the Eyes",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Bullseye",
+        "basicText": "",
+        "immediateText": "If you already won a combat this turn, your opponent discards 1 card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/right-between-the-eyes.webp?v=5d45584ff9",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/right-between-the-eyes.webp?v=5d45584ff9"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+      },
+      {
+        "title": "Study the Target",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Bullseye",
+        "basicText": "Draw 2 cards.\nIf you won a combat this turn, draw 1 additional card and gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/study-the-target.webp?v=857133d21e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/study-the-target.webp?v=857133d21e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+      },
+      {
+        "title": "Tactical Retreat",
+        "quantity": 3,
+        "type": "defence",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Bullseye",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Place Bullseye in a space that shares no zones with his current space.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/tactical-retreat.webp?v=5d98720f89",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/tactical-retreat.webp?v=5d98720f89"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+      },
+      {
+        "title": "World's Greatest Assassin",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Bullseye",
+        "basicText": "",
+        "immediateText": "If you already won a combat this turn, ignore the value of your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/world-s-greatest-assassin.webp?v=dee3db9924",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/world-s-greatest-assassin.webp?v=dee3db9924"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+      },
+      {
+        "title": "Bullseye",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Bullseye",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/hero.webp?v=2de0fb9f74",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/hero.webp?v=2de0fb9f74"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

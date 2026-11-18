@@ -1,0 +1,1283 @@
+{
+  "decks": [
+    {
+      "id": "um-hamlet",
+      "family_id": "um-hamlet",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Hamlet",
+      "note": "Unmatched (Restoration Games), set slings-and-arrows. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-18T16:22:20.586Z",
+      "deck_first_published_on": "2026-11-18T16:22:20.586Z",
+      "published_on": "2026-11-18T16:22:20.586Z",
+      "updated_on": "2026-11-18T16:22:20.586Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "slings-and-arrows"
+      ],
+      "deck_data": {
+        "name": "Hamlet",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Hamlet",
+          "hp": 15,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "THE QUESTION\nAt the start of your turn, choose TO BE or NOT TO BE. If you choose NOT TO BE, deal 2 damage to one of your fighters.\nTO BE: When you maneuver, draw 1 additional card.\nNOT TO BE: Add +2 to the value of Hamlet's attacks.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/token-hero.png?v=0a6d325909"
+        },
+        "sidekick": {
+          "name": "Rosencrantz & Guildenstern",
+          "quantity": 1,
+          "hp": 6,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/token-rosencrantz-guildenstern.png?v=47ca1f09af"
+        },
+        "cards": [
+          {
+            "title": "Blood Will Have Blood",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Hamlet",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If Hamlet took damage this turn, deal 1 damage to the opposing fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/blood-will-have-blood.webp?v=eddb683525",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/blood-will-have-blood.webp?v=eddb683525"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+          },
+          {
+            "title": "Cruel to Be Kind",
+            "quantity": 2,
+            "type": "attack",
+            "value": 2,
+            "boost": 4,
+            "characterName": "Hamlet",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BOOST this card.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/cruel-to-be-kind.webp?v=9180af8358",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/cruel-to-be-kind.webp?v=9180af8358"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+          },
+          {
+            "title": "Maddening Insight",
+            "quantity": 2,
+            "type": "defence",
+            "value": 0,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "The value of this card is equal to the number of cards in your hand.",
+            "afterText": "If you won the combat, your opponent discards 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/maddening-insight.webp?v=9efe3f6ac9",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/maddening-insight.webp?v=9efe3f6ac9"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+          },
+          {
+            "title": "Method in the Madness",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Hamlet",
+            "basicText": "Put any number of cards in your hand on the bottom of your deck. Then, draw up to that many cards.\nGain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/method-in-the-madness.webp?v=2635fe5dee",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/method-in-the-madness.webp?v=2635fe5dee"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+          },
+          {
+            "title": "Nothing Either Good or Bad",
+            "quantity": 3,
+            "type": "defence",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If your opponent played a versatile card, deal 2 damage to the opposing fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/nothing-either-good-or-bad.webp?v=9d2367d534",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/nothing-either-good-or-bad.webp?v=9d2367d534"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+          },
+          {
+            "title": "Outrageous Fortune",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 1,
+            "boost": 2,
+            "characterName": "Hamlet",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Discard the top card of your deck. Add its BOOST value to this card's value.",
+            "afterText": "If you lost the combat, return the card you discarded to your hand.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/outrageous-fortune.webp?v=8b144ee75f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/outrageous-fortune.webp?v=8b144ee75f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+          },
+          {
+            "title": "The Ghost",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 1,
+            "characterName": "Hamlet",
+            "basicText": "Choose one:\n• Hamlet recovers 2 health\n• place Hamlet in any space in his zone and gain 1 action",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/the-ghost.webp?v=dd6576298b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/the-ghost.webp?v=dd6576298b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+          },
+          {
+            "title": "The Play's the Thing",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Your opponent discards 1 random card. If you won the combat, Hamlet recovers health equal to its BOOST value.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/the-play-s-the-thing.webp?v=1c939c18f5",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/the-play-s-the-thing.webp?v=1c939c18f5"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+          },
+          {
+            "title": "The Readiness Is All",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Place one of the fighters in the combat in any space. They cannot leave that space this turn.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/the-readiness-is-all.webp?v=50492daadf",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/the-readiness-is-all.webp?v=50492daadf"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+          },
+          {
+            "title": "The Rest Is Silence",
+            "quantity": 2,
+            "type": "defence",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Hamlet",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "End the turn.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/the-rest-is-silence.webp?v=36fed11c0f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/the-rest-is-silence.webp?v=36fed11c0f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+          },
+          {
+            "title": "To Sleep, Perchance to Dream",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, move the opposing fighter a number of spaces up to the amount of combat damage dealt. If you lost the combat, Hamlet recovers 1 health.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/to-sleep-perchance-to-dream.webp?v=9c0cb765f5",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/to-sleep-perchance-to-dream.webp?v=9c0cb765f5"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+          },
+          {
+            "title": "Uncertain Doom",
+            "quantity": 3,
+            "type": "attack",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If your opponent played a versatile card, ignore its value.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/uncertain-doom.webp?v=a39d681762",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/uncertain-doom.webp?v=a39d681762"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+          },
+          {
+            "title": "Hamlet",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Hamlet",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/hero.webp?v=8f4e13b381",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/hero.webp?v=8f4e13b381"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-shakespeare",
+      "family_id": "um-shakespeare",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Shakespeare",
+      "note": "Unmatched (Restoration Games), set slings-and-arrows. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-18T16:22:20.855Z",
+      "deck_first_published_on": "2026-11-18T16:22:20.855Z",
+      "published_on": "2026-11-18T16:22:20.855Z",
+      "updated_on": "2026-11-18T16:22:20.855Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "slings-and-arrows"
+      ],
+      "deck_data": {
+        "name": "Shakespeare",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/back.webp?v=8ba2c680a9",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Shakespeare",
+          "hp": 13,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "IAMBIC PENTAMETER\nAfter you attack or defend, add your card to your line.\nWhen your line has 10 or more syllables, discard your line. If there are exactly 10 syllables, resolve the completion effect on the last card.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/token-hero.png?v=ab165a8f39"
+        },
+        "sidekick": {
+          "name": "Actor",
+          "quantity": 3,
+          "hp": 1,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/token-actor.png?v=70aafc3f29"
+        },
+        "cards": [
+          {
+            "title": "Again",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Actor",
+            "basicText": "SYLLABLES: 2\n🪶 COMPLETION: Draw 1 card.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You may return the first card in your line to your hand (before you add this to your line).",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/again.webp?v=57799277a2",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/again.webp?v=57799277a2"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/back.webp?v=8ba2c680a9"
+          },
+          {
+            "title": "Alas",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Shakespeare",
+            "basicText": "SYLLABLES: 2\n🪶 COMPLETION: Draw 2 cards. Shakespeare recovers 2 health.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you lost the combat, Shakespeare recovers 1 health.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/alas.webp?v=34423a8ef9",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/alas.webp?v=34423a8ef9"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/back.webp?v=8ba2c680a9"
+          },
+          {
+            "title": "All Are Punished",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "SYLLABLES: 4\n🪶 COMPLETION: Draw 1 card.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 1 damage to each other fighter in your zone.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/all-are-punished.webp?v=afa75934fd",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/all-are-punished.webp?v=afa75934fd"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/back.webp?v=8ba2c680a9"
+          },
+          {
+            "title": "Deceive",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "SYLLABLES: 2\n🪶 COMPLETION: Return this card to your hand.",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/deceive.webp?v=9a2290062d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/deceive.webp?v=9a2290062d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/back.webp?v=8ba2c680a9"
+          },
+          {
+            "title": "Et Tu, Brute?",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "SYLLABLES: 4\n🪶 COMPLETION: Place each of your fighters in any space.",
+            "immediateText": "",
+            "duringText": "Increase the value of this card by +1 for each of your fighters adjacent to the opposing fighter.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/et-tu-brute.webp?v=3a40cd61fe",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/et-tu-brute.webp?v=3a40cd61fe"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/back.webp?v=8ba2c680a9"
+          },
+          {
+            "title": "Horror",
+            "quantity": 5,
+            "type": "attack",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Shakespeare",
+            "basicText": "SYLLABLES: 2\n🪶 COMPLETION: Deal 1 damage to the opposing fighter for each other card in your line.",
+            "immediateText": "",
+            "duringText": "Increase the value of this card by +1 for each HORROR card in your line.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/horror.webp?v=4ef8378dad",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/horror.webp?v=4ef8378dad"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/back.webp?v=8ba2c680a9"
+          },
+          {
+            "title": "My Kingdom for a Horse",
+            "quantity": 3,
+            "type": "attack",
+            "value": 5,
+            "boost": 3,
+            "characterName": "Shakespeare",
+            "basicText": "SYLLABLES: 6\n🪶 COMPLETION: Gain 2 actions.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/my-kingdom-for-a-horse.webp?v=225d03dc33",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/my-kingdom-for-a-horse.webp?v=225d03dc33"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/back.webp?v=8ba2c680a9"
+          },
+          {
+            "title": "Once More unto the Breach",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Shakespeare",
+            "basicText": "SYLLABLES: 6\n🪶 COMPLETION: Return all defeated Actors to spaces in Shakespeare's zone.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Return a defeated Actor to any space in Shakespeare's zone.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/once-more-unto-the-breach.webp?v=92f478902b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/once-more-unto-the-breach.webp?v=92f478902b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/back.webp?v=8ba2c680a9"
+          },
+          {
+            "title": "Places, Places!",
+            "quantity": 2,
+            "type": "attack",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "SYLLABLES: 4\n🪶 COMPLETION: Place Shakespeare in a zone with no Actors.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move each Actor up to 3 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/places-places.webp?v=14bd9e7c33",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/places-places.webp?v=14bd9e7c33"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/back.webp?v=8ba2c680a9"
+          },
+          {
+            "title": "Revise",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 1,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "SYLLABLES: 2\n🪶 COMPLETION: Move each fighter up to 2 spaces. (This includes opposing fighters.)",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/revise.webp?v=ee4fb6146f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/revise.webp?v=ee4fb6146f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/back.webp?v=8ba2c680a9"
+          },
+          {
+            "title": "Such Sweet Sorrow",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Actor",
+            "basicText": "SYLLABLES: 4\n🪶 COMPLETION: Draw 1 card.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move your fighter up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/such-sweet-sorrow.webp?v=08810fdc3d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/such-sweet-sorrow.webp?v=08810fdc3d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/back.webp?v=8ba2c680a9"
+          },
+          {
+            "title": "The Ides of March",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Shakespeare",
+            "basicText": "SYLLABLES: 4\n🪶 COMPLETION: Deal 2 damage to any opposing fighter.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/the-ides-of-march.webp?v=2377d3fd4b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/cards/the-ides-of-march.webp?v=2377d3fd4b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/back.webp?v=8ba2c680a9"
+          },
+          {
+            "title": "Shakespeare",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Shakespeare",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/hero.webp?v=e6589a2809",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/hero.webp?v=e6589a2809"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/back.webp?v=8ba2c680a9",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Your line",
+            "content": "Keep the attack and defense cards you play in a row beside your deck (your line) instead of discarding them. Each card shows its syllables (the number and dots on its left edge). Reaching 10 or more: discard the whole line; exactly 10: first resolve the 🪶 completion effect of the card that completed it."
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-titania",
+      "family_id": "um-titania",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Titania",
+      "note": "Unmatched (Restoration Games), set slings-and-arrows. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-18T16:22:21.653Z",
+      "deck_first_published_on": "2026-11-18T16:22:21.653Z",
+      "published_on": "2026-11-18T16:22:21.653Z",
+      "updated_on": "2026-11-18T16:22:21.653Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "slings-and-arrows"
+      ],
+      "savedTokens": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/token-hero.png?v=6f7f101900",
+          "clip": "circle",
+          "label": "Titania",
+          "rim": "#1F1F1F",
+          "initials": "T",
+          "size": 88,
+          "h": 88,
+          "counter": {
+            "link": "hero"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/token-oberon.png?v=5418812863",
+          "clip": "circle",
+          "label": "Oberon",
+          "rim": "#1F1F1F",
+          "initials": "O",
+          "size": 64,
+          "h": 64,
+          "counter": {
+            "link": "sidekick"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/glamour/glamour-of-greed.png?v=577558d78a",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 130,
+          "h": 85
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/glamour/glamour-of-jealousy.png?v=6a3cad4bd9",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 130,
+          "h": 85
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/glamour/glamour-of-love.png?v=ce70911996",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 130,
+          "h": 85
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/glamour/glamour-of-sleep.png?v=5359fc42e8",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 130,
+          "h": 85
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/glamour/glamour-of-invisibility.png?v=63e242e0ff",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 130,
+          "h": 85
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/glamour/glamour-of-rhyme.png?v=33188c959a",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 130,
+          "h": 85
+        }
+      ],
+      "deck_data": {
+        "name": "Titania",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/back.webp?v=38d3147595",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Titania",
+          "hp": 12,
+          "move": 2,
+          "isRanged": true,
+          "specialAbility": "FAIRY MAGIC\nIf you do not have a face-up glamour at the start of your turn, flip the top card of your glamour deck face-up.\nIts effect is ongoing while it remains face-up.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/token-hero.png?v=6f7f101900"
+        },
+        "sidekick": {
+          "name": "Oberon",
+          "quantity": 1,
+          "hp": 6,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/token-oberon.png?v=5418812863"
+        },
+        "cards": [
+          {
+            "title": "As Wise as Beautiful",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Titania",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card. You may discard your glamour to draw 2 cards instead.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/as-wise-as-beautiful.webp?v=eb99232513",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/as-wise-as-beautiful.webp?v=eb99232513"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/back.webp?v=38d3147595"
+          },
+          {
+            "title": "A Momentary Glance",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 4,
+            "characterName": "Titania",
+            "basicText": "Deal 2 damage to any fighter in Titania's zone.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/a-momentary-glance.webp?v=e8fc3fe8ac",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/a-momentary-glance.webp?v=e8fc3fe8ac"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/back.webp?v=38d3147595"
+          },
+          {
+            "title": "But a Dream",
+            "quantity": 2,
+            "type": "defence",
+            "value": 0,
+            "boost": 2,
+            "characterName": "Titania",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card, ignore its value, and return it to your opponent's hand.",
+            "duringText": "",
+            "afterText": "Draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/but-a-dream.webp?v=033fdfccc8",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/but-a-dream.webp?v=033fdfccc8"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/back.webp?v=38d3147595"
+          },
+          {
+            "title": "Fairy Song",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may discard your glamour. If you do, the value of this card is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/fairy-song.webp?v=985e5fe027",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/fairy-song.webp?v=985e5fe027"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/back.webp?v=38d3147595"
+          },
+          {
+            "title": "Gift of the Fair Folk",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "Choose 2 different effects:\n• one fighter recovers 2 health\n• draw 2 cards\n• move two fighters up to 2 spaces each",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/gift-of-the-fair-folk.webp?v=7f98c0d8b0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/gift-of-the-fair-folk.webp?v=7f98c0d8b0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/back.webp?v=38d3147595"
+          },
+          {
+            "title": "Met by Moonlight",
+            "quantity": 3,
+            "type": "attack",
+            "value": 5,
+            "boost": 2,
+            "characterName": "Oberon",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Place Oberon in a space adjacent to Titania.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/met-by-moonlight.webp?v=edb676bbf6",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/met-by-moonlight.webp?v=edb676bbf6"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/back.webp?v=38d3147595"
+          },
+          {
+            "title": "Parting Gift",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You may deal 2 damage to each fighter in the combat.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/parting-gift.webp?v=39882f18ae",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/parting-gift.webp?v=39882f18ae"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/back.webp?v=38d3147595"
+          },
+          {
+            "title": "Protection of the Fairy Woods",
+            "quantity": 3,
+            "type": "defence",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "You may discard your glamour. If you do, cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/protection-of-the-fairy-woods.webp?v=bae94e87f2",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/protection-of-the-fairy-woods.webp?v=bae94e87f2"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/back.webp?v=38d3147595"
+          },
+          {
+            "title": "Queen of the Fairies",
+            "quantity": 2,
+            "type": "attack",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Titania",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Increase the value of this card by +1 for each glamour in your glamour discard pile.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/queen-of-the-fairies.webp?v=915dc96ce4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/queen-of-the-fairies.webp?v=915dc96ce4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/back.webp?v=38d3147595"
+          },
+          {
+            "title": "The Moon Looks Down",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Titania",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Put a discarded glamour on the bottom of your glamour deck.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/the-moon-looks-down.webp?v=80b28785f1",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/the-moon-looks-down.webp?v=80b28785f1"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/back.webp?v=38d3147595"
+          },
+          {
+            "title": "What Fools These Mortals Be",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Oberon",
+            "basicText": "Choose an opponent, look at their hand, and choose a card. They shuffle that card into their deck.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/what-fools-these-mortals-be.webp?v=88f2f6603d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/what-fools-these-mortals-be.webp?v=88f2f6603d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/back.webp?v=38d3147595"
+          },
+          {
+            "title": "Whisked Away",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move your fighter up to 2 spaces. You may discard your glamour. If you do, place your fighter in any space.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/whisked-away.webp?v=03ee13af8d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/cards/whisked-away.webp?v=03ee13af8d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/back.webp?v=38d3147595"
+          },
+          {
+            "title": "Titania",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Titania",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/hero.webp?v=c6b65ace31",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/hero.webp?v=c6b65ace31"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/back.webp?v=38d3147595",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Glamour deck",
+            "content": "Shuffle the 6 glamours face down beside your deck. \"Discard your glamour\" puts the face-up one in your glamour discard pile; \"a discarded glamour\" comes from there."
+          },
+          {
+            "title": "Glamour of Greed",
+            "content": "At the end of your turn, you may draw 1 card."
+          },
+          {
+            "title": "Glamour of Jealousy",
+            "content": "When Titania or Oberon are attacked, before playing a card, they may swap spaces. If they do, your other fighter is now the defender."
+          },
+          {
+            "title": "Glamour of Love",
+            "content": "When you maneuver, you may move an opposing fighter 1 space before moving your fighters."
+          },
+          {
+            "title": "Glamour of Sleep",
+            "content": "Your fighters do not take damage other than combat damage."
+          },
+          {
+            "title": "Glamour of Invisibility",
+            "content": "Your fighters may move through opposing fighters."
+          },
+          {
+            "title": "Glamour of Rhyme",
+            "content": "After you play a scheme, gain 1 action."
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-wayward-sisters",
+      "family_id": "um-wayward-sisters",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "The Wayward Sisters",
+      "note": "Unmatched (Restoration Games), set slings-and-arrows. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-18T16:22:21.123Z",
+      "deck_first_published_on": "2026-11-18T16:22:21.123Z",
+      "published_on": "2026-11-18T16:22:21.123Z",
+      "updated_on": "2026-11-18T16:22:21.123Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "slings-and-arrows"
+      ],
+      "savedTokens": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/token-hero.png?v=0da8307a42",
+          "clip": "circle",
+          "label": "The Wayward Sisters",
+          "rim": "#1F1F1F",
+          "initials": "WS",
+          "size": 88,
+          "h": 88,
+          "counter": {
+            "link": "hero"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/token-wayward-sister.png?v=7898db17a2",
+          "clip": "circle",
+          "rim": "#1F1F1F",
+          "initials": "WS",
+          "size": 64,
+          "h": 64,
+          "counter": {
+            "value": 6,
+            "min": 0
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/token-wayward-sister.png?v=7898db17a2",
+          "clip": "circle",
+          "rim": "#1F1F1F",
+          "initials": "WS",
+          "size": 64,
+          "h": 64,
+          "counter": {
+            "value": 6,
+            "min": 0
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/token-cauldron.png?v=ce80e81eb4",
+          "size": 220,
+          "h": 276
+        }
+      ],
+      "deck_data": {
+        "name": "The Wayward Sisters",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "The Wayward Sisters",
+          "hp": 6,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "BUBBLING BREW\nYour cards go into your cauldron instead of your discard pile.\nAfter you attack, you may cast one spell that you have the ingredients for. If you do, discard all the cards in your cauldron.",
+          "quote": "What's done cannot be undone.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/token-hero.png?v=0da8307a42"
+        },
+        "sidekick": {
+          "name": "Wayward Sister",
+          "quantity": 2,
+          "hp": 6,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/token-wayward-sister.png?v=7898db17a2"
+        },
+        "cards": [
+          {
+            "title": "All-Seeing Familiar",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "INGREDIENT: Lizard’s leg",
+            "immediateText": "Return a card in your discard pile to your cauldron.",
+            "duringText": "",
+            "afterText": "If you won the combat, look at the top card of your deck and put it in your hand or cauldron.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/all-seeing-familiar.webp?v=2dbfc32a2a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/all-seeing-familiar.webp?v=2dbfc32a2a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+          },
+          {
+            "title": "Curious Familiar",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "INGREDIENT: Bat",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Return a card in your cauldron to your hand.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/curious-familiar.webp?v=448bf9642e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/curious-familiar.webp?v=448bf9642e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+          },
+          {
+            "title": "Double, Double",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "INGREDIENT: Lizard’s leg",
+            "immediateText": "",
+            "duringText": "Increase the value of this card by +1 for each different ingredient symbol in your cauldron.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/double-double.webp?v=0b6826d004",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/double-double.webp?v=0b6826d004"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+          },
+          {
+            "title": "Fire Burn and Cauldron Bubble",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "INGREDIENT: Bat",
+            "immediateText": "Return a card in your discard pile to your cauldron.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/fire-burn-and-cauldron-bubble.webp?v=44f2f10ab1",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/fire-burn-and-cauldron-bubble.webp?v=44f2f10ab1"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+          },
+          {
+            "title": "Hurly-Burly",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "INGREDIENT: Snake",
+            "immediateText": "",
+            "duringText": "Reveal the top card of your deck. Your opponent chooses one:\n• put that card in your hand\n• put that card in your cauldron and add its BOOST value to this card's value",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/hurly-burly.webp?v=f067a3ae51",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/hurly-burly.webp?v=f067a3ae51"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+          },
+          {
+            "title": "Pricking of My Thumbs",
+            "quantity": 2,
+            "type": "defence",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "INGREDIENT: Snake",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal damage to the opposing fighter equal to the amount of combat damage your fighter took.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/pricking-of-my-thumbs.webp?v=2fb221e96c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/pricking-of-my-thumbs.webp?v=2fb221e96c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+          },
+          {
+            "title": "Prophecy",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "Look at the top 4 cards of your deck. Put 2 of them in your hand and the other 2 back on top of your deck in any order.\nINGREDIENT: Lizard’s leg",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/prophecy.webp?v=c853892869",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/prophecy.webp?v=c853892869"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+          },
+          {
+            "title": "Something Wicked This Way Comes",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "Cast any spell. Then, cast a different spell. (Do not discard any cards from your cauldron to cast these spells.)\nINGREDIENT: Bat",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/something-wicked-this-way-comes.webp?v=719f050bc6",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/something-wicked-this-way-comes.webp?v=719f050bc6"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+          },
+          {
+            "title": "The Stars Align",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 0,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "INGREDIENT: Lizard’s leg",
+            "immediateText": "",
+            "duringText": "The value of this card is equal to the number of different zones all of your fighters are in.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/the-stars-align.webp?v=6d4501e211",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/the-stars-align.webp?v=6d4501e211"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+          },
+          {
+            "title": "Toil and Trouble",
+            "quantity": 3,
+            "type": "defence",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "INGREDIENT: Snake",
+            "immediateText": "",
+            "duringText": "Increase the value of this card by +1 for each different ingredient symbol in your cauldron.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/toil-and-trouble.webp?v=8588e61c50",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/toil-and-trouble.webp?v=8588e61c50"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+          },
+          {
+            "title": "Unnatural Remedy",
+            "quantity": 2,
+            "type": "defence",
+            "value": 1,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "INGREDIENT: Snake",
+            "immediateText": "Discard up to 3 cards from your cauldron. For each one, choose a fighter to recover 1 health. (You may choose the same fighter more than once.)",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/unnatural-remedy.webp?v=02041bdbea",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/unnatural-remedy.webp?v=02041bdbea"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+          },
+          {
+            "title": "Ward",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "INGREDIENT: Bat",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Place the opposing fighter in any space in your fighter's zone.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/ward.webp?v=6cbd79bd65",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/ward.webp?v=6cbd79bd65"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+          },
+          {
+            "title": "The Wayward Sisters",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "The Wayward Sisters",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/hero.webp?v=1272a3f482",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/hero.webp?v=1272a3f482"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Spells (cauldron)",
+            "content": "Each card shows one ingredient: Snake (green), Bat (purple) or Lizard’s leg (red). Cast a spell with the ingredients in your cauldron:\n• Snake + Bat: Draw 1 card. One of your fighters recovers 1 health.\n• Snake + Lizard’s leg: Move any fighter up to 3 spaces.\n• Lizard’s leg + Bat: Deal 1 damage to a fighter that shares a zone with any of your fighters.\n• Snake + Lizard’s leg + Bat: Gain 1 action."
+          },
+          {
+            "title": "Cauldron",
+            "content": "Put your played and discarded cards on the cauldron (beside your deck) instead of your discard pile; when you cast a spell, move them all to your discard pile."
+          },
+          {
+            "title": "Three sisters",
+            "content": "The Wayward Sisters are three heroes of 6 health each, each with her own health dial; a defeated Sister leaves the board and you lose only when the last one falls. An effect on \"your hero\" affects the Sister you choose. Here: the hero is one Sister and the other two are the \"Wayward Sister\" sidekicks, each with her own 6-health counter."
+          }
+        ]
+      }
+    }
+  ],
+  "maps": []
+}

@@ -1,0 +1,283 @@
+{
+  "id": "um-little-red",
+  "family_id": "um-little-red",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Little Red",
+  "note": "Unmatched (Restoration Games), set little-red. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-18T16:22:19.091Z",
+  "deck_first_published_on": "2026-11-18T16:22:19.091Z",
+  "published_on": "2026-11-18T16:22:19.091Z",
+  "updated_on": "2026-11-18T16:22:19.091Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "little-red"
+  ],
+  "deck_data": {
+    "name": "Little Red",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/back.webp?v=f6bc686150",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Little Red",
+      "hp": 14,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "Resolve an effect on a card you play if the symbol next to the effect matches the item in your basket.\nAt the start of the game, place LITTLE RED'S BASKET in your discard pile.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/token-hero.png?v=329f2734d2"
+    },
+    "sidekick": {
+      "name": "Huntsman",
+      "quantity": 1,
+      "hp": 9,
+      "isRanged": true,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/token-huntsman.png?v=c0a369b497"
+    },
+    "cards": [
+      {
+        "title": "What Big Ears You Have",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Little Red",
+        "basicText": "◆ You may play this card as a defense card.\nBASKET ITEM: ● Pelt",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/what-big-ears-you-have.webp?v=f2d691e983",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/what-big-ears-you-have.webp?v=f2d691e983"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/back.webp?v=f6bc686150"
+      },
+      {
+        "title": "What Big Eyes You Have",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Little Red",
+        "basicText": "BASKET ITEM: ● Pelt",
+        "immediateText": "Cancel all effects on your opponent's card.\n▲ Also ignore the value of your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/what-big-eyes-you-have.webp?v=43ef879102",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/what-big-eyes-you-have.webp?v=43ef879102"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/back.webp?v=f6bc686150"
+      },
+      {
+        "title": "What a Terrible Big Mouth You Have",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Little Red",
+        "basicText": "BASKET ITEM: ◆ Knife",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "● Deal damage to the opposing fighter equal to the printed value of their card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/what-a-terrible-big-mouth-you-have.webp?v=f2b515c993",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/what-a-terrible-big-mouth-you-have.webp?v=f2b515c993"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/back.webp?v=f6bc686150"
+      },
+      {
+        "title": "A Grimm Tale",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Huntsman",
+        "basicText": "Little Red recovers 2 health.\n● Little Red recovers 4 health instead.\nBASKET ITEM: ▲ Wolfsbane",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/a-grimm-tale.webp?v=b0a5abea1b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/a-grimm-tale.webp?v=b0a5abea1b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/back.webp?v=f6bc686150"
+      },
+      {
+        "title": "Into the Woods",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Little Red",
+        "basicText": "Move Little Red up to 3 spaces. Gain 1 action.\nBASKET ITEM: ● Pelt",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/into-the-woods.webp?v=22699bb4d7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/into-the-woods.webp?v=22699bb4d7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/back.webp?v=f6bc686150"
+      },
+      {
+        "title": "What Large Hands You Have",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Little Red",
+        "basicText": "BASKET ITEM: ● Pelt",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "You may return this card to your hand.\n▲ Instead, you may return the top card of your discard pile to your hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/what-large-hands-you-have.webp?v=7bb714ba56",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/what-large-hands-you-have.webp?v=7bb714ba56"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/back.webp?v=f6bc686150"
+      },
+      {
+        "title": "Long Have I Sought You",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Huntsman",
+        "basicText": "BASKET ITEM: ◆ Knife",
+        "immediateText": "",
+        "duringText": "If the Huntsman is adjacent to the opposing fighter, the value of this card is 6 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/long-have-i-sought-you.webp?v=7ae67bc8ba",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/long-have-i-sought-you.webp?v=7ae67bc8ba"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/back.webp?v=f6bc686150"
+      },
+      {
+        "title": "Never Leave the Path",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "Little Red",
+        "basicText": "● Place Little Red in any space. Gain 1 action.\n◆ Deal 2 damage to each opposing fighter in Little Red's zone.\n▲ Draw 3 cards.\nBASKET ITEM: ● Pelt",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/never-leave-the-path.webp?v=6f2d94015c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/never-leave-the-path.webp?v=6f2d94015c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/back.webp?v=f6bc686150"
+      },
+      {
+        "title": "Once Upon a Time",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "BASKET ITEM: ▲ Wolfsbane",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "◆ Deal 3 damage to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/once-upon-a-time.webp?v=55c053474c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/once-upon-a-time.webp?v=55c053474c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/back.webp?v=f6bc686150"
+      },
+      {
+        "title": "Stones in the Belly",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "BASKET ITEM: ▲ Wolfsbane",
+        "immediateText": "",
+        "duringText": "◆ Your opponent discards 1 random card. Add its BOOST value to this card's value.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/stones-in-the-belly.webp?v=2a74ef26cd",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/stones-in-the-belly.webp?v=2a74ef26cd"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/back.webp?v=f6bc686150"
+      },
+      {
+        "title": "What's That in My Basket?",
+        "quantity": 4,
+        "type": "versatile",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Little Red",
+        "basicText": "(★ counts as any one symbol.)\nBASKET ITEM: ★ any one item",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/what-s-that-in-my-basket.webp?v=b8be4df14e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/what-s-that-in-my-basket.webp?v=b8be4df14e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/back.webp?v=f6bc686150"
+      },
+      {
+        "title": "The Wolf's Skin",
+        "quantity": 3,
+        "type": "defence",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "BASKET ITEM: ◆ Knife",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "● Draw 2 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/the-wolf-s-skin.webp?v=41b5bd5246",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/cards/the-wolf-s-skin.webp?v=41b5bd5246"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/back.webp?v=f6bc686150"
+      },
+      {
+        "title": "Little Red",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Little Red",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/hero.webp?v=c16846b9e1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/hero.webp?v=c16846b9e1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/back.webp?v=f6bc686150",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Basket symbols",
+        "content": "Each card shows its item under the fighter name: ● pelt (round), ◆ knife (diamond), ▲ wolfsbane (triangle), ★ any one of the three.\nThe item in your basket is the one on the card on top of your discard pile. An effect marked ●, ◆ or ▲ only resolves if it matches that item; unmarked text always resolves."
+      },
+      {
+        "title": "Little Red's Basket",
+        "content": "At the start of the game LITTLE RED'S BASKET goes on top of your discard pile (not part of your deck or hand). It is not in this export: until you discard a card, your basket holds any one item (★), as the Basket card does."
+      }
+    ]
+  }
+}

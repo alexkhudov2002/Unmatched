@@ -1,0 +1,331 @@
+{
+  "id": "um-wayward-sisters",
+  "family_id": "um-wayward-sisters",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "The Wayward Sisters",
+  "note": "Unmatched (Restoration Games), set slings-and-arrows. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-18T16:22:21.123Z",
+  "deck_first_published_on": "2026-11-18T16:22:21.123Z",
+  "published_on": "2026-11-18T16:22:21.123Z",
+  "updated_on": "2026-11-18T16:22:21.123Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "slings-and-arrows"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/token-hero.png?v=0da8307a42",
+      "clip": "circle",
+      "label": "The Wayward Sisters",
+      "rim": "#1F1F1F",
+      "initials": "WS",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/token-wayward-sister.png?v=7898db17a2",
+      "clip": "circle",
+      "rim": "#1F1F1F",
+      "initials": "WS",
+      "size": 64,
+      "h": 64,
+      "counter": {
+        "value": 6,
+        "min": 0
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/token-wayward-sister.png?v=7898db17a2",
+      "clip": "circle",
+      "rim": "#1F1F1F",
+      "initials": "WS",
+      "size": 64,
+      "h": 64,
+      "counter": {
+        "value": 6,
+        "min": 0
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/token-cauldron.png?v=ce80e81eb4",
+      "size": 220,
+      "h": 276
+    }
+  ],
+  "deck_data": {
+    "name": "The Wayward Sisters",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "The Wayward Sisters",
+      "hp": 6,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "BUBBLING BREW\nYour cards go into your cauldron instead of your discard pile.\nAfter you attack, you may cast one spell that you have the ingredients for. If you do, discard all the cards in your cauldron.",
+      "quote": "What's done cannot be undone.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/token-hero.png?v=0da8307a42"
+    },
+    "sidekick": {
+      "name": "Wayward Sister",
+      "quantity": 2,
+      "hp": 6,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/token-wayward-sister.png?v=7898db17a2"
+    },
+    "cards": [
+      {
+        "title": "All-Seeing Familiar",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "INGREDIENT: Lizard’s leg",
+        "immediateText": "Return a card in your discard pile to your cauldron.",
+        "duringText": "",
+        "afterText": "If you won the combat, look at the top card of your deck and put it in your hand or cauldron.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/all-seeing-familiar.webp?v=2dbfc32a2a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/all-seeing-familiar.webp?v=2dbfc32a2a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+      },
+      {
+        "title": "Curious Familiar",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "INGREDIENT: Bat",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Return a card in your cauldron to your hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/curious-familiar.webp?v=448bf9642e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/curious-familiar.webp?v=448bf9642e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+      },
+      {
+        "title": "Double, Double",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "INGREDIENT: Lizard’s leg",
+        "immediateText": "",
+        "duringText": "Increase the value of this card by +1 for each different ingredient symbol in your cauldron.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/double-double.webp?v=0b6826d004",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/double-double.webp?v=0b6826d004"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+      },
+      {
+        "title": "Fire Burn and Cauldron Bubble",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "INGREDIENT: Bat",
+        "immediateText": "Return a card in your discard pile to your cauldron.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/fire-burn-and-cauldron-bubble.webp?v=44f2f10ab1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/fire-burn-and-cauldron-bubble.webp?v=44f2f10ab1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+      },
+      {
+        "title": "Hurly-Burly",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "INGREDIENT: Snake",
+        "immediateText": "",
+        "duringText": "Reveal the top card of your deck. Your opponent chooses one:\n• put that card in your hand\n• put that card in your cauldron and add its BOOST value to this card's value",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/hurly-burly.webp?v=f067a3ae51",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/hurly-burly.webp?v=f067a3ae51"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+      },
+      {
+        "title": "Pricking of My Thumbs",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "INGREDIENT: Snake",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal damage to the opposing fighter equal to the amount of combat damage your fighter took.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/pricking-of-my-thumbs.webp?v=2fb221e96c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/pricking-of-my-thumbs.webp?v=2fb221e96c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+      },
+      {
+        "title": "Prophecy",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "Look at the top 4 cards of your deck. Put 2 of them in your hand and the other 2 back on top of your deck in any order.\nINGREDIENT: Lizard’s leg",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/prophecy.webp?v=c853892869",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/prophecy.webp?v=c853892869"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+      },
+      {
+        "title": "Something Wicked This Way Comes",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "Cast any spell. Then, cast a different spell. (Do not discard any cards from your cauldron to cast these spells.)\nINGREDIENT: Bat",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/something-wicked-this-way-comes.webp?v=719f050bc6",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/something-wicked-this-way-comes.webp?v=719f050bc6"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+      },
+      {
+        "title": "The Stars Align",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 0,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "INGREDIENT: Lizard’s leg",
+        "immediateText": "",
+        "duringText": "The value of this card is equal to the number of different zones all of your fighters are in.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/the-stars-align.webp?v=6d4501e211",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/the-stars-align.webp?v=6d4501e211"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+      },
+      {
+        "title": "Toil and Trouble",
+        "quantity": 3,
+        "type": "defence",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "INGREDIENT: Snake",
+        "immediateText": "",
+        "duringText": "Increase the value of this card by +1 for each different ingredient symbol in your cauldron.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/toil-and-trouble.webp?v=8588e61c50",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/toil-and-trouble.webp?v=8588e61c50"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+      },
+      {
+        "title": "Unnatural Remedy",
+        "quantity": 2,
+        "type": "defence",
+        "value": 1,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "INGREDIENT: Snake",
+        "immediateText": "Discard up to 3 cards from your cauldron. For each one, choose a fighter to recover 1 health. (You may choose the same fighter more than once.)",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/unnatural-remedy.webp?v=02041bdbea",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/unnatural-remedy.webp?v=02041bdbea"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+      },
+      {
+        "title": "Ward",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "INGREDIENT: Bat",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Place the opposing fighter in any space in your fighter's zone.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/ward.webp?v=6cbd79bd65",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/cards/ward.webp?v=6cbd79bd65"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674"
+      },
+      {
+        "title": "The Wayward Sisters",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "The Wayward Sisters",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/hero.webp?v=1272a3f482",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/hero.webp?v=1272a3f482"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/back.webp?v=b00d7d3674",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Spells (cauldron)",
+        "content": "Each card shows one ingredient: Snake (green), Bat (purple) or Lizard’s leg (red). Cast a spell with the ingredients in your cauldron:\n• Snake + Bat: Draw 1 card. One of your fighters recovers 1 health.\n• Snake + Lizard’s leg: Move any fighter up to 3 spaces.\n• Lizard’s leg + Bat: Deal 1 damage to a fighter that shares a zone with any of your fighters.\n• Snake + Lizard’s leg + Bat: Gain 1 action."
+      },
+      {
+        "title": "Cauldron",
+        "content": "Put your played and discarded cards on the cauldron (beside your deck) instead of your discard pile; when you cast a spell, move them all to your discard pile."
+      },
+      {
+        "title": "Three sisters",
+        "content": "The Wayward Sisters are three heroes of 6 health each, each with her own health dial; a defeated Sister leaves the board and you lose only when the last one falls. An effect on \"your hero\" affects the Sister you choose. Here: the hero is one Sister and the other two are the \"Wayward Sister\" sidekicks, each with her own 6-health counter."
+      }
+    ]
+  }
+}

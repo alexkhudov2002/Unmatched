@@ -1,0 +1,342 @@
+{
+  "id": "um-ghost-rider",
+  "family_id": "um-ghost-rider",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Ghost Rider",
+  "note": "Unmatched (Restoration Games), set redemption-row. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-18T16:22:19.722Z",
+  "deck_first_published_on": "2026-11-18T16:22:19.722Z",
+  "published_on": "2026-11-18T16:22:19.722Z",
+  "updated_on": "2026-11-18T16:22:19.722Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "redemption-row"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/token-hero.png?v=e8d23b3a12",
+      "clip": "circle",
+      "label": "Ghost Rider",
+      "rim": "#1F1F1F",
+      "initials": "GR",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/token-hellfire.png?v=df3d231bb2",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "size": 26,
+      "h": 56
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/token-hellfire.png?v=df3d231bb2",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "size": 26,
+      "h": 56
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/token-hellfire.png?v=df3d231bb2",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "size": 26,
+      "h": 56
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/token-hellfire.png?v=df3d231bb2",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "size": 26,
+      "h": 56
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/token-hellfire.png?v=df3d231bb2",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "size": 26,
+      "h": 56
+    }
+  ],
+  "deck_data": {
+    "name": "Ghost Rider",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Ghost Rider",
+      "hp": 17,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "Ghost Rider starts the game with 5 Hellfire. When you maneuver, you may spend 1 Hellfire. If you do, increase Ghost Rider's move value to 4, and he may move through opposing fighters. Then, deal 1 damage to each opposing fighter he moved through.",
+      "quote": "You cannot destroy one already beyond death, villain.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/token-hero.png?v=e8d23b3a12"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Blaze of Glory",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Ghost Rider",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Spend any amount of Hellfire. Deal that much damage to each fighter in Ghost Rider's zone (including Ghost Rider).",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/blaze-of-glory.webp?v=118a923164",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/blaze-of-glory.webp?v=118a923164"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+      },
+      {
+        "title": "Chains of Hellfire",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Ghost Rider",
+        "basicText": "Set your Hellfire to 5.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/chains-of-hellfire.webp?v=d690a826ea",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/chains-of-hellfire.webp?v=d690a826ea"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+      },
+      {
+        "title": "Control the Demon",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 0,
+        "boost": 1,
+        "characterName": "Ghost Rider",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "This card's value is +1 for each Hellfire you have. (You do not spend Hellfire for this effect.)",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/control-the-demon.webp?v=ebd964c4d7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/control-the-demon.webp?v=ebd964c4d7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+      },
+      {
+        "title": "Deal with the Devil",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Ghost Rider",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may spend any amount of Hellfire. Increase the value of this card by that amount.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/deal-with-the-devil.webp?v=c44e91e718",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/deal-with-the-devil.webp?v=c44e91e718"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+      },
+      {
+        "title": "Feint",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Ghost Rider",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/feint.webp?v=0ffcca0b75",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/feint.webp?v=0ffcca0b75"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+      },
+      {
+        "title": "Hell Rides with Me",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Ghost Rider",
+        "basicText": "Move Ghost Rider and up to one adjacent fighter up to 4 spaces each. Gain 2 Hellfire. Gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/hell-rides-with-me.webp?v=53d8ad31a6",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/hell-rides-with-me.webp?v=53d8ad31a6"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+      },
+      {
+        "title": "I Brought the Devil with Me",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Ghost Rider",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "You may spend 2 Hellfire to gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/i-brought-the-devil-with-me.webp?v=9c4f6e876a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/i-brought-the-devil-with-me.webp?v=9c4f6e876a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+      },
+      {
+        "title": "I Finally Escaped Hell",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Ghost Rider",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "You may spend 1 Hellfire to move Ghost Rider up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/i-finally-escaped-hell.webp?v=3f806ccdc4",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/i-finally-escaped-hell.webp?v=3f806ccdc4"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+      },
+      {
+        "title": "Penance Stare",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Ghost Rider",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Add the BOOST value of the opposing fighter's card to this card's value. You may spend 2 Hellfire to do it a second time.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/penance-stare.webp?v=34935d36f2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/penance-stare.webp?v=34935d36f2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+      },
+      {
+        "title": "Spirit of Vengance",
+        "quantity": 3,
+        "type": "attack",
+        "value": 5,
+        "boost": 2,
+        "characterName": "Ghost Rider",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "You may spend 1 Hellfire to draw 2 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/spirit-of-vengance.webp?v=a5fe58fe50",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/spirit-of-vengance.webp?v=a5fe58fe50"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+      },
+      {
+        "title": "Stoke the Flames",
+        "quantity": 3,
+        "type": "defence",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Ghost Rider",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you lost the combat, gain Hellfire equal to the combat damage you took.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/stoke-the-flames.webp?v=15e2ed2b84",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/stoke-the-flames.webp?v=15e2ed2b84"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+      },
+      {
+        "title": "The Wicked Will Burn",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Ghost Rider",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If Ghost Rider started this turn in a different space, gain 2 Hellfire.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/the-wicked-will-burn.webp?v=8b666f9151",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/the-wicked-will-burn.webp?v=8b666f9151"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+      },
+      {
+        "title": "Ghost Rider",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Ghost Rider",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/hero.webp?v=cd2ee83d70",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/hero.webp?v=cd2ee83d70"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

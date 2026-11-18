@@ -1,0 +1,314 @@
+{
+  "id": "um-beowulf",
+  "family_id": "um-beowulf",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Beowulf",
+  "note": "Unmatched (Restoration Games), set little-red. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-18T16:22:19.404Z",
+  "deck_first_published_on": "2026-11-18T16:22:19.404Z",
+  "published_on": "2026-11-18T16:22:19.404Z",
+  "updated_on": "2026-11-18T16:22:19.404Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "little-red"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/token-hero.png?v=cbeea63324",
+      "clip": "circle",
+      "label": "Beowulf",
+      "rim": "#1F1F1F",
+      "initials": "B",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/token-wiglaf.png?v=c0d67c3535",
+      "clip": "circle",
+      "label": "Wiglaf",
+      "rim": "#1F1F1F",
+      "initials": "W",
+      "size": 64,
+      "h": 64,
+      "counter": {
+        "link": "sidekick"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/token-rage.png?v=dca6090d9a",
+      "size": 48,
+      "h": 55
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/token-rage.png?v=dca6090d9a",
+      "size": 48,
+      "h": 55
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/token-rage.png?v=dca6090d9a",
+      "size": 48,
+      "h": 55
+    }
+  ],
+  "deck_data": {
+    "name": "Beowulf",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/back.webp?v=44fcc264c6",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Beowulf",
+      "hp": 17,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "Beowulf starts with 1 Rage.\nWhen Beowulf is dealt damage, he gains 1 Rage.\nBeowulf has a maximum of 3 Rage.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/token-hero.png?v=cbeea63324"
+    },
+    "sidekick": {
+      "name": "Wiglaf",
+      "quantity": 1,
+      "hp": 9,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/token-wiglaf.png?v=c0d67c3535"
+    },
+    "cards": [
+      {
+        "title": "The Ancient Heirloom",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Beowulf",
+        "basicText": "This card's effects cannot be canceled.",
+        "immediateText": "",
+        "duringText": "You may spend 2 Rage to make this card's value 5 instead.\nYou may spend 1 Rage to BOOST this card. (You may do both.)",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/the-ancient-heirloom.webp?v=5f63307ec2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/the-ancient-heirloom.webp?v=5f63307ec2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/back.webp?v=44fcc264c6"
+      },
+      {
+        "title": "Epic Poem",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Beowulf",
+        "basicText": "",
+        "immediateText": "Gain 1 Rage.",
+        "duringText": "This card's value is +1 for each Rage you have. (You do not spend Rage for this effect.)",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/epic-poem.webp?v=b64cee2a05",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/epic-poem.webp?v=b64cee2a05"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/back.webp?v=44fcc264c6"
+      },
+      {
+        "title": "The Equal of Grendel",
+        "quantity": 3,
+        "type": "defence",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Beowulf",
+        "basicText": "",
+        "immediateText": "You may spend 2 Rage to deal damage to the opposing fighter equal to the printed value of their card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/the-equal-of-grendel.webp?v=4ca72a7872",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/the-equal-of-grendel.webp?v=4ca72a7872"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/back.webp?v=44fcc264c6"
+      },
+      {
+        "title": "Fatal Struggle",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, draw 2 cards. If you lost the combat, your opponent draws 2 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/fatal-struggle.webp?v=3c40a844ee",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/fatal-struggle.webp?v=3c40a844ee"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/back.webp?v=44fcc264c6"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/feint.webp?v=b542d520d3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/feint.webp?v=b542d520d3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/back.webp?v=44fcc264c6"
+      },
+      {
+        "title": "Golden Drinking Horn",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Beowulf",
+        "basicText": "Spend any amount of Rage. Choose a different effect for each Rage spent:\n• draw 2 cards\n• move Beowulf up to 4 spaces\n• Beowulf recovers 2 health",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/golden-drinking-horn.webp?v=5f4ca30cc8",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/golden-drinking-horn.webp?v=5f4ca30cc8"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/back.webp?v=44fcc264c6"
+      },
+      {
+        "title": "Hot for the Battle",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Wiglaf",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Wiglaf may swap spaces with Beowulf.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/hot-for-the-battle.webp?v=8ae55e66d0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/hot-for-the-battle.webp?v=8ae55e66d0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/back.webp?v=44fcc264c6"
+      },
+      {
+        "title": "No Contest Expecteth",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Beowulf",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you attacked a sidekick and won the combat, you may spend 3 Rage to defeat that sidekick.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/no-contest-expecteth.webp?v=0f63c884fe",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/no-contest-expecteth.webp?v=0f63c884fe"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/back.webp?v=44fcc264c6"
+      },
+      {
+        "title": "Remnant of Valor",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Wiglaf",
+        "basicText": "Wiglaf deals 1 damage to each adjacent fighter. If Beowulf was dealt damage this way, gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/remnant-of-valor.webp?v=e406cfb9f4",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/remnant-of-valor.webp?v=e406cfb9f4"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/back.webp?v=44fcc264c6"
+      },
+      {
+        "title": "Skirmish",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, move one of the fighters in the combat up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/skirmish.webp?v=b55db4ecc5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/skirmish.webp?v=b55db4ecc5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/back.webp?v=44fcc264c6"
+      },
+      {
+        "title": "Vigor and Courage",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Beowulf",
+        "basicText": "Choose an opponent. They discard 1 random card. Gain Rage equal to its BOOST value.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/vigor-and-courage.webp?v=9c95fe5ce6",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/vigor-and-courage.webp?v=9c95fe5ce6"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/back.webp?v=44fcc264c6"
+      },
+      {
+        "title": "The War-King",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 1,
+        "boost": 3,
+        "characterName": "Beowulf",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Spend any amount of Rage. This card's value is +2 for each Rage spent.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/the-war-king.webp?v=598a210e79",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/cards/the-war-king.webp?v=598a210e79"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/back.webp?v=44fcc264c6"
+      },
+      {
+        "title": "Beowulf",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Beowulf",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/hero.webp?v=56f503e299",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/hero.webp?v=56f503e299"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/back.webp?v=44fcc264c6",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

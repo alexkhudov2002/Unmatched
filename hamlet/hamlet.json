@@ -1,0 +1,273 @@
+{
+  "id": "um-hamlet",
+  "family_id": "um-hamlet",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Hamlet",
+  "note": "Unmatched (Restoration Games), set slings-and-arrows. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-18T16:22:20.586Z",
+  "deck_first_published_on": "2026-11-18T16:22:20.586Z",
+  "published_on": "2026-11-18T16:22:20.586Z",
+  "updated_on": "2026-11-18T16:22:20.586Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "slings-and-arrows"
+  ],
+  "deck_data": {
+    "name": "Hamlet",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Hamlet",
+      "hp": 15,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "THE QUESTION\nAt the start of your turn, choose TO BE or NOT TO BE. If you choose NOT TO BE, deal 2 damage to one of your fighters.\nTO BE: When you maneuver, draw 1 additional card.\nNOT TO BE: Add +2 to the value of Hamlet's attacks.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/token-hero.png?v=0a6d325909"
+    },
+    "sidekick": {
+      "name": "Rosencrantz & Guildenstern",
+      "quantity": 1,
+      "hp": 6,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/token-rosencrantz-guildenstern.png?v=47ca1f09af"
+    },
+    "cards": [
+      {
+        "title": "Blood Will Have Blood",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Hamlet",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If Hamlet took damage this turn, deal 1 damage to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/blood-will-have-blood.webp?v=eddb683525",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/blood-will-have-blood.webp?v=eddb683525"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+      },
+      {
+        "title": "Cruel to Be Kind",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 4,
+        "characterName": "Hamlet",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/cruel-to-be-kind.webp?v=9180af8358",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/cruel-to-be-kind.webp?v=9180af8358"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+      },
+      {
+        "title": "Maddening Insight",
+        "quantity": 2,
+        "type": "defence",
+        "value": 0,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "The value of this card is equal to the number of cards in your hand.",
+        "afterText": "If you won the combat, your opponent discards 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/maddening-insight.webp?v=9efe3f6ac9",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/maddening-insight.webp?v=9efe3f6ac9"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+      },
+      {
+        "title": "Method in the Madness",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Hamlet",
+        "basicText": "Put any number of cards in your hand on the bottom of your deck. Then, draw up to that many cards.\nGain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/method-in-the-madness.webp?v=2635fe5dee",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/method-in-the-madness.webp?v=2635fe5dee"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+      },
+      {
+        "title": "Nothing Either Good or Bad",
+        "quantity": 3,
+        "type": "defence",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If your opponent played a versatile card, deal 2 damage to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/nothing-either-good-or-bad.webp?v=9d2367d534",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/nothing-either-good-or-bad.webp?v=9d2367d534"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+      },
+      {
+        "title": "Outrageous Fortune",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 1,
+        "boost": 2,
+        "characterName": "Hamlet",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Discard the top card of your deck. Add its BOOST value to this card's value.",
+        "afterText": "If you lost the combat, return the card you discarded to your hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/outrageous-fortune.webp?v=8b144ee75f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/outrageous-fortune.webp?v=8b144ee75f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+      },
+      {
+        "title": "The Ghost",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "Hamlet",
+        "basicText": "Choose one:\n• Hamlet recovers 2 health\n• place Hamlet in any space in his zone and gain 1 action",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/the-ghost.webp?v=dd6576298b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/the-ghost.webp?v=dd6576298b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+      },
+      {
+        "title": "The Play's the Thing",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Your opponent discards 1 random card. If you won the combat, Hamlet recovers health equal to its BOOST value.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/the-play-s-the-thing.webp?v=1c939c18f5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/the-play-s-the-thing.webp?v=1c939c18f5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+      },
+      {
+        "title": "The Readiness Is All",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Place one of the fighters in the combat in any space. They cannot leave that space this turn.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/the-readiness-is-all.webp?v=50492daadf",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/the-readiness-is-all.webp?v=50492daadf"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+      },
+      {
+        "title": "The Rest Is Silence",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Hamlet",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "End the turn.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/the-rest-is-silence.webp?v=36fed11c0f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/the-rest-is-silence.webp?v=36fed11c0f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+      },
+      {
+        "title": "To Sleep, Perchance to Dream",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, move the opposing fighter a number of spaces up to the amount of combat damage dealt. If you lost the combat, Hamlet recovers 1 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/to-sleep-perchance-to-dream.webp?v=9c0cb765f5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/to-sleep-perchance-to-dream.webp?v=9c0cb765f5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+      },
+      {
+        "title": "Uncertain Doom",
+        "quantity": 3,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If your opponent played a versatile card, ignore its value.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/uncertain-doom.webp?v=a39d681762",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/cards/uncertain-doom.webp?v=a39d681762"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71"
+      },
+      {
+        "title": "Hamlet",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Hamlet",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/hero.webp?v=8f4e13b381",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/hero.webp?v=8f4e13b381"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/back.webp?v=a83257ad71",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

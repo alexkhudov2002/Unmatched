@@ -1,0 +1,960 @@
+{
+  "decks": [
+    {
+      "id": "um-ghost-rider",
+      "family_id": "um-ghost-rider",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Ghost Rider",
+      "note": "Unmatched (Restoration Games), set redemption-row. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-18T16:22:19.722Z",
+      "deck_first_published_on": "2026-11-18T16:22:19.722Z",
+      "published_on": "2026-11-18T16:22:19.722Z",
+      "updated_on": "2026-11-18T16:22:19.722Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "redemption-row"
+      ],
+      "savedTokens": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/token-hero.png?v=e8d23b3a12",
+          "clip": "circle",
+          "label": "Ghost Rider",
+          "rim": "#1F1F1F",
+          "initials": "GR",
+          "size": 88,
+          "h": 88,
+          "counter": {
+            "link": "hero"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/token-hellfire.png?v=df3d231bb2",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 26,
+          "h": 56
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/token-hellfire.png?v=df3d231bb2",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 26,
+          "h": 56
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/token-hellfire.png?v=df3d231bb2",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 26,
+          "h": 56
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/token-hellfire.png?v=df3d231bb2",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 26,
+          "h": 56
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/token-hellfire.png?v=df3d231bb2",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 26,
+          "h": 56
+        }
+      ],
+      "deck_data": {
+        "name": "Ghost Rider",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Ghost Rider",
+          "hp": 17,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "Ghost Rider starts the game with 5 Hellfire. When you maneuver, you may spend 1 Hellfire. If you do, increase Ghost Rider's move value to 4, and he may move through opposing fighters. Then, deal 1 damage to each opposing fighter he moved through.",
+          "quote": "You cannot destroy one already beyond death, villain.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/token-hero.png?v=e8d23b3a12"
+        },
+        "sidekick": {
+          "name": "Sidekick",
+          "hp": null,
+          "quantity": null,
+          "isRanged": false,
+          "quote": ""
+        },
+        "cards": [
+          {
+            "title": "Blaze of Glory",
+            "quantity": 2,
+            "type": "attack",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Ghost Rider",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Spend any amount of Hellfire. Deal that much damage to each fighter in Ghost Rider's zone (including Ghost Rider).",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/blaze-of-glory.webp?v=118a923164",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/blaze-of-glory.webp?v=118a923164"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+          },
+          {
+            "title": "Chains of Hellfire",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Ghost Rider",
+            "basicText": "Set your Hellfire to 5.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/chains-of-hellfire.webp?v=d690a826ea",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/chains-of-hellfire.webp?v=d690a826ea"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+          },
+          {
+            "title": "Control the Demon",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 0,
+            "boost": 1,
+            "characterName": "Ghost Rider",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "This card's value is +1 for each Hellfire you have. (You do not spend Hellfire for this effect.)",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/control-the-demon.webp?v=ebd964c4d7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/control-the-demon.webp?v=ebd964c4d7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+          },
+          {
+            "title": "Deal with the Devil",
+            "quantity": 2,
+            "type": "defence",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Ghost Rider",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may spend any amount of Hellfire. Increase the value of this card by that amount.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/deal-with-the-devil.webp?v=c44e91e718",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/deal-with-the-devil.webp?v=c44e91e718"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+          },
+          {
+            "title": "Feint",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Ghost Rider",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/feint.webp?v=0ffcca0b75",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/feint.webp?v=0ffcca0b75"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+          },
+          {
+            "title": "Hell Rides with Me",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Ghost Rider",
+            "basicText": "Move Ghost Rider and up to one adjacent fighter up to 4 spaces each. Gain 2 Hellfire. Gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/hell-rides-with-me.webp?v=53d8ad31a6",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/hell-rides-with-me.webp?v=53d8ad31a6"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+          },
+          {
+            "title": "I Brought the Devil with Me",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Ghost Rider",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You may spend 2 Hellfire to gain 1 action.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/i-brought-the-devil-with-me.webp?v=9c4f6e876a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/i-brought-the-devil-with-me.webp?v=9c4f6e876a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+          },
+          {
+            "title": "I Finally Escaped Hell",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Ghost Rider",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You may spend 1 Hellfire to move Ghost Rider up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/i-finally-escaped-hell.webp?v=3f806ccdc4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/i-finally-escaped-hell.webp?v=3f806ccdc4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+          },
+          {
+            "title": "Penance Stare",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Ghost Rider",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Add the BOOST value of the opposing fighter's card to this card's value. You may spend 2 Hellfire to do it a second time.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/penance-stare.webp?v=34935d36f2",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/penance-stare.webp?v=34935d36f2"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+          },
+          {
+            "title": "Spirit of Vengance",
+            "quantity": 3,
+            "type": "attack",
+            "value": 5,
+            "boost": 2,
+            "characterName": "Ghost Rider",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You may spend 1 Hellfire to draw 2 cards.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/spirit-of-vengance.webp?v=a5fe58fe50",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/spirit-of-vengance.webp?v=a5fe58fe50"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+          },
+          {
+            "title": "Stoke the Flames",
+            "quantity": 3,
+            "type": "defence",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Ghost Rider",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you lost the combat, gain Hellfire equal to the combat damage you took.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/stoke-the-flames.webp?v=15e2ed2b84",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/stoke-the-flames.webp?v=15e2ed2b84"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+          },
+          {
+            "title": "The Wicked Will Burn",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Ghost Rider",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If Ghost Rider started this turn in a different space, gain 2 Hellfire.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/the-wicked-will-burn.webp?v=8b666f9151",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/cards/the-wicked-will-burn.webp?v=8b666f9151"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1"
+          },
+          {
+            "title": "Ghost Rider",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Ghost Rider",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/hero.webp?v=cd2ee83d70",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/hero.webp?v=cd2ee83d70"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/back.webp?v=b144e31fa1",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-luke-cage",
+      "family_id": "um-luke-cage",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Luke Cage",
+      "note": "Unmatched (Restoration Games), set redemption-row. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-18T16:22:19.999Z",
+      "deck_first_published_on": "2026-11-18T16:22:19.999Z",
+      "published_on": "2026-11-18T16:22:19.999Z",
+      "updated_on": "2026-11-18T16:22:19.999Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "redemption-row"
+      ],
+      "deck_data": {
+        "name": "Luke Cage",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Luke Cage",
+          "hp": 13,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "Luke Cage takes 2 less combat damage from attacks.\nWhen defending, Luke Cage wins combat if he takes no damage even if he didn't play a card.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/token-hero.png?v=db9a47ee65"
+        },
+        "sidekick": {
+          "name": "Misty Knight",
+          "quantity": 1,
+          "hp": 6,
+          "isRanged": true,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/token-misty-knight.png?v=1bbda82f88"
+        },
+        "cards": [
+          {
+            "title": "Commanding Impact",
+            "quantity": 3,
+            "type": "attack",
+            "value": 5,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/commanding-impact.webp?v=8e00f87eee",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/commanding-impact.webp?v=8e00f87eee"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+          },
+          {
+            "title": "Daughter of the Dragon",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Misty Knight",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If Misty Knight is adjacent to the opposing fighter, the value of this card is 6 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/daughter-of-the-dragon.webp?v=c8740a5dab",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/daughter-of-the-dragon.webp?v=c8740a5dab"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+          },
+          {
+            "title": "Get Paid",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Luke Cage",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, draw 2 cards.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/get-paid.webp?v=a66ae6eb87",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/get-paid.webp?v=a66ae6eb87"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+          },
+          {
+            "title": "Got My Back?",
+            "quantity": 2,
+            "type": "defence",
+            "value": 1,
+            "boost": 2,
+            "characterName": "Misty Knight",
+            "basicText": "",
+            "immediateText": "Misty Knight may swap spaces with Luke Cage. If she does, Luke Cage is now the defender.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/got-my-back.webp?v=d70ef1da0e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/got-my-back.webp?v=d70ef1da0e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+          },
+          {
+            "title": "Hero for Hire",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Luke Cage",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BOOST this attack.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/hero-for-hire.webp?v=aa1479bc35",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/hero-for-hire.webp?v=aa1479bc35"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+          },
+          {
+            "title": "Power Man",
+            "quantity": 2,
+            "type": "defence",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Luke Cage",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move the opposing fighter up to 3 spaces. You may move them through other opposing fighters. Deal 1 damage to them and each opposing fighter they moved through.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/power-man.webp?v=2d3a890198",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/power-man.webp?v=2d3a890198"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+          },
+          {
+            "title": "Pushback",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Misty Knight",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move the opposing fighter up to 3 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/pushback.webp?v=82e9ff0bcc",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/pushback.webp?v=82e9ff0bcc"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+          },
+          {
+            "title": "Regroup",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 1,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/regroup.webp?v=b4544dbaa5",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/regroup.webp?v=b4544dbaa5"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+          },
+          {
+            "title": "Skin Like Titanium",
+            "quantity": 2,
+            "type": "defence",
+            "value": 0,
+            "boost": 1,
+            "characterName": "Luke Cage",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you lost the combat, deal damage to the opposing fighter equal to the amount of combat damage you took.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/skin-like-titanium.webp?v=5ce3bdd207",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/skin-like-titanium.webp?v=5ce3bdd207"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+          },
+          {
+            "title": "Still Standing",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, choose 2 cards in your discard pile and shuffle them into your deck.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/still-standing.webp?v=2d3e827352",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/still-standing.webp?v=2d3e827352"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+          },
+          {
+            "title": "Sweet Christmas!",
+            "quantity": 2,
+            "type": "attack",
+            "value": 6,
+            "boost": 1,
+            "characterName": "Luke Cage",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/sweet-christmas.webp?v=f955324e73",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/sweet-christmas.webp?v=f955324e73"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+          },
+          {
+            "title": "Trash Talk",
+            "quantity": 3,
+            "type": "defence",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "If you won the combat, end the turn.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/trash-talk.webp?v=7976779e36",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/trash-talk.webp?v=7976779e36"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+          },
+          {
+            "title": "Where's My Money?",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 1,
+            "characterName": "Luke Cage",
+            "basicText": "Place Luke Cage adjacent to the nearest opposing fighter.\nGain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/where-s-my-money.webp?v=59c94e057f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/cards/where-s-my-money.webp?v=59c94e057f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183"
+          },
+          {
+            "title": "Luke Cage",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Luke Cage",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/hero.webp?v=e1e9c94ac2",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/hero.webp?v=e1e9c94ac2"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/back.webp?v=0504e3b183",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-moon-knight",
+      "family_id": "um-moon-knight",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Moon Knight",
+      "note": "Unmatched (Restoration Games), set redemption-row. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-18T16:22:20.299Z",
+      "deck_first_published_on": "2026-11-18T16:22:20.299Z",
+      "published_on": "2026-11-18T16:22:20.299Z",
+      "updated_on": "2026-11-18T16:22:20.299Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "redemption-row"
+      ],
+      "deck_data": {
+        "name": "Moon Knight",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/back.webp?v=5eac454558",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Moon Knight",
+          "hp": 16,
+          "move": 3,
+          "isRanged": false,
+          "specialAbility": "MOON KNIGHT\nAt the start of your turn, move up to 2 spaces.\nAt the end of your turn, change to your next identity (Khonshu).",
+          "quote": "I'm not real.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/token-hero.png?v=f613eb4bd7"
+        },
+        "sidekick": {
+          "name": "Sidekick",
+          "hp": null,
+          "quantity": null,
+          "isRanged": false,
+          "quote": ""
+        },
+        "cards": [
+          {
+            "title": "Feint",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/feint.webp?v=9fbc1292e1",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/feint.webp?v=9fbc1292e1"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/back.webp?v=5eac454558"
+          },
+          {
+            "title": "Fist of Khonshu",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, move the opposing fighter up to 4 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/fist-of-khonshu.webp?v=07de77e8dc",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/fist-of-khonshu.webp?v=07de77e8dc"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/back.webp?v=5eac454558"
+          },
+          {
+            "title": "Good Enough for Us",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You may draw 2 cards. If you do, take 2 damage.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/good-enough-for-us.webp?v=44871632b7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/good-enough-for-us.webp?v=44871632b7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/back.webp?v=5eac454558"
+          },
+          {
+            "title": "I'm Not Real",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You may change to your next identity.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/i-m-not-real.webp?v=aa06ec033f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/i-m-not-real.webp?v=aa06ec033f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/back.webp?v=5eac454558"
+          },
+          {
+            "title": "Let Your Insanity Guide You",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 1,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Discard the top card of your deck. Draw cards equal to that card's BOOST value.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/let-your-insanity-guide-you.webp?v=84a833c3c2",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/let-your-insanity-guide-you.webp?v=84a833c3c2"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/back.webp?v=5eac454558"
+          },
+          {
+            "title": "Madness Will Keep You Alive",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "Recover 2 health.\nIf you started your turn in a different space, gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/madness-will-keep-you-alive.webp?v=f6c09a312e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/madness-will-keep-you-alive.webp?v=f6c09a312e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/back.webp?v=5eac454558"
+          },
+          {
+            "title": "Past and Present Intermingle",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Add the BOOST value of the top card of your discard pile to this card's value.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/past-and-present-intermingle.webp?v=314aa1c738",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/past-and-present-intermingle.webp?v=314aa1c738"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/back.webp?v=5eac454558"
+          },
+          {
+            "title": "That's the Part I Like",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, you may look at the top 3 cards of your opponent's deck and discard one of them. Place the other 2 back in any order.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/that-s-the-part-i-like.webp?v=b336cb6bd6",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/that-s-the-part-i-like.webp?v=b336cb6bd6"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/back.webp?v=5eac454558"
+          },
+          {
+            "title": "That's Why I Always Win",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BOOST this attack.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/that-s-why-i-always-win.webp?v=5bf3ba97f0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/that-s-why-i-always-win.webp?v=5bf3ba97f0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/back.webp?v=5eac454558"
+          },
+          {
+            "title": "A Totally Sane Thing to Do",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You may deal 2 damage to both fighters in the combat.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/a-totally-sane-thing-to-do.webp?v=54751cbe1b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/a-totally-sane-thing-to-do.webp?v=54751cbe1b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/back.webp?v=5eac454558"
+          },
+          {
+            "title": "Travelers of the Night",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "Move your fighter up to 4 spaces. They may move through opposing fighters. Gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/travelers-of-the-night.webp?v=06c0d55de1",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/travelers-of-the-night.webp?v=06c0d55de1"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/back.webp?v=5eac454558"
+          },
+          {
+            "title": "We're All in This Together",
+            "quantity": 3,
+            "type": "defence",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/we-re-all-in-this-together.webp?v=708edd8358",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/cards/we-re-all-in-this-together.webp?v=708edd8358"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/back.webp?v=5eac454558"
+          },
+          {
+            "title": "Moon Knight",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Moon Knight",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/hero.webp?v=de3f01d2d0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/hero.webp?v=de3f01d2d0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/back.webp?v=5eac454558",
+            "isCharacterCard": true
+          },
+          {
+            "title": "Khonshu",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Moon Knight",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/hero-khonshu.webp?v=c212fe93e8",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/hero-khonshu.webp?v=c212fe93e8"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/back.webp?v=5eac454558",
+            "isCharacterCard": true
+          },
+          {
+            "title": "Mr. Knight",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Moon Knight",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/hero-mr-knight.webp?v=931c88c1f4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/hero-mr-knight.webp?v=931c88c1f4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/back.webp?v=5eac454558",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Identities",
+            "content": "Moon Knight → Khonshu → Mr. Knight → Moon Knight. All three: 16 health, MOVE 3, melee; health carries over. Change at the end of each of your turns (I'm Not Real lets you change after combat too)."
+          },
+          {
+            "title": "Khonshu",
+            "content": "Khonshu adds +2 to the value of his attack cards. He does not take damage from effects other than combat damage.\nAt the end of your turn, change to your next identity (Mr. Knight)."
+          },
+          {
+            "title": "Mr. Knight",
+            "content": "Mr. Knight adds +1 to all his defense values.\nAt the end of your turn, change to your next identity (Moon Knight)."
+          }
+        ]
+      }
+    }
+  ],
+  "maps": []
+}

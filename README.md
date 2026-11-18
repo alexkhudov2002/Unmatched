@@ -27,6 +27,10 @@ En **unbrewed.xyz/bag**, pega un enlace en la barra de añadir.
 | Battle of Legends 2 | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/battle-of-legends-2.json` |
 | Hellboy | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hellboy.json` |
 | Deadpool | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool.json` |
+| Hell's Kitchen | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hells-kitchen.json` |
+| Little Red vs. Beowulf | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red.json` |
+| Redemption Row | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/redemption-row.json` |
+| Slings & Arrows | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/slings-and-arrows.json` |
 
 **Héroes sueltos:**
 
@@ -65,6 +69,18 @@ En **unbrewed.xyz/bag**, pega un enlace en la barra de añadir.
 | Baba Yaga | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/baba-yaga/baba-yaga.json` |
 | Liz Sherman | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/liz/liz.json` |
 | Deadpool | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/deadpool.json` |
+| Daredevil | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/daredevil.json` |
+| Bullseye | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/bullseye.json` |
+| Elektra | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/elektra.json` |
+| Little Red | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red/little-red.json` |
+| Beowulf | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/beowulf/beowulf.json` |
+| Ghost Rider | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ghost-rider/ghost-rider.json` |
+| Luke Cage | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luke-cage/luke-cage.json` |
+| Moon Knight | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/moon-knight/moon-knight.json` |
+| Hamlet | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hamlet/hamlet.json` |
+| Shakespeare | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/shakespeare.json` |
+| The Wayward Sisters | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/wayward-sisters.json` |
+| Titania | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/titania.json` |
 
 Si un mazo cambia, bórralo de la bolsa y vuelve a añadirlo: Unbrewed guarda una copia en el navegador.
 
@@ -109,8 +125,28 @@ Si un mazo cambia, bórralo de la bolsa y vuelve a añadirlo: Unbrewed guarda un
 - **Baba Yaga** (con Koschei) y **Liz Sherman**: las fichas de los luchadores en la esquina del jugador.
   La lista de cartas en llamas de Liz está en su panel de reglas.
 - **Deadpool**: solo su ficha, en la esquina del jugador. Su carta de personaje es propia.
+- **Daredevil**, **Bullseye** y **Elektra** (con 4 Hand): las fichas de los luchadores en la esquina del
+  jugador. Elektra lleva sus dos cartas de personaje (normal, 7 de vida, y Resurrected, 9 de vida); al
+  resucitar, pon su vida a 9 a mano. Los textos marcados con ✋ son los del símbolo de la Mano.
+  **Faltan cartas**: Daredevil tiene 22 de 30 y Elektra 20 de 30 (no estaban sus imágenes).
+- **Little Red** (con Huntsman): las fichas en la esquina del jugador. Cada carta dice su objeto de
+  cesta (● Pelt, ◆ Knife, ▲ Wolfsbane, ★ comodín) y los efectos marcados con ●/◆/▲ solo se resuelven si
+  coinciden. La carta Little Red's Basket no está: al empezar, la cesta cuenta como comodín.
+- **Beowulf**: su ficha, Wiglaf y 3 fichas de Rabia (empieza con 1).
+- **Ghost Rider**: su ficha y 5 fichas de Hellfire, que se giran entre encendida (salen así) y gastada.
+- **Luke Cage** (con Misty Knight): las fichas en la esquina del jugador.
+- **Moon Knight**: su ficha, en la esquina del jugador. Lleva sus tres cartas de identidad (Moon Knight,
+  con la que empieza, Khonshu y Mr. Knight); los textos también están en el panel de reglas.
+- **Hamlet** (con Rosencrantz & Guildenstern) y **Shakespeare** (con 3 Actors): las fichas en la esquina
+  del jugador. Cada carta de Shakespeare dice sus sílabas y su efecto de completar (🪶).
+- **The Wayward Sisters**: las tres hermanas (una como héroe y dos como compañeras, 6 de vida cada una)
+  y el caldero con los hechizos. Cada carta dice su ingrediente; los hechizos están también en el panel
+  de reglas.
+- **Titania**: su ficha, Oberon y los 6 glamours como fichas boca abajo, como las desgracias de Pandora:
+  mézclalas arrastrándolas antes de empezar.
 
-Invisible Man, Jekyll & Hyde, Blackbeard, Pandora, Dr. Jill Trent, Nikola Tesla, Alice, Hellboy y Abe Sapien usan una lista de fichas guardada en el mazo, y Unbrewed la pone siempre en el mismo punto
+Invisible Man, Jekyll & Hyde, Blackbeard, Pandora, Dr. Jill Trent, Nikola Tesla, Alice, Hellboy, Abe
+Sapien, Beowulf, Ghost Rider, The Wayward Sisters y Titania usan una lista de fichas guardada en el mazo, y Unbrewed la pone siempre en el mismo punto
 de la mesa, no en la esquina del jugador.
 
 ## Cómo se generan

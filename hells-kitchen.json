@@ -1,0 +1,756 @@
+{
+  "decks": [
+    {
+      "id": "um-bullseye",
+      "family_id": "um-bullseye",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Bullseye",
+      "note": "Unmatched (Restoration Games), set hells-kitchen. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-18T16:22:18.506Z",
+      "deck_first_published_on": "2026-11-18T16:22:18.506Z",
+      "published_on": "2026-11-18T16:22:18.506Z",
+      "updated_on": "2026-11-18T16:22:18.506Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "hells-kitchen"
+      ],
+      "deck_data": {
+        "name": "Bullseye",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Bullseye",
+          "hp": 14,
+          "move": 2,
+          "isRanged": true,
+          "specialAbility": "Bullseye can attack from up to 5 spaces away (ignoring zones).",
+          "quote": "In real life, if he's quick and smart, and nasty enough -- the BAD guy wins!",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/token-hero.png?v=0a1bc8a952"
+        },
+        "sidekick": {
+          "name": "Sidekick",
+          "hp": null,
+          "quantity": null,
+          "isRanged": false,
+          "quote": ""
+        },
+        "cards": [
+          {
+            "title": "Arrogant but Effective",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Bullseye",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You are considered to have won this combat. Move Bullseye up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/arrogant-but-effective.webp?v=eb0a12ea05",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/arrogant-but-effective.webp?v=eb0a12ea05"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+          },
+          {
+            "title": "Feint",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Bullseye",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/feint.webp?v=d9fd8e5086",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/feint.webp?v=d9fd8e5086"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+          },
+          {
+            "title": "For My Next Trick",
+            "quantity": 3,
+            "type": "attack",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Bullseye",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move Bullseye up to 1 space. Draw 1 card. Gain 1 action.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/for-my-next-trick.webp?v=792e029a99",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/for-my-next-trick.webp?v=792e029a99"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+          },
+          {
+            "title": "I'm Better and I'll Prove It",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Bullseye",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If you already won a combat this turn, the value of this card is 6 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/i-m-better-and-i-ll-prove-it.webp?v=8f6a4b5a51",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/i-m-better-and-i-ll-prove-it.webp?v=8f6a4b5a51"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+          },
+          {
+            "title": "I Never Miss",
+            "quantity": 4,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Bullseye",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BOOST this attack. If you don't BOOST this attack, draw 1 card.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/i-never-miss.webp?v=59d421c03a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/i-never-miss.webp?v=59d421c03a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+          },
+          {
+            "title": "I Planned to Be Here",
+            "quantity": 2,
+            "type": "attack",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Bullseye",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If you started your turn in your current space, the value of this card is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/i-planned-to-be-here.webp?v=57b16a50d8",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/i-planned-to-be-here.webp?v=57b16a50d8"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+          },
+          {
+            "title": "Master Strategist",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Bullseye",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move Bullseye exactly 4 spaces. He may move through opposing fighters.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/master-strategist.webp?v=c5d308b97b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/master-strategist.webp?v=c5d308b97b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+          },
+          {
+            "title": "Ricochet",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Bullseye",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If the opposing fighter was not defeated, deal 1 damage to a fighter in the opposing fighter's zone.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/ricochet.webp?v=f2d4a22518",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/ricochet.webp?v=f2d4a22518"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+          },
+          {
+            "title": "Right Between the Eyes",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Bullseye",
+            "basicText": "",
+            "immediateText": "If you already won a combat this turn, your opponent discards 1 card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/right-between-the-eyes.webp?v=5d45584ff9",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/right-between-the-eyes.webp?v=5d45584ff9"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+          },
+          {
+            "title": "Study the Target",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Bullseye",
+            "basicText": "Draw 2 cards.\nIf you won a combat this turn, draw 1 additional card and gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/study-the-target.webp?v=857133d21e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/study-the-target.webp?v=857133d21e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+          },
+          {
+            "title": "Tactical Retreat",
+            "quantity": 3,
+            "type": "defence",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Bullseye",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Place Bullseye in a space that shares no zones with his current space.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/tactical-retreat.webp?v=5d98720f89",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/tactical-retreat.webp?v=5d98720f89"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+          },
+          {
+            "title": "World's Greatest Assassin",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Bullseye",
+            "basicText": "",
+            "immediateText": "If you already won a combat this turn, ignore the value of your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/world-s-greatest-assassin.webp?v=dee3db9924",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/cards/world-s-greatest-assassin.webp?v=dee3db9924"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4"
+          },
+          {
+            "title": "Bullseye",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Bullseye",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/hero.webp?v=2de0fb9f74",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/hero.webp?v=2de0fb9f74"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bullseye/back.webp?v=e31de61df4",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-daredevil",
+      "family_id": "um-daredevil",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Daredevil",
+      "note": "Unmatched (Restoration Games), set hells-kitchen. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-18T16:22:17.735Z",
+      "deck_first_published_on": "2026-11-18T16:22:17.735Z",
+      "published_on": "2026-11-18T16:22:17.735Z",
+      "updated_on": "2026-11-18T16:22:17.735Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "hells-kitchen"
+      ],
+      "deck_data": {
+        "name": "Daredevil",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Daredevil",
+          "hp": 17,
+          "move": 3,
+          "isRanged": false,
+          "specialAbility": "DURING COMBAT: If you have 2 or fewer cards in your hand, you may BLIND BOOST your attack or defense.\n(If you have other DURING COMBAT effects, choose the order.)",
+          "quote": "Fear can be overcome, if you have the will.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/token-hero.png?v=37d4a90007"
+        },
+        "sidekick": {
+          "name": "Sidekick",
+          "hp": null,
+          "quantity": null,
+          "isRanged": false,
+          "quote": ""
+        },
+        "cards": [
+          {
+            "title": "Breather",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Daredevil",
+            "basicText": "Choose an attack, defense, or versatile card from your discard pile and return it to your hand.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/breather.webp?v=5363b64f18",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/breather.webp?v=5363b64f18"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b"
+          },
+          {
+            "title": "Devil of Hell's Kitchen",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Daredevil",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If you have no cards in your deck, the value of this card is 8 instead.",
+            "afterText": "Shuffle this card and the top four cards of your discard pile into your deck.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/devil-of-hell-s-kitchen.webp?v=9b7861461a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/devil-of-hell-s-kitchen.webp?v=9b7861461a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b"
+          },
+          {
+            "title": "Feint",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Daredevil",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/feint.webp?v=a2ee382ca4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/feint.webp?v=a2ee382ca4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b"
+          },
+          {
+            "title": "Grappling Hook",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Daredevil",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move Daredevil up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/grappling-hook.webp?v=de7c9b13c7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/grappling-hook.webp?v=de7c9b13c7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b"
+          },
+          {
+            "title": "Man Without Fear",
+            "quantity": 2,
+            "type": "attack",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Daredevil",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BLIND BOOST this attack. (This is in addition to any BLIND BOOST from Daredevil's special ability.)",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/man-without-fear.webp?v=d979fabfad",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/man-without-fear.webp?v=d979fabfad"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b"
+          },
+          {
+            "title": "Son of a Boxer",
+            "quantity": 3,
+            "type": "defence",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Daredevil",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you lost the combat, deal 2 damage to a fighter adjacent to Daredevil.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/son-of-a-boxer.webp?v=b2e1c1c4c4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/son-of-a-boxer.webp?v=b2e1c1c4c4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b"
+          },
+          {
+            "title": "Take a Knee",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Daredevil",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Discard the top card of your deck. Recover health equal to its BOOST value.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/take-a-knee.webp?v=ea923f5504",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/take-a-knee.webp?v=ea923f5504"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b"
+          },
+          {
+            "title": "Through Adversity",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Daredevil",
+            "basicText": "Move Daredevil up to 4 spaces. He may move through opposing fighters. Deal 1 damage to each opposing fighter Daredevil moves through.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/through-adversity.webp?v=e211f33818",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/through-adversity.webp?v=e211f33818"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b"
+          },
+          {
+            "title": "Daredevil",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Daredevil",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/hero.webp?v=acb11f6bc9",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/hero.webp?v=acb11f6bc9"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Blind Boost",
+            "content": "To BLIND BOOST, discard the top card of your deck and add its BOOST value to your card (instead of boosting from your hand)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-elektra",
+      "family_id": "um-elektra",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Elektra",
+      "note": "Unmatched (Restoration Games), set hells-kitchen. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-18T16:22:18.777Z",
+      "deck_first_published_on": "2026-11-18T16:22:18.777Z",
+      "published_on": "2026-11-18T16:22:18.777Z",
+      "updated_on": "2026-11-18T16:22:18.777Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "hells-kitchen"
+      ],
+      "deck_data": {
+        "name": "Elektra",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/back.webp?v=6db520b164",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Elektra",
+          "hp": 7,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "The first time Elektra would be defeated, remove her and all Hand from the board. She is not defeated. At the start of your next turn, Resurrect her.\n✋ Ignore effects with this symbol.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/token-hero.png?v=33e7c268cc"
+        },
+        "sidekick": {
+          "name": "The Hand",
+          "quantity": 4,
+          "hp": 1,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/token-the-hand.png?v=2203ce5922"
+        },
+        "cards": [
+          {
+            "title": "Cloaked in Shadow",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Elektra",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "✋ Move Elektra up to 3 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/cloaked-in-shadow.webp?v=1c61d2a117",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/cloaked-in-shadow.webp?v=1c61d2a117"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/back.webp?v=6db520b164"
+          },
+          {
+            "title": "Hands of Red",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Elektra",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Return a defeated Hand to a space in Elektra's zone.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/hands-of-red.webp?v=82951f7339",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/hands-of-red.webp?v=82951f7339"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/back.webp?v=6db520b164"
+          },
+          {
+            "title": "Intercept",
+            "quantity": 2,
+            "type": "defence",
+            "value": 3,
+            "boost": 4,
+            "characterName": "Elektra",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "✋ You may reveal a card named SAI from your hand. If you do, the value of this card is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/intercept.webp?v=93ae3acdd1",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/intercept.webp?v=93ae3acdd1"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/back.webp?v=6db520b164"
+          },
+          {
+            "title": "Mesmerize",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Elektra",
+            "basicText": "Choose an opponent and look at their hand. Gain 1 action.\n✋ Choose 1 card for them to discard.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/mesmerize.webp?v=4d286ba280",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/mesmerize.webp?v=4d286ba280"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/back.webp?v=6db520b164"
+          },
+          {
+            "title": "Mystic Assassin",
+            "quantity": 2,
+            "type": "attack",
+            "value": 6,
+            "boost": 1,
+            "characterName": "Elektra",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Elektra takes 3 damage.\n✋ Elektra takes no damage instead.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/mystic-assassin.webp?v=f2a7015195",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/mystic-assassin.webp?v=f2a7015195"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/back.webp?v=6db520b164"
+          },
+          {
+            "title": "Ninjitsu",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Place your fighter in any space.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/ninjitsu.webp?v=c703f5086d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/ninjitsu.webp?v=c703f5086d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/back.webp?v=6db520b164"
+          },
+          {
+            "title": "Sai",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Elektra",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/sai.webp?v=e39f696f48",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/sai.webp?v=e39f696f48"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/back.webp?v=6db520b164"
+          },
+          {
+            "title": "Snakeroot Clan",
+            "quantity": 2,
+            "type": "defence",
+            "value": 1,
+            "boost": 2,
+            "characterName": "Elektra",
+            "basicText": "",
+            "immediateText": "Elektra may swap spaces with a Hand. If she does, that Hand is now the defender.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/snakeroot-clan.webp?v=a1afa3072d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/snakeroot-clan.webp?v=a1afa3072d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/back.webp?v=6db520b164"
+          },
+          {
+            "title": "The Fist",
+            "quantity": 2,
+            "type": "attack",
+            "value": 3,
+            "boost": 3,
+            "characterName": "The Hand",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You may deal 1 damage to your attacking fighter. If you do, return this card to your hand and gain 1 action.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/the-fist.webp?v=d42ad1c66b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/the-fist.webp?v=d42ad1c66b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/back.webp?v=6db520b164"
+          },
+          {
+            "title": "Whirlwind",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Elektra",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "✋ Deal 1 damage to each adjacent opposing fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/whirlwind.webp?v=0e944aa4c2",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/cards/whirlwind.webp?v=0e944aa4c2"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/back.webp?v=6db520b164"
+          },
+          {
+            "title": "Elektra",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Elektra",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/hero.webp?v=f7b0ebd98e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/hero.webp?v=f7b0ebd98e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/back.webp?v=6db520b164",
+            "isCharacterCard": true
+          },
+          {
+            "title": "Elektra Resurrected",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Elektra",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/hero-elektra-resurrected.webp?v=b6642283e4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/hero-elektra-resurrected.webp?v=b6642283e4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/elektra/back.webp?v=6db520b164",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Elektra Resurrected",
+            "content": "START HEALTH 9 — MOVE 2 — MELEE.\nWhen Elektra Resurrects: Flip your health dial (set Elektra to 9). Shuffle your discard pile into your deck.\nPlace Elektra and all Hand back onto the board with each fighter in a different zone.\n✋ You must resolve effects with this symbol."
+          },
+          {
+            "title": "✋ Hand symbol",
+            "content": "Card text marked ✋ is ignored while Elektra has not resurrected, and must be resolved once she is Elektra Resurrected."
+          }
+        ]
+      }
+    }
+  ],
+  "maps": []
+}

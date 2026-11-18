@@ -1,0 +1,211 @@
+{
+  "id": "um-daredevil",
+  "family_id": "um-daredevil",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Daredevil",
+  "note": "Unmatched (Restoration Games), set hells-kitchen. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-18T16:22:17.735Z",
+  "deck_first_published_on": "2026-11-18T16:22:17.735Z",
+  "published_on": "2026-11-18T16:22:17.735Z",
+  "updated_on": "2026-11-18T16:22:17.735Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "hells-kitchen"
+  ],
+  "deck_data": {
+    "name": "Daredevil",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Daredevil",
+      "hp": 17,
+      "move": 3,
+      "isRanged": false,
+      "specialAbility": "DURING COMBAT: If you have 2 or fewer cards in your hand, you may BLIND BOOST your attack or defense.\n(If you have other DURING COMBAT effects, choose the order.)",
+      "quote": "Fear can be overcome, if you have the will.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/token-hero.png?v=37d4a90007"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Breather",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Daredevil",
+        "basicText": "Choose an attack, defense, or versatile card from your discard pile and return it to your hand.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/breather.webp?v=5363b64f18",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/breather.webp?v=5363b64f18"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b"
+      },
+      {
+        "title": "Devil of Hell's Kitchen",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Daredevil",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If you have no cards in your deck, the value of this card is 8 instead.",
+        "afterText": "Shuffle this card and the top four cards of your discard pile into your deck.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/devil-of-hell-s-kitchen.webp?v=9b7861461a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/devil-of-hell-s-kitchen.webp?v=9b7861461a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Daredevil",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/feint.webp?v=a2ee382ca4",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/feint.webp?v=a2ee382ca4"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b"
+      },
+      {
+        "title": "Grappling Hook",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Daredevil",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move Daredevil up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/grappling-hook.webp?v=de7c9b13c7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/grappling-hook.webp?v=de7c9b13c7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b"
+      },
+      {
+        "title": "Man Without Fear",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Daredevil",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BLIND BOOST this attack. (This is in addition to any BLIND BOOST from Daredevil's special ability.)",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/man-without-fear.webp?v=d979fabfad",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/man-without-fear.webp?v=d979fabfad"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b"
+      },
+      {
+        "title": "Son of a Boxer",
+        "quantity": 3,
+        "type": "defence",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Daredevil",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you lost the combat, deal 2 damage to a fighter adjacent to Daredevil.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/son-of-a-boxer.webp?v=b2e1c1c4c4",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/son-of-a-boxer.webp?v=b2e1c1c4c4"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b"
+      },
+      {
+        "title": "Take a Knee",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Daredevil",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Discard the top card of your deck. Recover health equal to its BOOST value.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/take-a-knee.webp?v=ea923f5504",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/take-a-knee.webp?v=ea923f5504"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b"
+      },
+      {
+        "title": "Through Adversity",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Daredevil",
+        "basicText": "Move Daredevil up to 4 spaces. He may move through opposing fighters. Deal 1 damage to each opposing fighter Daredevil moves through.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/through-adversity.webp?v=e211f33818",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/cards/through-adversity.webp?v=e211f33818"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b"
+      },
+      {
+        "title": "Daredevil",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Daredevil",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/hero.webp?v=acb11f6bc9",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/hero.webp?v=acb11f6bc9"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/daredevil/back.webp?v=b94223a42b",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Blind Boost",
+        "content": "To BLIND BOOST, discard the top card of your deck and add its BOOST value to your card (instead of boosting from your hand)."
+      }
+    ]
+  }
+}
