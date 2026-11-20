@@ -1,0 +1,290 @@
+{
+  "id": "um-palpatine",
+  "family_id": "um-palpatine",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Emperor Palpatine",
+  "note": "Unmatched (Restoration Games), set custom. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-19T23:52:45.609Z",
+  "deck_first_published_on": "2026-11-19T23:52:45.609Z",
+  "published_on": "2026-11-19T23:52:45.609Z",
+  "updated_on": "2026-11-19T23:52:45.609Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "custom"
+  ],
+  "deck_data": {
+    "name": "Emperor Palpatine",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Emperor Palpatine",
+      "hp": 13,
+      "move": 1,
+      "isRanged": true,
+      "specialAbility": "At the end of your turn, look at the top card of your deck. If an opponent has less cards in hand than its BOOST value, reveal and draw it. Otherwise, place it on top or on bottom of your deck.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/token-hero.png?v=1851b2f5de"
+    },
+    "sidekick": {
+      "name": "Royal Guard",
+      "quantity": 2,
+      "hp": 5,
+      "isRanged": true,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/token-royal-guard.png?v=54bfa168f1"
+    },
+    "cards": [
+      {
+        "title": "Force Lightning",
+        "quantity": 4,
+        "type": "attack",
+        "value": 2,
+        "boost": 4,
+        "characterName": "Emperor Palpatine",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Ignore the value of your opponent's card.",
+        "afterText": "Your opponent discards a card at random.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/force-lightning.webp?v=baa4b22b72",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/force-lightning.webp?v=baa4b22b72"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+      },
+      {
+        "title": "Let the Hate Flow Through You",
+        "quantity": 2,
+        "type": "attack",
+        "value": 1,
+        "boost": 3,
+        "characterName": "Emperor Palpatine",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Your opponent discards 2 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/let-the-hate-flow-through-you.webp?v=a9cf0ce636",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/let-the-hate-flow-through-you.webp?v=a9cf0ce636"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+      },
+      {
+        "title": "You Will Die",
+        "quantity": 1,
+        "type": "attack",
+        "value": 0,
+        "boost": 2,
+        "characterName": "Emperor Palpatine",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Your opponent discards 3 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/you-will-die.webp?v=3968351359",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/you-will-die.webp?v=3968351359"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+      },
+      {
+        "title": "Unlimited Power",
+        "quantity": 1,
+        "type": "attack",
+        "value": 8,
+        "boost": 2,
+        "characterName": "Emperor Palpatine",
+        "basicText": "This card’s effects cannot be cancelled.",
+        "immediateText": "",
+        "duringText": "Subtract the number of cards in your opponent's hand from the value of this card (to a minimum of 0).",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/unlimited-power.webp?v=9e9cbbe87d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/unlimited-power.webp?v=9e9cbbe87d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+      },
+      {
+        "title": "Your Feeble Skills Are No Match",
+        "quantity": 2,
+        "type": "attack",
+        "value": 0,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Add the BOOST value of your opponent's card to this card's value.\nYou may BOOST this card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/your-feeble-skills-are-no-match.webp?v=4426b2a499",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/your-feeble-skills-are-no-match.webp?v=4426b2a499"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+      },
+      {
+        "title": "You Will Pay the Price for Your Lack of Vision",
+        "quantity": 4,
+        "type": "versatile",
+        "value": 2,
+        "boost": 4,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If your opponent has 3 or less cards in hand, this card's value is 5.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/you-will-pay-the-price-for-your-lack-of-vision.webp?v=66f8bf2b65",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/you-will-pay-the-price-for-your-lack-of-vision.webp?v=66f8bf2b65"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+      },
+      {
+        "title": "Overconfidence",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Reveal the top card of your opponent’s deck. They may draw the revealed card. If they do, cancel the effects of their card in this combat. If they do not, they discard the revealed card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/overconfidence.webp?v=816d25dde4",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/overconfidence.webp?v=816d25dde4"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+      },
+      {
+        "title": "Strike Me Down",
+        "quantity": 2,
+        "type": "defence",
+        "value": 5,
+        "boost": 2,
+        "characterName": "Emperor Palpatine",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Your opponent may BOOST their card.",
+        "afterText": "If you lost the combat, place a card from your discard pile on top of your deck.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/strike-me-down.webp?v=09f5efaa58",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/strike-me-down.webp?v=09f5efaa58"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+      },
+      {
+        "title": "Royal Command",
+        "quantity": 4,
+        "type": "defence",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "You may have your fighter exchange spaces with one of your other fighters who is now the defender.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/royal-command.webp?v=2b3ef5183e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/royal-command.webp?v=2b3ef5183e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+      },
+      {
+        "title": "All According to My Design",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Emperor Palpatine",
+        "basicText": "Choose an opponent. They discard up to 2 cards. For each card they do not discard, place a card from your discard pile on top of your deck.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/all-according-to-my-design.webp?v=6139c7a40e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/all-according-to-my-design.webp?v=6139c7a40e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+      },
+      {
+        "title": "Future Foreseen",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 4,
+        "characterName": "Emperor Palpatine",
+        "basicText": "Draw 4 cards, then place 3 cards from your hand on top of your deck in any order.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/future-foreseen.webp?v=e7457a5be2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/future-foreseen.webp?v=e7457a5be2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+      },
+      {
+        "title": "Meditation",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 4,
+        "characterName": "Emperor Palpatine",
+        "basicText": "Emperor Palpatine recovers 2 health.\nUntil your next turn, your opponents do not draw cards from card effects or character abilities.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/meditation.webp?v=7353a17aba",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/meditation.webp?v=7353a17aba"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+      },
+      {
+        "title": "You Will Call Me Master",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Emperor Palpatine",
+        "basicText": "Choose an opponent. They choose 2 effects:\n- They discard a card.\n- You move each of their fighters up to 3 spaces.\n- Deal 1 damage to each of their fighters.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/you-will-call-me-master.webp?v=72831fae92",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/you-will-call-me-master.webp?v=72831fae92"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+      },
+      {
+        "title": "Emperor Palpatine",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Emperor Palpatine",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/hero.webp?v=9a45d2068b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/hero.webp?v=9a45d2068b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

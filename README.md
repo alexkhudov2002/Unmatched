@@ -31,6 +31,7 @@ En **unbrewed.xyz/bag**, pega un enlace en la barra de añadir.
 | Little Red vs. Beowulf | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red.json` |
 | Redemption Row | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/redemption-row.json` |
 | Slings & Arrows | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/slings-and-arrows.json` |
+| Personalizados (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/custom.json` |
 
 **Héroes sueltos:**
 
@@ -81,6 +82,9 @@ En **unbrewed.xyz/bag**, pega un enlace en la barra de añadir.
 | Shakespeare | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/shakespeare.json` |
 | The Wayward Sisters | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/wayward-sisters.json` |
 | Titania | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/titania.json` |
+| Emperor Palpatine (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/palpatine.json` |
+| Lord Voldemort (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/voldemort.json` |
+| Tahm Kench (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/tahm-kench.json` |
 
 Si un mazo cambia, bórralo de la bolsa y vuelve a añadirlo: Unbrewed guarda una copia en el navegador.
 
@@ -144,6 +148,11 @@ Si un mazo cambia, bórralo de la bolsa y vuelve a añadirlo: Unbrewed guarda un
   de reglas.
 - **Titania**: su ficha, Oberon y los 6 glamours como fichas boca abajo, como las desgracias de Pandora:
   mézclalas arrastrándolas antes de empezar.
+- **Personalizados** (mazos fan-made de unmatched.cards): **Emperor Palpatine** (con 2 Royal Guards de 5 de
+  vida), **Lord Voldemort** (con 7 Horcruxes de 1 de vida, que empiezan fuera del tablero) y **Tahm Kench**:
+  las fichas de los luchadores en la esquina del jugador. Las cartas de reglas extra (Horcruxes; Extra rules
+  y Devour de Tahm Kench) van como cartas de personaje y en el panel de reglas. Los marcadores de pez de
+  Tahm Kench no tienen ficha: llévalos con un contador.
 
 Invisible Man, Jekyll & Hyde, Blackbeard, Pandora, Dr. Jill Trent, Nikola Tesla, Alice, Hellboy, Abe
 Sapien, Beowulf, Ghost Rider, The Wayward Sisters y Titania usan una lista de fichas guardada en el mazo, y Unbrewed la pone siempre en el mismo punto

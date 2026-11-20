@@ -1,0 +1,348 @@
+{
+  "id": "um-voldemort",
+  "family_id": "um-voldemort",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Lord Voldemort",
+  "note": "Unmatched (Restoration Games), set custom. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-19T23:52:46.654Z",
+  "deck_first_published_on": "2026-11-19T23:52:46.654Z",
+  "published_on": "2026-11-19T23:52:46.654Z",
+  "updated_on": "2026-11-19T23:52:46.654Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "custom"
+  ],
+  "deck_data": {
+    "name": "Lord Voldemort",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Lord Voldemort",
+      "hp": 15,
+      "move": 2,
+      "isRanged": true,
+      "specialAbility": "At the beginning of your turn, you may lose 1 health to add a Horcrux to any space in Voldemort's zone.\nFor Voldemort to be defeated, all Horcruxes in play must first be defeated.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/token-hero.png?v=4e9bf242a3"
+    },
+    "sidekick": {
+      "name": "Horcrux",
+      "quantity": 7,
+      "hp": 1,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/token-horcrux.png?v=5bb7d02a80"
+    },
+    "cards": [
+      {
+        "title": "Avada Kedavra!",
+        "quantity": 2,
+        "type": "attack",
+        "value": 7,
+        "boost": 3,
+        "characterName": "Lord Voldemort",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Voldemort loses 1 health",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/avada-kedavra.webp?v=a1a85398f3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/avada-kedavra.webp?v=a1a85398f3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+      },
+      {
+        "title": "Imperio!",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Lord Voldemort",
+        "basicText": "",
+        "immediateText": "Return your opponent's defence card to their hand. Look at their hand and choose a defense or versatile card for them to play.\n(It may be the same card.)",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/imperio.webp?v=462b154a54",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/imperio.webp?v=462b154a54"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+      },
+      {
+        "title": "Crucio!",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Lord Voldemort",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "The opponent must BLIND BOOST this attack.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/crucio.webp?v=6cc4dcdffa",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/crucio.webp?v=6cc4dcdffa"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+      },
+      {
+        "title": "There Is Only Power",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Lord Voldemort",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BLIND BOOST this card.",
+        "afterText": "If you do not, deal 1 damage to Voldemort.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/there-is-only-power.webp?v=fcc4bec800",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/there-is-only-power.webp?v=fcc4bec800"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+      },
+      {
+        "title": "He Who Must Not Be Named",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Lord Voldemort",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you are adjacent to the opposing fighter, deal 1 damage and recover 1 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/he-who-must-not-be-named.webp?v=47d8ce7fd3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/he-who-must-not-be-named.webp?v=47d8ce7fd3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+      },
+      {
+        "title": "The Dark Lord Returns",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Lord Voldemort",
+        "basicText": "Recover 2 health.\nYou must then place Voldemort adjacent to any opposing fighter.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/the-dark-lord-returns.webp?v=75fda19ddd",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/the-dark-lord-returns.webp?v=75fda19ddd"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+      },
+      {
+        "title": "The Dark Mark",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Lord Voldemort",
+        "basicText": "You may place any number of all in-play Horcruxes adjacent to Voldemort.\nGain an action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/the-dark-mark.webp?v=ad65172a56",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/the-dark-mark.webp?v=ad65172a56"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+      },
+      {
+        "title": "The Elder Wand",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Lord Voldemort",
+        "basicText": "The effects of this card cannot be cancelled.",
+        "immediateText": "The value of this card is 1 more than the final value of the opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/the-elder-wand.webp?v=849f1101a2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/the-elder-wand.webp?v=849f1101a2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+      },
+      {
+        "title": "Darkness Lived in That Boy",
+        "quantity": 3,
+        "type": "defence",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Lord Voldemort",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "You place Voldemort on any unoccupied space on the board.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/darkness-lived-in-that-boy.webp?v=32b16b8f5a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/darkness-lived-in-that-boy.webp?v=32b16b8f5a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+      },
+      {
+        "title": "Unlimited Resources",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Lord Voldemort",
+        "basicText": "",
+        "immediateText": "Add +1 to the value of this card for every Horcrux adjacent to Voldemort",
+        "duringText": "",
+        "afterText": "If you lost the combat, deal 1 damage to Voldemort.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/unlimited-resources.webp?v=8a811a5a73",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/unlimited-resources.webp?v=8a811a5a73"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+      },
+      {
+        "title": "The Dark Lord's Plans Never Fail",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Lord Voldemort",
+        "basicText": "Choose an opposing fighter and deal 1 damage to them. You may now place them on any space within Voldemort's zone.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/the-dark-lord-s-plans-never-fail.webp?v=dcc3ed5d0b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/the-dark-lord-s-plans-never-fail.webp?v=dcc3ed5d0b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+      },
+      {
+        "title": "Feintorio",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Lord Voldemort",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "If you won the combat, draw a card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/feintorio.webp?v=2b94dd476d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/feintorio.webp?v=2b94dd476d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+      },
+      {
+        "title": "Skirmixo Kobretto",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Lord Voldemort",
+        "basicText": "",
+        "immediateText": "If you won the combat, choose one of the fighters in the combat and move them up to 4 spaces. You may move through opposition fighters.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/skirmixo-kobretto.webp?v=08fec4d0c8",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/skirmixo-kobretto.webp?v=08fec4d0c8"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+      },
+      {
+        "title": "Old Magic",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Lord Voldemort",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, add an additional Horcrux to a space outside of Voldemort's current zone.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/old-magic.webp?v=02938d1281",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/old-magic.webp?v=02938d1281"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+      },
+      {
+        "title": "A Fragment of One's Soul",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Lord Voldemort",
+        "basicText": "You may add 3 Horcruxes to spaces adjacent to Voldemort at the total cost of 1 health.\nGain an action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/a-fragment-of-one-s-soul.webp?v=dc9ce77731",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/a-fragment-of-one-s-soul.webp?v=dc9ce77731"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+      },
+      {
+        "title": "Lord Voldemort",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Lord Voldemort",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/hero.webp?v=ec8e2533b3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/hero.webp?v=ec8e2533b3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891",
+        "isCharacterCard": true
+      },
+      {
+        "title": "Horcruxes",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Lord Voldemort",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/hero-horcruxes.webp?v=3e3329c121",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/hero-horcruxes.webp?v=3e3329c121"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Horcruxes",
+        "content": "All Horcruxes begin off the board. When one is defeated, return it to the box.\nOnce placed on the board, Horcruxes may be moved as a part of Voldemort's maneuver.\nHorcruxes must be dealt damage to be defeated. In that sense, each Horcrux behaves as a 1-health sidekick.\nAs long as there is one Horcrux on the board, Voldemort's health cannot go below 1."
+      }
+    ]
+  }
+}

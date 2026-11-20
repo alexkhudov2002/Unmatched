@@ -1,0 +1,980 @@
+{
+  "decks": [
+    {
+      "id": "um-palpatine",
+      "family_id": "um-palpatine",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Emperor Palpatine",
+      "note": "Unmatched (Restoration Games), set custom. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-19T23:52:45.609Z",
+      "deck_first_published_on": "2026-11-19T23:52:45.609Z",
+      "published_on": "2026-11-19T23:52:45.609Z",
+      "updated_on": "2026-11-19T23:52:45.609Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "custom"
+      ],
+      "deck_data": {
+        "name": "Emperor Palpatine",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Emperor Palpatine",
+          "hp": 13,
+          "move": 1,
+          "isRanged": true,
+          "specialAbility": "At the end of your turn, look at the top card of your deck. If an opponent has less cards in hand than its BOOST value, reveal and draw it. Otherwise, place it on top or on bottom of your deck.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/token-hero.png?v=1851b2f5de"
+        },
+        "sidekick": {
+          "name": "Royal Guard",
+          "quantity": 2,
+          "hp": 5,
+          "isRanged": true,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/token-royal-guard.png?v=54bfa168f1"
+        },
+        "cards": [
+          {
+            "title": "Force Lightning",
+            "quantity": 4,
+            "type": "attack",
+            "value": 2,
+            "boost": 4,
+            "characterName": "Emperor Palpatine",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Ignore the value of your opponent's card.",
+            "afterText": "Your opponent discards a card at random.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/force-lightning.webp?v=baa4b22b72",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/force-lightning.webp?v=baa4b22b72"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+          },
+          {
+            "title": "Let the Hate Flow Through You",
+            "quantity": 2,
+            "type": "attack",
+            "value": 1,
+            "boost": 3,
+            "characterName": "Emperor Palpatine",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Your opponent discards 2 cards.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/let-the-hate-flow-through-you.webp?v=a9cf0ce636",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/let-the-hate-flow-through-you.webp?v=a9cf0ce636"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+          },
+          {
+            "title": "You Will Die",
+            "quantity": 1,
+            "type": "attack",
+            "value": 0,
+            "boost": 2,
+            "characterName": "Emperor Palpatine",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Your opponent discards 3 cards.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/you-will-die.webp?v=3968351359",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/you-will-die.webp?v=3968351359"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+          },
+          {
+            "title": "Unlimited Power",
+            "quantity": 1,
+            "type": "attack",
+            "value": 8,
+            "boost": 2,
+            "characterName": "Emperor Palpatine",
+            "basicText": "This card’s effects cannot be cancelled.",
+            "immediateText": "",
+            "duringText": "Subtract the number of cards in your opponent's hand from the value of this card (to a minimum of 0).",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/unlimited-power.webp?v=9e9cbbe87d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/unlimited-power.webp?v=9e9cbbe87d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+          },
+          {
+            "title": "Your Feeble Skills Are No Match",
+            "quantity": 2,
+            "type": "attack",
+            "value": 0,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Add the BOOST value of your opponent's card to this card's value.\nYou may BOOST this card.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/your-feeble-skills-are-no-match.webp?v=4426b2a499",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/your-feeble-skills-are-no-match.webp?v=4426b2a499"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+          },
+          {
+            "title": "You Will Pay the Price for Your Lack of Vision",
+            "quantity": 4,
+            "type": "versatile",
+            "value": 2,
+            "boost": 4,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If your opponent has 3 or less cards in hand, this card's value is 5.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/you-will-pay-the-price-for-your-lack-of-vision.webp?v=66f8bf2b65",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/you-will-pay-the-price-for-your-lack-of-vision.webp?v=66f8bf2b65"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+          },
+          {
+            "title": "Overconfidence",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Reveal the top card of your opponent’s deck. They may draw the revealed card. If they do, cancel the effects of their card in this combat. If they do not, they discard the revealed card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/overconfidence.webp?v=816d25dde4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/overconfidence.webp?v=816d25dde4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+          },
+          {
+            "title": "Strike Me Down",
+            "quantity": 2,
+            "type": "defence",
+            "value": 5,
+            "boost": 2,
+            "characterName": "Emperor Palpatine",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Your opponent may BOOST their card.",
+            "afterText": "If you lost the combat, place a card from your discard pile on top of your deck.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/strike-me-down.webp?v=09f5efaa58",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/strike-me-down.webp?v=09f5efaa58"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+          },
+          {
+            "title": "Royal Command",
+            "quantity": 4,
+            "type": "defence",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "You may have your fighter exchange spaces with one of your other fighters who is now the defender.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/royal-command.webp?v=2b3ef5183e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/royal-command.webp?v=2b3ef5183e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+          },
+          {
+            "title": "All According to My Design",
+            "quantity": 1,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Emperor Palpatine",
+            "basicText": "Choose an opponent. They discard up to 2 cards. For each card they do not discard, place a card from your discard pile on top of your deck.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/all-according-to-my-design.webp?v=6139c7a40e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/all-according-to-my-design.webp?v=6139c7a40e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+          },
+          {
+            "title": "Future Foreseen",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 4,
+            "characterName": "Emperor Palpatine",
+            "basicText": "Draw 4 cards, then place 3 cards from your hand on top of your deck in any order.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/future-foreseen.webp?v=e7457a5be2",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/future-foreseen.webp?v=e7457a5be2"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+          },
+          {
+            "title": "Meditation",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 4,
+            "characterName": "Emperor Palpatine",
+            "basicText": "Emperor Palpatine recovers 2 health.\nUntil your next turn, your opponents do not draw cards from card effects or character abilities.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/meditation.webp?v=7353a17aba",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/meditation.webp?v=7353a17aba"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+          },
+          {
+            "title": "You Will Call Me Master",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Emperor Palpatine",
+            "basicText": "Choose an opponent. They choose 2 effects:\n- They discard a card.\n- You move each of their fighters up to 3 spaces.\n- Deal 1 damage to each of their fighters.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/you-will-call-me-master.webp?v=72831fae92",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/cards/you-will-call-me-master.webp?v=72831fae92"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86"
+          },
+          {
+            "title": "Emperor Palpatine",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Emperor Palpatine",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/hero.webp?v=9a45d2068b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/hero.webp?v=9a45d2068b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/back.webp?v=2180fa9e86",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-tahm-kench",
+      "family_id": "um-tahm-kench",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Tahm Kench",
+      "note": "Unmatched (Restoration Games), set custom. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-19T23:52:46.931Z",
+      "deck_first_published_on": "2026-11-19T23:52:46.931Z",
+      "published_on": "2026-11-19T23:52:46.931Z",
+      "updated_on": "2026-11-19T23:52:46.931Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "custom"
+      ],
+      "deck_data": {
+        "name": "Tahm Kench",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Tahm Kench",
+          "hp": 25,
+          "move": 1,
+          "isRanged": false,
+          "specialAbility": "Once per turn Tahm Kench can dive to another space within his zone or within 5 spaces. This doesn't take an action. If he would land on an occupied space, move that fighter to the nearest option possible and give it a fish marker.",
+          "quote": "Boy, the world's one river, and I'm its king. Ain't no place I ain't been; ain't no place I can't go again.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/token-hero.png?v=3bbd7c10ba"
+        },
+        "sidekick": {
+          "name": "Sidekick",
+          "hp": null,
+          "quantity": null,
+          "isRanged": false,
+          "quote": ""
+        },
+        "cards": [
+          {
+            "title": "Tongue Slash",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Tahm Kench",
+            "basicText": "Give the enemy fighter a Fish marker.",
+            "immediateText": "",
+            "duringText": "If you are not adjacent to your opponent, the value of this card is 6",
+            "afterText": "If your opponent has 3 stacks, they discard a random card. And all 3 markers.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/tongue-slash.webp?v=368c574862",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/tongue-slash.webp?v=368c574862"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+          },
+          {
+            "title": "An Acquired Taste",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 1,
+            "characterName": "Tahm Kench",
+            "basicText": "Give an enemy fighter a fish marker.\nDraw 1 card. Gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/an-acquired-taste.webp?v=890536b3d5",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/an-acquired-taste.webp?v=890536b3d5"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+          },
+          {
+            "title": "Thick Skin",
+            "quantity": 2,
+            "type": "defence",
+            "value": 6,
+            "boost": 2,
+            "characterName": "Tahm Kench",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Restore health equal to the excess damage you have mitigated.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/thick-skin.webp?v=99cf2a624f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/thick-skin.webp?v=99cf2a624f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+          },
+          {
+            "title": "Devour",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 5,
+            "characterName": "Tahm Kench",
+            "basicText": "Call me king, call me demon. Water forgets the names of the drowned.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/devour.webp?v=abb731573f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/devour.webp?v=abb731573f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+          },
+          {
+            "title": "The Deal",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Tahm Kench",
+            "basicText": "You can take 1 damage and discard the top card of your opponent's deck. Draw a card. Gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/the-deal.webp?v=4899e09275",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/the-deal.webp?v=4899e09275"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+          },
+          {
+            "title": "Feast",
+            "quantity": 2,
+            "type": "attack",
+            "value": 6,
+            "boost": 4,
+            "characterName": "Tahm Kench",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/feast.webp?v=9564b268c3",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/feast.webp?v=9564b268c3"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+          },
+          {
+            "title": "Dive from the Abyss",
+            "quantity": 2,
+            "type": "attack",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Tahm Kench",
+            "basicText": "After using your power, attacking with this card, doesn't cost any action.",
+            "immediateText": "",
+            "duringText": "Give your opponent a fish marker. If your opponent has 3 fish markers, ignore the value of your opponent's card.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/dive-from-the-abyss.webp?v=597fe59e9d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/dive-from-the-abyss.webp?v=597fe59e9d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+          },
+          {
+            "title": "Move a Little Closer",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Tahm Kench",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Take 3 damage. Deal 3 damage to the enemy fighter. Gain 1 action. Draw 1 card. Give your opponent a Fish marker.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/move-a-little-closer.webp?v=ea833089f0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/move-a-little-closer.webp?v=ea833089f0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+          },
+          {
+            "title": "Terrifying Eyes",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Tahm Kench",
+            "basicText": "",
+            "immediateText": "Fighters cannot leave their spaces for the rest of the turn.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/terrifying-eyes.webp?v=458f41a088",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/terrifying-eyes.webp?v=458f41a088"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+          },
+          {
+            "title": "Momentous Shift",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Tahm Kench",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If your fighter started this turn in a different space, this card's value is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/momentous-shift.webp?v=35c2fca27b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/momentous-shift.webp?v=35c2fca27b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+          },
+          {
+            "title": "15.000 Pounds from Below",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Tahm Kench",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Ignore the value of your opponent's card.",
+            "afterText": "Take 2 damage.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/15-000-pounds-from-below.webp?v=be08717317",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/15-000-pounds-from-below.webp?v=be08717317"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+          },
+          {
+            "title": "Thrash",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Tahm Kench",
+            "basicText": "",
+            "immediateText": "You may BOOST this card.",
+            "duringText": "",
+            "afterText": "If you won the combat, deal 1 damage to each opposing fighter in Tahm Kench's zone.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/thrash.webp?v=35adca7e02",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/thrash.webp?v=35adca7e02"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+          },
+          {
+            "title": "Tahm Kench",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Tahm Kench",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/hero.webp?v=ce38558d8f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/hero.webp?v=ce38558d8f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012",
+            "isCharacterCard": true
+          },
+          {
+            "title": "Extra rules",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Tahm Kench",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/hero-extra-rules.webp?v=e7006f7c59",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/hero-extra-rules.webp?v=e7006f7c59"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012",
+            "isCharacterCard": true
+          },
+          {
+            "title": "Devour (1)",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Tahm Kench",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/hero-devour-1.webp?v=51474c23b2",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/hero-devour-1.webp?v=51474c23b2"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012",
+            "isCharacterCard": true
+          },
+          {
+            "title": "Devour (2)",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Tahm Kench",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/hero-devour-2.webp?v=47154f90d6",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/hero-devour-2.webp?v=47154f90d6"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Extra rules",
+            "content": "Tahm Kench is a Large fighter (he can attack up to 2 spaces away).\n(With his ability, if he lands on a fighter, the fighter can be moved through opponents.) If the fighter has 3 fish markers they take 1 damage on impact.\nFish markers: if an opponent has 3 stacks of fish markers, some of your cards might have an extra effect. An opponent can have maximum 3 markers. Discarded markers go back to Tahm Kench."
+          },
+          {
+            "title": "Devour",
+            "content": "You can only play this card on opponents if there is at least one opponent that has 3 stacks. Choose an enemy hero with 3 stacks or an ally hero. Eat it. Remove it from the board.\nAt the start of their turn enemies can choose to: skip their turn, or have 1 action and take 5 damage, or have 2 actions and take 8 damage. After they chose, return them on a space of your choosing.\nIf you ate an ally, at the start of their turn they can choose: skip their turn and restore 8 health, or have 1 action and restore 3 health, or just start their turn normally. Return them to a space of your choosing."
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-voldemort",
+      "family_id": "um-voldemort",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Lord Voldemort",
+      "note": "Unmatched (Restoration Games), set custom. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-19T23:52:46.654Z",
+      "deck_first_published_on": "2026-11-19T23:52:46.654Z",
+      "published_on": "2026-11-19T23:52:46.654Z",
+      "updated_on": "2026-11-19T23:52:46.654Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "custom"
+      ],
+      "deck_data": {
+        "name": "Lord Voldemort",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Lord Voldemort",
+          "hp": 15,
+          "move": 2,
+          "isRanged": true,
+          "specialAbility": "At the beginning of your turn, you may lose 1 health to add a Horcrux to any space in Voldemort's zone.\nFor Voldemort to be defeated, all Horcruxes in play must first be defeated.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/token-hero.png?v=4e9bf242a3"
+        },
+        "sidekick": {
+          "name": "Horcrux",
+          "quantity": 7,
+          "hp": 1,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/token-horcrux.png?v=5bb7d02a80"
+        },
+        "cards": [
+          {
+            "title": "Avada Kedavra!",
+            "quantity": 2,
+            "type": "attack",
+            "value": 7,
+            "boost": 3,
+            "characterName": "Lord Voldemort",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Voldemort loses 1 health",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/avada-kedavra.webp?v=a1a85398f3",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/avada-kedavra.webp?v=a1a85398f3"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+          },
+          {
+            "title": "Imperio!",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Lord Voldemort",
+            "basicText": "",
+            "immediateText": "Return your opponent's defence card to their hand. Look at their hand and choose a defense or versatile card for them to play.\n(It may be the same card.)",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/imperio.webp?v=462b154a54",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/imperio.webp?v=462b154a54"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+          },
+          {
+            "title": "Crucio!",
+            "quantity": 2,
+            "type": "attack",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Lord Voldemort",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "The opponent must BLIND BOOST this attack.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/crucio.webp?v=6cc4dcdffa",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/crucio.webp?v=6cc4dcdffa"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+          },
+          {
+            "title": "There Is Only Power",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Lord Voldemort",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BLIND BOOST this card.",
+            "afterText": "If you do not, deal 1 damage to Voldemort.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/there-is-only-power.webp?v=fcc4bec800",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/there-is-only-power.webp?v=fcc4bec800"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+          },
+          {
+            "title": "He Who Must Not Be Named",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Lord Voldemort",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you are adjacent to the opposing fighter, deal 1 damage and recover 1 health.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/he-who-must-not-be-named.webp?v=47d8ce7fd3",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/he-who-must-not-be-named.webp?v=47d8ce7fd3"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+          },
+          {
+            "title": "The Dark Lord Returns",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Lord Voldemort",
+            "basicText": "Recover 2 health.\nYou must then place Voldemort adjacent to any opposing fighter.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/the-dark-lord-returns.webp?v=75fda19ddd",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/the-dark-lord-returns.webp?v=75fda19ddd"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+          },
+          {
+            "title": "The Dark Mark",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Lord Voldemort",
+            "basicText": "You may place any number of all in-play Horcruxes adjacent to Voldemort.\nGain an action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/the-dark-mark.webp?v=ad65172a56",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/the-dark-mark.webp?v=ad65172a56"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+          },
+          {
+            "title": "The Elder Wand",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Lord Voldemort",
+            "basicText": "The effects of this card cannot be cancelled.",
+            "immediateText": "The value of this card is 1 more than the final value of the opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/the-elder-wand.webp?v=849f1101a2",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/the-elder-wand.webp?v=849f1101a2"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+          },
+          {
+            "title": "Darkness Lived in That Boy",
+            "quantity": 3,
+            "type": "defence",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Lord Voldemort",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You place Voldemort on any unoccupied space on the board.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/darkness-lived-in-that-boy.webp?v=32b16b8f5a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/darkness-lived-in-that-boy.webp?v=32b16b8f5a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+          },
+          {
+            "title": "Unlimited Resources",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Lord Voldemort",
+            "basicText": "",
+            "immediateText": "Add +1 to the value of this card for every Horcrux adjacent to Voldemort",
+            "duringText": "",
+            "afterText": "If you lost the combat, deal 1 damage to Voldemort.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/unlimited-resources.webp?v=8a811a5a73",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/unlimited-resources.webp?v=8a811a5a73"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+          },
+          {
+            "title": "The Dark Lord's Plans Never Fail",
+            "quantity": 1,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Lord Voldemort",
+            "basicText": "Choose an opposing fighter and deal 1 damage to them. You may now place them on any space within Voldemort's zone.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/the-dark-lord-s-plans-never-fail.webp?v=dcc3ed5d0b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/the-dark-lord-s-plans-never-fail.webp?v=dcc3ed5d0b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+          },
+          {
+            "title": "Feintorio",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Lord Voldemort",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "If you won the combat, draw a card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/feintorio.webp?v=2b94dd476d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/feintorio.webp?v=2b94dd476d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+          },
+          {
+            "title": "Skirmixo Kobretto",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Lord Voldemort",
+            "basicText": "",
+            "immediateText": "If you won the combat, choose one of the fighters in the combat and move them up to 4 spaces. You may move through opposition fighters.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/skirmixo-kobretto.webp?v=08fec4d0c8",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/skirmixo-kobretto.webp?v=08fec4d0c8"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+          },
+          {
+            "title": "Old Magic",
+            "quantity": 2,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Lord Voldemort",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, add an additional Horcrux to a space outside of Voldemort's current zone.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/old-magic.webp?v=02938d1281",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/old-magic.webp?v=02938d1281"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+          },
+          {
+            "title": "A Fragment of One's Soul",
+            "quantity": 1,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Lord Voldemort",
+            "basicText": "You may add 3 Horcruxes to spaces adjacent to Voldemort at the total cost of 1 health.\nGain an action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/a-fragment-of-one-s-soul.webp?v=dc9ce77731",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/cards/a-fragment-of-one-s-soul.webp?v=dc9ce77731"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891"
+          },
+          {
+            "title": "Lord Voldemort",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Lord Voldemort",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/hero.webp?v=ec8e2533b3",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/hero.webp?v=ec8e2533b3"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891",
+            "isCharacterCard": true
+          },
+          {
+            "title": "Horcruxes",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Lord Voldemort",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/hero-horcruxes.webp?v=3e3329c121",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/hero-horcruxes.webp?v=3e3329c121"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/back.webp?v=c08d35e891",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Horcruxes",
+            "content": "All Horcruxes begin off the board. When one is defeated, return it to the box.\nOnce placed on the board, Horcruxes may be moved as a part of Voldemort's maneuver.\nHorcruxes must be dealt damage to be defeated. In that sense, each Horcrux behaves as a 1-health sidekick.\nAs long as there is one Horcrux on the board, Voldemort's health cannot go below 1."
+          }
+        ]
+      }
+    }
+  ],
+  "maps": []
+}

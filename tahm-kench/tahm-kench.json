@@ -1,0 +1,337 @@
+{
+  "id": "um-tahm-kench",
+  "family_id": "um-tahm-kench",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Tahm Kench",
+  "note": "Unmatched (Restoration Games), set custom. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-19T23:52:46.931Z",
+  "deck_first_published_on": "2026-11-19T23:52:46.931Z",
+  "published_on": "2026-11-19T23:52:46.931Z",
+  "updated_on": "2026-11-19T23:52:46.931Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "custom"
+  ],
+  "deck_data": {
+    "name": "Tahm Kench",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Tahm Kench",
+      "hp": 25,
+      "move": 1,
+      "isRanged": false,
+      "specialAbility": "Once per turn Tahm Kench can dive to another space within his zone or within 5 spaces. This doesn't take an action. If he would land on an occupied space, move that fighter to the nearest option possible and give it a fish marker.",
+      "quote": "Boy, the world's one river, and I'm its king. Ain't no place I ain't been; ain't no place I can't go again.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/token-hero.png?v=3bbd7c10ba"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Tongue Slash",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Tahm Kench",
+        "basicText": "Give the enemy fighter a Fish marker.",
+        "immediateText": "",
+        "duringText": "If you are not adjacent to your opponent, the value of this card is 6",
+        "afterText": "If your opponent has 3 stacks, they discard a random card. And all 3 markers.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/tongue-slash.webp?v=368c574862",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/tongue-slash.webp?v=368c574862"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+      },
+      {
+        "title": "An Acquired Taste",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "Tahm Kench",
+        "basicText": "Give an enemy fighter a fish marker.\nDraw 1 card. Gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/an-acquired-taste.webp?v=890536b3d5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/an-acquired-taste.webp?v=890536b3d5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+      },
+      {
+        "title": "Thick Skin",
+        "quantity": 2,
+        "type": "defence",
+        "value": 6,
+        "boost": 2,
+        "characterName": "Tahm Kench",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Restore health equal to the excess damage you have mitigated.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/thick-skin.webp?v=99cf2a624f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/thick-skin.webp?v=99cf2a624f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+      },
+      {
+        "title": "Devour",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 5,
+        "characterName": "Tahm Kench",
+        "basicText": "Call me king, call me demon. Water forgets the names of the drowned.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/devour.webp?v=abb731573f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/devour.webp?v=abb731573f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+      },
+      {
+        "title": "The Deal",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Tahm Kench",
+        "basicText": "You can take 1 damage and discard the top card of your opponent's deck. Draw a card. Gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/the-deal.webp?v=4899e09275",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/the-deal.webp?v=4899e09275"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+      },
+      {
+        "title": "Feast",
+        "quantity": 2,
+        "type": "attack",
+        "value": 6,
+        "boost": 4,
+        "characterName": "Tahm Kench",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/feast.webp?v=9564b268c3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/feast.webp?v=9564b268c3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+      },
+      {
+        "title": "Dive from the Abyss",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Tahm Kench",
+        "basicText": "After using your power, attacking with this card, doesn't cost any action.",
+        "immediateText": "",
+        "duringText": "Give your opponent a fish marker. If your opponent has 3 fish markers, ignore the value of your opponent's card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/dive-from-the-abyss.webp?v=597fe59e9d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/dive-from-the-abyss.webp?v=597fe59e9d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+      },
+      {
+        "title": "Move a Little Closer",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Tahm Kench",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Take 3 damage. Deal 3 damage to the enemy fighter. Gain 1 action. Draw 1 card. Give your opponent a Fish marker.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/move-a-little-closer.webp?v=ea833089f0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/move-a-little-closer.webp?v=ea833089f0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+      },
+      {
+        "title": "Terrifying Eyes",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Tahm Kench",
+        "basicText": "",
+        "immediateText": "Fighters cannot leave their spaces for the rest of the turn.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/terrifying-eyes.webp?v=458f41a088",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/terrifying-eyes.webp?v=458f41a088"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+      },
+      {
+        "title": "Momentous Shift",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Tahm Kench",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If your fighter started this turn in a different space, this card's value is 5 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/momentous-shift.webp?v=35c2fca27b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/momentous-shift.webp?v=35c2fca27b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+      },
+      {
+        "title": "15.000 Pounds from Below",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Tahm Kench",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Ignore the value of your opponent's card.",
+        "afterText": "Take 2 damage.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/15-000-pounds-from-below.webp?v=be08717317",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/15-000-pounds-from-below.webp?v=be08717317"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+      },
+      {
+        "title": "Thrash",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Tahm Kench",
+        "basicText": "",
+        "immediateText": "You may BOOST this card.",
+        "duringText": "",
+        "afterText": "If you won the combat, deal 1 damage to each opposing fighter in Tahm Kench's zone.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/thrash.webp?v=35adca7e02",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/cards/thrash.webp?v=35adca7e02"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012"
+      },
+      {
+        "title": "Tahm Kench",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Tahm Kench",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/hero.webp?v=ce38558d8f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/hero.webp?v=ce38558d8f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012",
+        "isCharacterCard": true
+      },
+      {
+        "title": "Extra rules",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Tahm Kench",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/hero-extra-rules.webp?v=e7006f7c59",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/hero-extra-rules.webp?v=e7006f7c59"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012",
+        "isCharacterCard": true
+      },
+      {
+        "title": "Devour (1)",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Tahm Kench",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/hero-devour-1.webp?v=51474c23b2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/hero-devour-1.webp?v=51474c23b2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012",
+        "isCharacterCard": true
+      },
+      {
+        "title": "Devour (2)",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Tahm Kench",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/hero-devour-2.webp?v=47154f90d6",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/hero-devour-2.webp?v=47154f90d6"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/back.webp?v=5293814012",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Extra rules",
+        "content": "Tahm Kench is a Large fighter (he can attack up to 2 spaces away).\n(With his ability, if he lands on a fighter, the fighter can be moved through opponents.) If the fighter has 3 fish markers they take 1 damage on impact.\nFish markers: if an opponent has 3 stacks of fish markers, some of your cards might have an extra effect. An opponent can have maximum 3 markers. Discarded markers go back to Tahm Kench."
+      },
+      {
+        "title": "Devour",
+        "content": "You can only play this card on opponents if there is at least one opponent that has 3 stacks. Choose an enemy hero with 3 stacks or an ally hero. Eat it. Remove it from the board.\nAt the start of their turn enemies can choose to: skip their turn, or have 1 action and take 5 damage, or have 2 actions and take 8 damage. After they chose, return them on a space of your choosing.\nIf you ate an ally, at the start of their turn they can choose: skip their turn and restore 8 health, or have 1 action and restore 3 health, or just start their turn normally. Return them to a space of your choosing."
+      }
+    ]
+  }
+}
