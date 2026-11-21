@@ -1,0 +1,299 @@
+{
+  "id": "um-sauron",
+  "family_id": "um-sauron",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Sauron",
+  "note": "Unmatched (Restoration Games), set custom. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-21T21:42:57.328Z",
+  "deck_first_published_on": "2026-11-21T21:42:57.328Z",
+  "published_on": "2026-11-21T21:42:57.328Z",
+  "updated_on": "2026-11-21T21:42:57.328Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "custom"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/token-hero.png?v=2520ec4384",
+      "clip": "circle",
+      "label": "Sauron",
+      "rim": "#1F1F1F",
+      "initials": "S",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/token-one-ring.png?v=e993e87d76",
+      "size": 56,
+      "h": 56
+    }
+  ],
+  "deck_data": {
+    "name": "Sauron",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/back.webp?v=a3bc35f829",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Sauron",
+      "hp": 17,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "The One Ring To Rule Them All\n\nAt the start of the game, gain control of The One Ring",
+      "quote": "\"One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.\"\n                                                  - The One Ring",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/token-hero.png?v=2520ec4384"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "The Eye of Sauron",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Sauron",
+        "basicText": "Look at your opponent's hand, choose 2 cards from their hand for them to discard.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/the-eye-of-sauron.webp?v=f2a48a0a55",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/the-eye-of-sauron.webp?v=f2a48a0a55"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/back.webp?v=a3bc35f829"
+      },
+      {
+        "title": "The Corruption of Men",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Sauron",
+        "basicText": "If you control The One Ring you may have an opponent take control of it to gain an action. If an opponent controls it, then draw 2 cards.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/the-corruption-of-men.webp?v=aac2b188d1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/the-corruption-of-men.webp?v=aac2b188d1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/back.webp?v=a3bc35f829"
+      },
+      {
+        "title": "Mace of Sauron",
+        "quantity": 2,
+        "type": "attack",
+        "value": 5,
+        "boost": 3,
+        "characterName": "Sauron",
+        "basicText": "",
+        "immediateText": "If you control The One Ring, then cancel all IMMEDIATELY effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/mace-of-sauron.webp?v=faa674bdf1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/mace-of-sauron.webp?v=faa674bdf1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/back.webp?v=a3bc35f829"
+      },
+      {
+        "title": "The One True Ring",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Sauron",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If your opponent controls The One Ring, you may have Sauron take a damage to gain control of The One Ring.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/the-one-true-ring.webp?v=f30b82a1db",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/the-one-true-ring.webp?v=f30b82a1db"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/back.webp?v=a3bc35f829"
+      },
+      {
+        "title": "Living Death",
+        "quantity": 3,
+        "type": "attack",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Sauron",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If your opponent has less than half health, then restore 1 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/living-death.webp?v=62a64ab4cc",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/living-death.webp?v=62a64ab4cc"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/back.webp?v=a3bc35f829"
+      },
+      {
+        "title": "Lidless Gaze",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Sauron",
+        "basicText": "",
+        "immediateText": "Cancel all AFTER COMBAT effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "Your opponent's can't move for the rest of the turn.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/lidless-gaze.webp?v=66e93f111d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/lidless-gaze.webp?v=66e93f111d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/back.webp?v=a3bc35f829"
+      },
+      {
+        "title": "Fires of Mount Doom",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Sauron",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 1 damage to all fighters in the same zone as Sauron.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/fires-of-mount-doom.webp?v=a53cfa9bf7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/fires-of-mount-doom.webp?v=a53cfa9bf7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/back.webp?v=a3bc35f829"
+      },
+      {
+        "title": "The Lidless Eye",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Sauron",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If your opponent controls The One Ring, then draw a card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/the-lidless-eye.webp?v=25fb742e4e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/the-lidless-eye.webp?v=25fb742e4e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/back.webp?v=a3bc35f829"
+      },
+      {
+        "title": "Spirit Form",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Sauron",
+        "basicText": "Move Sauron up to 4 spaces and draw a card. If your opponent controls The One Ring then draw 2 cards instead.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/spirit-form.webp?v=c8ef83e505",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/spirit-form.webp?v=c8ef83e505"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/back.webp?v=a3bc35f829"
+      },
+      {
+        "title": "Fiery Inscription",
+        "quantity": 3,
+        "type": "defence",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Sauron",
+        "basicText": "",
+        "immediateText": "If you control The One Ring, then this card's value is 4.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/fiery-inscription.webp?v=51e2b06392",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/fiery-inscription.webp?v=51e2b06392"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/back.webp?v=a3bc35f829"
+      },
+      {
+        "title": "In the Darkness Bind Them",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Sauron",
+        "basicText": "",
+        "immediateText": "If your opponent controls The One Ring, then the opposing fighter discards a card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/in-the-darkness-bind-them.webp?v=03c53e0256",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/cards/in-the-darkness-bind-them.webp?v=03c53e0256"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/back.webp?v=a3bc35f829"
+      },
+      {
+        "title": "Sauron",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Sauron",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/hero.webp?v=126e070bfb",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/hero.webp?v=126e070bfb"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/back.webp?v=a3bc35f829",
+        "isCharacterCard": true
+      },
+      {
+        "title": "The One Ring",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Sauron",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/hero-the-one-ring.webp?v=7228c35be9",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/hero-the-one-ring.webp?v=7228c35be9"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sauron/back.webp?v=a3bc35f829",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "The One Ring",
+        "content": "While you control The One Ring you may draw a card at the start of your turn and add +2 to your attacks. \n\nIf an opponets controls The One Ring they may draw a card at the start of their turn and take 1 damage. Damage done this way cannot defeat an opponent.\n\nWhenever combat Damage is dealt to the owner of The One Ring, the player who dealt damage now controls The One Ring."
+      }
+    ]
+  }
+}

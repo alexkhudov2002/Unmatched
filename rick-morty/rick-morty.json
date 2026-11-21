@@ -1,0 +1,423 @@
+{
+  "id": "um-rick-morty",
+  "family_id": "um-rick-morty",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Rick & Morty",
+  "note": "Unmatched (Restoration Games), set custom. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-21T21:42:57.016Z",
+  "deck_first_published_on": "2026-11-21T21:42:57.016Z",
+  "published_on": "2026-11-21T21:42:57.016Z",
+  "updated_on": "2026-11-21T21:42:57.016Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "custom"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/token-hero.png?v=b6b336c5ea",
+      "clip": "circle",
+      "label": "Rick Sanchez",
+      "rim": "#1F1F1F",
+      "initials": "RS",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/token-morty-smith.png?v=3540caa905",
+      "clip": "circle",
+      "label": "Morty Smith",
+      "rim": "#1F1F1F",
+      "initials": "MS",
+      "size": 64,
+      "h": 64,
+      "counter": {
+        "link": "sidekick"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/token-rift.png?v=4ebbec8d6d",
+      "size": 56,
+      "h": 56
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/token-rift.png?v=4ebbec8d6d",
+      "size": 56,
+      "h": 56
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/token-rift.png?v=4ebbec8d6d",
+      "size": 56,
+      "h": 56
+    }
+  ],
+  "deck_data": {
+    "name": "Rick & Morty",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Rick Sanchez",
+      "hp": 16,
+      "move": 2,
+      "isRanged": true,
+      "specialAbility": "If Morty dies, Rick can either spend 1 health or 1 action to revive him, placing Morty adjacent to Rick.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/token-hero.png?v=b6b336c5ea"
+    },
+    "sidekick": {
+      "name": "Morty Smith",
+      "quantity": 1,
+      "hp": 1,
+      "isRanged": true,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/token-morty-smith.png?v=3540caa905"
+    },
+    "cards": [
+      {
+        "title": "I'm Pickle Rick!",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Rick Sanchez",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If Morty died in the previous turn, this card's value is 6 instead.",
+        "afterText": "If Morty did not die in the previous turn, you may move Rick up to 2 spaces",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/i-m-pickle-rick.webp?v=3587f1507e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/i-m-pickle-rick.webp?v=3587f1507e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2"
+      },
+      {
+        "title": "Feint",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/feint.webp?v=9940e1a23f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/feint.webp?v=9940e1a23f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2"
+      },
+      {
+        "title": "Aw Geez Man",
+        "quantity": 1,
+        "type": "defence",
+        "value": 5,
+        "boost": 1,
+        "characterName": "Morty Smith",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/aw-geez-man.webp?v=4d32184b3c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/aw-geez-man.webp?v=4d32184b3c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2"
+      },
+      {
+        "title": "Rift Resonance",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If you are adjacent to or on 1 Rift, this card’s value is 4. If you are adjacent to or on 2 Rifts, this card’s value is 6. If you are adjacent to or on 3 Rifts, this card’s value is 9.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/rift-resonance.webp?v=93cce8de31",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/rift-resonance.webp?v=93cce8de31"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2"
+      },
+      {
+        "title": "Meeseeks",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Rick Sanchez",
+        "basicText": "Rick may place up to 2 rifts anywhere on the board.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/meeseeks.webp?v=008138e32d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/meeseeks.webp?v=008138e32d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2"
+      },
+      {
+        "title": "Birdperson",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "Rick may move anywhere. Place Morty adjacent to Rick.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/birdperson.webp?v=aad8cf9e4e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/birdperson.webp?v=aad8cf9e4e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2"
+      },
+      {
+        "title": "Cybernetic Healing",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "Rick Sanchez",
+        "basicText": "Rick heals 3. Gain 1 action",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/cybernetic-healing.webp?v=79af25249d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/cybernetic-healing.webp?v=79af25249d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2"
+      },
+      {
+        "title": "Evil Morty",
+        "quantity": 1,
+        "type": "attack",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Morty Smith",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/evil-morty.webp?v=4d2408d122",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/evil-morty.webp?v=4d2408d122"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2"
+      },
+      {
+        "title": "Wubba Lubba Dub Dub",
+        "quantity": 1,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Rick Sanchez",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If it is your turn, gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/wubba-lubba-dub-dub.webp?v=5b7484e279",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/wubba-lubba-dub-dub.webp?v=5b7484e279"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2"
+      },
+      {
+        "title": "Omega Bomb",
+        "quantity": 1,
+        "type": "attack",
+        "value": 6,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/omega-bomb.webp?v=4f3d6676f1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/omega-bomb.webp?v=4f3d6676f1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2"
+      },
+      {
+        "title": "Take One for the Team",
+        "quantity": 3,
+        "type": "defence",
+        "value": 0,
+        "boost": 1,
+        "characterName": "Rick Sanchez",
+        "basicText": "",
+        "immediateText": "Switch places with Morty. Morty becomes the Defender.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/take-one-for-the-team.webp?v=c5197716bf",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/take-one-for-the-team.webp?v=c5197716bf"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2"
+      },
+      {
+        "title": "Swift Strike",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move your fighter up to 4 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/swift-strike.webp?v=497b598f39",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/swift-strike.webp?v=497b598f39"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2"
+      },
+      {
+        "title": "Mr Poopybutthole",
+        "quantity": 2,
+        "type": "defence",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/mr-poopybutthole.webp?v=1ea2ac43b1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/mr-poopybutthole.webp?v=1ea2ac43b1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2"
+      },
+      {
+        "title": "Rift Step",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Rick Sanchez",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If Rick started this turn on a rift, this card's value is 5.",
+        "afterText": "Move Rick to any rift.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/rift-step.webp?v=669e8ff90c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/rift-step.webp?v=669e8ff90c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2"
+      },
+      {
+        "title": "Missed Me",
+        "quantity": 1,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Rick Sanchez",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If Rick is adjacent to a rift, this card's value is 4",
+        "afterText": "If you lost, move Rick up to 2 spaces",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/missed-me.webp?v=27d3def14b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/missed-me.webp?v=27d3def14b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2"
+      },
+      {
+        "title": "Multiverse Bullshit",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If you are on a rift, this card's value is 7",
+        "afterText": "Destroy all rifts",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/multiverse-bullshit.webp?v=16ea674c50",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/multiverse-bullshit.webp?v=16ea674c50"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2"
+      },
+      {
+        "title": "Microverse Battery",
+        "quantity": 2,
+        "type": "defence",
+        "value": 1,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may boost this defence. You may also destroy 1 rift to add 2 to this card's value.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/microverse-battery.webp?v=a4209ee528",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/cards/microverse-battery.webp?v=a4209ee528"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2"
+      },
+      {
+        "title": "Rick Sanchez",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Rick Sanchez",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/hero.webp?v=69fc752273",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/hero.webp?v=69fc752273"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2",
+        "isCharacterCard": true
+      },
+      {
+        "title": "Portal Gun",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Rick Sanchez",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/hero-portal-gun.webp?v=75886b8c69",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/hero-portal-gun.webp?v=75886b8c69"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rick-morty/back.webp?v=cc039278d2",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Portal Gun",
+        "content": "Whenever Rick moves outside of a Maneuver action, he leaves a Rift at his starting position. Rick and Morty can move through Rifts as though they were adjacent spaces. Rick can have a maximum of 3 Rifts in play at once."
+      }
+    ]
+  }
+}

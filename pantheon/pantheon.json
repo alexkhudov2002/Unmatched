@@ -1,0 +1,352 @@
+{
+  "id": "um-pantheon",
+  "family_id": "um-pantheon",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Pantheon",
+  "note": "Unmatched (Restoration Games), set custom. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-21T21:42:56.572Z",
+  "deck_first_published_on": "2026-11-21T21:42:56.572Z",
+  "published_on": "2026-11-21T21:42:56.572Z",
+  "updated_on": "2026-11-21T21:42:56.572Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "custom"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/token-hero.png?v=cecb65e9fd",
+      "clip": "circle",
+      "label": "Pantheon",
+      "rim": "#1F1F1F",
+      "initials": "P",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/token-mortal-will.png?v=01fb50ab3b",
+      "size": 44,
+      "h": 44
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/token-mortal-will.png?v=01fb50ab3b",
+      "size": 44,
+      "h": 44
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/token-mortal-will.png?v=01fb50ab3b",
+      "size": 44,
+      "h": 44
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/token-mortal-will.png?v=01fb50ab3b",
+      "size": 44,
+      "h": 44
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/token-mortal-will.png?v=01fb50ab3b",
+      "size": 44,
+      "h": 44
+    }
+  ],
+  "deck_data": {
+    "name": "Pantheon",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/back.webp?v=f979c987ae",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Pantheon",
+      "hp": 14,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "Mortal Will:\nWhenever Pantheon places a card, into the discard pile, he gains a Mortal Will token.\n\nHand revealing, discard and card stealing effects do not affect him.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/token-hero.png?v=cecb65e9fd"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Grand Starfall",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 0,
+        "characterName": "Pantheon",
+        "basicText": "Place pantheon on any space available. If he arrives next to an enemy, deal 4 damage to it. (Can only damage one fighter.)\nEmpowered: Pantheon heals for 3 health OR gains 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/grand-starfall.webp?v=a2dddedff9",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/grand-starfall.webp?v=a2dddedff9"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/back.webp?v=f979c987ae"
+      },
+      {
+        "title": "Comet Spear",
+        "quantity": 4,
+        "type": "attack",
+        "value": 5,
+        "boost": 3,
+        "characterName": "Pantheon",
+        "basicText": "Can be played face up. If so, it counts as a ranged attack but has -3 value and ignores the value of your opponents card.\nEmpowered: Add +2 to this card's value.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/comet-spear.webp?v=23d0f0793e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/comet-spear.webp?v=23d0f0793e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/back.webp?v=f979c987ae"
+      },
+      {
+        "title": "Shield Vault",
+        "quantity": 3,
+        "type": "attack",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Pantheon",
+        "basicText": "Empowered: Your opponent has 1 less action next turn.",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "Restore 2 health",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/shield-vault.webp?v=95344bfcec",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/shield-vault.webp?v=95344bfcec"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/back.webp?v=f979c987ae"
+      },
+      {
+        "title": "Aegis Assault",
+        "quantity": 3,
+        "type": "defence",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Pantheon",
+        "basicText": "Empowered: Ignore the value of your attacker's card.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "The excess damage that you have mitigated is dealt to your attacker.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/aegis-assault.webp?v=a7bf9f712f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/aegis-assault.webp?v=a7bf9f712f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/back.webp?v=f979c987ae"
+      },
+      {
+        "title": "Unbreakable Will",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 5,
+        "characterName": "Pantheon",
+        "basicText": "Choose two:\n-gain 1 action\n-draw 2 cards\n-restore 2 health\nEmpowered: add +1 to the value of your options. (gain 2 actions, draw 3, heal 3)",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/unbreakable-will.webp?v=4d44db275a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/unbreakable-will.webp?v=4d44db275a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/back.webp?v=f979c987ae"
+      },
+      {
+        "title": "Mortal Will",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Pantheon",
+        "basicText": "Choose one:\n-draw 3 cards\n-move up to 5 spaces, you can move thorugh opposing fighters.\n-deal 2-2 damage to an enemy fighter in your zone and to one of its neighbour.\nEmpowered: Restore 2 health.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/mortal-will.webp?v=894c802c15",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/mortal-will.webp?v=894c802c15"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/back.webp?v=f979c987ae"
+      },
+      {
+        "title": "Atreus",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 9,
+        "characterName": "Pantheon",
+        "basicText": "Put pantheon on any space. Set your health to 3 and end your turn. You can't play, draw or discard cards until your next turn. At the start of your next turn, set your health to the maximum.\nEmpowered: You can play cards normally.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/atreus.webp?v=a8f54679fd",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/atreus.webp?v=a8f54679fd"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/back.webp?v=f979c987ae"
+      },
+      {
+        "title": "Momentous Shift",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Pantheon",
+        "basicText": "Empowered: Add +2 to this cards value.",
+        "immediateText": "",
+        "duringText": "If your fighter started this turn in a different space, this card's value is 5 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/momentous-shift.webp?v=e972a4aab7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/momentous-shift.webp?v=e972a4aab7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/back.webp?v=f979c987ae"
+      },
+      {
+        "title": "Battle Strategist",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 1,
+        "boost": 4,
+        "characterName": "Pantheon",
+        "basicText": "Empowered: Move Pantheon up to 4 spaces.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw a card. If you won the combat, draw 2 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/battle-strategist.webp?v=e4ee7ee27b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/battle-strategist.webp?v=e4ee7ee27b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/back.webp?v=f979c987ae"
+      },
+      {
+        "title": "Skirmish",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Pantheon",
+        "basicText": "Empowered: Move pantheon to any space. (Even if you didn't win)",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you have won the combat move Pantheon up to 5 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/skirmish.webp?v=053dc6b6a1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/skirmish.webp?v=053dc6b6a1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/back.webp?v=f979c987ae"
+      },
+      {
+        "title": "Born to Battle",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 5,
+        "characterName": "Pantheon",
+        "basicText": "Empowered: Ignore the value of the opposng fighter's card.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/born-to-battle.webp?v=a8b402fa7e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/born-to-battle.webp?v=a8b402fa7e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/back.webp?v=f979c987ae"
+      },
+      {
+        "title": "Enemy of Divine Powers",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Pantheon",
+        "basicText": "If used as an attack: \n-After combat: you gain 1 action.\nIf used as a defense: \n-After combat: Your opponent's turn ends.\nEmpowered: Ignore the value of your opponents card.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/enemy-of-divine-powers.webp?v=13bab1fb94",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/enemy-of-divine-powers.webp?v=13bab1fb94"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/back.webp?v=f979c987ae"
+      },
+      {
+        "title": "Immortality",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "Pantheon",
+        "basicText": "Choose one: or discard a card to choose two different effects: \nRestore 2 health, or Draw 2 cards, or Put a card from your discard pile in your hand, or Permanently change your movement to 3.\nEmpowered:  Choose one more different.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/immortality.webp?v=c2183859c8",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/cards/immortality.webp?v=c2183859c8"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/back.webp?v=f979c987ae"
+      },
+      {
+        "title": "Pantheon",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Pantheon",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/hero.webp?v=41f6ce582c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/hero.webp?v=41f6ce582c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/back.webp?v=f979c987ae",
+        "isCharacterCard": true
+      },
+      {
+        "title": "Extra Rules",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Pantheon",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/hero-extra-rules.webp?v=5c321938bc",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/hero-extra-rules.webp?v=5c321938bc"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/pantheon/back.webp?v=f979c987ae",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Extra Rules",
+        "content": "Whenever Pantheon places a card into his discard pile by any means, he gains a Mortal Will token, up to 5. When he is at 5 Mortal Will tokens, the next card he plays is going to be empowered. After that he resets to 0 tokens. (And gains 1 when the empovered card is put into discard.) Every card in his deck has an \"Empowered:\" effect.\n\nHis hand can not be revealed, discard and card stealing effects don't affect him."
+      }
+    ]
+  }
+}

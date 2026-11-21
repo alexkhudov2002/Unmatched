@@ -1,0 +1,370 @@
+{
+  "id": "um-wanda",
+  "family_id": "um-wanda",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Wanda Maximoff",
+  "note": "Unmatched (Restoration Games), set custom. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-21T21:42:57.669Z",
+  "deck_first_published_on": "2026-11-21T21:42:57.669Z",
+  "published_on": "2026-11-21T21:42:57.669Z",
+  "updated_on": "2026-11-21T21:42:57.669Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "custom"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/token-hero.png?v=e6a200977a",
+      "clip": "circle",
+      "label": "Wanda Maximoff",
+      "rim": "#1F1F1F",
+      "initials": "WM",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/token-control.png?v=edc6522b36",
+      "size": 40,
+      "h": 40
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/token-control.png?v=edc6522b36",
+      "size": 40,
+      "h": 40
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/token-control.png?v=edc6522b36",
+      "size": 40,
+      "h": 40
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/token-control.png?v=edc6522b36",
+      "size": 40,
+      "h": 40
+    }
+  ],
+  "deck_data": {
+    "name": "Wanda Maximoff",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/back.webp?v=d3eddeda9c",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Wanda Maximoff",
+      "hp": 15,
+      "move": 2,
+      "isRanged": true,
+      "specialAbility": "THE SCARLET WITCH:\nWanda is a powerful sorcerer who is able to control her opponent's sidekicks after a certain point. Additionally when the opponent recovers health, Wanda recovers 1 health aswell.",
+      "quote": "\"You break the rules and become a hero. I do it and I become the enemy\"\n                                                             --Wanda",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/token-hero.png?v=e6a200977a"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "No More Mutants",
+        "quantity": 3,
+        "type": "attack",
+        "value": 5,
+        "boost": 4,
+        "characterName": "Wanda Maximoff",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 2 damage to any fighter whose sidekicks are controlled by Wanda.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/no-more-mutants.webp?v=8359495cbe",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/no-more-mutants.webp?v=8359495cbe"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/back.webp?v=d3eddeda9c"
+      },
+      {
+        "title": "The Westview Incident",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Prevent all damage other than combat damage.",
+        "duringText": "",
+        "afterText": "If a controlled sidekick played this card move Wanda up to 3 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/the-westview-incident.webp?v=600bc2d697",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/the-westview-incident.webp?v=600bc2d697"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/back.webp?v=d3eddeda9c"
+      },
+      {
+        "title": "Queen of Sokovia",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If Wanda played this card, this card's value is 5 instead.",
+        "afterText": "If a controlled sidekick played this card deal 1 damage to them.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/queen-of-sokovia.webp?v=d015528c5b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/queen-of-sokovia.webp?v=d015528c5b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/back.webp?v=d3eddeda9c"
+      },
+      {
+        "title": "The Queen of the Dead",
+        "quantity": 2,
+        "type": "attack",
+        "value": 0,
+        "boost": 2,
+        "characterName": "Wanda Maximoff",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "All of the enemy's sidekicks are now under Wanda's control until the end of her next turn. If there aren't any sidekicks deal 2 damage to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/the-queen-of-the-dead.webp?v=82c12b5711",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/the-queen-of-the-dead.webp?v=82c12b5711"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/back.webp?v=d3eddeda9c"
+      },
+      {
+        "title": "Reality Warping Abilities",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Wanda Maximoff",
+        "basicText": "",
+        "immediateText": "Reveal a card from your hand and choose one:\n-This card's effects are the effects of the card you revealed.\n-The opponent's card effects are the effects of the card you revealed.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/reality-warping-abilities.webp?v=0f17aa8790",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/reality-warping-abilities.webp?v=0f17aa8790"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/back.webp?v=d3eddeda9c"
+      },
+      {
+        "title": "I Just Want My Children Back",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "You may swap places with a friendly fighter. That fighter is now the defender.",
+        "duringText": "",
+        "afterText": "If the defender is a controlled sidekick deal 1 damage to the opposing fighter and draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/i-just-want-my-children-back.webp?v=57e0411d49",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/i-just-want-my-children-back.webp?v=57e0411d49"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/back.webp?v=d3eddeda9c"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.\nIf a controlled sidekick played this card ignore the opponent's card value.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/feint.webp?v=cc671944a9",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/feint.webp?v=cc671944a9"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/back.webp?v=d3eddeda9c"
+      },
+      {
+        "title": "Chaos Magic",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If Wanda played this card you may BOOST it.",
+        "afterText": "If a controlled sidekick played this card Wanda recovers 1 health. If you won the combat return 1 card from your discard pile back into your deck.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/chaos-magic.webp?v=cdcef3a158",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/chaos-magic.webp?v=cdcef3a158"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/back.webp?v=d3eddeda9c"
+      },
+      {
+        "title": "Red Mist",
+        "quantity": 1,
+        "type": "defence",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Wanda Maximoff",
+        "basicText": "If Wanda controls all the sidekicks on board, she may use this card as an attack",
+        "immediateText": "",
+        "duringText": "You may BOOST this card.",
+        "afterText": "Defeat all the sidekicks you control.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/red-mist.webp?v=6483d94acc",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/red-mist.webp?v=6483d94acc"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/back.webp?v=d3eddeda9c"
+      },
+      {
+        "title": "The Scarlet Witch",
+        "quantity": 3,
+        "type": "defence",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Wanda Maximoff",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Choose 1 of the following:\n-Draw 2 cards.\n-Move Wanda up ro 2 spaces.\n-reveal the top card of your opponent's deck.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/the-scarlet-witch.webp?v=08795b8600",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/the-scarlet-witch.webp?v=08795b8600"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/back.webp?v=d3eddeda9c"
+      },
+      {
+        "title": "Your Mind is not as Powerful as You Think",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "You may discard a card to prevent the opponent from attacking you again this turn.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/your-mind-is-not-as-powerful-as-you-think.webp?v=4e20175a72",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/your-mind-is-not-as-powerful-as-you-think.webp?v=4e20175a72"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/back.webp?v=d3eddeda9c"
+      },
+      {
+        "title": "The Darkhold",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Wanda Maximoff",
+        "basicText": "Deal 1 damage to Wanda. She gains +1 to her attack values for the next 2 turns. Gain 1 action and draw 1 card.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/the-darkhold.webp?v=ce863d2892",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/the-darkhold.webp?v=ce863d2892"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/back.webp?v=d3eddeda9c"
+      },
+      {
+        "title": "Levitation",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "Wanda Maximoff",
+        "basicText": "Place Wanda in any space. Then choose an enemy fighter and place the adjacent to Wanda and gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/levitation.webp?v=1ebda9c3f7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/cards/levitation.webp?v=1ebda9c3f7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/back.webp?v=d3eddeda9c"
+      },
+      {
+        "title": "Wanda Maximoff",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Wanda Maximoff",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/hero.webp?v=0c52b8d3cf",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/hero.webp?v=0c52b8d3cf"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/back.webp?v=d3eddeda9c",
+        "isCharacterCard": true
+      },
+      {
+        "title": "Sidekicks",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Wanda Maximoff",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/hero-sidekicks.webp?v=7fd8048915",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/hero-sidekicks.webp?v=7fd8048915"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/back.webp?v=d3eddeda9c",
+        "isCharacterCard": true
+      },
+      {
+        "title": "Odd Health Sidekicks",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Wanda Maximoff",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/hero-odd-health-sidekicks.webp?v=ca975ef539",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/hero-odd-health-sidekicks.webp?v=ca975ef539"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wanda/back.webp?v=d3eddeda9c",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Sidekicks",
+        "content": "When an enemy sidekick's health is equal or lower than the half of their starting health, Wanda is able to control them and they are considered friendly fighters. If the opposing fighter recovers health, the sidekicks recover equal health even if the card does not say it. If their health has risen higher than the halfway mark they return to the opponent. One health sidekicks are not controllable by health requirements but they can temporarily be controlled by card effects."
+      },
+      {
+        "title": "Odd Health Sidekicks",
+        "content": "If a sidekick has an odd health every time that the sidekick's health cannot be evenly divided, the halfway point is going to be the smallest of the 2 such as 5 health the halfway poinr for the ability is 2 health. For 7 health it is 3 health, etc."
+      }
+    ]
+  }
+}
