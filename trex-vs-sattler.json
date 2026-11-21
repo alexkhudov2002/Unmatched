@@ -1,0 +1,619 @@
+{
+  "decks": [
+    {
+      "id": "um-dr-sattler",
+      "family_id": "um-dr-sattler",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Dr. Ellie Sattler",
+      "note": "Unmatched (Restoration Games), set trex-vs-sattler. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-21T23:28:37.521Z",
+      "deck_first_published_on": "2026-11-21T23:28:37.521Z",
+      "published_on": "2026-11-21T23:28:37.521Z",
+      "updated_on": "2026-11-21T23:28:37.521Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "trex-vs-sattler"
+      ],
+      "savedTokens": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/token-hero.png?v=e027e019e1",
+          "clip": "circle",
+          "label": "Dr. Ellie Sattler",
+          "rim": "#1F1F1F",
+          "initials": "DE",
+          "size": 88,
+          "h": 88,
+          "counter": {
+            "link": "hero"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/token-dr-ian-malcolm.png?v=1db7bafc98",
+          "clip": "circle",
+          "label": "Dr. Ian Malcolm",
+          "rim": "#1F1F1F",
+          "initials": "DI",
+          "size": 64,
+          "h": 64,
+          "counter": {
+            "link": "sidekick"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/token-insight.png?v=476535e668",
+          "size": 40,
+          "h": 40
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/token-insight.png?v=476535e668",
+          "size": 40,
+          "h": 40
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/token-insight.png?v=476535e668",
+          "size": 40,
+          "h": 40
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/token-insight.png?v=476535e668",
+          "size": 40,
+          "h": 40
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/token-insight.png?v=476535e668",
+          "size": 40,
+          "h": 40
+        }
+      ],
+      "deck_data": {
+        "name": "Dr. Ellie Sattler",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Dr. Ellie Sattler",
+          "hp": 13,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "After Dr. Sattler or Dr. Malcolm move, place an insight token in their new space. You have 5 insight tokens.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/token-hero.png?v=e027e019e1"
+        },
+        "sidekick": {
+          "name": "Dr. Ian Malcolm",
+          "quantity": 1,
+          "hp": 7,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/token-dr-ian-malcolm.png?v=1db7bafc98"
+        },
+        "cards": [
+          {
+            "title": "You Never Had Control, That's the Illusion",
+            "quantity": 3,
+            "type": "attack",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Dr. Ellie Sattler",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Increase the value of this card by the number of insight tokens on the board. Remove all insight tokens from the board.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/you-never-had-control-that-s-the-illusion.webp?v=2b4de476ee",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/you-never-had-control-that-s-the-illusion.webp?v=2b4de476ee"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+          },
+          {
+            "title": "Woman Inherits the Earth",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Dr. Ellie Sattler",
+            "basicText": "",
+            "immediateText": "Draw 1 card. Dr. Sattler recovers health equal to the number of insight tokens on the board. Remove all insight tokens from the board.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/woman-inherits-the-earth.webp?v=8499394637",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/woman-inherits-the-earth.webp?v=8499394637"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+          },
+          {
+            "title": "Feint",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/feint.webp?v=0bd8e1fe31",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/feint.webp?v=0bd8e1fe31"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+          },
+          {
+            "title": "I Think We're Back in Business",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 0,
+            "boost": 3,
+            "characterName": "Dr. Ellie Sattler",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "The value of this card is equal to the number of cards in your hand.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/i-think-we-re-back-in-business.webp?v=59ba70d9fc",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/i-think-we-re-back-in-business.webp?v=59ba70d9fc"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+          },
+          {
+            "title": "Lock the Doors!",
+            "quantity": 2,
+            "type": "defence",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 2 damage to the opposing fighter. Move your fighter up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/lock-the-doors.webp?v=c0428f31b7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/lock-the-doors.webp?v=c0428f31b7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+          },
+          {
+            "title": "Life Finds a Way",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Dr. Ian Malcolm",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Your opponent discards the top card of their deck. Dr. Malcolm and Dr. Sattler recover health equal to that card's BOOST value.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/life-finds-a-way.webp?v=f6c7da8071",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/life-finds-a-way.webp?v=f6c7da8071"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+          },
+          {
+            "title": "Must Go Faster",
+            "quantity": 1,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, you may place Dr. Malcolm and Dr. Sattler in any space.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/must-go-faster.webp?v=10acc07f39",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/must-go-faster.webp?v=10acc07f39"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+          },
+          {
+            "title": "The Concept of Attraction",
+            "quantity": 3,
+            "type": "defence",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You may place your fighter in any space with an insight token.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/the-concept-of-attraction.webp?v=ef209aa5c8",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/the-concept-of-attraction.webp?v=ef209aa5c8"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+          },
+          {
+            "title": "Regroup",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 1,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/regroup.webp?v=2f415df898",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/regroup.webp?v=2f415df898"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+          },
+          {
+            "title": "The Future Ex-Mrs. Malcolm",
+            "quantity": 1,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Dr. Ian Malcolm",
+            "basicText": "Draw 2 cards.\nPlace an insight token in Dr. Malcolm's space.\nGain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/the-future-ex-mrs-malcolm.webp?v=6562f1ea9d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/the-future-ex-mrs-malcolm.webp?v=6562f1ea9d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+          },
+          {
+            "title": "Sexism in Survival Situations",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 1,
+            "boost": 2,
+            "characterName": "Dr. Ellie Sattler",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If the opposing fighter is a hero, the value of this card is 4 instead.",
+            "afterText": "You may move Dr. Sattler 1 space.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/sexism-in-survival-situations.webp?v=1e3c205831",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/sexism-in-survival-situations.webp?v=1e3c205831"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+          },
+          {
+            "title": "Violently, If Necessary",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Dr. Ellie Sattler",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 2 damage to each opposing fighter on or adjacent to a space with an insight token.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/violently-if-necessary.webp?v=2e2cd9a57f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/violently-if-necessary.webp?v=2e2cd9a57f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+          },
+          {
+            "title": "Chaotician",
+            "quantity": 1,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Dr. Ian Malcolm",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Place an insight token in any space.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/chaotician.webp?v=32b2501ed3",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/chaotician.webp?v=32b2501ed3"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+          },
+          {
+            "title": "Hey! Hey! Hey!",
+            "quantity": 1,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move your other fighter up to 4 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/hey-hey-hey.webp?v=5a3fe02a2c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/hey-hey-hey.webp?v=5a3fe02a2c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+          },
+          {
+            "title": "Dr. Ellie Sattler",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Dr. Ellie Sattler",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/hero.webp?v=72661c7c9f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/hero.webp?v=72661c7c9f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-t-rex",
+      "family_id": "um-t-rex",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "T. Rex",
+      "note": "Unmatched (Restoration Games), set trex-vs-sattler. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-21T23:28:37.893Z",
+      "deck_first_published_on": "2026-11-21T23:28:37.893Z",
+      "published_on": "2026-11-21T23:28:37.893Z",
+      "updated_on": "2026-11-21T23:28:37.893Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "trex-vs-sattler"
+      ],
+      "deck_data": {
+        "name": "T. Rex",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "T. Rex",
+          "hp": 27,
+          "move": 1,
+          "isRanged": false,
+          "specialAbility": "T. Rex is a large fighter. (She can attack up to 2 spaces away.)\nAt the end of your turn, draw a card.",
+          "quote": "ROOOOOOAAAAARR.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/token-hero.png?v=005302c300"
+        },
+        "sidekick": {
+          "name": "Sidekick",
+          "hp": null,
+          "quantity": null,
+          "isRanged": false,
+          "quote": ""
+        },
+        "cards": [
+          {
+            "title": "Commanding Impact",
+            "quantity": 3,
+            "type": "attack",
+            "value": 5,
+            "boost": 2,
+            "characterName": "T. Rex",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/commanding-impact.webp?v=8044e80699",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/commanding-impact.webp?v=8044e80699"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+          },
+          {
+            "title": "When Dinosaurs Ruled the Earth",
+            "quantity": 4,
+            "type": "attack",
+            "value": 2,
+            "boost": 3,
+            "characterName": "T. Rex",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BOOST this card.",
+            "afterText": "If you won the combat, draw 1 card, gain 1 action, and take 2 damage.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/when-dinosaurs-ruled-the-earth.webp?v=55fb556035",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/when-dinosaurs-ruled-the-earth.webp?v=55fb556035"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+          },
+          {
+            "title": "15,000 Pounds of Muscle",
+            "quantity": 2,
+            "type": "attack",
+            "value": 3,
+            "boost": 3,
+            "characterName": "T. Rex",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Ignore the value of your opponent's card.",
+            "afterText": "Take 2 damage.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/15-000-pounds-of-muscle.webp?v=c18e4c8f20",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/15-000-pounds-of-muscle.webp?v=c18e4c8f20"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+          },
+          {
+            "title": "Terrifying Roar",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "T. Rex",
+            "basicText": "",
+            "immediateText": "Fighters cannot leave their space for the rest of the turn.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/terrifying-roar.webp?v=df4082ef06",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/terrifying-roar.webp?v=df4082ef06"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+          },
+          {
+            "title": "Momentous Shift",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "T. Rex",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If your fighter started this turn in a different space, this card's value is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/momentous-shift.webp?v=0043a27ccf",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/momentous-shift.webp?v=0043a27ccf"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+          },
+          {
+            "title": "Closer Than She Appears",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "T. Rex",
+            "basicText": "Move T. Rex up to 1 space.\nDraw 1 card.\nGain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/closer-than-she-appears.webp?v=6843b17921",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/closer-than-she-appears.webp?v=6843b17921"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+          },
+          {
+            "title": "You're Just Making Her Angry",
+            "quantity": 2,
+            "type": "defence",
+            "value": 1,
+            "boost": 1,
+            "characterName": "T. Rex",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BOOST this card.",
+            "afterText": "If you won the combat, return this card to your hand.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/you-re-just-making-her-angry.webp?v=3cc40c47f7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/you-re-just-making-her-angry.webp?v=3cc40c47f7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+          },
+          {
+            "title": "Ripples in the Water",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "T. Rex",
+            "basicText": "Place T. Rex in any space in her zone. Then, each opponent with a fighter adjacent to T. Rex discards 1 random card.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/ripples-in-the-water.webp?v=b26730c32c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/ripples-in-the-water.webp?v=b26730c32c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+          },
+          {
+            "title": "65 Million Years of Gut Instinct",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "T. Rex",
+            "basicText": "Choose a card in your discard pile other than 65 MILLION YEARS OF GUT INSTINCT and add it to your hand.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/65-million-years-of-gut-instinct.webp?v=c7b44366e1",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/65-million-years-of-gut-instinct.webp?v=c7b44366e1"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+          },
+          {
+            "title": "Reckless Lunge",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 4,
+            "characterName": "T. Rex",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 3 damage to the opposing fighter. Take 3 damage.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/reckless-lunge.webp?v=866cf5d79a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/reckless-lunge.webp?v=866cf5d79a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+          },
+          {
+            "title": "Thrash",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "T. Rex",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BOOST this card.",
+            "afterText": "If you won the combat, deal 1 damage to each opposing fighter in T. Rex's zone.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/thrash.webp?v=3688b5b962",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/thrash.webp?v=3688b5b962"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+          },
+          {
+            "title": "T. Rex",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "T. Rex",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/hero.webp?v=f693c45d7f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/hero.webp?v=f693c45d7f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    }
+  ],
+  "maps": []
+}

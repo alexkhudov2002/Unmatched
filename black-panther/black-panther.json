@@ -1,0 +1,290 @@
+{
+  "id": "um-black-panther",
+  "family_id": "um-black-panther",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Black Panther",
+  "note": "Unmatched (Restoration Games), set for-king-and-country. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-21T23:28:33.971Z",
+  "deck_first_published_on": "2026-11-21T23:28:33.971Z",
+  "published_on": "2026-11-21T23:28:33.971Z",
+  "updated_on": "2026-11-21T23:28:33.971Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "for-king-and-country"
+  ],
+  "deck_data": {
+    "name": "Black Panther",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Black Panther",
+      "hp": 14,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "VIBRANIUM SUIT\nWhenever you BOOST, draw 1 card.\nCards stored in your VIBRANIUM SUIT can only be used to BOOST.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/token-hero.png?v=7fe7c35824"
+    },
+    "sidekick": {
+      "name": "Shuri",
+      "quantity": 1,
+      "hp": 6,
+      "isRanged": true,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/token-shuri.png?v=4e62d4036d"
+    },
+    "cards": [
+      {
+        "title": "Evade",
+        "quantity": 2,
+        "type": "defence",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/evade.webp?v=b32b060d82",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/evade.webp?v=b32b060d82"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+      },
+      {
+        "title": "Analyze and Adjust",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Reveal the top card of your opponent's deck and store it in your VIBRANIUM SUIT.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/analyze-and-adjust.webp?v=8179221c0b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/analyze-and-adjust.webp?v=8179221c0b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+      },
+      {
+        "title": "Ancestral Insight",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Black Panther",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, reveal the top card of your opponent's deck and store it in your VIBRANIUM SUIT.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/ancestral-insight.webp?v=43b213b8c5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/ancestral-insight.webp?v=43b213b8c5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+      },
+      {
+        "title": "Cat-like Reflexes",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, move one of the fighters in the combat up to 3 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/cat-like-reflexes.webp?v=60877a5e8c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/cat-like-reflexes.webp?v=60877a5e8c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+      },
+      {
+        "title": "Microweave Mesh",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Black Panther",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/microweave-mesh.webp?v=8feb994175",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/microweave-mesh.webp?v=8feb994175"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+      },
+      {
+        "title": "Tactical Remote Scanning",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Shuri",
+        "basicText": "Choose an opponent. Reveal the top 2 cards of their deck and store them in your VIBRANIUM SUIT.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/tactical-remote-scanning.webp?v=ca89786a28",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/tactical-remote-scanning.webp?v=ca89786a28"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+      },
+      {
+        "title": "Vibranium Shockwave",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Black Panther",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/vibranium-shockwave.webp?v=a41f4f9359",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/vibranium-shockwave.webp?v=a41f4f9359"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+      },
+      {
+        "title": "Nanotriage Processor",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Shuri",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Shuri recovers 1 health. If Black Panther is in the same zone as Shuri, he also recovers 1 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/nanotriage-processor.webp?v=c3010d6b7a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/nanotriage-processor.webp?v=c3010d6b7a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+      },
+      {
+        "title": "Stalking Panther",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "Move each of your fighters up to 3 spaces. They may move through opposing fighters.\nGain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/stalking-panther.webp?v=1e45a89440",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/stalking-panther.webp?v=1e45a89440"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+      },
+      {
+        "title": "Regroup",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 1,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/regroup.webp?v=51f871f7b3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/regroup.webp?v=51f871f7b3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+      },
+      {
+        "title": "Anti-Metal Claws",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 1,
+        "boost": 2,
+        "characterName": "Black Panther",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Add the BOOST value of the opposing fighter's card to this card's value. Then, you may BOOST this card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/anti-metal-claws.webp?v=9dc8227c71",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/anti-metal-claws.webp?v=9dc8227c71"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+      },
+      {
+        "title": "Feint",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/feint.webp?v=38d18d9eea",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/feint.webp?v=38d18d9eea"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+      },
+      {
+        "title": "Wakanda Forever!",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Black Panther",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this card up to two times. (Draw a card for Black Panther's special ability each time you BOOST.)",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/wakanda-forever.webp?v=e35d325428",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/wakanda-forever.webp?v=e35d325428"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+      },
+      {
+        "title": "Black Panther",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Black Panther",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/hero.webp?v=6a6e4f574d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/hero.webp?v=6a6e4f574d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

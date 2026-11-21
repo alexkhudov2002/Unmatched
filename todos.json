@@ -2244,6 +2244,876 @@
 			}
 		},
 		{
+			"id": "um-bigfoot",
+			"family_id": "um-bigfoot",
+			"version_id": "1",
+			"version_name": "1",
+			"versions": [],
+			"name": "Bigfoot",
+			"note": "Unmatched (Restoration Games), set hood-vs-big-foot. Datos transcritos de las cartas; uso privado.",
+			"user": "alexkhudov2002",
+			"bgg_link": null,
+			"created_on": "2026-11-21T23:28:35.253Z",
+			"deck_first_published_on": "2026-11-21T23:28:35.253Z",
+			"published_on": "2026-11-21T23:28:35.253Z",
+			"updated_on": "2026-11-21T23:28:35.253Z",
+			"deck_published": false,
+			"published": false,
+			"liked": false,
+			"likes": 0,
+			"tags": [
+				"unmatched",
+				"hood-vs-big-foot"
+			],
+			"deck_data": {
+				"name": "Bigfoot",
+				"appearance": {
+					"borderColour": "#1F1F1F",
+					"highlightColour": "#E8C547",
+					"cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009",
+					"isPNP": false,
+					"patternName": ""
+				},
+				"hero": {
+					"name": "Bigfoot",
+					"hp": 16,
+					"move": 3,
+					"isRanged": false,
+					"specialAbility": "At the end of your turn, if there are no opposing fighters in Bigfoot's zone, you may draw 1 card.",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/token-hero.png?v=7aa006f918"
+				},
+				"sidekick": {
+					"name": "The Jackalope",
+					"quantity": 1,
+					"hp": 6,
+					"isRanged": false,
+					"quote": "",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/token-the-jackalope.png?v=404e7d1ab5"
+				},
+				"cards": [
+					{
+						"title": "Disengage",
+						"quantity": 2,
+						"type": "attack",
+						"value": 4,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Choose an empty space in this fighter's zone. Place this fighter in that space.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/disengage.webp?v=a61d856b22",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/disengage.webp?v=a61d856b22"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+					},
+					{
+						"title": "Skirmish",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 4,
+						"boost": 1,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "If you won the combat, choose one of the fighters in the combat and move them up to 2 spaces.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/skirmish.webp?v=4c094e0950",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/skirmish.webp?v=4c094e0950"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+					},
+					{
+						"title": "Regroup",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 1,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/regroup.webp?v=e8db46dbe5",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/regroup.webp?v=e8db46dbe5"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+					},
+					{
+						"title": "Crash Through the Trees",
+						"quantity": 2,
+						"type": "scheme",
+						"value": null,
+						"boost": 3,
+						"characterName": "Bigfoot",
+						"basicText": "Move Bigfoot up to 5 spaces. You may move Bigfoot through spaces containing opposing fighters.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/crash-through-the-trees.webp?v=bf0828eeed",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/crash-through-the-trees.webp?v=bf0828eeed"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+					},
+					{
+						"title": "It's Just Your Imagination",
+						"quantity": 2,
+						"type": "defence",
+						"value": 3,
+						"boost": 3,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "Cancel all effects on your opponent's card.",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/it-s-just-your-imagination.webp?v=8aa0ae72ea",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/it-s-just-your-imagination.webp?v=8aa0ae72ea"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+					},
+					{
+						"title": "Hoax",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 4,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Move your fighter up to 5 spaces. You may move that fighter through spaces containing opposing fighters.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/hoax.webp?v=b46543086c",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/hoax.webp?v=b46543086c"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+					},
+					{
+						"title": "Momentous Shift",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 3,
+						"boost": 1,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "If your fighter started this turn in a different space, this card's value is 5 instead.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/momentous-shift.webp?v=31b3ec7620",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/momentous-shift.webp?v=31b3ec7620"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+					},
+					{
+						"title": "Jackalope Horns",
+						"quantity": 3,
+						"type": "scheme",
+						"value": null,
+						"boost": 2,
+						"characterName": "The Jackalope",
+						"basicText": "Move the Jackalope up to 5 spaces. You may move the Jackalope through spaces containing opposing fighters. Then deal 2 damage to any one fighter adjacent to the Jackalope.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/jackalope-horns.webp?v=a8760fc445",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/jackalope-horns.webp?v=a8760fc445"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+					},
+					{
+						"title": "Savagery",
+						"quantity": 3,
+						"type": "attack",
+						"value": 4,
+						"boost": 3,
+						"characterName": "Bigfoot",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "If you won the combat, deal 1 damage to each fighter adjacent to Bigfoot.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/savagery.webp?v=76ebfaea5d",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/savagery.webp?v=76ebfaea5d"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+					},
+					{
+						"title": "Larger Than Life",
+						"quantity": 3,
+						"type": "attack",
+						"value": 6,
+						"boost": 3,
+						"characterName": "Bigfoot",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/larger-than-life.webp?v=b75eeb37b7",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/larger-than-life.webp?v=b75eeb37b7"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+					},
+					{
+						"title": "Feint",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "Cancel all effects on your opponent's card.",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/feint.webp?v=05a26f413f",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/feint.webp?v=05a26f413f"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+					},
+					{
+						"title": "Bigfoot",
+						"quantity": 1,
+						"type": "versatile",
+						"value": null,
+						"boost": 0,
+						"characterName": "Bigfoot",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/hero.webp?v=a086d2fefe",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/hero.webp?v=a086d2fefe"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009",
+						"isCharacterCard": true
+					}
+				]
+			}
+		},
+		{
+			"id": "um-black-panther",
+			"family_id": "um-black-panther",
+			"version_id": "1",
+			"version_name": "1",
+			"versions": [],
+			"name": "Black Panther",
+			"note": "Unmatched (Restoration Games), set for-king-and-country. Datos transcritos de las cartas; uso privado.",
+			"user": "alexkhudov2002",
+			"bgg_link": null,
+			"created_on": "2026-11-21T23:28:33.971Z",
+			"deck_first_published_on": "2026-11-21T23:28:33.971Z",
+			"published_on": "2026-11-21T23:28:33.971Z",
+			"updated_on": "2026-11-21T23:28:33.971Z",
+			"deck_published": false,
+			"published": false,
+			"liked": false,
+			"likes": 0,
+			"tags": [
+				"unmatched",
+				"for-king-and-country"
+			],
+			"deck_data": {
+				"name": "Black Panther",
+				"appearance": {
+					"borderColour": "#1F1F1F",
+					"highlightColour": "#E8C547",
+					"cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0",
+					"isPNP": false,
+					"patternName": ""
+				},
+				"hero": {
+					"name": "Black Panther",
+					"hp": 14,
+					"move": 2,
+					"isRanged": false,
+					"specialAbility": "VIBRANIUM SUIT\nWhenever you BOOST, draw 1 card.\nCards stored in your VIBRANIUM SUIT can only be used to BOOST.",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/token-hero.png?v=7fe7c35824"
+				},
+				"sidekick": {
+					"name": "Shuri",
+					"quantity": 1,
+					"hp": 6,
+					"isRanged": true,
+					"quote": "",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/token-shuri.png?v=4e62d4036d"
+				},
+				"cards": [
+					{
+						"title": "Evade",
+						"quantity": 2,
+						"type": "defence",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Draw 1 card.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/evade.webp?v=b32b060d82",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/evade.webp?v=b32b060d82"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+					},
+					{
+						"title": "Analyze and Adjust",
+						"quantity": 3,
+						"type": "attack",
+						"value": 3,
+						"boost": 3,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Reveal the top card of your opponent's deck and store it in your VIBRANIUM SUIT.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/analyze-and-adjust.webp?v=8179221c0b",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/analyze-and-adjust.webp?v=8179221c0b"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+					},
+					{
+						"title": "Ancestral Insight",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 4,
+						"boost": 1,
+						"characterName": "Black Panther",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "If you won the combat, reveal the top card of your opponent's deck and store it in your VIBRANIUM SUIT.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/ancestral-insight.webp?v=43b213b8c5",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/ancestral-insight.webp?v=43b213b8c5"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+					},
+					{
+						"title": "Cat-like Reflexes",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "If you won the combat, move one of the fighters in the combat up to 3 spaces.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/cat-like-reflexes.webp?v=60877a5e8c",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/cat-like-reflexes.webp?v=60877a5e8c"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+					},
+					{
+						"title": "Microweave Mesh",
+						"quantity": 2,
+						"type": "defence",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Black Panther",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "You may BOOST this card.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/microweave-mesh.webp?v=8feb994175",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/microweave-mesh.webp?v=8feb994175"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+					},
+					{
+						"title": "Tactical Remote Scanning",
+						"quantity": 2,
+						"type": "scheme",
+						"value": null,
+						"boost": 3,
+						"characterName": "Shuri",
+						"basicText": "Choose an opponent. Reveal the top 2 cards of their deck and store them in your VIBRANIUM SUIT.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/tactical-remote-scanning.webp?v=ca89786a28",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/tactical-remote-scanning.webp?v=ca89786a28"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+					},
+					{
+						"title": "Vibranium Shockwave",
+						"quantity": 2,
+						"type": "attack",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Black Panther",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "You may BOOST this card.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/vibranium-shockwave.webp?v=a41f4f9359",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/vibranium-shockwave.webp?v=a41f4f9359"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+					},
+					{
+						"title": "Nanotriage Processor",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Shuri",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Shuri recovers 1 health. If Black Panther is in the same zone as Shuri, he also recovers 1 health.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/nanotriage-processor.webp?v=c3010d6b7a",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/nanotriage-processor.webp?v=c3010d6b7a"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+					},
+					{
+						"title": "Stalking Panther",
+						"quantity": 3,
+						"type": "scheme",
+						"value": null,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "Move each of your fighters up to 3 spaces. They may move through opposing fighters.\nGain 1 action.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/stalking-panther.webp?v=1e45a89440",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/stalking-panther.webp?v=1e45a89440"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+					},
+					{
+						"title": "Regroup",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 1,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/regroup.webp?v=51f871f7b3",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/regroup.webp?v=51f871f7b3"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+					},
+					{
+						"title": "Anti-Metal Claws",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 1,
+						"boost": 2,
+						"characterName": "Black Panther",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "Add the BOOST value of the opposing fighter's card to this card's value. Then, you may BOOST this card.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/anti-metal-claws.webp?v=9dc8227c71",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/anti-metal-claws.webp?v=9dc8227c71"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+					},
+					{
+						"title": "Feint",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 2,
+						"boost": 1,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "Cancel all effects on your opponent's card.",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/feint.webp?v=38d18d9eea",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/feint.webp?v=38d18d9eea"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+					},
+					{
+						"title": "Wakanda Forever!",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 3,
+						"boost": 3,
+						"characterName": "Black Panther",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "You may BOOST this card up to two times. (Draw a card for Black Panther's special ability each time you BOOST.)",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/wakanda-forever.webp?v=e35d325428",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/cards/wakanda-forever.webp?v=e35d325428"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0"
+					},
+					{
+						"title": "Black Panther",
+						"quantity": 1,
+						"type": "versatile",
+						"value": null,
+						"boost": 0,
+						"characterName": "Black Panther",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/hero.webp?v=6a6e4f574d",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/hero.webp?v=6a6e4f574d"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/back.webp?v=bbc42530f0",
+						"isCharacterCard": true
+					}
+				]
+			}
+		},
+		{
+			"id": "um-black-widow",
+			"family_id": "um-black-widow",
+			"version_id": "1",
+			"version_name": "1",
+			"versions": [],
+			"name": "Black Widow",
+			"note": "Unmatched (Restoration Games), set for-king-and-country. Datos transcritos de las cartas; uso privado.",
+			"user": "alexkhudov2002",
+			"bgg_link": null,
+			"created_on": "2026-11-21T23:28:34.444Z",
+			"deck_first_published_on": "2026-11-21T23:28:34.444Z",
+			"published_on": "2026-11-21T23:28:34.444Z",
+			"updated_on": "2026-11-21T23:28:34.444Z",
+			"deck_published": false,
+			"published": false,
+			"liked": false,
+			"likes": 0,
+			"tags": [
+				"unmatched",
+				"for-king-and-country"
+			],
+			"deck_data": {
+				"name": "Black Widow",
+				"appearance": {
+					"borderColour": "#1F1F1F",
+					"highlightColour": "#E8C547",
+					"cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0",
+					"isPNP": false,
+					"patternName": ""
+				},
+				"hero": {
+					"name": "Black Widow",
+					"hp": 13,
+					"move": 2,
+					"isRanged": true,
+					"specialAbility": "MISSION READY\nBefore drawing your starting hand, add THE MOSCOW PROTOCOL card to your hand. Then, shuffle your deck and draw 5 cards. (Your starting hand is 6 cards instead of 5.)",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/token-hero.png?v=493d0a584d"
+				},
+				"sidekick": {
+					"name": "Maria Hill",
+					"quantity": 1,
+					"hp": 6,
+					"isRanged": true,
+					"quote": "",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/token-maria-hill.png?v=039e62d787"
+				},
+				"cards": [
+					{
+						"title": "The Budapest Gambit",
+						"quantity": 1,
+						"type": "scheme",
+						"value": null,
+						"boost": 4,
+						"characterName": "Black Widow",
+						"basicText": "MISSION: You have 2 or fewer other cards in your hand.\n✔ Draw 5 cards. Each opponent discards 1 random card. Acquire a new mission.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-budapest-gambit.webp?v=8cc1ce6678",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-budapest-gambit.webp?v=8cc1ce6678"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+					},
+					{
+						"title": "Caught in a Web",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Black Widow",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "Cancel all AFTER COMBAT effects on your opponent's card.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/caught-in-a-web.webp?v=405cefd208",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/caught-in-a-web.webp?v=405cefd208"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+					},
+					{
+						"title": "Life Model Decoy",
+						"quantity": 2,
+						"type": "defence",
+						"value": 0,
+						"boost": 2,
+						"characterName": "Maria Hill",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "If Maria Hill was defeated, place her adjacent to Black Widow. If you do, set Maria Hill's health to 3.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/life-model-decoy.webp?v=4924738780",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/life-model-decoy.webp?v=4924738780"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+					},
+					{
+						"title": "The Kinshasa Directive",
+						"quantity": 1,
+						"type": "scheme",
+						"value": null,
+						"boost": 4,
+						"characterName": "Black Widow",
+						"basicText": "MISSION: Black Widow is in your starting space.\n✔ Choose an opponent. They discard 2 cards. Acquire a new mission.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-kinshasa-directive.webp?v=2d9d4802ec",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-kinshasa-directive.webp?v=2d9d4802ec"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+					},
+					{
+						"title": "Fake Out",
+						"quantity": 2,
+						"type": "attack",
+						"value": 1,
+						"boost": 1,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "If you lost the combat, draw 1 card and gain 1 action.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/fake-out.webp?v=210acebf3f",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/fake-out.webp?v=210acebf3f"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+					},
+					{
+						"title": "Widow's Kiss",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 4,
+						"boost": 2,
+						"characterName": "Black Widow",
+						"basicText": "",
+						"immediateText": "The opposing fighter may not leave their space for the rest of the turn.",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/widow-s-kiss.webp?v=cfcbda12c2",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/widow-s-kiss.webp?v=cfcbda12c2"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+					},
+					{
+						"title": "Feint",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 2,
+						"boost": 1,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "Cancel all effects on your opponent's card.",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/feint.webp?v=f8609f959a",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/feint.webp?v=f8609f959a"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+					},
+					{
+						"title": "Widow's Bite",
+						"quantity": 3,
+						"type": "attack",
+						"value": 4,
+						"boost": 1,
+						"characterName": "Black Widow",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "If you won the combat, your opponent discards 1 card.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/widow-s-bite.webp?v=33bbdca697",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/widow-s-bite.webp?v=33bbdca697"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+					},
+					{
+						"title": "The Moscow Protocol",
+						"quantity": 1,
+						"type": "scheme",
+						"value": null,
+						"boost": 4,
+						"characterName": "Black Widow",
+						"basicText": "MISSION: An opposing fighter took damage this turn.\n✔ Draw 1 card and gain 1 action. Acquire a new mission.\nStart the game with this card in your hand.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-moscow-protocol.webp?v=5ab4d15157",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-moscow-protocol.webp?v=5ab4d15157"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+					},
+					{
+						"title": "Widow's Line",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Black Widow",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Move the opposing fighter up to 2 spaces.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/widow-s-line.webp?v=0e97eff97a",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/widow-s-line.webp?v=0e97eff97a"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+					},
+					{
+						"title": "Acting Director of S.H.I.E.L.D.",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 4,
+						"boost": 3,
+						"characterName": "Maria Hill",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Move each of your fighters up to 3 spaces. They may move through opposing fighters. Then, shuffle 1 scheme from your discard pile into your deck.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/acting-director-of-s-h-i-e-l-d.webp?v=8787074a5f",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/acting-director-of-s-h-i-e-l-d.webp?v=8787074a5f"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+					},
+					{
+						"title": "Double Identity",
+						"quantity": 3,
+						"type": "defence",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "Black Widow and Maria Hill may swap spaces. If they do, your other fighter is now the defender.",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/double-identity.webp?v=3d6c81fca6",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/double-identity.webp?v=3d6c81fca6"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+					},
+					{
+						"title": "Widow's Sting",
+						"quantity": 2,
+						"type": "attack",
+						"value": 5,
+						"boost": 2,
+						"characterName": "Black Widow",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Move Black Widow up to 3 spaces.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/widow-s-sting.webp?v=06a7753a25",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/widow-s-sting.webp?v=06a7753a25"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+					},
+					{
+						"title": "The Firenze Agenda",
+						"quantity": 1,
+						"type": "scheme",
+						"value": null,
+						"boost": 4,
+						"characterName": "Black Widow",
+						"basicText": "MISSION: Black Widow is adjacent to an opposing hero.\n✔ Deal 2 damage to each opposing fighter in Black Widow's zone. Acquire a new mission.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-firenze-agenda.webp?v=9f759e0b6e",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-firenze-agenda.webp?v=9f759e0b6e"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+					},
+					{
+						"title": "The Madripoor Sanction",
+						"quantity": 1,
+						"type": "scheme",
+						"value": null,
+						"boost": 4,
+						"characterName": "Black Widow",
+						"basicText": "MISSION: Black Widow is in an opponent's starting space.\n✔ Deal 2 damage to each of that opponent's fighters. Acquire a new mission.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-madripoor-sanction.webp?v=27375214cf",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-madripoor-sanction.webp?v=27375214cf"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+					},
+					{
+						"title": "Black Widow",
+						"quantity": 1,
+						"type": "versatile",
+						"value": null,
+						"boost": 0,
+						"characterName": "Black Widow",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/hero.webp?v=54fd0635bd",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/hero.webp?v=54fd0635bd"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0",
+						"isCharacterCard": true
+					}
+				]
+			}
+		},
+		{
 			"id": "um-barbanegra",
 			"family_id": "um-barbanegra",
 			"version_id": "1",
@@ -3152,6 +4022,364 @@
 			}
 		},
 		{
+			"id": "um-bruce-lee",
+			"family_id": "um-bruce-lee",
+			"version_id": "1",
+			"version_name": "1",
+			"versions": [],
+			"name": "Bruce Lee",
+			"note": "Unmatched (Restoration Games), set lee-vs-ali. Datos transcritos de las cartas; uso privado.",
+			"user": "alexkhudov2002",
+			"bgg_link": null,
+			"created_on": "2026-11-21T23:28:35.505Z",
+			"deck_first_published_on": "2026-11-21T23:28:35.505Z",
+			"published_on": "2026-11-21T23:28:35.505Z",
+			"updated_on": "2026-11-21T23:28:35.505Z",
+			"deck_published": false,
+			"published": false,
+			"liked": false,
+			"likes": 0,
+			"tags": [
+				"unmatched",
+				"lee-vs-ali"
+			],
+			"deck_data": {
+				"name": "Bruce Lee",
+				"appearance": {
+					"borderColour": "#1F1F1F",
+					"highlightColour": "#E8C547",
+					"cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444",
+					"isPNP": false,
+					"patternName": ""
+				},
+				"hero": {
+					"name": "Bruce Lee",
+					"hp": 14,
+					"move": 3,
+					"isRanged": false,
+					"specialAbility": "At the end of your turn, you may move Bruce Lee 1 space.",
+					"quote": "The successful warrior is the average man, with laser-like focus.",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/token-hero.png?v=761ababef0"
+				},
+				"sidekick": {
+					"name": "Sidekick",
+					"hp": null,
+					"quantity": null,
+					"isRanged": false,
+					"quote": ""
+				},
+				"cards": [
+					{
+						"title": "Jeet Kune Do: High Straight Lead",
+						"quantity": 1,
+						"type": "attack",
+						"value": 3,
+						"boost": 3,
+						"characterName": "Bruce Lee",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "If either fighter started the turn in a different space, the value of this card is 5 instead.",
+						"afterText": "Gain 1 action.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-high-straight-lead.webp?v=2f182c3ad0",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-high-straight-lead.webp?v=2f182c3ad0"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+					},
+					{
+						"title": "Little Dragon",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 2,
+						"boost": 3,
+						"characterName": "Bruce Lee",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "If your hand is empty, the value of this card is 6 instead.",
+						"afterText": "Draw 2 cards.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/little-dragon.webp?v=30a8fc600e",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/little-dragon.webp?v=30a8fc600e"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+					},
+					{
+						"title": "Bring It On",
+						"quantity": 1,
+						"type": "scheme",
+						"value": null,
+						"boost": 3,
+						"characterName": "Bruce Lee",
+						"basicText": "Choose an opposing fighter in Bruce Lee's zone. Place them in any space adjacent to Bruce Lee. Gain 1 action.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/bring-it-on.webp?v=4dbd8d92e0",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/bring-it-on.webp?v=4dbd8d92e0"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+					},
+					{
+						"title": "Nunchaku",
+						"quantity": 2,
+						"type": "scheme",
+						"value": null,
+						"boost": 3,
+						"characterName": "Bruce Lee",
+						"basicText": "All of Bruce Lee's attacks this turn are +1 value. Gain 1 action.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/nunchaku.webp?v=16eda3231b",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/nunchaku.webp?v=16eda3231b"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+					},
+					{
+						"title": "Feint",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Bruce Lee",
+						"basicText": "",
+						"immediateText": "Cancel all effects on your opponent's card.",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/feint.webp?v=762a6abe73",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/feint.webp?v=762a6abe73"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+					},
+					{
+						"title": "\"Hoo! Whaaaaaa!\"",
+						"quantity": 1,
+						"type": "scheme",
+						"value": null,
+						"boost": 3,
+						"characterName": "Bruce Lee",
+						"basicText": "Choose a JEET KUNE DO card in your discard pile and add it to your hand. Gain 1 action.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/hoo-whaaaaaa.webp?v=101699dc39",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/hoo-whaaaaaa.webp?v=101699dc39"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+					},
+					{
+						"title": "Jeet Kune Do: Downward Side Kick",
+						"quantity": 1,
+						"type": "attack",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Bruce Lee",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Your opponent discards 1 random card. Gain 1 action.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-downward-side-kick.webp?v=b1fd8e307c",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-downward-side-kick.webp?v=b1fd8e307c"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+					},
+					{
+						"title": "Regroup",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 1,
+						"boost": 2,
+						"characterName": "Bruce Lee",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/regroup.webp?v=58b5cf14e4",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/regroup.webp?v=58b5cf14e4"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+					},
+					{
+						"title": "Skirmish",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 4,
+						"boost": 1,
+						"characterName": "Bruce Lee",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "If you won the combat, choose one of the fighters in the combat and move them up to 2 spaces.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/skirmish.webp?v=ce59b0052e",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/skirmish.webp?v=ce59b0052e"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+					},
+					{
+						"title": "Jeet Kune Do: Intercepting Fist",
+						"quantity": 1,
+						"type": "attack",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Bruce Lee",
+						"basicText": "",
+						"immediateText": "Cancel all effects on your opponent's card.",
+						"duringText": "",
+						"afterText": "Gain 1 action.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-intercepting-fist.webp?v=8ebd975fbe",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-intercepting-fist.webp?v=8ebd975fbe"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+					},
+					{
+						"title": "Jeet Kune Do: Wrist Lock",
+						"quantity": 1,
+						"type": "attack",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Bruce Lee",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Draw 1 card. Gain 1 action.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-wrist-lock.webp?v=fa0cc2a6b1",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-wrist-lock.webp?v=fa0cc2a6b1"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+					},
+					{
+						"title": "Momentous Shift",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 3,
+						"boost": 1,
+						"characterName": "Bruce Lee",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "If Bruce Lee started this turn in a different space, the value of this card is 5 instead.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/momentous-shift.webp?v=71dde9f816",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/momentous-shift.webp?v=71dde9f816"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+					},
+					{
+						"title": "Be Like Water",
+						"quantity": 4,
+						"type": "defence",
+						"value": 3,
+						"boost": 4,
+						"characterName": "Bruce Lee",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Choose a JEET KUNE DO card in your discard pile and add it to your hand.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/be-like-water.webp?v=8f204cf319",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/be-like-water.webp?v=8f204cf319"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+					},
+					{
+						"title": "One-Inch Punch",
+						"quantity": 1,
+						"type": "scheme",
+						"value": null,
+						"boost": 3,
+						"characterName": "Bruce Lee",
+						"basicText": "Deal 2 damage to an adjacent fighter. If this defeats that fighter, return this card to your hand instead of discarding it.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/one-inch-punch.webp?v=621081acb0",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/one-inch-punch.webp?v=621081acb0"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+					},
+					{
+						"title": "Jeet Kune Do: Corkscrew Finger Jab",
+						"quantity": 1,
+						"type": "attack",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Bruce Lee",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Deal 1 damage to the opposing fighter. Gain 1 action.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-corkscrew-finger-jab.webp?v=fe82d8fca2",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-corkscrew-finger-jab.webp?v=fe82d8fca2"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+					},
+					{
+						"title": "Jeet Kune Do: Short Lead Hook",
+						"quantity": 1,
+						"type": "attack",
+						"value": 3,
+						"boost": 3,
+						"characterName": "Bruce Lee",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Bruce Lee may swap spaces with the opposing fighter. Gain 1 action.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-short-lead-hook.webp?v=47cd738c48",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-short-lead-hook.webp?v=47cd738c48"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+					},
+					{
+						"title": "Taste of Blood",
+						"quantity": 1,
+						"type": "defence",
+						"value": 3,
+						"boost": 3,
+						"characterName": "Bruce Lee",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "If Bruce Lee has 5 or less health, draw 3 cards.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/taste-of-blood.webp?v=2489a6f385",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/taste-of-blood.webp?v=2489a6f385"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+					},
+					{
+						"title": "Bruce Lee",
+						"quantity": 1,
+						"type": "versatile",
+						"value": null,
+						"boost": 0,
+						"characterName": "Bruce Lee",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/hero.webp?v=45e5c59da3",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/hero.webp?v=45e5c59da3"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444",
+						"isCharacterCard": true
+					}
+				]
+			}
+		},
+		{
 			"id": "um-bullseye",
 			"family_id": "um-bullseye",
 			"version_id": "1",
@@ -3674,6 +4902,279 @@
 							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/hero.webp?v=1e5018ae34"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/chupacabra/back.webp?v=3cad6b7863",
+						"isCharacterCard": true
+					}
+				]
+			}
+		},
+		{
+			"id": "um-cloak-dagger",
+			"family_id": "um-cloak-dagger",
+			"version_id": "1",
+			"version_name": "1",
+			"versions": [],
+			"name": "Cloak & Dagger",
+			"note": "Unmatched (Restoration Games), set teen-spirit. Datos transcritos de las cartas; uso privado.",
+			"user": "alexkhudov2002",
+			"bgg_link": null,
+			"created_on": "2026-11-21T23:28:36.380Z",
+			"deck_first_published_on": "2026-11-21T23:28:36.380Z",
+			"published_on": "2026-11-21T23:28:36.380Z",
+			"updated_on": "2026-11-21T23:28:36.380Z",
+			"deck_published": false,
+			"published": false,
+			"liked": false,
+			"likes": 0,
+			"tags": [
+				"unmatched",
+				"teen-spirit"
+			],
+			"deck_data": {
+				"name": "Cloak & Dagger",
+				"appearance": {
+					"borderColour": "#1F1F1F",
+					"highlightColour": "#E8C547",
+					"cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/back.webp?v=8bc18e0c19",
+					"isPNP": false,
+					"patternName": ""
+				},
+				"hero": {
+					"name": "Cloak",
+					"hp": 8,
+					"move": 2,
+					"isRanged": false,
+					"specialAbility": "UMBRA: After you attack, if CLOAK dealt at least 2 combat damage, your opponent discards 1 card.\nREFRACTION: After you attack, if DAGGER dealt at least 2 combat damage, gain 1 action.",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/token-hero.png?v=7d4318f0c8"
+				},
+				"sidekick": {
+					"name": "Dagger",
+					"quantity": 1,
+					"hp": 8,
+					"isRanged": false,
+					"quote": "",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/token-dagger.png?v=440f5e18f6"
+				},
+				"cards": [
+					{
+						"title": "Feint",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 2,
+						"boost": 1,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "Cancel all effects on your opponent's card.",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/feint.webp?v=c0dfa38cbb",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/feint.webp?v=c0dfa38cbb"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/back.webp?v=8bc18e0c19"
+					},
+					{
+						"title": "Lightforce Barrage",
+						"quantity": 2,
+						"type": "attack",
+						"value": 7,
+						"boost": 3,
+						"characterName": "Dagger",
+						"basicText": "This card's effects cannot be canceled.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "If you won the combat, your fighter takes damage equal to the amount of damage you dealt.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/lightforce-barrage.webp?v=cf9566d083",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/lightforce-barrage.webp?v=cf9566d083"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/back.webp?v=8bc18e0c19"
+					},
+					{
+						"title": "The Living Light",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "If Cloak played this card to defend, Dagger recovers 2 health. If Dagger played this card to attack, Cloak recovers 2 health.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/the-living-light.webp?v=1a5dc6c2e7",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/the-living-light.webp?v=1a5dc6c2e7"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/back.webp?v=8bc18e0c19"
+					},
+					{
+						"title": "Perfect Balance",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 4,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "If Cloak and Dagger are both adjacent to the opposing fighter, the value of this card is 6 instead.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/perfect-balance.webp?v=d45322d1dc",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/perfect-balance.webp?v=d45322d1dc"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/back.webp?v=8bc18e0c19"
+					},
+					{
+						"title": "Chosen Fate",
+						"quantity": 2,
+						"type": "scheme",
+						"value": null,
+						"boost": 1,
+						"characterName": "Any",
+						"basicText": "Deal up to 4 damage to one of your fighters. Your other fighter recovers that amount of health. Draw 2 cards.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/chosen-fate.webp?v=ee3290098c",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/chosen-fate.webp?v=ee3290098c"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/back.webp?v=8bc18e0c19"
+					},
+					{
+						"title": "Living Shadow",
+						"quantity": 3,
+						"type": "defence",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "If Dagger played this card, she swaps spaces with Cloak, Cloak is now the defender, and the value of this card is 4 instead.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/living-shadow.webp?v=9797dddb15",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/living-shadow.webp?v=9797dddb15"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/back.webp?v=8bc18e0c19"
+					},
+					{
+						"title": "Darkforce Dimension",
+						"quantity": 2,
+						"type": "attack",
+						"value": 4,
+						"boost": 3,
+						"characterName": "Cloak",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Place the opposing fighter in any space. Your opponent discards 1 card.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/darkforce-dimension.webp?v=3e2dc90e5f",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/darkforce-dimension.webp?v=3e2dc90e5f"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/back.webp?v=8bc18e0c19"
+					},
+					{
+						"title": "Commanding Impact",
+						"quantity": 3,
+						"type": "attack",
+						"value": 5,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Draw 1 card.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/commanding-impact.webp?v=6274b8575b",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/commanding-impact.webp?v=6274b8575b"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/back.webp?v=8bc18e0c19"
+					},
+					{
+						"title": "Into Darkness",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Choose one of the fighters in the combat and move them up to 3 spaces.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/into-darkness.webp?v=ef3497ac46",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/into-darkness.webp?v=ef3497ac46"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/back.webp?v=8bc18e0c19"
+					},
+					{
+						"title": "Into the Void",
+						"quantity": 3,
+						"type": "attack",
+						"value": 2,
+						"boost": 1,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "You may BOOST this attack.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/into-the-void.webp?v=ed9c9c64aa",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/into-the-void.webp?v=ed9c9c64aa"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/back.webp?v=8bc18e0c19"
+					},
+					{
+						"title": "Channel the Dark",
+						"quantity": 3,
+						"type": "attack",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "If Cloak played this card, place the opposing fighter adjacent to Dagger and gain 1 action.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/channel-the-dark.webp?v=a3ea296dc3",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/channel-the-dark.webp?v=a3ea296dc3"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/back.webp?v=8bc18e0c19"
+					},
+					{
+						"title": "Traverse the Darkforce",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 2,
+						"boost": 1,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Move each of your fighters up to 2 spaces.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/traverse-the-darkforce.webp?v=49083657ed",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cards/traverse-the-darkforce.webp?v=49083657ed"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/back.webp?v=8bc18e0c19"
+					},
+					{
+						"title": "Cloak",
+						"quantity": 1,
+						"type": "versatile",
+						"value": null,
+						"boost": 0,
+						"characterName": "Cloak",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/hero.webp?v=c10918e349",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/hero.webp?v=c10918e349"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/back.webp?v=8bc18e0c19",
 						"isCharacterCard": true
 					}
 				]
@@ -4464,6 +5965,364 @@
 							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/hero.webp?v=0bdbc021ab"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6",
+						"isCharacterCard": true
+					}
+				]
+			}
+		},
+		{
+			"id": "um-dr-sattler",
+			"family_id": "um-dr-sattler",
+			"version_id": "1",
+			"version_name": "1",
+			"versions": [],
+			"name": "Dr. Ellie Sattler",
+			"note": "Unmatched (Restoration Games), set trex-vs-sattler. Datos transcritos de las cartas; uso privado.",
+			"user": "alexkhudov2002",
+			"bgg_link": null,
+			"created_on": "2026-11-21T23:28:37.521Z",
+			"deck_first_published_on": "2026-11-21T23:28:37.521Z",
+			"published_on": "2026-11-21T23:28:37.521Z",
+			"updated_on": "2026-11-21T23:28:37.521Z",
+			"deck_published": false,
+			"published": false,
+			"liked": false,
+			"likes": 0,
+			"tags": [
+				"unmatched",
+				"trex-vs-sattler"
+			],
+			"savedTokens": [
+				{
+					"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/token-hero.png?v=e027e019e1",
+					"clip": "circle",
+					"label": "Dr. Ellie Sattler",
+					"rim": "#1F1F1F",
+					"initials": "DE",
+					"size": 88,
+					"h": 88,
+					"counter": {
+						"link": "hero"
+					}
+				},
+				{
+					"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/token-dr-ian-malcolm.png?v=1db7bafc98",
+					"clip": "circle",
+					"label": "Dr. Ian Malcolm",
+					"rim": "#1F1F1F",
+					"initials": "DI",
+					"size": 64,
+					"h": 64,
+					"counter": {
+						"link": "sidekick"
+					}
+				},
+				{
+					"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/token-insight.png?v=476535e668",
+					"size": 40,
+					"h": 40
+				},
+				{
+					"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/token-insight.png?v=476535e668",
+					"size": 40,
+					"h": 40
+				},
+				{
+					"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/token-insight.png?v=476535e668",
+					"size": 40,
+					"h": 40
+				},
+				{
+					"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/token-insight.png?v=476535e668",
+					"size": 40,
+					"h": 40
+				},
+				{
+					"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/token-insight.png?v=476535e668",
+					"size": 40,
+					"h": 40
+				}
+			],
+			"deck_data": {
+				"name": "Dr. Ellie Sattler",
+				"appearance": {
+					"borderColour": "#1F1F1F",
+					"highlightColour": "#E8C547",
+					"cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7",
+					"isPNP": false,
+					"patternName": ""
+				},
+				"hero": {
+					"name": "Dr. Ellie Sattler",
+					"hp": 13,
+					"move": 2,
+					"isRanged": false,
+					"specialAbility": "After Dr. Sattler or Dr. Malcolm move, place an insight token in their new space. You have 5 insight tokens.",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/token-hero.png?v=e027e019e1"
+				},
+				"sidekick": {
+					"name": "Dr. Ian Malcolm",
+					"quantity": 1,
+					"hp": 7,
+					"isRanged": false,
+					"quote": "",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/token-dr-ian-malcolm.png?v=1db7bafc98"
+				},
+				"cards": [
+					{
+						"title": "You Never Had Control, That's the Illusion",
+						"quantity": 3,
+						"type": "attack",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Dr. Ellie Sattler",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "Increase the value of this card by the number of insight tokens on the board. Remove all insight tokens from the board.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/you-never-had-control-that-s-the-illusion.webp?v=2b4de476ee",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/you-never-had-control-that-s-the-illusion.webp?v=2b4de476ee"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+					},
+					{
+						"title": "Woman Inherits the Earth",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 2,
+						"boost": 3,
+						"characterName": "Dr. Ellie Sattler",
+						"basicText": "",
+						"immediateText": "Draw 1 card. Dr. Sattler recovers health equal to the number of insight tokens on the board. Remove all insight tokens from the board.",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/woman-inherits-the-earth.webp?v=8499394637",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/woman-inherits-the-earth.webp?v=8499394637"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+					},
+					{
+						"title": "Feint",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 2,
+						"boost": 1,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "Cancel all effects on your opponent's card.",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/feint.webp?v=0bd8e1fe31",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/feint.webp?v=0bd8e1fe31"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+					},
+					{
+						"title": "I Think We're Back in Business",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 0,
+						"boost": 3,
+						"characterName": "Dr. Ellie Sattler",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "The value of this card is equal to the number of cards in your hand.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/i-think-we-re-back-in-business.webp?v=59ba70d9fc",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/i-think-we-re-back-in-business.webp?v=59ba70d9fc"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+					},
+					{
+						"title": "Lock the Doors!",
+						"quantity": 2,
+						"type": "defence",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Deal 2 damage to the opposing fighter. Move your fighter up to 2 spaces.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/lock-the-doors.webp?v=c0428f31b7",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/lock-the-doors.webp?v=c0428f31b7"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+					},
+					{
+						"title": "Life Finds a Way",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 2,
+						"boost": 3,
+						"characterName": "Dr. Ian Malcolm",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Your opponent discards the top card of their deck. Dr. Malcolm and Dr. Sattler recover health equal to that card's BOOST value.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/life-finds-a-way.webp?v=f6c7da8071",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/life-finds-a-way.webp?v=f6c7da8071"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+					},
+					{
+						"title": "Must Go Faster",
+						"quantity": 1,
+						"type": "versatile",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "If you won the combat, you may place Dr. Malcolm and Dr. Sattler in any space.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/must-go-faster.webp?v=10acc07f39",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/must-go-faster.webp?v=10acc07f39"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+					},
+					{
+						"title": "The Concept of Attraction",
+						"quantity": 3,
+						"type": "defence",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "You may place your fighter in any space with an insight token.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/the-concept-of-attraction.webp?v=ef209aa5c8",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/the-concept-of-attraction.webp?v=ef209aa5c8"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+					},
+					{
+						"title": "Regroup",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 1,
+						"boost": 1,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/regroup.webp?v=2f415df898",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/regroup.webp?v=2f415df898"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+					},
+					{
+						"title": "The Future Ex-Mrs. Malcolm",
+						"quantity": 1,
+						"type": "scheme",
+						"value": null,
+						"boost": 2,
+						"characterName": "Dr. Ian Malcolm",
+						"basicText": "Draw 2 cards.\nPlace an insight token in Dr. Malcolm's space.\nGain 1 action.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/the-future-ex-mrs-malcolm.webp?v=6562f1ea9d",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/the-future-ex-mrs-malcolm.webp?v=6562f1ea9d"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+					},
+					{
+						"title": "Sexism in Survival Situations",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 1,
+						"boost": 2,
+						"characterName": "Dr. Ellie Sattler",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "If the opposing fighter is a hero, the value of this card is 4 instead.",
+						"afterText": "You may move Dr. Sattler 1 space.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/sexism-in-survival-situations.webp?v=1e3c205831",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/sexism-in-survival-situations.webp?v=1e3c205831"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+					},
+					{
+						"title": "Violently, If Necessary",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 3,
+						"boost": 3,
+						"characterName": "Dr. Ellie Sattler",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Deal 2 damage to each opposing fighter on or adjacent to a space with an insight token.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/violently-if-necessary.webp?v=2e2cd9a57f",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/violently-if-necessary.webp?v=2e2cd9a57f"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+					},
+					{
+						"title": "Chaotician",
+						"quantity": 1,
+						"type": "versatile",
+						"value": 2,
+						"boost": 3,
+						"characterName": "Dr. Ian Malcolm",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Place an insight token in any space.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/chaotician.webp?v=32b2501ed3",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/chaotician.webp?v=32b2501ed3"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+					},
+					{
+						"title": "Hey! Hey! Hey!",
+						"quantity": 1,
+						"type": "versatile",
+						"value": 3,
+						"boost": 3,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Move your other fighter up to 4 spaces.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/hey-hey-hey.webp?v=5a3fe02a2c",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/cards/hey-hey-hey.webp?v=5a3fe02a2c"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7"
+					},
+					{
+						"title": "Dr. Ellie Sattler",
+						"quantity": 1,
+						"type": "versatile",
+						"value": null,
+						"boost": 0,
+						"characterName": "Dr. Ellie Sattler",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/hero.webp?v=72661c7c9f",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/hero.webp?v=72661c7c9f"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/back.webp?v=35ee0668e7",
 						"isCharacterCard": true
 					}
 				]
@@ -11097,6 +12956,576 @@
 			}
 		},
 		{
+			"id": "um-ms-marvel",
+			"family_id": "um-ms-marvel",
+			"version_id": "1",
+			"version_name": "1",
+			"versions": [],
+			"name": "Ms. Marvel",
+			"note": "Unmatched (Restoration Games), set teen-spirit. Datos transcritos de las cartas; uso privado.",
+			"user": "alexkhudov2002",
+			"bgg_link": null,
+			"created_on": "2026-11-21T23:28:36.746Z",
+			"deck_first_published_on": "2026-11-21T23:28:36.746Z",
+			"published_on": "2026-11-21T23:28:36.746Z",
+			"updated_on": "2026-11-21T23:28:36.746Z",
+			"deck_published": false,
+			"published": false,
+			"liked": false,
+			"likes": 0,
+			"tags": [
+				"unmatched",
+				"teen-spirit"
+			],
+			"deck_data": {
+				"name": "Ms. Marvel",
+				"appearance": {
+					"borderColour": "#1F1F1F",
+					"highlightColour": "#E8C547",
+					"cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931",
+					"isPNP": false,
+					"patternName": ""
+				},
+				"hero": {
+					"name": "Ms. Marvel",
+					"hp": 14,
+					"move": 2,
+					"isRanged": false,
+					"specialAbility": "STRETCHY\nAt the start of your turn, you may move Ms. Marvel 1 space.\nMs. Marvel can attack from up to 2 spaces away (ignoring zones).",
+					"quote": "A hero is just somebody who tries to do the right thing even when it's hard.",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/token-hero.png?v=7d2aa762e1"
+				},
+				"sidekick": {
+					"name": "Sidekick",
+					"hp": null,
+					"quantity": null,
+					"isRanged": false,
+					"quote": ""
+				},
+				"cards": [
+					{
+						"title": "Easy Peasy",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Ms. Marvel",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Draw 1 card. Then, if you have 4 or more cards in your hand, deal 1 damage to an adjacent fighter.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/easy-peasy.webp?v=483d81ba2f",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/easy-peasy.webp?v=483d81ba2f"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+					},
+					{
+						"title": "Shrink! Shrink! Shrink!",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Ms. Marvel",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Choose one effect. If Ms. Marvel's space shares no zones with the opposing fighter, do both:\n▸ your opponent discards 1 card\n▸ move the opposing fighter up to 3 spaces",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/shrink-shrink-shrink.webp?v=4e89a58094",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/shrink-shrink-shrink.webp?v=4e89a58094"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+					},
+					{
+						"title": "I'm Not Touching You",
+						"quantity": 3,
+						"type": "attack",
+						"value": 4,
+						"boost": 1,
+						"characterName": "Ms. Marvel",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "If Ms. Marvel's space shares no zones with the opposing fighter, draw 2 cards.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/i-m-not-touching-you.webp?v=9b3a87bca8",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/i-m-not-touching-you.webp?v=9b3a87bca8"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+					},
+					{
+						"title": "Gyro and Fries",
+						"quantity": 2,
+						"type": "scheme",
+						"value": null,
+						"boost": 2,
+						"characterName": "Ms. Marvel",
+						"basicText": "Recover 2 health. Then, if you have 4 or more cards in your hand, gain 1 action.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/gyro-and-fries.webp?v=3e9c19011c",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/gyro-and-fries.webp?v=3e9c19011c"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+					},
+					{
+						"title": "Big Wind Up",
+						"quantity": 3,
+						"type": "attack",
+						"value": 4,
+						"boost": 2,
+						"characterName": "Ms. Marvel",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "If Ms. Marvel's space shares no zones with the opposing fighter, you may BOOST this card.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/big-wind-up.webp?v=35ba3e9a85",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/big-wind-up.webp?v=35ba3e9a85"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+					},
+					{
+						"title": "Fangirl",
+						"quantity": 3,
+						"type": "attack",
+						"value": 0,
+						"boost": 2,
+						"characterName": "Ms. Marvel",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "The value of this card is equal to the number of cards in your hand.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/fangirl.webp?v=9f26a379c9",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/fangirl.webp?v=9f26a379c9"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+					},
+					{
+						"title": "Slingshot",
+						"quantity": 3,
+						"type": "defence",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Ms. Marvel",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Place Ms. Marvel in any space in her zone.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/slingshot.webp?v=cf8559bc24",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/slingshot.webp?v=cf8559bc24"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+					},
+					{
+						"title": "Embiggen",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 3,
+						"boost": 3,
+						"characterName": "Ms. Marvel",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "If Ms. Marvel is in more zones than the opposing fighter, the value of this card is 6 instead.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/embiggen.webp?v=2785f68330",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/embiggen.webp?v=2785f68330"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+					},
+					{
+						"title": "Feint",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 2,
+						"boost": 1,
+						"characterName": "Ms. Marvel",
+						"basicText": "",
+						"immediateText": "Cancel all effects on your opponent's card.",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/feint.webp?v=142f35935b",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/feint.webp?v=142f35935b"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+					},
+					{
+						"title": "Momentous Shift",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Ms. Marvel",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "If Ms. Marvel started this turn in a different space, the value of this card is 5 instead.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/momentous-shift.webp?v=400af5b4e8",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/momentous-shift.webp?v=400af5b4e8"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+					},
+					{
+						"title": "Friends and Family",
+						"quantity": 1,
+						"type": "scheme",
+						"value": null,
+						"boost": 4,
+						"characterName": "Ms. Marvel",
+						"basicText": "Draw 2 cards. Then, you may spend an additional action to draw until you have 7 cards in your hand.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/friends-and-family.webp?v=3609e392a1",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/friends-and-family.webp?v=3609e392a1"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+					},
+					{
+						"title": "Ms. Marvel",
+						"quantity": 1,
+						"type": "versatile",
+						"value": null,
+						"boost": 0,
+						"characterName": "Ms. Marvel",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/hero.webp?v=15f7958d70",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/hero.webp?v=15f7958d70"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931",
+						"isCharacterCard": true
+					}
+				]
+			}
+		},
+		{
+			"id": "um-muhammad-ali",
+			"family_id": "um-muhammad-ali",
+			"version_id": "1",
+			"version_name": "1",
+			"versions": [],
+			"name": "Muhammad Ali",
+			"note": "Unmatched (Restoration Games), set lee-vs-ali. Datos transcritos de las cartas; uso privado.",
+			"user": "alexkhudov2002",
+			"bgg_link": null,
+			"created_on": "2026-11-21T23:28:36.013Z",
+			"deck_first_published_on": "2026-11-21T23:28:36.013Z",
+			"published_on": "2026-11-21T23:28:36.013Z",
+			"updated_on": "2026-11-21T23:28:36.013Z",
+			"deck_published": false,
+			"published": false,
+			"liked": false,
+			"likes": 0,
+			"tags": [
+				"unmatched",
+				"lee-vs-ali"
+			],
+			"savedTokens": [
+				{
+					"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/token-hero.png?v=64e9e20311",
+					"clip": "circle",
+					"label": "Muhammad Ali",
+					"rim": "#1F1F1F",
+					"initials": "MA",
+					"size": 88,
+					"h": 88,
+					"counter": {
+						"link": "hero"
+					}
+				},
+				{
+					"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/token-stance.png?v=2fa1fa4a90",
+					"sheet": {
+						"cols": 2,
+						"rows": 1,
+						"index": 0
+					},
+					"altIndex": 1,
+					"size": 96,
+					"h": 96
+				}
+			],
+			"deck_data": {
+				"name": "Muhammad Ali",
+				"appearance": {
+					"borderColour": "#1F1F1F",
+					"highlightColour": "#E8C547",
+					"cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/back.webp?v=8f8c6d7c0e",
+					"isPNP": false,
+					"patternName": ""
+				},
+				"hero": {
+					"name": "Muhammad Ali",
+					"hp": 16,
+					"move": 3,
+					"isRanged": false,
+					"specialAbility": "A BEAUTIFUL SWING\nBegin the game with your stance on Float Like a Butterfly. After you attack, if you won the combat, change stances.\nFLOAT LIKE A BUTTERFLY: You can attack from 2 spaces away.\nSTING LIKE A BEE: Add +2 to your attacks.",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/token-hero.png?v=64e9e20311"
+				},
+				"sidekick": {
+					"name": "Sidekick",
+					"hp": null,
+					"quantity": null,
+					"isRanged": false,
+					"quote": ""
+				},
+				"cards": [
+					{
+						"title": "Rope-a-Dope",
+						"quantity": 2,
+						"type": "defence",
+						"value": 2,
+						"boost": 3,
+						"characterName": "Muhammad Ali",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "(Butterfly) If you lost the combat, Ali recovers 3 health.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/rope-a-dope.webp?v=b12c1af16d",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/rope-a-dope.webp?v=b12c1af16d"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/back.webp?v=8f8c6d7c0e"
+					},
+					{
+						"title": "Jab",
+						"quantity": 2,
+						"type": "attack",
+						"value": 1,
+						"boost": 3,
+						"characterName": "Muhammad Ali",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Draw 1 card. Gain 1 action.\n(Butterfly) Move your fighter up to 2 spaces.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/jab.webp?v=da92bc4a93",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/jab.webp?v=da92bc4a93"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/back.webp?v=8f8c6d7c0e"
+					},
+					{
+						"title": "Hard to Be Humble",
+						"quantity": 3,
+						"type": "defence",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Muhammad Ali",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "(Butterfly) Look at your opponent's hand.",
+						"afterText": "Move Ali up to 2 spaces.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/hard-to-be-humble.webp?v=dd94ad1984",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/hard-to-be-humble.webp?v=dd94ad1984"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/back.webp?v=8f8c6d7c0e"
+					},
+					{
+						"title": "Stick and Move",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 2,
+						"boost": 1,
+						"characterName": "Muhammad Ali",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "(Butterfly) The value of your opponent's card becomes its printed value and cannot change.",
+						"afterText": "Deal 1 damage to an adjacent fighter.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/stick-and-move.webp?v=3f8c979fb2",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/stick-and-move.webp?v=3f8c979fb2"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/back.webp?v=8f8c6d7c0e"
+					},
+					{
+						"title": "Fancy Footwork",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 1,
+						"boost": 3,
+						"characterName": "Muhammad Ali",
+						"basicText": "",
+						"immediateText": "Move Ali up to 1 space.",
+						"duringText": "If Ali shares no zones with the opposing fighter, ignore the value of the opponent's card.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/fancy-footwork.webp?v=8ef820db1c",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/fancy-footwork.webp?v=8ef820db1c"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/back.webp?v=8f8c6d7c0e"
+					},
+					{
+						"title": "Ali Shuffle",
+						"quantity": 3,
+						"type": "attack",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Muhammad Ali",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "(Butterfly) You may BOOST this card.",
+						"afterText": "If you won the combat, shuffle a non-scheme card from your discard pile into your deck.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/ali-shuffle.webp?v=a3744f8c0a",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/ali-shuffle.webp?v=a3744f8c0a"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/back.webp?v=8f8c6d7c0e"
+					},
+					{
+						"title": "Momentous Shift",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 3,
+						"boost": 1,
+						"characterName": "Muhammad Ali",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "If your fighter started this turn in a different space, this card's value becomes 5.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/momentous-shift.webp?v=f1c0566313",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/momentous-shift.webp?v=f1c0566313"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/back.webp?v=8f8c6d7c0e"
+					},
+					{
+						"title": "Louisville Lip",
+						"quantity": 2,
+						"type": "scheme",
+						"value": null,
+						"boost": 2,
+						"characterName": "Muhammad Ali",
+						"basicText": "Ali recovers 1 health. Draw 2 cards.\nIf you won a combat this turn, each opponent discards 1 random card.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/louisville-lip.webp?v=6db58ca41c",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/louisville-lip.webp?v=6db58ca41c"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/back.webp?v=8f8c6d7c0e"
+					},
+					{
+						"title": "Answer the Bell",
+						"quantity": 2,
+						"type": "scheme",
+						"value": null,
+						"boost": 2,
+						"characterName": "Muhammad Ali",
+						"basicText": "Move Ali up to 3 spaces.\nAli recovers 2 health.\nGain 1 action.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/answer-the-bell.webp?v=07881732b1",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/answer-the-bell.webp?v=07881732b1"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/back.webp?v=8f8c6d7c0e"
+					},
+					{
+						"title": "The Greatest",
+						"quantity": 2,
+						"type": "attack",
+						"value": 4,
+						"boost": 3,
+						"characterName": "Muhammad Ali",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "If you dealt 6 or more combat damage this turn, gain 2 actions.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/the-greatest.webp?v=04d66cccbd",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/the-greatest.webp?v=04d66cccbd"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/back.webp?v=8f8c6d7c0e"
+					},
+					{
+						"title": "Close and Clinch",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 3,
+						"boost": 1,
+						"characterName": "Muhammad Ali",
+						"basicText": "",
+						"immediateText": "Place Ali adjacent to the opposing fighter. Neither fighter can leave their space this turn.",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/close-and-clinch.webp?v=87095518ea",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/close-and-clinch.webp?v=87095518ea"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/back.webp?v=8f8c6d7c0e"
+					},
+					{
+						"title": "Champion of the World",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 4,
+						"boost": 3,
+						"characterName": "Muhammad Ali",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Move a fighter in the combat up to 2 spaces.\n(Butterfly) Draw 1 card.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/champion-of-the-world.webp?v=eac014fd04",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/champion-of-the-world.webp?v=eac014fd04"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/back.webp?v=8f8c6d7c0e"
+					},
+					{
+						"title": "Stronger Than the Skill",
+						"quantity": 2,
+						"type": "attack",
+						"value": 3,
+						"boost": 1,
+						"characterName": "Muhammad Ali",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Look at your opponent's hand. If you won the combat, shuffle one of their cards into their deck.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/stronger-than-the-skill.webp?v=fd770eddd5",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/cards/stronger-than-the-skill.webp?v=fd770eddd5"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/back.webp?v=8f8c6d7c0e"
+					},
+					{
+						"title": "Muhammad Ali",
+						"quantity": 1,
+						"type": "versatile",
+						"value": null,
+						"boost": 0,
+						"characterName": "Muhammad Ali",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/hero.webp?v=7495baac19",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/hero.webp?v=7495baac19"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/back.webp?v=8f8c6d7c0e",
+						"isCharacterCard": true
+					}
+				]
+			}
+		},
+		{
 			"id": "um-tesla",
 			"family_id": "um-tesla",
 			"version_id": "1",
@@ -13097,6 +15526,262 @@
 			}
 		},
 		{
+			"id": "um-robin-hood",
+			"family_id": "um-robin-hood",
+			"version_id": "1",
+			"version_name": "1",
+			"versions": [],
+			"name": "Robin Hood",
+			"note": "Unmatched (Restoration Games), set hood-vs-big-foot. Datos transcritos de las cartas; uso privado.",
+			"user": "alexkhudov2002",
+			"bgg_link": null,
+			"created_on": "2026-11-21T23:28:35.038Z",
+			"deck_first_published_on": "2026-11-21T23:28:35.038Z",
+			"published_on": "2026-11-21T23:28:35.038Z",
+			"updated_on": "2026-11-21T23:28:35.038Z",
+			"deck_published": false,
+			"published": false,
+			"liked": false,
+			"likes": 0,
+			"tags": [
+				"unmatched",
+				"hood-vs-big-foot"
+			],
+			"deck_data": {
+				"name": "Robin Hood",
+				"appearance": {
+					"borderColour": "#1F1F1F",
+					"highlightColour": "#E8C547",
+					"cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/back.webp?v=d724e38c20",
+					"isPNP": false,
+					"patternName": ""
+				},
+				"hero": {
+					"name": "Robin Hood",
+					"hp": 13,
+					"move": 2,
+					"isRanged": true,
+					"specialAbility": "After you attack, you may move your attacking fighter up to 2 spaces.",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/token-hero.png?v=d3e082eeb9"
+				},
+				"sidekick": {
+					"name": "Outlaw",
+					"quantity": 4,
+					"hp": 1,
+					"isRanged": false,
+					"quote": "",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/token-outlaw.png?v=05d097edd2"
+				},
+				"cards": [
+					{
+						"title": "Ambush",
+						"quantity": 2,
+						"type": "attack",
+						"value": 2,
+						"boost": 3,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "Your opponent discards 1 random card. Add its BOOST value to this card's value.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/ambush.webp?v=763e8e8503",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/ambush.webp?v=763e8e8503"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/back.webp?v=d724e38c20"
+					},
+					{
+						"title": "Feint",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "Cancel all effects on your opponent's card.",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/feint.webp?v=f5fe02c3eb",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/feint.webp?v=f5fe02c3eb"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/back.webp?v=d724e38c20"
+					},
+					{
+						"title": "A Hunter's Eye",
+						"quantity": 3,
+						"type": "attack",
+						"value": 5,
+						"boost": 4,
+						"characterName": "Robin Hood",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/a-hunter-s-eye.webp?v=283235c835",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/a-hunter-s-eye.webp?v=283235c835"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/back.webp?v=d724e38c20"
+					},
+					{
+						"title": "Regroup",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 1,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/regroup.webp?v=7544f4fbf3",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/regroup.webp?v=7544f4fbf3"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/back.webp?v=d724e38c20"
+					},
+					{
+						"title": "Steal from the Rich",
+						"quantity": 3,
+						"type": "scheme",
+						"value": null,
+						"boost": 3,
+						"characterName": "Robin Hood",
+						"basicText": "Draw 1 card, then choose an opponent. They may choose to discard 1 card. If they do not, draw 1 more card.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/steal-from-the-rich.webp?v=16de18b20b",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/steal-from-the-rich.webp?v=16de18b20b"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/back.webp?v=d724e38c20"
+					},
+					{
+						"title": "Piercing Shot",
+						"quantity": 2,
+						"type": "attack",
+						"value": 2,
+						"boost": 3,
+						"characterName": "Robin Hood",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Draw 2 cards.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/piercing-shot.webp?v=40a4cb432d",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/piercing-shot.webp?v=40a4cb432d"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/back.webp?v=d724e38c20"
+					},
+					{
+						"title": "Disarming Shot",
+						"quantity": 2,
+						"type": "attack",
+						"value": 4,
+						"boost": 3,
+						"characterName": "Robin Hood",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Draw a number of cards equal to the amount of damage dealt to the opposing fighter.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/disarming-shot.webp?v=2da92ee481",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/disarming-shot.webp?v=2da92ee481"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/back.webp?v=d724e38c20"
+					},
+					{
+						"title": "Snark",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 3,
+						"boost": 1,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "If your fighter is adjacent to the opposing fighter, draw 1 card.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/snark.webp?v=e0e012ab5b",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/snark.webp?v=e0e012ab5b"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/back.webp?v=d724e38c20"
+					},
+					{
+						"title": "Wily Fighting",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 3,
+						"boost": 1,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Deal 1 damage to each opposing fighter adjacent to your fighter.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/wily-fighting.webp?v=8ed61393c9",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/wily-fighting.webp?v=8ed61393c9"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/back.webp?v=d724e38c20"
+					},
+					{
+						"title": "Defenders of Sherwood",
+						"quantity": 2,
+						"type": "defence",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Draw 1 card. Return a defeated Outlaw (if any) to any space in Robin Hood's zone.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/defenders-of-sherwood.webp?v=6b014bb219",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/defenders-of-sherwood.webp?v=6b014bb219"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/back.webp?v=d724e38c20"
+					},
+					{
+						"title": "Highway Robbery",
+						"quantity": 4,
+						"type": "attack",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Outlaw",
+						"basicText": "",
+						"immediateText": "Cancel all effects on your opponent's card and ignore its defense value.",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/highway-robbery.webp?v=a352632c33",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/cards/highway-robbery.webp?v=a352632c33"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/back.webp?v=d724e38c20"
+					},
+					{
+						"title": "Robin Hood",
+						"quantity": 1,
+						"type": "versatile",
+						"value": null,
+						"boost": 0,
+						"characterName": "Robin Hood",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/hero.webp?v=047cbd86cc",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/hero.webp?v=047cbd86cc"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/back.webp?v=d724e38c20",
+						"isCharacterCard": true
+					}
+				]
+			}
+		},
+		{
 			"id": "um-sauron",
 			"family_id": "um-sauron",
 			"version_id": "1",
@@ -14306,6 +16991,296 @@
 			}
 		},
 		{
+			"id": "um-squirrel-girl",
+			"family_id": "um-squirrel-girl",
+			"version_id": "1",
+			"version_name": "1",
+			"versions": [],
+			"name": "Squirrel Girl",
+			"note": "Unmatched (Restoration Games), set teen-spirit. Datos transcritos de las cartas; uso privado.",
+			"user": "alexkhudov2002",
+			"bgg_link": null,
+			"created_on": "2026-11-21T23:28:37.113Z",
+			"deck_first_published_on": "2026-11-21T23:28:37.113Z",
+			"published_on": "2026-11-21T23:28:37.113Z",
+			"updated_on": "2026-11-21T23:28:37.113Z",
+			"deck_published": false,
+			"published": false,
+			"liked": false,
+			"likes": 0,
+			"tags": [
+				"unmatched",
+				"teen-spirit"
+			],
+			"deck_data": {
+				"name": "Squirrel Girl",
+				"appearance": {
+					"borderColour": "#1F1F1F",
+					"highlightColour": "#E8C547",
+					"cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/back.webp?v=3cf66c4802",
+					"isPNP": false,
+					"patternName": ""
+				},
+				"hero": {
+					"name": "Squirrel Girl",
+					"hp": 13,
+					"move": 2,
+					"isRanged": false,
+					"specialAbility": "GO NUTS!\nAt the start of your turn, summon a squirrel in a space adjacent to Squirrel Girl.\nSquirrels are small fighters.\nDo not start with any squirrels on the board.",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/token-hero.png?v=2797ffd8df"
+				},
+				"sidekick": {
+					"name": "Squirrel",
+					"quantity": 8,
+					"hp": 1,
+					"isRanged": false,
+					"quote": "",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/token-squirrel.png?v=95b4f0845b"
+				},
+				"cards": [
+					{
+						"title": "Horde of Squirrels",
+						"quantity": 2,
+						"type": "scheme",
+						"value": null,
+						"boost": 2,
+						"characterName": "Squirrel Girl",
+						"basicText": "Choose a space with four or more squirrels adjacent to it. Deal 2 damage to a fighter in that space.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/horde-of-squirrels.webp?v=d7bc3751ce",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/horde-of-squirrels.webp?v=d7bc3751ce"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/back.webp?v=3cf66c4802"
+					},
+					{
+						"title": "Get 'Em Tippy-Toe!",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 3,
+						"boost": 1,
+						"characterName": "Squirrel Girl",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Summon two squirrels in any space.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/get-em-tippy-toe.webp?v=641a3c70e0",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/get-em-tippy-toe.webp?v=641a3c70e0"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/back.webp?v=3cf66c4802"
+					},
+					{
+						"title": "Feint",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 2,
+						"boost": 1,
+						"characterName": "Squirrel Girl",
+						"basicText": "",
+						"immediateText": "Cancel all effects on your opponent's card.",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/feint.webp?v=5b41232176",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/feint.webp?v=5b41232176"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/back.webp?v=3cf66c4802"
+					},
+					{
+						"title": "Fuzzball Special",
+						"quantity": 2,
+						"type": "attack",
+						"value": 3,
+						"boost": 1,
+						"characterName": "Squirrel Girl",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Move each squirrel up to 3 spaces.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/fuzzball-special.webp?v=b114a90074",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/fuzzball-special.webp?v=b114a90074"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/back.webp?v=3cf66c4802"
+					},
+					{
+						"title": "Dash",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Squirrel Girl",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Move Squirrel Girl up to 3 spaces.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/dash.webp?v=ecebc27b96",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/dash.webp?v=ecebc27b96"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/back.webp?v=3cf66c4802"
+					},
+					{
+						"title": "Kick Butts",
+						"quantity": 3,
+						"type": "attack",
+						"value": 1,
+						"boost": 1,
+						"characterName": "Squirrel Girl",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "Increase the value of this card by +1 for each squirrel adjacent to the opposing fighter.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/kick-butts.webp?v=36d2554a5b",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/kick-butts.webp?v=36d2554a5b"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/back.webp?v=3cf66c4802"
+					},
+					{
+						"title": "Unbeatable Squirrel Girl",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 4,
+						"boost": 1,
+						"characterName": "Squirrel Girl",
+						"basicText": "",
+						"immediateText": "If there are four or more squirrels adjacent to the opposing fighter, cancel all effects on your opponent's card and ignore its value.",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/unbeatable-squirrel-girl.webp?v=d194011172",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/unbeatable-squirrel-girl.webp?v=d194011172"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/back.webp?v=3cf66c4802"
+					},
+					{
+						"title": "Squirmish",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 4,
+						"boost": 1,
+						"characterName": "Squirrel Girl",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Summon a squirrel in Squirrel Girl's space. Then, place Squirrel Girl in any space in her zone.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/squirmish.webp?v=3c4b42c27d",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/squirmish.webp?v=3c4b42c27d"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/back.webp?v=3cf66c4802"
+					},
+					{
+						"title": "Eat Nuts",
+						"quantity": 2,
+						"type": "scheme",
+						"value": null,
+						"boost": 2,
+						"characterName": "Squirrel Girl",
+						"basicText": "Squirrel Girl recovers 2 health.\nSummon a squirrel in a space adjacent to Squirrel Girl.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/eat-nuts.webp?v=dc01a65f0d",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/eat-nuts.webp?v=dc01a65f0d"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/back.webp?v=3cf66c4802"
+					},
+					{
+						"title": "Call of the Mild",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Any",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "If there are four or more squirrels in your fighter's zone, the value of this card is 4 instead.",
+						"afterText": "If you won the combat, draw 2 cards.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/call-of-the-mild.webp?v=41af0d3a0e",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/call-of-the-mild.webp?v=41af0d3a0e"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/back.webp?v=3cf66c4802"
+					},
+					{
+						"title": "Bite of Steel",
+						"quantity": 3,
+						"type": "attack",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Squirrel",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "If there are four or more squirrels in the opposing fighter's zone, the value of this card is 5 instead.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/bite-of-steel.webp?v=a99be1a455",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/bite-of-steel.webp?v=a99be1a455"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/back.webp?v=3cf66c4802"
+					},
+					{
+						"title": "Squirgility",
+						"quantity": 3,
+						"type": "defence",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Squirrel Girl",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Move Squirrel Girl up to 3 spaces. She may move through sidekicks. Do not count movement for spaces containing sidekicks.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/squirgility.webp?v=1bdc34f3ba",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/squirgility.webp?v=1bdc34f3ba"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/back.webp?v=3cf66c4802"
+					},
+					{
+						"title": "Nutwork of Spies",
+						"quantity": 1,
+						"type": "scheme",
+						"value": null,
+						"boost": 2,
+						"characterName": "Squirrel Girl",
+						"basicText": "Look at an opponent's hand and choose 1 card for them to discard. If one of their fighters is adjacent to four or more squirrels, choose 2 cards instead.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/nutwork-of-spies.webp?v=fc88d04c4f",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/cards/nutwork-of-spies.webp?v=fc88d04c4f"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/back.webp?v=3cf66c4802"
+					},
+					{
+						"title": "Squirrel Girl",
+						"quantity": 1,
+						"type": "versatile",
+						"value": null,
+						"boost": 0,
+						"characterName": "Squirrel Girl",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/hero.webp?v=6b7eea01bb",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/hero.webp?v=6b7eea01bb"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/back.webp?v=3cf66c4802",
+						"isCharacterCard": true
+					}
+				]
+			}
+		},
+		{
 			"id": "um-sun-wukong",
 			"family_id": "um-sun-wukong",
 			"version_id": "1",
@@ -14580,6 +17555,262 @@
 					{
 						"title": "Bonus attacks",
 						"content": "Each hero in this set has cards with a bonus attack that allows the fighter to make a second attack with one attack action. When you play a card with a bonus attack, resolve the main attack as normal. The bonus attack is triggered by the AFTER COMBAT effect of the first attack. If that effect is canceled (by Feint, for example) the bonus attack does not occur.\n\nIf the bonus attack triggers, resolve that attack like a normal attack between the same attacker and defender as if the attacker played the bonus attack as a new attack card. The bonus attack has a new name, value, and effect. The BOOST value is the same. The bonus attack targets the same defender even if they are no longer a valid target. If the defender is defeated during the first attack, there is no bonus attack."
+					}
+				]
+			}
+		},
+		{
+			"id": "um-t-rex",
+			"family_id": "um-t-rex",
+			"version_id": "1",
+			"version_name": "1",
+			"versions": [],
+			"name": "T. Rex",
+			"note": "Unmatched (Restoration Games), set trex-vs-sattler. Datos transcritos de las cartas; uso privado.",
+			"user": "alexkhudov2002",
+			"bgg_link": null,
+			"created_on": "2026-11-21T23:28:37.893Z",
+			"deck_first_published_on": "2026-11-21T23:28:37.893Z",
+			"published_on": "2026-11-21T23:28:37.893Z",
+			"updated_on": "2026-11-21T23:28:37.893Z",
+			"deck_published": false,
+			"published": false,
+			"liked": false,
+			"likes": 0,
+			"tags": [
+				"unmatched",
+				"trex-vs-sattler"
+			],
+			"deck_data": {
+				"name": "T. Rex",
+				"appearance": {
+					"borderColour": "#1F1F1F",
+					"highlightColour": "#E8C547",
+					"cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37",
+					"isPNP": false,
+					"patternName": ""
+				},
+				"hero": {
+					"name": "T. Rex",
+					"hp": 27,
+					"move": 1,
+					"isRanged": false,
+					"specialAbility": "T. Rex is a large fighter. (She can attack up to 2 spaces away.)\nAt the end of your turn, draw a card.",
+					"quote": "ROOOOOOAAAAARR.",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/token-hero.png?v=005302c300"
+				},
+				"sidekick": {
+					"name": "Sidekick",
+					"hp": null,
+					"quantity": null,
+					"isRanged": false,
+					"quote": ""
+				},
+				"cards": [
+					{
+						"title": "Commanding Impact",
+						"quantity": 3,
+						"type": "attack",
+						"value": 5,
+						"boost": 2,
+						"characterName": "T. Rex",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Draw 1 card.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/commanding-impact.webp?v=8044e80699",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/commanding-impact.webp?v=8044e80699"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+					},
+					{
+						"title": "When Dinosaurs Ruled the Earth",
+						"quantity": 4,
+						"type": "attack",
+						"value": 2,
+						"boost": 3,
+						"characterName": "T. Rex",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "You may BOOST this card.",
+						"afterText": "If you won the combat, draw 1 card, gain 1 action, and take 2 damage.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/when-dinosaurs-ruled-the-earth.webp?v=55fb556035",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/when-dinosaurs-ruled-the-earth.webp?v=55fb556035"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+					},
+					{
+						"title": "15,000 Pounds of Muscle",
+						"quantity": 2,
+						"type": "attack",
+						"value": 3,
+						"boost": 3,
+						"characterName": "T. Rex",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "Ignore the value of your opponent's card.",
+						"afterText": "Take 2 damage.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/15-000-pounds-of-muscle.webp?v=c18e4c8f20",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/15-000-pounds-of-muscle.webp?v=c18e4c8f20"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+					},
+					{
+						"title": "Terrifying Roar",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 3,
+						"boost": 3,
+						"characterName": "T. Rex",
+						"basicText": "",
+						"immediateText": "Fighters cannot leave their space for the rest of the turn.",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/terrifying-roar.webp?v=df4082ef06",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/terrifying-roar.webp?v=df4082ef06"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+					},
+					{
+						"title": "Momentous Shift",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 3,
+						"boost": 2,
+						"characterName": "T. Rex",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "If your fighter started this turn in a different space, this card's value is 5 instead.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/momentous-shift.webp?v=0043a27ccf",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/momentous-shift.webp?v=0043a27ccf"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+					},
+					{
+						"title": "Closer Than She Appears",
+						"quantity": 3,
+						"type": "scheme",
+						"value": null,
+						"boost": 2,
+						"characterName": "T. Rex",
+						"basicText": "Move T. Rex up to 1 space.\nDraw 1 card.\nGain 1 action.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/closer-than-she-appears.webp?v=6843b17921",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/closer-than-she-appears.webp?v=6843b17921"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+					},
+					{
+						"title": "You're Just Making Her Angry",
+						"quantity": 2,
+						"type": "defence",
+						"value": 1,
+						"boost": 1,
+						"characterName": "T. Rex",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "You may BOOST this card.",
+						"afterText": "If you won the combat, return this card to your hand.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/you-re-just-making-her-angry.webp?v=3cc40c47f7",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/you-re-just-making-her-angry.webp?v=3cc40c47f7"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+					},
+					{
+						"title": "Ripples in the Water",
+						"quantity": 3,
+						"type": "scheme",
+						"value": null,
+						"boost": 2,
+						"characterName": "T. Rex",
+						"basicText": "Place T. Rex in any space in her zone. Then, each opponent with a fighter adjacent to T. Rex discards 1 random card.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/ripples-in-the-water.webp?v=b26730c32c",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/ripples-in-the-water.webp?v=b26730c32c"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+					},
+					{
+						"title": "65 Million Years of Gut Instinct",
+						"quantity": 2,
+						"type": "scheme",
+						"value": null,
+						"boost": 3,
+						"characterName": "T. Rex",
+						"basicText": "Choose a card in your discard pile other than 65 MILLION YEARS OF GUT INSTINCT and add it to your hand.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/65-million-years-of-gut-instinct.webp?v=c7b44366e1",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/65-million-years-of-gut-instinct.webp?v=c7b44366e1"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+					},
+					{
+						"title": "Reckless Lunge",
+						"quantity": 3,
+						"type": "attack",
+						"value": 3,
+						"boost": 4,
+						"characterName": "T. Rex",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Deal 3 damage to the opposing fighter. Take 3 damage.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/reckless-lunge.webp?v=866cf5d79a",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/reckless-lunge.webp?v=866cf5d79a"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+					},
+					{
+						"title": "Thrash",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 2,
+						"boost": 2,
+						"characterName": "T. Rex",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "You may BOOST this card.",
+						"afterText": "If you won the combat, deal 1 damage to each opposing fighter in T. Rex's zone.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/thrash.webp?v=3688b5b962",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/cards/thrash.webp?v=3688b5b962"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37"
+					},
+					{
+						"title": "T. Rex",
+						"quantity": 1,
+						"type": "versatile",
+						"value": null,
+						"boost": 0,
+						"characterName": "T. Rex",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/hero.webp?v=f693c45d7f",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/hero.webp?v=f693c45d7f"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/back.webp?v=3315f27e37",
+						"isCharacterCard": true
 					}
 				]
 			}
@@ -16857,6 +20088,279 @@
 					{
 						"title": "Odd Health Sidekicks",
 						"content": "If a sidekick has an odd health every time that the sidekick's health cannot be evenly divided, the halfway point is going to be the smallest of the 2 such as 5 health the halfway poinr for the ability is 2 health. For 7 health it is 3 health, etc."
+					}
+				]
+			}
+		},
+		{
+			"id": "um-winter-soldier",
+			"family_id": "um-winter-soldier",
+			"version_id": "1",
+			"version_name": "1",
+			"versions": [],
+			"name": "Winter Soldier",
+			"note": "Unmatched (Restoration Games), set for-king-and-country. Datos transcritos de las cartas; uso privado.",
+			"user": "alexkhudov2002",
+			"bgg_link": null,
+			"created_on": "2026-11-21T23:28:34.826Z",
+			"deck_first_published_on": "2026-11-21T23:28:34.826Z",
+			"published_on": "2026-11-21T23:28:34.826Z",
+			"updated_on": "2026-11-21T23:28:34.826Z",
+			"deck_published": false,
+			"published": false,
+			"liked": false,
+			"likes": 0,
+			"tags": [
+				"unmatched",
+				"for-king-and-country"
+			],
+			"deck_data": {
+				"name": "Winter Soldier",
+				"appearance": {
+					"borderColour": "#1F1F1F",
+					"highlightColour": "#E8C547",
+					"cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19",
+					"isPNP": false,
+					"patternName": ""
+				},
+				"hero": {
+					"name": "Winter Soldier",
+					"hp": 15,
+					"move": 2,
+					"isRanged": true,
+					"specialAbility": "BRAINWASHED\nEffects on Winter Soldier's cards cannot be canceled.",
+					"quote": "It's time for me to face the past... no matter what.",
+					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/token-hero.png?v=8b1a5f0456"
+				},
+				"sidekick": {
+					"name": "Sidekick",
+					"hp": null,
+					"quantity": null,
+					"isRanged": false,
+					"quote": ""
+				},
+				"cards": [
+					{
+						"title": "Programmed to Kill",
+						"quantity": 2,
+						"type": "attack",
+						"value": 4,
+						"boost": 2,
+						"characterName": "Winter Soldier",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "★ If you won the combat, take 2 damage.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/programmed-to-kill.webp?v=afb71f4be0",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/programmed-to-kill.webp?v=afb71f4be0"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+					},
+					{
+						"title": "Marksman",
+						"quantity": 3,
+						"type": "attack",
+						"value": 1,
+						"boost": 1,
+						"characterName": "Winter Soldier",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "Add +1 to this card's value for each space between you and the opposing fighter along the shortest path.",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/marksman.webp?v=31eadcb867",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/marksman.webp?v=31eadcb867"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+					},
+					{
+						"title": "Complete the Mission",
+						"quantity": 3,
+						"type": "defence",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Winter Soldier",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "You may BOOST this card.",
+						"afterText": "Deal damage to the opposing fighter equal to the amount of combat damage you took.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/complete-the-mission.webp?v=965c7a3035",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/complete-the-mission.webp?v=965c7a3035"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+					},
+					{
+						"title": "A Boy Named Bucky",
+						"quantity": 2,
+						"type": "scheme",
+						"value": null,
+						"boost": 3,
+						"characterName": "Winter Soldier",
+						"basicText": "Ignore any ★ effects on your cards for the rest of your turn.\nGain 1 action.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/a-boy-named-bucky.webp?v=fcfdf50122",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/a-boy-named-bucky.webp?v=fcfdf50122"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+					},
+					{
+						"title": "Wily Fighting",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 3,
+						"boost": 1,
+						"characterName": "Winter Soldier",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Deal 1 damage to each opposing fighter adjacent to Winter Soldier.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/wily-fighting.webp?v=cb0a69e258",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/wily-fighting.webp?v=cb0a69e258"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+					},
+					{
+						"title": "Bionic Arm",
+						"quantity": 3,
+						"type": "attack",
+						"value": 2,
+						"boost": 1,
+						"characterName": "Winter Soldier",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "If Winter Soldier is adjacent to the opposing fighter, the value of this card is 6 instead.",
+						"afterText": "★ Your opponent moves each of their fighters up to 5 spaces.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/bionic-arm.webp?v=18aa7b7ae9",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/bionic-arm.webp?v=18aa7b7ae9"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+					},
+					{
+						"title": "Born in the Barracks",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 3,
+						"boost": 2,
+						"characterName": "Winter Soldier",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "If you won the combat, Winter Soldier recovers 2 health.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/born-in-the-barracks.webp?v=4f9d4f5036",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/born-in-the-barracks.webp?v=4f9d4f5036"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+					},
+					{
+						"title": "Feint",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Winter Soldier",
+						"basicText": "",
+						"immediateText": "Cancel all effects on your opponent's card.",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/feint.webp?v=c3a2775d4a",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/feint.webp?v=c3a2775d4a"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+					},
+					{
+						"title": "Manipulation",
+						"quantity": 2,
+						"type": "scheme",
+						"value": null,
+						"boost": 3,
+						"characterName": "Winter Soldier",
+						"basicText": "Draw until you have 5 cards in your hand.\n★ Each opponent may draw until they have 5 cards in their hand.",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/manipulation.webp?v=c488dcb38e",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/manipulation.webp?v=c488dcb38e"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+					},
+					{
+						"title": "Reflex Memories",
+						"quantity": 2,
+						"type": "versatile",
+						"value": 5,
+						"boost": 2,
+						"characterName": "Winter Soldier",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "★ Discard 2 random cards, then draw 2 cards.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/reflex-memories.webp?v=df938a7a4f",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/reflex-memories.webp?v=df938a7a4f"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+					},
+					{
+						"title": "Without Remorse",
+						"quantity": 3,
+						"type": "attack",
+						"value": 6,
+						"boost": 2,
+						"characterName": "Winter Soldier",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "★ Your opponent may draw 1 card.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/without-remorse.webp?v=585f2b1e2b",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/without-remorse.webp?v=585f2b1e2b"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+					},
+					{
+						"title": "Reprogram",
+						"quantity": 3,
+						"type": "versatile",
+						"value": 2,
+						"boost": 2,
+						"characterName": "Winter Soldier",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "Choose 3 cards in your discard pile and shuffle them into your deck.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/reprogram.webp?v=70b5a9f1c9",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/reprogram.webp?v=70b5a9f1c9"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+					},
+					{
+						"title": "Winter Soldier",
+						"quantity": 1,
+						"type": "versatile",
+						"value": null,
+						"boost": 0,
+						"characterName": "Winter Soldier",
+						"basicText": "",
+						"immediateText": "",
+						"duringText": "",
+						"afterText": "",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/hero.webp?v=f8338e685b",
+						"cardImage": {
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/hero.webp?v=f8338e685b"
+						},
+						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19",
+						"isCharacterCard": true
 					}
 				]
 			}

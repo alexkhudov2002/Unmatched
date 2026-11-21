@@ -1,0 +1,256 @@
+{
+  "id": "um-bigfoot",
+  "family_id": "um-bigfoot",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Bigfoot",
+  "note": "Unmatched (Restoration Games), set hood-vs-big-foot. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-21T23:28:35.253Z",
+  "deck_first_published_on": "2026-11-21T23:28:35.253Z",
+  "published_on": "2026-11-21T23:28:35.253Z",
+  "updated_on": "2026-11-21T23:28:35.253Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "hood-vs-big-foot"
+  ],
+  "deck_data": {
+    "name": "Bigfoot",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Bigfoot",
+      "hp": 16,
+      "move": 3,
+      "isRanged": false,
+      "specialAbility": "At the end of your turn, if there are no opposing fighters in Bigfoot's zone, you may draw 1 card.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/token-hero.png?v=7aa006f918"
+    },
+    "sidekick": {
+      "name": "The Jackalope",
+      "quantity": 1,
+      "hp": 6,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/token-the-jackalope.png?v=404e7d1ab5"
+    },
+    "cards": [
+      {
+        "title": "Disengage",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Choose an empty space in this fighter's zone. Place this fighter in that space.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/disengage.webp?v=a61d856b22",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/disengage.webp?v=a61d856b22"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+      },
+      {
+        "title": "Skirmish",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, choose one of the fighters in the combat and move them up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/skirmish.webp?v=4c094e0950",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/skirmish.webp?v=4c094e0950"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+      },
+      {
+        "title": "Regroup",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 1,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/regroup.webp?v=e8db46dbe5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/regroup.webp?v=e8db46dbe5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+      },
+      {
+        "title": "Crash Through the Trees",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Bigfoot",
+        "basicText": "Move Bigfoot up to 5 spaces. You may move Bigfoot through spaces containing opposing fighters.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/crash-through-the-trees.webp?v=bf0828eeed",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/crash-through-the-trees.webp?v=bf0828eeed"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+      },
+      {
+        "title": "It's Just Your Imagination",
+        "quantity": 2,
+        "type": "defence",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/it-s-just-your-imagination.webp?v=8aa0ae72ea",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/it-s-just-your-imagination.webp?v=8aa0ae72ea"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+      },
+      {
+        "title": "Hoax",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move your fighter up to 5 spaces. You may move that fighter through spaces containing opposing fighters.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/hoax.webp?v=b46543086c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/hoax.webp?v=b46543086c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+      },
+      {
+        "title": "Momentous Shift",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If your fighter started this turn in a different space, this card's value is 5 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/momentous-shift.webp?v=31b3ec7620",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/momentous-shift.webp?v=31b3ec7620"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+      },
+      {
+        "title": "Jackalope Horns",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "The Jackalope",
+        "basicText": "Move the Jackalope up to 5 spaces. You may move the Jackalope through spaces containing opposing fighters. Then deal 2 damage to any one fighter adjacent to the Jackalope.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/jackalope-horns.webp?v=a8760fc445",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/jackalope-horns.webp?v=a8760fc445"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+      },
+      {
+        "title": "Savagery",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Bigfoot",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, deal 1 damage to each fighter adjacent to Bigfoot.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/savagery.webp?v=76ebfaea5d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/savagery.webp?v=76ebfaea5d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+      },
+      {
+        "title": "Larger Than Life",
+        "quantity": 3,
+        "type": "attack",
+        "value": 6,
+        "boost": 3,
+        "characterName": "Bigfoot",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/larger-than-life.webp?v=b75eeb37b7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/larger-than-life.webp?v=b75eeb37b7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/feint.webp?v=05a26f413f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/cards/feint.webp?v=05a26f413f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009"
+      },
+      {
+        "title": "Bigfoot",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Bigfoot",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/hero.webp?v=a086d2fefe",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/hero.webp?v=a086d2fefe"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/back.webp?v=d8e03e9009",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

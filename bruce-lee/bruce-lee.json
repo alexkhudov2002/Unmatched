@@ -1,0 +1,358 @@
+{
+  "id": "um-bruce-lee",
+  "family_id": "um-bruce-lee",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Bruce Lee",
+  "note": "Unmatched (Restoration Games), set lee-vs-ali. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-21T23:28:35.505Z",
+  "deck_first_published_on": "2026-11-21T23:28:35.505Z",
+  "published_on": "2026-11-21T23:28:35.505Z",
+  "updated_on": "2026-11-21T23:28:35.505Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "lee-vs-ali"
+  ],
+  "deck_data": {
+    "name": "Bruce Lee",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Bruce Lee",
+      "hp": 14,
+      "move": 3,
+      "isRanged": false,
+      "specialAbility": "At the end of your turn, you may move Bruce Lee 1 space.",
+      "quote": "The successful warrior is the average man, with laser-like focus.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/token-hero.png?v=761ababef0"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Jeet Kune Do: High Straight Lead",
+        "quantity": 1,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Bruce Lee",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If either fighter started the turn in a different space, the value of this card is 5 instead.",
+        "afterText": "Gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-high-straight-lead.webp?v=2f182c3ad0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-high-straight-lead.webp?v=2f182c3ad0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+      },
+      {
+        "title": "Little Dragon",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Bruce Lee",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If your hand is empty, the value of this card is 6 instead.",
+        "afterText": "Draw 2 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/little-dragon.webp?v=30a8fc600e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/little-dragon.webp?v=30a8fc600e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+      },
+      {
+        "title": "Bring It On",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Bruce Lee",
+        "basicText": "Choose an opposing fighter in Bruce Lee's zone. Place them in any space adjacent to Bruce Lee. Gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/bring-it-on.webp?v=4dbd8d92e0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/bring-it-on.webp?v=4dbd8d92e0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+      },
+      {
+        "title": "Nunchaku",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Bruce Lee",
+        "basicText": "All of Bruce Lee's attacks this turn are +1 value. Gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/nunchaku.webp?v=16eda3231b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/nunchaku.webp?v=16eda3231b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Bruce Lee",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/feint.webp?v=762a6abe73",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/feint.webp?v=762a6abe73"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+      },
+      {
+        "title": "\"Hoo! Whaaaaaa!\"",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Bruce Lee",
+        "basicText": "Choose a JEET KUNE DO card in your discard pile and add it to your hand. Gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/hoo-whaaaaaa.webp?v=101699dc39",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/hoo-whaaaaaa.webp?v=101699dc39"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+      },
+      {
+        "title": "Jeet Kune Do: Downward Side Kick",
+        "quantity": 1,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Bruce Lee",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Your opponent discards 1 random card. Gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-downward-side-kick.webp?v=b1fd8e307c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-downward-side-kick.webp?v=b1fd8e307c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+      },
+      {
+        "title": "Regroup",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 1,
+        "boost": 2,
+        "characterName": "Bruce Lee",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/regroup.webp?v=58b5cf14e4",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/regroup.webp?v=58b5cf14e4"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+      },
+      {
+        "title": "Skirmish",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Bruce Lee",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, choose one of the fighters in the combat and move them up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/skirmish.webp?v=ce59b0052e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/skirmish.webp?v=ce59b0052e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+      },
+      {
+        "title": "Jeet Kune Do: Intercepting Fist",
+        "quantity": 1,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Bruce Lee",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "Gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-intercepting-fist.webp?v=8ebd975fbe",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-intercepting-fist.webp?v=8ebd975fbe"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+      },
+      {
+        "title": "Jeet Kune Do: Wrist Lock",
+        "quantity": 1,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Bruce Lee",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card. Gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-wrist-lock.webp?v=fa0cc2a6b1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-wrist-lock.webp?v=fa0cc2a6b1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+      },
+      {
+        "title": "Momentous Shift",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Bruce Lee",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If Bruce Lee started this turn in a different space, the value of this card is 5 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/momentous-shift.webp?v=71dde9f816",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/momentous-shift.webp?v=71dde9f816"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+      },
+      {
+        "title": "Be Like Water",
+        "quantity": 4,
+        "type": "defence",
+        "value": 3,
+        "boost": 4,
+        "characterName": "Bruce Lee",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Choose a JEET KUNE DO card in your discard pile and add it to your hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/be-like-water.webp?v=8f204cf319",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/be-like-water.webp?v=8f204cf319"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+      },
+      {
+        "title": "One-Inch Punch",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Bruce Lee",
+        "basicText": "Deal 2 damage to an adjacent fighter. If this defeats that fighter, return this card to your hand instead of discarding it.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/one-inch-punch.webp?v=621081acb0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/one-inch-punch.webp?v=621081acb0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+      },
+      {
+        "title": "Jeet Kune Do: Corkscrew Finger Jab",
+        "quantity": 1,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Bruce Lee",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 1 damage to the opposing fighter. Gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-corkscrew-finger-jab.webp?v=fe82d8fca2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-corkscrew-finger-jab.webp?v=fe82d8fca2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+      },
+      {
+        "title": "Jeet Kune Do: Short Lead Hook",
+        "quantity": 1,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Bruce Lee",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Bruce Lee may swap spaces with the opposing fighter. Gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-short-lead-hook.webp?v=47cd738c48",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/jeet-kune-do-short-lead-hook.webp?v=47cd738c48"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+      },
+      {
+        "title": "Taste of Blood",
+        "quantity": 1,
+        "type": "defence",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Bruce Lee",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If Bruce Lee has 5 or less health, draw 3 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/taste-of-blood.webp?v=2489a6f385",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/cards/taste-of-blood.webp?v=2489a6f385"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444"
+      },
+      {
+        "title": "Bruce Lee",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Bruce Lee",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/hero.webp?v=45e5c59da3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/hero.webp?v=45e5c59da3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/back.webp?v=bd1c4f6444",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "id": "um-black-widow",
+  "family_id": "um-black-widow",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Black Widow",
+  "note": "Unmatched (Restoration Games), set for-king-and-country. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-21T23:28:34.444Z",
+  "deck_first_published_on": "2026-11-21T23:28:34.444Z",
+  "published_on": "2026-11-21T23:28:34.444Z",
+  "updated_on": "2026-11-21T23:28:34.444Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "for-king-and-country"
+  ],
+  "deck_data": {
+    "name": "Black Widow",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Black Widow",
+      "hp": 13,
+      "move": 2,
+      "isRanged": true,
+      "specialAbility": "MISSION READY\nBefore drawing your starting hand, add THE MOSCOW PROTOCOL card to your hand. Then, shuffle your deck and draw 5 cards. (Your starting hand is 6 cards instead of 5.)",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/token-hero.png?v=493d0a584d"
+    },
+    "sidekick": {
+      "name": "Maria Hill",
+      "quantity": 1,
+      "hp": 6,
+      "isRanged": true,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/token-maria-hill.png?v=039e62d787"
+    },
+    "cards": [
+      {
+        "title": "The Budapest Gambit",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 4,
+        "characterName": "Black Widow",
+        "basicText": "MISSION: You have 2 or fewer other cards in your hand.\n✔ Draw 5 cards. Each opponent discards 1 random card. Acquire a new mission.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-budapest-gambit.webp?v=8cc1ce6678",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-budapest-gambit.webp?v=8cc1ce6678"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+      },
+      {
+        "title": "Caught in a Web",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Black Widow",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Cancel all AFTER COMBAT effects on your opponent's card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/caught-in-a-web.webp?v=405cefd208",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/caught-in-a-web.webp?v=405cefd208"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+      },
+      {
+        "title": "Life Model Decoy",
+        "quantity": 2,
+        "type": "defence",
+        "value": 0,
+        "boost": 2,
+        "characterName": "Maria Hill",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If Maria Hill was defeated, place her adjacent to Black Widow. If you do, set Maria Hill's health to 3.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/life-model-decoy.webp?v=4924738780",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/life-model-decoy.webp?v=4924738780"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+      },
+      {
+        "title": "The Kinshasa Directive",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 4,
+        "characterName": "Black Widow",
+        "basicText": "MISSION: Black Widow is in your starting space.\n✔ Choose an opponent. They discard 2 cards. Acquire a new mission.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-kinshasa-directive.webp?v=2d9d4802ec",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-kinshasa-directive.webp?v=2d9d4802ec"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+      },
+      {
+        "title": "Fake Out",
+        "quantity": 2,
+        "type": "attack",
+        "value": 1,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you lost the combat, draw 1 card and gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/fake-out.webp?v=210acebf3f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/fake-out.webp?v=210acebf3f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+      },
+      {
+        "title": "Widow's Kiss",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Black Widow",
+        "basicText": "",
+        "immediateText": "The opposing fighter may not leave their space for the rest of the turn.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/widow-s-kiss.webp?v=cfcbda12c2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/widow-s-kiss.webp?v=cfcbda12c2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/feint.webp?v=f8609f959a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/feint.webp?v=f8609f959a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+      },
+      {
+        "title": "Widow's Bite",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Black Widow",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, your opponent discards 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/widow-s-bite.webp?v=33bbdca697",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/widow-s-bite.webp?v=33bbdca697"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+      },
+      {
+        "title": "The Moscow Protocol",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 4,
+        "characterName": "Black Widow",
+        "basicText": "MISSION: An opposing fighter took damage this turn.\n✔ Draw 1 card and gain 1 action. Acquire a new mission.\nStart the game with this card in your hand.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-moscow-protocol.webp?v=5ab4d15157",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-moscow-protocol.webp?v=5ab4d15157"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+      },
+      {
+        "title": "Widow's Line",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Black Widow",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move the opposing fighter up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/widow-s-line.webp?v=0e97eff97a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/widow-s-line.webp?v=0e97eff97a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+      },
+      {
+        "title": "Acting Director of S.H.I.E.L.D.",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Maria Hill",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move each of your fighters up to 3 spaces. They may move through opposing fighters. Then, shuffle 1 scheme from your discard pile into your deck.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/acting-director-of-s-h-i-e-l-d.webp?v=8787074a5f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/acting-director-of-s-h-i-e-l-d.webp?v=8787074a5f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+      },
+      {
+        "title": "Double Identity",
+        "quantity": 3,
+        "type": "defence",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Black Widow and Maria Hill may swap spaces. If they do, your other fighter is now the defender.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/double-identity.webp?v=3d6c81fca6",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/double-identity.webp?v=3d6c81fca6"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+      },
+      {
+        "title": "Widow's Sting",
+        "quantity": 2,
+        "type": "attack",
+        "value": 5,
+        "boost": 2,
+        "characterName": "Black Widow",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move Black Widow up to 3 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/widow-s-sting.webp?v=06a7753a25",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/widow-s-sting.webp?v=06a7753a25"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+      },
+      {
+        "title": "The Firenze Agenda",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 4,
+        "characterName": "Black Widow",
+        "basicText": "MISSION: Black Widow is adjacent to an opposing hero.\n✔ Deal 2 damage to each opposing fighter in Black Widow's zone. Acquire a new mission.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-firenze-agenda.webp?v=9f759e0b6e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-firenze-agenda.webp?v=9f759e0b6e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+      },
+      {
+        "title": "The Madripoor Sanction",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 4,
+        "characterName": "Black Widow",
+        "basicText": "MISSION: Black Widow is in an opponent's starting space.\n✔ Deal 2 damage to each of that opponent's fighters. Acquire a new mission.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-madripoor-sanction.webp?v=27375214cf",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/cards/the-madripoor-sanction.webp?v=27375214cf"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0"
+      },
+      {
+        "title": "Black Widow",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Black Widow",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/hero.webp?v=54fd0635bd",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/hero.webp?v=54fd0635bd"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/back.webp?v=9e3cd95ec0",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

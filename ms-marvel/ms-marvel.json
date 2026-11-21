@@ -1,0 +1,256 @@
+{
+  "id": "um-ms-marvel",
+  "family_id": "um-ms-marvel",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Ms. Marvel",
+  "note": "Unmatched (Restoration Games), set teen-spirit. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-21T23:28:36.746Z",
+  "deck_first_published_on": "2026-11-21T23:28:36.746Z",
+  "published_on": "2026-11-21T23:28:36.746Z",
+  "updated_on": "2026-11-21T23:28:36.746Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "teen-spirit"
+  ],
+  "deck_data": {
+    "name": "Ms. Marvel",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Ms. Marvel",
+      "hp": 14,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "STRETCHY\nAt the start of your turn, you may move Ms. Marvel 1 space.\nMs. Marvel can attack from up to 2 spaces away (ignoring zones).",
+      "quote": "A hero is just somebody who tries to do the right thing even when it's hard.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/token-hero.png?v=7d2aa762e1"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Easy Peasy",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Ms. Marvel",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card. Then, if you have 4 or more cards in your hand, deal 1 damage to an adjacent fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/easy-peasy.webp?v=483d81ba2f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/easy-peasy.webp?v=483d81ba2f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+      },
+      {
+        "title": "Shrink! Shrink! Shrink!",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Ms. Marvel",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Choose one effect. If Ms. Marvel's space shares no zones with the opposing fighter, do both:\n▸ your opponent discards 1 card\n▸ move the opposing fighter up to 3 spaces",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/shrink-shrink-shrink.webp?v=4e89a58094",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/shrink-shrink-shrink.webp?v=4e89a58094"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+      },
+      {
+        "title": "I'm Not Touching You",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Ms. Marvel",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If Ms. Marvel's space shares no zones with the opposing fighter, draw 2 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/i-m-not-touching-you.webp?v=9b3a87bca8",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/i-m-not-touching-you.webp?v=9b3a87bca8"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+      },
+      {
+        "title": "Gyro and Fries",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Ms. Marvel",
+        "basicText": "Recover 2 health. Then, if you have 4 or more cards in your hand, gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/gyro-and-fries.webp?v=3e9c19011c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/gyro-and-fries.webp?v=3e9c19011c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+      },
+      {
+        "title": "Big Wind Up",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Ms. Marvel",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If Ms. Marvel's space shares no zones with the opposing fighter, you may BOOST this card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/big-wind-up.webp?v=35ba3e9a85",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/big-wind-up.webp?v=35ba3e9a85"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+      },
+      {
+        "title": "Fangirl",
+        "quantity": 3,
+        "type": "attack",
+        "value": 0,
+        "boost": 2,
+        "characterName": "Ms. Marvel",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "The value of this card is equal to the number of cards in your hand.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/fangirl.webp?v=9f26a379c9",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/fangirl.webp?v=9f26a379c9"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+      },
+      {
+        "title": "Slingshot",
+        "quantity": 3,
+        "type": "defence",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Ms. Marvel",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Place Ms. Marvel in any space in her zone.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/slingshot.webp?v=cf8559bc24",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/slingshot.webp?v=cf8559bc24"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+      },
+      {
+        "title": "Embiggen",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Ms. Marvel",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If Ms. Marvel is in more zones than the opposing fighter, the value of this card is 6 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/embiggen.webp?v=2785f68330",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/embiggen.webp?v=2785f68330"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Ms. Marvel",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/feint.webp?v=142f35935b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/feint.webp?v=142f35935b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+      },
+      {
+        "title": "Momentous Shift",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Ms. Marvel",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If Ms. Marvel started this turn in a different space, the value of this card is 5 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/momentous-shift.webp?v=400af5b4e8",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/momentous-shift.webp?v=400af5b4e8"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+      },
+      {
+        "title": "Friends and Family",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 4,
+        "characterName": "Ms. Marvel",
+        "basicText": "Draw 2 cards. Then, you may spend an additional action to draw until you have 7 cards in your hand.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/friends-and-family.webp?v=3609e392a1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/cards/friends-and-family.webp?v=3609e392a1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931"
+      },
+      {
+        "title": "Ms. Marvel",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Ms. Marvel",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/hero.webp?v=15f7958d70",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/hero.webp?v=15f7958d70"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/back.webp?v=2182234931",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

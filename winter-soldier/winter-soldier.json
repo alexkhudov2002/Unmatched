@@ -1,0 +1,273 @@
+{
+  "id": "um-winter-soldier",
+  "family_id": "um-winter-soldier",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Winter Soldier",
+  "note": "Unmatched (Restoration Games), set for-king-and-country. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-21T23:28:34.826Z",
+  "deck_first_published_on": "2026-11-21T23:28:34.826Z",
+  "published_on": "2026-11-21T23:28:34.826Z",
+  "updated_on": "2026-11-21T23:28:34.826Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "for-king-and-country"
+  ],
+  "deck_data": {
+    "name": "Winter Soldier",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Winter Soldier",
+      "hp": 15,
+      "move": 2,
+      "isRanged": true,
+      "specialAbility": "BRAINWASHED\nEffects on Winter Soldier's cards cannot be canceled.",
+      "quote": "It's time for me to face the past... no matter what.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/token-hero.png?v=8b1a5f0456"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Programmed to Kill",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Winter Soldier",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "★ If you won the combat, take 2 damage.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/programmed-to-kill.webp?v=afb71f4be0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/programmed-to-kill.webp?v=afb71f4be0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+      },
+      {
+        "title": "Marksman",
+        "quantity": 3,
+        "type": "attack",
+        "value": 1,
+        "boost": 1,
+        "characterName": "Winter Soldier",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Add +1 to this card's value for each space between you and the opposing fighter along the shortest path.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/marksman.webp?v=31eadcb867",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/marksman.webp?v=31eadcb867"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+      },
+      {
+        "title": "Complete the Mission",
+        "quantity": 3,
+        "type": "defence",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Winter Soldier",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this card.",
+        "afterText": "Deal damage to the opposing fighter equal to the amount of combat damage you took.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/complete-the-mission.webp?v=965c7a3035",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/complete-the-mission.webp?v=965c7a3035"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+      },
+      {
+        "title": "A Boy Named Bucky",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Winter Soldier",
+        "basicText": "Ignore any ★ effects on your cards for the rest of your turn.\nGain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/a-boy-named-bucky.webp?v=fcfdf50122",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/a-boy-named-bucky.webp?v=fcfdf50122"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+      },
+      {
+        "title": "Wily Fighting",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Winter Soldier",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 1 damage to each opposing fighter adjacent to Winter Soldier.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/wily-fighting.webp?v=cb0a69e258",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/wily-fighting.webp?v=cb0a69e258"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+      },
+      {
+        "title": "Bionic Arm",
+        "quantity": 3,
+        "type": "attack",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Winter Soldier",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If Winter Soldier is adjacent to the opposing fighter, the value of this card is 6 instead.",
+        "afterText": "★ Your opponent moves each of their fighters up to 5 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/bionic-arm.webp?v=18aa7b7ae9",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/bionic-arm.webp?v=18aa7b7ae9"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+      },
+      {
+        "title": "Born in the Barracks",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Winter Soldier",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, Winter Soldier recovers 2 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/born-in-the-barracks.webp?v=4f9d4f5036",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/born-in-the-barracks.webp?v=4f9d4f5036"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Winter Soldier",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/feint.webp?v=c3a2775d4a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/feint.webp?v=c3a2775d4a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+      },
+      {
+        "title": "Manipulation",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Winter Soldier",
+        "basicText": "Draw until you have 5 cards in your hand.\n★ Each opponent may draw until they have 5 cards in their hand.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/manipulation.webp?v=c488dcb38e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/manipulation.webp?v=c488dcb38e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+      },
+      {
+        "title": "Reflex Memories",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 5,
+        "boost": 2,
+        "characterName": "Winter Soldier",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "★ Discard 2 random cards, then draw 2 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/reflex-memories.webp?v=df938a7a4f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/reflex-memories.webp?v=df938a7a4f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+      },
+      {
+        "title": "Without Remorse",
+        "quantity": 3,
+        "type": "attack",
+        "value": 6,
+        "boost": 2,
+        "characterName": "Winter Soldier",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "★ Your opponent may draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/without-remorse.webp?v=585f2b1e2b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/without-remorse.webp?v=585f2b1e2b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+      },
+      {
+        "title": "Reprogram",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Winter Soldier",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Choose 3 cards in your discard pile and shuffle them into your deck.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/reprogram.webp?v=70b5a9f1c9",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/cards/reprogram.webp?v=70b5a9f1c9"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19"
+      },
+      {
+        "title": "Winter Soldier",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Winter Soldier",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/hero.webp?v=f8338e685b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/hero.webp?v=f8338e685b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/back.webp?v=d1023ddd19",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}
