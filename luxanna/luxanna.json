@@ -1,0 +1,358 @@
+{
+  "id": "um-luxanna",
+  "family_id": "um-luxanna",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Lux",
+  "note": "Unmatched (Restoration Games), set custom. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-21T15:44:33.805Z",
+  "deck_first_published_on": "2026-11-21T15:44:33.805Z",
+  "published_on": "2026-11-21T15:44:33.805Z",
+  "updated_on": "2026-11-21T15:44:33.805Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "custom"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/token-hero.png?v=f624f25198",
+      "clip": "circle",
+      "label": "Lux",
+      "rim": "#1F1F1F",
+      "initials": "L",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/token-divine-light.png?v=dcafd05434",
+      "size": 44,
+      "h": 44
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/token-divine-light.png?v=dcafd05434",
+      "size": 44,
+      "h": 44
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/token-divine-light.png?v=dcafd05434",
+      "size": 44,
+      "h": 44
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/token-divine-light.png?v=dcafd05434",
+      "size": 44,
+      "h": 44
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/token-divine-light.png?v=dcafd05434",
+      "size": 44,
+      "h": 44
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/token-divine-light.png?v=dcafd05434",
+      "size": 44,
+      "h": 44
+    }
+  ],
+  "deck_data": {
+    "name": "Lux",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/back.webp?v=0e9b6f727c",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Lux",
+      "hp": 13,
+      "move": 2,
+      "isRanged": true,
+      "specialAbility": "Inflict the opposing fighter with one stack of divine light for each combat you win (with a maximum of three stacks).",
+      "quote": "All my light puns will brighten your day.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/token-hero.png?v=f624f25198"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Light Binding",
+        "quantity": 4,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Lux",
+        "basicText": "",
+        "immediateText": "The opposing fighter cannot leave their space for the remainder of this turn.",
+        "duringText": "",
+        "afterText": "The opposing fighter gains 1 stack of divine light.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/light-binding.webp?v=72fbc02883",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/light-binding.webp?v=72fbc02883"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/back.webp?v=0e9b6f727c"
+      },
+      {
+        "title": "Prismatic Barrier",
+        "quantity": 3,
+        "type": "defence",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Lux",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may boost this card.",
+        "afterText": "If you won the combat end the opposing fighter's turn.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/prismatic-barrier.webp?v=fb2ad03add",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/prismatic-barrier.webp?v=fb2ad03add"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/back.webp?v=0e9b6f727c"
+      },
+      {
+        "title": "Lucent Singularity",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Lux",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Dispel stacks of divine light to gain the following:\n1) The opponent discards 1 card.\n2) Add the opponent's BOOST value to this card's value.\n3) Ignore the opponent's card value.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/lucent-singularity.webp?v=b773282ed2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/lucent-singularity.webp?v=b773282ed2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/back.webp?v=0e9b6f727c"
+      },
+      {
+        "title": "Final Spark",
+        "quantity": 2,
+        "type": "attack",
+        "value": 6,
+        "boost": 3,
+        "characterName": "Lux",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Dispel stacks of divine light increasing this card value by 1 for each stack dispelled.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/final-spark.webp?v=5c57beb4e9",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/final-spark.webp?v=5c57beb4e9"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/back.webp?v=0e9b6f727c"
+      },
+      {
+        "title": "Sorceress",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Lux",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Recover 1 health for each stack of divine light that the opposing fighter has.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/sorceress.webp?v=e59dd3ae45",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/sorceress.webp?v=e59dd3ae45"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/back.webp?v=0e9b6f727c"
+      },
+      {
+        "title": "Dark Cosmic Lux",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Lux",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Gain divine light equal to the opposing fighter's BOOST value.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/dark-cosmic-lux.webp?v=c98bd8f00b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/dark-cosmic-lux.webp?v=c98bd8f00b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/back.webp?v=0e9b6f727c"
+      },
+      {
+        "title": "Crystal Rose",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Lux",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Cancel all AFTER COMBAT effects on your opponent's card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/crystal-rose.webp?v=a5ea4298c1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/crystal-rose.webp?v=a5ea4298c1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/back.webp?v=0e9b6f727c"
+      },
+      {
+        "title": "Evade",
+        "quantity": 2,
+        "type": "defence",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/evade.webp?v=88f4e31e62",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/evade.webp?v=88f4e31e62"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/back.webp?v=0e9b6f727c"
+      },
+      {
+        "title": "Light of Damacia",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Lux",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 2 damage to the opposing fighter and 1 damage to each other fighter adjacent to Lux.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/light-of-damacia.webp?v=e492b69bf0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/light-of-damacia.webp?v=e492b69bf0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/back.webp?v=0e9b6f727c"
+      },
+      {
+        "title": "Holy Light",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Lux",
+        "basicText": "Draw 2 cards.\nOngoing: You are considered to win any combat that neither fighter took combat damage.\nDiscard this card if you didn't attack this turn.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/holy-light.webp?v=cb8aaef2ab",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/holy-light.webp?v=cb8aaef2ab"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/back.webp?v=0e9b6f727c"
+      },
+      {
+        "title": "Flash",
+        "quantity": 2,
+        "type": "defence",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Lux",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move your fighter to any space in your zone.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/flash.webp?v=84b6a75181",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/flash.webp?v=84b6a75181"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/back.webp?v=0e9b6f727c"
+      },
+      {
+        "title": "Heal",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Lux",
+        "basicText": "Lux and an ally with the lowest health recovers 2 health.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/heal.webp?v=98190b4dbb",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/heal.webp?v=98190b4dbb"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/back.webp?v=0e9b6f727c"
+      },
+      {
+        "title": "Illumination",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Lux",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "You are considered to have won this combat. The opposing fighter randomly discards 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/illumination.webp?v=475d6f7fa6",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/cards/illumination.webp?v=475d6f7fa6"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/back.webp?v=0e9b6f727c"
+      },
+      {
+        "title": "Lux",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Lux",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/hero.webp?v=ba63abff65",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/hero.webp?v=ba63abff65"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/back.webp?v=0e9b6f727c",
+        "isCharacterCard": true
+      },
+      {
+        "title": "Extra rules",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Lux",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/hero-extra-rules.webp?v=f905b7106c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/hero-extra-rules.webp?v=f905b7106c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/back.webp?v=0e9b6f727c",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Extra rules",
+        "content": "After effects that dispel stacks of divine light trigger, you cannot gain any stacks of divine light on a combat victory, until the next combat."
+      }
+    ]
+  }
+}

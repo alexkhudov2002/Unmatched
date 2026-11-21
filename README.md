@@ -85,6 +85,9 @@ En **unbrewed.xyz/bag**, pega un enlace en la barra de añadir.
 | Emperor Palpatine (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/palpatine.json` |
 | Lord Voldemort (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/voldemort.json` |
 | Tahm Kench (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/tahm-kench.json` |
+| Evelynn (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/evelynn.json` |
+| Lux (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/luxanna/luxanna.json` |
+| Akali (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/akali.json` |
 
 Si un mazo cambia, bórralo de la bolsa y vuelve a añadirlo: Unbrewed guarda una copia en el navegador.
 
@@ -149,10 +152,13 @@ Si un mazo cambia, bórralo de la bolsa y vuelve a añadirlo: Unbrewed guarda un
 - **Titania**: su ficha, Oberon y los 6 glamours como fichas boca abajo, como las desgracias de Pandora:
   mézclalas arrastrándolas antes de empezar.
 - **Personalizados** (mazos fan-made de unmatched.cards): **Emperor Palpatine** (con 2 Royal Guards de 5 de
-  vida), **Lord Voldemort** (con 7 Horcruxes de 1 de vida, que empiezan fuera del tablero) y **Tahm Kench**:
+  vida), **Lord Voldemort** (con 7 Horcruxes de 1 de vida, que empiezan fuera del tablero), **Tahm Kench**,
+  **Evelynn**, **Lux** y **Akali** (su carta de personaje de dos caras va como dos cartas de personaje:
+  la normal, MOVE 2, y la girada, MOVE 4):
   las fichas de los luchadores en la esquina del jugador. Las cartas de reglas extra (Horcruxes; Extra rules
-  y Devour de Tahm Kench) van como cartas de personaje y en el panel de reglas. Los marcadores de pez de
-  Tahm Kench no tienen ficha: llévalos con un contador.
+  y Devour de Tahm Kench; Extra rules de Lux) van como cartas de personaje y en el panel de reglas.
+  Tahm Kench trae 6 marcadores de pez y Lux 6 marcadores de luz divina (máximo 3 por rival, así que
+  llegan para 2 rivales); salen junto a su ficha, en un punto fijo de la mesa.
 
 Invisible Man, Jekyll & Hyde, Blackbeard, Pandora, Dr. Jill Trent, Nikola Tesla, Alice, Hellboy, Abe
 Sapien, Beowulf, Ghost Rider, The Wayward Sisters y Titania usan una lista de fichas guardada en el mazo, y Unbrewed la pone siempre en el mismo punto

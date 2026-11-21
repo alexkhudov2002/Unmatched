@@ -1,0 +1,289 @@
+{
+  "id": "um-evelynn",
+  "family_id": "um-evelynn",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Evelynn",
+  "note": "Unmatched (Restoration Games), set custom. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-21T15:44:33.554Z",
+  "deck_first_published_on": "2026-11-21T15:44:33.554Z",
+  "published_on": "2026-11-21T15:44:33.554Z",
+  "updated_on": "2026-11-21T15:44:33.554Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "custom"
+  ],
+  "deck_data": {
+    "name": "Evelynn",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/back.webp?v=e5b5993897",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Evelynn",
+      "hp": 17,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "When you maneuver, you may move 1 enemy of 1 in your direction.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/token-hero.png?v=61bceba474"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Feint",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Evelynn",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/feint.webp?v=ffa8d34803",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/feint.webp?v=ffa8d34803"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/back.webp?v=e5b5993897"
+      },
+      {
+        "title": "Come Here",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Evelynn",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If the enemy fighter started this turn in a different space, this card's value is 5 instead",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/come-here.webp?v=846fa383c0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/come-here.webp?v=846fa383c0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/back.webp?v=e5b5993897"
+      },
+      {
+        "title": "Regroup",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 1,
+        "boost": 2,
+        "characterName": "Evelynn",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card. If you won the combat, draw 2 cards instead",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/regroup.webp?v=80bdb01b18",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/regroup.webp?v=80bdb01b18"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/back.webp?v=e5b5993897"
+      },
+      {
+        "title": "Seduction",
+        "quantity": 3,
+        "type": "attack",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Evelynn",
+        "basicText": "",
+        "immediateText": "Switch the value of this card with the enemy one",
+        "duringText": "You may BOOST this card",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/seduction.webp?v=599ee7c020",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/seduction.webp?v=599ee7c020"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/back.webp?v=e5b5993897"
+      },
+      {
+        "title": "Demon Shade",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Evelynn",
+        "basicText": "Draw 1 card, recover 1 health.\nONGOING: Your BOOST values are +1. Discard this card at the end of your turn if you didn't attack.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/demon-shade.webp?v=6d2db14854",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/demon-shade.webp?v=6d2db14854"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/back.webp?v=e5b5993897"
+      },
+      {
+        "title": "Allure",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Evelynn",
+        "basicText": "",
+        "immediateText": "The value of your opponent's attack or defense is 0 and cannot be changed by card effects. (Other card effects still happen.)",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/allure.webp?v=e8d32434ba",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/allure.webp?v=e8d32434ba"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/back.webp?v=e5b5993897"
+      },
+      {
+        "title": "Whiplash",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Evelynn",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, choose one of the fighters in the combat and move them up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/whiplash.webp?v=33ee6a1652",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/whiplash.webp?v=33ee6a1652"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/back.webp?v=e5b5993897"
+      },
+      {
+        "title": "Follow My Voice",
+        "quantity": 3,
+        "type": "defence",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Evelynn",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "The opponent's card can't be BOOST",
+        "afterText": "ASSAULT: 3 ATK",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/follow-my-voice.webp?v=2e1d73923d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/follow-my-voice.webp?v=2e1d73923d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/back.webp?v=e5b5993897"
+      },
+      {
+        "title": "Tricking Smile",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Evelynn",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, you may look at the top 3 cards of your opponent's deck and discard one of them. Place the other 2 back in any order.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/tricking-smile.webp?v=8f4877d6fd",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/tricking-smile.webp?v=8f4877d6fd"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/back.webp?v=e5b5993897"
+      },
+      {
+        "title": "Desperation Essences",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 0,
+        "characterName": "Evelynn",
+        "basicText": "Draw 3 card. Put 2 card from your hand to the top of the deck in the order you want.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/desperation-essences.webp?v=dd73631e42",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/desperation-essences.webp?v=dd73631e42"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/back.webp?v=e5b5993897"
+      },
+      {
+        "title": "Trap",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Evelynn",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If the opponent started this turn in a different space, you may BOOST this attack.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/trap.webp?v=8481477fe3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/trap.webp?v=8481477fe3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/back.webp?v=e5b5993897"
+      },
+      {
+        "title": "Shadow Body",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Evelynn",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this card",
+        "afterText": "If you BOOST and win the fight you may heal yourself of the BOOST value",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/shadow-body.webp?v=85643de52b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/shadow-body.webp?v=85643de52b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/back.webp?v=e5b5993897"
+      },
+      {
+        "title": "Last Caress",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 4,
+        "characterName": "Evelynn",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this card",
+        "afterText": "Put your fighter in any space of his zone. Draw a card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/last-caress.webp?v=bbc8d88a8c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/cards/last-caress.webp?v=bbc8d88a8c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/back.webp?v=e5b5993897"
+      },
+      {
+        "title": "Evelynn",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Evelynn",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/hero.webp?v=ae9a767ddc",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/hero.webp?v=ae9a767ddc"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn/back.webp?v=e5b5993897",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

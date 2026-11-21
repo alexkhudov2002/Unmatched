@@ -1,0 +1,290 @@
+{
+  "id": "um-briar",
+  "family_id": "um-briar",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Briar",
+  "note": "Unmatched (Restoration Games), set custom. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-21T19:43:29.963Z",
+  "deck_first_published_on": "2026-11-21T19:43:29.963Z",
+  "published_on": "2026-11-21T19:43:29.963Z",
+  "updated_on": "2026-11-21T19:43:29.963Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "custom"
+  ],
+  "deck_data": {
+    "name": "Briar",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Briar",
+      "hp": 18,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "FRENESÍ SANGUINARIO\nEmpieza CONTENIDA, con movimiento 2. Al comienzo de tu turno puedes entrar en FRENESÍ gratuitamente, o abandonar el frenesí descartando 2 cartas de tu mano. No gastas una acción. Si abandonas el frenesí, no puedes volver a entrar durante ese turno.\nEn FRENESÍ tienes movimiento 3 y tus ataques reciben +2 de valor, o +4 en su lugar si Briar tenía 8 vidas o menos al comenzar ese combate. Esta bonificación solo modifica el valor de ataque.\nMALDICIÓN CARMESÍ: Mientras Briar esté en frenesí, inmediatamente después de resolver el daño de uno de sus ataques y antes de resolver efectos DESPUÉS DEL COMBATE, recupera tanta vida como haya perdido el defensor por ese daño de combate. No se cura por daño prevenido, redirigido a otro luchador ni procedente de efectos. La curación está limitada a la vida que realmente perdía el defensor y a las 18 vidas máximas de Briar. Briar debe seguir viva para recuperarse.\nDurante tu turno en frenesí debes seguir las reglas de presa y persecución del suplemento.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/token-hero.png?v=dbfb74e1c7"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Otro mordisquito",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Briar",
+        "basicText": "RECORDATORIO: En frenesí, Maldición carmesí cura a Briar por la vida que el defensor pierda con el daño de combate de este ataque. Este recordatorio no aplica una segunda curación.",
+        "immediateText": "",
+        "duringText": "Si el defensor tenía 8 vidas o menos al comenzar este combate, el valor de esta carta aumenta en 2.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/otro-mordisquito.webp?v=f368c6bfdb",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/otro-mordisquito.webp?v=f368c6bfdb"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
+      },
+      {
+        "title": "A la yugular",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Briar",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Si el luchador contrario sigue en el tablero, puedes colocar a Briar en una casilla libre adyacente a él.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/a-la-yugular.webp?v=119296be1d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/a-la-yugular.webp?v=119296be1d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
+      },
+      {
+        "title": "Desgarro voraz",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Briar",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Puedes POTENCIAR esta carta.",
+        "afterText": "Si ganaste el combate, roba 1 carta.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/desgarro-voraz.webp?v=5c91b8ee2c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/desgarro-voraz.webp?v=5c91b8ee2c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
+      },
+      {
+        "title": "Hambre insaciable",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Briar",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Si atacaste, roba 2 cartas. Si defendiste, roba 1 carta.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hambre-insaciable.webp?v=9398a2b8cc",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hambre-insaciable.webp?v=9398a2b8cc"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
+      },
+      {
+        "title": "¡Tengo hambre!",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Briar",
+        "basicText": "",
+        "immediateText": "Cancela todos los efectos de la carta de tu oponente.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/tengo-hambre.webp?v=4833022784",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/tengo-hambre.webp?v=4833022784"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
+      },
+      {
+        "title": "Herida abierta",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Briar",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Si atacaste, inflige 2 de daño al luchador contrario. Si defendiste, recupera 1 vida.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/herida-abierta.webp?v=6d7576e0dd",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/herida-abierta.webp?v=6d7576e0dd"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
+      },
+      {
+        "title": "No te vayas",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Briar",
+        "basicText": "",
+        "immediateText": "El luchador contrario no puede abandonar su casilla durante el resto de este turno.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/no-te-vayas.webp?v=c87881f1ac",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/no-te-vayas.webp?v=c87881f1ac"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
+      },
+      {
+        "title": "Duele… pero me gusta",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Briar",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Si Briar tiene al menos 3 vidas, puedes hacer que reciba 2 de daño. Si lo haces, el valor de esta carta aumenta en 2.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/duele-pero-me-gusta.webp?v=eb03a8ec6c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/duele-pero-me-gusta.webp?v=eb03a8ec6c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
+      },
+      {
+        "title": "Alarido escalofriante",
+        "quantity": 3,
+        "type": "defence",
+        "value": 5,
+        "boost": 2,
+        "characterName": "Briar",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Si Briar está en frenesí, puedes hacer que lo abandone. Si lo haces, recupera 2 vidas y mueve a Briar hasta 2 casillas.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/alarido-escalofriante.webp?v=089b340600",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/alarido-escalofriante.webp?v=089b340600"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
+      },
+      {
+        "title": "Hemolito",
+        "quantity": 2,
+        "type": "defence",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Briar",
+        "basicText": "",
+        "immediateText": "Cancela todos los efectos de la carta de tu oponente.",
+        "duringText": "Si Briar tenía 8 vidas o menos al comenzar este combate, el valor de esta carta es 6 en lugar de 4.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hemolito.webp?v=425753ba10",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hemolito.webp?v=425753ba10"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
+      },
+      {
+        "title": "Final sangriento",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Briar",
+        "basicText": "Puedes jugar esta carta durante el frenesí en lugar de tu acción obligatoria. No puedes jugarla en el turno en el que Briar haya abandonado el frenesí.\nElige un héroe enemigo en el tablero junto al que puedas colocar legalmente a Briar. Ese héroe se convierte en tu presa hasta el final de este turno, sustituyendo la selección normal de presa. Coloca a Briar en una casilla libre adyacente a él y entra en frenesí. Gana 1 acción.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/final-sangriento.webp?v=a29d90a6ed",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/final-sangriento.webp?v=a29d90a6ed"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
+      },
+      {
+        "title": "¿Amigos?",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Briar",
+        "basicText": "Roba 3 cartas. Mueve a Briar hasta 3 casillas.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/amigos.webp?v=01fcc12015",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/amigos.webp?v=01fcc12015"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
+      },
+      {
+        "title": "Briar",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Briar",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/hero.webp?v=12d28f0f28",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/hero.webp?v=12d28f0f28"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Presa y accesibilidad",
+        "content": "Antes de cada acción en frenesí determina tu presa: primero el héroe enemigo accesible más cercano; si no hay ninguno, el otro luchador enemigo accesible más cercano; si nadie es accesible en una maniobra, el héroe enemigo con la ruta legal más corta, o, si no hay ruta hacia ningún héroe, otro enemigo al que exista una ruta. Solo se consideran enemigos en el tablero. En empates elige Briar.\nAccesible significa poder alcanzar una casilla desde la que atacar cuerpo a cuerpo con una maniobra de movimiento 3, sin potenciar ni usar cartas. Se mide el desplazamiento necesario para llegar a esa casilla, no la distancia entre las figuras. Un enemigo adyacente requiere 0. Respeta ocupación, restricciones y reglas del mapa. Los costes para abrir puertas y usar conexiones especiales cuentan como los establezca el mapa.\nLa presa se fija durante cada acción. Solo se vuelve a determinar dentro de esa acción si la presa es derrotada o sale del tablero y un efecto posterior necesita una presa. Antes de la siguiente acción vuelve a seleccionarla, salvo la fijación de Final sangriento."
+      },
+      {
+        "title": "Persecución",
+        "content": "Si puedes atacar legalmente a tu presa y tienes una carta válida, debes gastar la acción en atacarla; eliges la carta. Si no, debes maniobrar: roba y avanza hacia la presa por una ruta de coste mínimo todo lo que permita tu movimiento, hasta poder atacarla cuerpo a cuerpo. Potenciar el movimiento es opcional. Si ya estás adyacente y no tienes carta, maniobra para robar y permanece allí; no atacas dentro de esa misma acción. Si no hay ruta legal hacia ningún enemigo, maniobra sin moverte.\nNo puedes elegir ingenios en lugar de la acción obligatoria salvo permiso expreso de la carta. Esto afecta también a las acciones adicionales. Los ataques adicionales que controles solo pueden dirigirse a la presa si es un objetivo legal; si no, no se realizan. Durante tu turno los desplazamientos que tú elijas deben acercarte a la presa por una ruta mínima; puedes recolocarte en otra casilla adyacente si ya estás adyacente. Los efectos que te permiten colocar a Briar pueden saltar directamente a una casilla libre adyacente a la presa. Respeta cualquier prohibición de abandonar casilla.\nLos movimientos impuestos por un rival funcionan normalmente. Fuera de tu turno puedes defender y resolver movimientos libremente. Salir del frenesí elimina estas obligaciones."
+      },
+      {
+        "title": "Curación y tiempos",
+        "content": "La vida de referencia de Briar y del defensor se fija al declarar cada combate, antes de resolver sus efectos. Duele… pero me gusta no activa retroactivamente la bonificación de vida baja del combate actual. Recibir daño DURANTE el combate puede derrotar a Briar antes de curarse.\nLa bonificación y la curación de la habilidad no son efectos de las cartas: cancelar una carta no las cancela. Sí se cancelan los efectos propios de la carta, incluidos el +2 de Otro mordisquito, la curación de Herida abierta y la salida de Alarido.\nLa curación de Maldición carmesí ocurre una sola vez por cada ataque que haga perder vida de combate al defensor. No incluye los 2 daños posteriores de Herida abierta. Si se redirige parte del daño, cuenta solo la vida perdida por el defensor. No cura por daño propio.\nEl daño que exceda la vida restante del defensor no aumenta la curación. Contra un esbirro de 1 vida se recupera como máximo 1 vida. Recuperar nunca evita una derrota que ya haya ocurrido."
+      },
+      {
+        "title": "Final sangriento y salida",
+        "content": "Final sangriento puede sustituir tu acción obligatoria de frenesí. Elige primero tu nueva presa; su fijación sustituye las prioridades normales durante el resto del turno y permite la colocación indicada. No obliga a realizar el ataque siguiente gratis: recuperas la acción gastada en el ingenio y puedes gastar una acción en atacar después. Requiere una casilla libre adyacente y una colocación legal; no evita una prohibición de abandonar la casilla. No se puede jugar el turno en que hayas abandonado el frenesí.\nSi la presa fijada es derrotada o sale del tablero, termina la fijación y vuelve a aplicarse la selección normal cuando haga falta. Si solo queda temporalmente inaccesible, sigue siendo tu presa: intenta acercarte; si no hay ruta, maniobra sin desplazarte. La fijación termina al acabar el turno o si abandonas el frenesí.\nAlarido escalofriante solo da su curación y movimiento si realmente sales del frenesí. Su desplazamiento se resuelve ya contenida. ¿Amigos? no tiene permiso especial para saltarse la persecución; en esta lista solo puedes elegirlo como ingenio mientras estés contenida."
+      }
+    ]
+  }
+}

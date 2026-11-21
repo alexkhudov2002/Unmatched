@@ -1,0 +1,308 @@
+{
+  "id": "um-akali",
+  "family_id": "um-akali",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Akali",
+  "note": "Unmatched (Restoration Games), set custom. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-21T15:44:34.056Z",
+  "deck_first_published_on": "2026-11-21T15:44:34.056Z",
+  "published_on": "2026-11-21T15:44:34.056Z",
+  "updated_on": "2026-11-21T15:44:34.056Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "custom"
+  ],
+  "deck_data": {
+    "name": "Akali",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/back.webp?v=9b9ac397e1",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Akali",
+      "hp": 13,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "AFTER COMBAT: If Akali was the attacker move her up to 2 spaces. Then, if she shares no zones with the opposing fighter, flip this card.\n(If you have other AFTER COMBAT effects, choose the order).\nFLIPPED SIDE (MOVE 4): Next time Akali attacks, double all combat damage she would deal. After the combat, flip this card (even if Akali dealt no damage).",
+      "quote": "We're gonna do this my way...",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/token-hero.png?v=8a63f1104c"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Perfect Execution",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Akali",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If you would lose the combat, this card's value is 6 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/perfect-execution.webp?v=b18c8fa278",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/perfect-execution.webp?v=b18c8fa278"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/back.webp?v=9b9ac397e1"
+      },
+      {
+        "title": "Five Point Strike",
+        "quantity": 4,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Akali",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this card. If you do, draw 1 card. If you do not, Akali recovers 1 health.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/five-point-strike.webp?v=8f302c9261",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/five-point-strike.webp?v=8f302c9261"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/back.webp?v=9b9ac397e1"
+      },
+      {
+        "title": "Shuriken Flip",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Akali",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move Akali up to 3 spaces. If you lost the combat, draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/shuriken-flip.webp?v=251c75716f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/shuriken-flip.webp?v=251c75716f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/back.webp?v=9b9ac397e1"
+      },
+      {
+        "title": "I Am My Own Master",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Akali",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, choose a card in your discard pile and shuffle it into your deck.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/i-am-my-own-master.webp?v=425cea8495",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/i-am-my-own-master.webp?v=425cea8495"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/back.webp?v=9b9ac397e1"
+      },
+      {
+        "title": "Twilight Shroud",
+        "quantity": 2,
+        "type": "defence",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Akali",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Place Akali in any other space in her zone. Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/twilight-shroud.webp?v=827385fd1e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/twilight-shroud.webp?v=827385fd1e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/back.webp?v=9b9ac397e1"
+      },
+      {
+        "title": "Let's Make This Quick",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "Akali",
+        "basicText": "Move Akali up to 3 spaces. She may move through opposing fighters. Gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/let-s-make-this-quick.webp?v=5f6af29e77",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/let-s-make-this-quick.webp?v=5f6af29e77"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/back.webp?v=9b9ac397e1"
+      },
+      {
+        "title": "Akali's Kitchen",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Akali",
+        "basicText": "Akali recovers 2 health. If she shares no zones with any opposing fightes, draw 2 cards.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/akali-s-kitchen.webp?v=f225e74047",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/akali-s-kitchen.webp?v=f225e74047"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/back.webp?v=9b9ac397e1"
+      },
+      {
+        "title": "Pruning the Tree",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 1,
+        "boost": 3,
+        "characterName": "Akali",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you lost the combat, your opponent discards 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/pruning-the-tree.webp?v=5bc6e0609a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/pruning-the-tree.webp?v=5bc6e0609a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/back.webp?v=9b9ac397e1"
+      },
+      {
+        "title": "Vault",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Akali",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move Akali up to 4 spaces. She may move through opposing fighters. Then, deal 1 damage to each opposing fighter she moved through.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/vault.webp?v=c390704fb6",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/vault.webp?v=c390704fb6"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/back.webp?v=9b9ac397e1"
+      },
+      {
+        "title": "You're Scared? Good to Know",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Akali",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "The opponent may show you their hand. If they do not, draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/you-re-scared-good-to-know.webp?v=4add2e7924",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/you-re-scared-good-to-know.webp?v=4add2e7924"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/back.webp?v=9b9ac397e1"
+      },
+      {
+        "title": "Feint",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Akali",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/feint.webp?v=ea6bab79e7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/feint.webp?v=ea6bab79e7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/back.webp?v=9b9ac397e1"
+      },
+      {
+        "title": "Momentous Shift",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Akali",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If Akali started this turn in a different space, this card's value is 5 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/momentous-shift.webp?v=f873fb7e1f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/momentous-shift.webp?v=f873fb7e1f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/back.webp?v=9b9ac397e1"
+      },
+      {
+        "title": "Ninjitsu",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Akali",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Place Akali in any space.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/ninjitsu.webp?v=6a54b2399d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/cards/ninjitsu.webp?v=6a54b2399d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/back.webp?v=9b9ac397e1"
+      },
+      {
+        "title": "Akali",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Akali",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/hero.webp?v=6cc1587d1a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/hero.webp?v=6cc1587d1a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/back.webp?v=9b9ac397e1",
+        "isCharacterCard": true
+      },
+      {
+        "title": "Akali (flipped)",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Akali",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/hero-akali-flipped.webp?v=c66625c6bf",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/hero-akali-flipped.webp?v=c66625c6bf"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/akali/back.webp?v=9b9ac397e1",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}
