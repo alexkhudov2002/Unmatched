@@ -1,0 +1,337 @@
+{
+  "id": "um-john-henry",
+  "family_id": "um-john-henry",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "John Henry",
+  "note": "Unmatched (Restoration Games), set stars-stripes. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-22T22:40:49.782Z",
+  "deck_first_published_on": "2026-11-22T22:40:49.782Z",
+  "published_on": "2026-11-22T22:40:49.782Z",
+  "updated_on": "2026-11-22T22:40:49.782Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "stars-stripes"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/token-hero.png?v=2bc1768042",
+      "clip": "circle",
+      "label": "John Henry",
+      "rim": "#1F1F1F",
+      "initials": "JH",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/token-track.png?v=e726ca7117",
+      "size": 36,
+      "h": 67
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/token-track.png?v=e726ca7117",
+      "size": 36,
+      "h": 67
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/token-track.png?v=e726ca7117",
+      "size": 36,
+      "h": 67
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/token-track.png?v=e726ca7117",
+      "size": 36,
+      "h": 67
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/token-track.png?v=e726ca7117",
+      "size": 36,
+      "h": 67
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/token-track.png?v=e726ca7117",
+      "size": 36,
+      "h": 67
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/token-track.png?v=e726ca7117",
+      "size": 36,
+      "h": 67
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/token-track.png?v=e726ca7117",
+      "size": 36,
+      "h": 67
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/token-track.png?v=e726ca7117",
+      "size": 36,
+      "h": 67
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/token-track.png?v=e726ca7117",
+      "size": 36,
+      "h": 67
+    }
+  ],
+  "deck_data": {
+    "name": "John Henry",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/back.webp?v=6b4bbbf021",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "John Henry",
+      "hp": 17,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "STEEL-DRIVING MAN\nYou have 10 track tokens.\nAt the start of your turn, summon a track token in a space in John Henry's zone.\nWhen you move John Henry, do not count spaces with track tokens.",
+      "quote": "A man ain't nothin' but a man.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/token-hero.png?v=2bc1768042"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Twelve-Pound Hammer",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "John Henry",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If John Henry used at least 4 different paths this turn, you may place a fighter in the combat in any space with a track token.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/twelve-pound-hammer.webp?v=8365187646",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/twelve-pound-hammer.webp?v=8365187646"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/back.webp?v=6b4bbbf021"
+      },
+      {
+        "title": "Deeds of Valor",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 2,
+        "characterName": "John Henry",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "John Henry cannot take more than 2 combat damage this combat.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/deeds-of-valor.webp?v=9a87cb99b6",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/deeds-of-valor.webp?v=9a87cb99b6"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/back.webp?v=6b4bbbf021"
+      },
+      {
+        "title": "Eighteen-Pound Hammer",
+        "quantity": 2,
+        "type": "attack",
+        "value": 6,
+        "boost": 2,
+        "characterName": "John Henry",
+        "basicText": "",
+        "immediateText": "If John Henry used at least 4 different paths this turn, cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/eighteen-pound-hammer.webp?v=c421035e06",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/eighteen-pound-hammer.webp?v=c421035e06"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/back.webp?v=6b4bbbf021"
+      },
+      {
+        "title": "Power Through",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "John Henry",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move a fighter in the combat up to 2 spaces. Do not count spaces with track tokens.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/power-through.webp?v=fe718befb1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/power-through.webp?v=fe718befb1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/back.webp?v=6b4bbbf021"
+      },
+      {
+        "title": "Knock Them Silly",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "John Henry",
+        "basicText": "",
+        "immediateText": "If you win this combat, cancel all AFTER COMBAT effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/knock-them-silly.webp?v=9e4034d532",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/knock-them-silly.webp?v=9e4034d532"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/back.webp?v=6b4bbbf021"
+      },
+      {
+        "title": "Striking Fire",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "John Henry",
+        "basicText": "Move John Henry up to 4 spaces.\nGain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/striking-fire.webp?v=d9a62ee85c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/striking-fire.webp?v=d9a62ee85c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/back.webp?v=6b4bbbf021"
+      },
+      {
+        "title": "Cool Drink of Water",
+        "quantity": 3,
+        "type": "defence",
+        "value": 0,
+        "boost": 2,
+        "characterName": "John Henry",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "John Henry recovers 3 health. Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/cool-drink-of-water.webp?v=4dfaa1e651",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/cool-drink-of-water.webp?v=4dfaa1e651"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/back.webp?v=6b4bbbf021"
+      },
+      {
+        "title": "Nine-Pound Hammer",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "John Henry",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If John Henry used at least 4 different paths this turn, deal 2 damage to each opposing fighter in his zone.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/nine-pound-hammer.webp?v=25e3e59658",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/nine-pound-hammer.webp?v=25e3e59658"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/back.webp?v=6b4bbbf021"
+      },
+      {
+        "title": "Hear That Cold Steel Ring",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "John Henry",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card. Move John Henry up to 1 space. Gain 1 free action to attack.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/hear-that-cold-steel-ring.webp?v=764e133caa",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/hear-that-cold-steel-ring.webp?v=764e133caa"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/back.webp?v=6b4bbbf021"
+      },
+      {
+        "title": "Bring Down the Mountain",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "John Henry",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Add +1 to this card's value for each HAMMER card in your discard pile.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/bring-down-the-mountain.webp?v=7914c3172a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/bring-down-the-mountain.webp?v=7914c3172a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/back.webp?v=6b4bbbf021"
+      },
+      {
+        "title": "Momentous Shift",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "John Henry",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If John Henry started this turn in a different space, this card's value becomes 5.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/momentous-shift.webp?v=59e448cb1a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/momentous-shift.webp?v=59e448cb1a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/back.webp?v=6b4bbbf021"
+      },
+      {
+        "title": "Larger Than Life",
+        "quantity": 2,
+        "type": "attack",
+        "value": 6,
+        "boost": 4,
+        "characterName": "John Henry",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/larger-than-life.webp?v=cb863e10a2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/cards/larger-than-life.webp?v=cb863e10a2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/back.webp?v=6b4bbbf021"
+      },
+      {
+        "title": "John Henry",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "John Henry",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/hero.webp?v=dd967fb55d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/hero.webp?v=dd967fb55d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/back.webp?v=6b4bbbf021",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

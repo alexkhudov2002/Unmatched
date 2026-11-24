@@ -1,0 +1,273 @@
+{
+  "id": "um-angel",
+  "family_id": "um-angel",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Angel",
+  "note": "Unmatched (Restoration Games), set buffy. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-22T22:40:48.760Z",
+  "deck_first_published_on": "2026-11-22T22:40:48.760Z",
+  "published_on": "2026-11-22T22:40:48.760Z",
+  "updated_on": "2026-11-22T22:40:48.760Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "buffy"
+  ],
+  "deck_data": {
+    "name": "Angel",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/back.webp?v=874eae0f58",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Angel",
+      "hp": 16,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "After Angel or Faith attacks, if you lost the combat, draw 1 card.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/token-hero.png?v=e952936e35"
+    },
+    "sidekick": {
+      "name": "Faith",
+      "quantity": 1,
+      "hp": 8,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/token-faith.png?v=1ef0134724"
+    },
+    "cards": [
+      {
+        "title": "Cursed with a Soul",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Angel",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you lost the combat, recover 1 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/cursed-with-a-soul.webp?v=2aac14f1a6",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/cursed-with-a-soul.webp?v=2aac14f1a6"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/back.webp?v=874eae0f58"
+      },
+      {
+        "title": "The Rogue Slayer",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Faith",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 1 damage to each opposing fighter adjacent to Faith.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/the-rogue-slayer.webp?v=09a7612cd2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/the-rogue-slayer.webp?v=09a7612cd2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/back.webp?v=874eae0f58"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/feint.webp?v=941c868d03",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/feint.webp?v=941c868d03"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/back.webp?v=874eae0f58"
+      },
+      {
+        "title": "Disengage",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move your fighter to any other space in their zone.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/disengage.webp?v=93954dd6a0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/disengage.webp?v=93954dd6a0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/back.webp?v=874eae0f58"
+      },
+      {
+        "title": "Angelus, Scourge of Europe",
+        "quantity": 3,
+        "type": "attack",
+        "value": 5,
+        "boost": 3,
+        "characterName": "Angel",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/angelus-scourge-of-europe.webp?v=6b12be5a15",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/angelus-scourge-of-europe.webp?v=6b12be5a15"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/back.webp?v=874eae0f58"
+      },
+      {
+        "title": "Momentous Shift",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If your fighter started this turn in a different space, this card's value is 5 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/momentous-shift.webp?v=41daf83c73",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/momentous-shift.webp?v=41daf83c73"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/back.webp?v=874eae0f58"
+      },
+      {
+        "title": "Regroup",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 1,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw a card. If you won the combat, draw 2 instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/regroup.webp?v=20b65383e0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/regroup.webp?v=20b65383e0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/back.webp?v=874eae0f58"
+      },
+      {
+        "title": "Killer of the Dead",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Faith",
+        "basicText": "Deal 2 damage to one opposing fighter adjacent to Faith.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/killer-of-the-dead.webp?v=66949b348d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/killer-of-the-dead.webp?v=66949b348d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/back.webp?v=874eae0f58"
+      },
+      {
+        "title": "Brooding",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Angel",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you lost the combat, the opposing fighter takes 1 damage.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/brooding.webp?v=0b7d36d13c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/brooding.webp?v=0b7d36d13c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/back.webp?v=874eae0f58"
+      },
+      {
+        "title": "Five by Five",
+        "quantity": 2,
+        "type": "attack",
+        "value": 5,
+        "boost": 3,
+        "characterName": "Faith",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move Faith up to 5 spaces. She may move through opposing fighters.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/five-by-five.webp?v=9b66b40eeb",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/five-by-five.webp?v=9b66b40eeb"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/back.webp?v=874eae0f58"
+      },
+      {
+        "title": "Haunted by the Faces",
+        "quantity": 2,
+        "type": "defence",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Angel",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you lost the combat, you may place Angel in any space in his zone.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/haunted-by-the-faces.webp?v=e10297b1e7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/haunted-by-the-faces.webp?v=e10297b1e7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/back.webp?v=874eae0f58"
+      },
+      {
+        "title": "Wisdom of Ages",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Angel",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/wisdom-of-ages.webp?v=fe45a85622",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/cards/wisdom-of-ages.webp?v=fe45a85622"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/back.webp?v=874eae0f58"
+      },
+      {
+        "title": "Angel",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Angel",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/hero.webp?v=557fe3457b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/hero.webp?v=557fe3457b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/back.webp?v=874eae0f58",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

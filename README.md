@@ -31,6 +31,14 @@ En **unbrewed.xyz/bag**, pega un enlace en la barra de añadir.
 | Little Red vs. Beowulf | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/little-red.json` |
 | Redemption Row | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/redemption-row.json` |
 | Slings & Arrows | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/slings-and-arrows.json` |
+| Marvel: For King and Country | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/for-king-and-country.json` |
+| Robin Hood vs. Bigfoot | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/hood-vs-big-foot.json` |
+| Bruce Lee vs. Muhammad Ali | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/lee-vs-ali.json` |
+| Marvel: Teen Spirit | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/teen-spirit.json` |
+| Jurassic Park: Dr. Sattler vs. T. Rex | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/trex-vs-sattler.json` |
+| Jurassic Park: InGen vs. Raptors | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raptors.json` |
+| Buffy the Vampire Slayer | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy.json` |
+| Stars & Stripes | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/stars-stripes.json` |
 | Personalizados (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/custom.json` |
 
 **Héroes sueltos:**
@@ -82,6 +90,29 @@ En **unbrewed.xyz/bag**, pega un enlace en la barra de añadir.
 | Shakespeare | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shakespeare/shakespeare.json` |
 | The Wayward Sisters | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wayward-sisters/wayward-sisters.json` |
 | Titania | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/titania/titania.json` |
+| Black Panther | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-panther/black-panther.json` |
+| Black Widow | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/black-widow/black-widow.json` |
+| Winter Soldier | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/winter-soldier/winter-soldier.json` |
+| Robin Hood | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/robin-hood/robin-hood.json` |
+| Bigfoot | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bigfoot/bigfoot.json` |
+| Bruce Lee | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/bruce-lee/bruce-lee.json` |
+| Muhammad Ali | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muhammad-ali/muhammad-ali.json` |
+| Cloak & Dagger | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/cloak-dagger/cloak-dagger.json` |
+| Ms. Marvel | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ms-marvel/ms-marvel.json` |
+| Squirrel Girl | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/squirrel-girl/squirrel-girl.json` |
+| Dr. Ellie Sattler | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/dr-sattler/dr-sattler.json` |
+| T. Rex | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/t-rex/t-rex.json` |
+| Robert Muldoon | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/muldoon.json` |
+| Raptors | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raptors/raptors.json` |
+| Buffy (Giles) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-giles/buffy-giles.json` |
+| Buffy (Xander) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/buffy-xander.json` |
+| Angel | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/angel/angel.json` |
+| Spike | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spike/spike.json` |
+| Willow | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/willow.json` |
+| John Henry | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/john-henry/john-henry.json` |
+| Rosie the Riveter | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rosie/rosie.json` |
+| George Washington | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/washington.json` |
+| Wyatt Earp | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wyatt-earp/wyatt-earp.json` |
 | Emperor Palpatine (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/palpatine.json` |
 | Lord Voldemort (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/voldemort.json` |
 | Tahm Kench (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/tahm-kench.json` |
@@ -151,6 +182,20 @@ Si un mazo cambia, bórralo de la bolsa y vuelve a añadirlo: Unbrewed guarda un
   de reglas.
 - **Titania**: su ficha, Oberon y los 6 glamours como fichas boca abajo, como las desgracias de Pandora:
   mézclalas arrastrándolas antes de empezar.
+- **Robert Muldoon** (con 3 InGen Workers de 1 de vida): su ficha, los trabajadores y 8 trampas (dibujadas,
+  la caja no trae su arte). La regla de las trampas va en el panel de reglas.
+- **Raptors**: tres raptores de 7 de vida (uno como héroe y dos como compañeros), en la esquina del jugador.
+  Pierdes cuando caen los tres.
+- **Buffy**: va en dos mazos, **Buffy (Giles)** y **Buffy (Xander)**: en la caja eliges compañero, y cada uno
+  trae 5 cartas propias. **Angel** (con Faith): las fichas en la esquina del jugador.
+- **Spike** (con Drusilla): su ficha, Drusilla y 3 fichas de sombra.
+- **Willow** (con Tara): sus fichas y la de forma, que se gira entre Willow y Dark Willow. Los efectos en
+  rojo de las cartas llevan delante «DARK WILLOW:».
+- **John Henry**: su ficha y 10 fichas de vía. **Wyatt Earp** (con Doc Holliday): en la esquina del jugador.
+- **Rosie the Riveter** (con Wendy the Welder): su ficha, Wendy y las 4 mejoras, que salen inactivas y se
+  giran a activas. Lo que hace cada mejora está también en el panel de reglas.
+- **George Washington** (con 3 Culper Spies de 1 de vida): su ficha, los espías y 4 fichas de engaño. Los
+  efectos con el ojo llevan delante «RUSE:» (solo valen si la ficha de engaño sigue junto a la carta).
 - **Personalizados** (mazos fan-made de unmatched.cards): **Emperor Palpatine** (con 2 Royal Guards de 5 de
   vida), **Lord Voldemort** (con 7 Horcruxes de 1 de vida, que empiezan fuera del tablero), **Tahm Kench**,
   **Evelynn**, **Lux** y **Akali** (su carta de personaje de dos caras va como dos cartas de personaje:
@@ -161,7 +206,8 @@ Si un mazo cambia, bórralo de la bolsa y vuelve a añadirlo: Unbrewed guarda un
   llegan para 2 rivales); salen junto a su ficha, en un punto fijo de la mesa.
 
 Invisible Man, Jekyll & Hyde, Blackbeard, Pandora, Dr. Jill Trent, Nikola Tesla, Alice, Hellboy, Abe
-Sapien, Beowulf, Ghost Rider, The Wayward Sisters y Titania usan una lista de fichas guardada en el mazo, y Unbrewed la pone siempre en el mismo punto
+Sapien, Beowulf, Ghost Rider, The Wayward Sisters, Titania, Muldoon, Spike, Willow, John Henry, Rosie y
+Washington usan una lista de fichas guardada en el mazo, y Unbrewed la pone siempre en el mismo punto
 de la mesa, no en la esquina del jugador.
 
 ## Cómo se generan

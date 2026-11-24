@@ -1,0 +1,327 @@
+{
+  "id": "um-willow",
+  "family_id": "um-willow",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Willow",
+  "note": "Unmatched (Restoration Games), set buffy. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-22T22:40:49.486Z",
+  "deck_first_published_on": "2026-11-22T22:40:49.486Z",
+  "published_on": "2026-11-22T22:40:49.486Z",
+  "updated_on": "2026-11-22T22:40:49.486Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "buffy"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/token-hero.png?v=2ca9644f68",
+      "clip": "circle",
+      "label": "Willow",
+      "rim": "#1F1F1F",
+      "initials": "W",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/token-tara.png?v=a9702a28fa",
+      "clip": "circle",
+      "label": "Tara",
+      "rim": "#1F1F1F",
+      "initials": "T",
+      "size": 64,
+      "h": 64,
+      "counter": {
+        "link": "sidekick"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/token-willow-form.png?v=2b573e0f25",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "size": 72,
+      "h": 72
+    }
+  ],
+  "deck_data": {
+    "name": "Willow",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/back.webp?v=4146811092",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Willow",
+      "hp": 14,
+      "move": 2,
+      "isRanged": true,
+      "specialAbility": "When Willow or Tara is dealt damage, Willow becomes Dark Willow.\nAt the end of your turn, if Dark Willow is adjacent to Tara, she becomes Willow.\n(Effects marked DARK WILLOW only work while she is Dark Willow.)",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/token-hero.png?v=2ca9644f68"
+    },
+    "sidekick": {
+      "name": "Tara",
+      "quantity": 1,
+      "hp": 6,
+      "isRanged": true,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/token-tara.png?v=a9702a28fa"
+    },
+    "cards": [
+      {
+        "title": "Love & Loss",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Willow",
+        "basicText": "Draw 2 cards.\nDARK WILLOW: Discard the top 2 cards of your deck. Deal 3 damage to a sidekick in your zone (even if it's your own).",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/love-loss.webp?v=3ee6d9f9a5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/love-loss.webp?v=3ee6d9f9a5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/back.webp?v=4146811092"
+      },
+      {
+        "title": "Rending Shot",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move the opposing fighter up to 3 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/rending-shot.webp?v=a5610040e4",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/rending-shot.webp?v=a5610040e4"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/back.webp?v=4146811092"
+      },
+      {
+        "title": "Flayed Alive",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Willow",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "DARK WILLOW: BLIND BOOST this attack.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/flayed-alive.webp?v=d23051b84d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/flayed-alive.webp?v=d23051b84d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/back.webp?v=4146811092"
+      },
+      {
+        "title": "Regroup",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 1,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw a card. If you won the combat, draw 2 instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/regroup.webp?v=8f9de4ac73",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/regroup.webp?v=8f9de4ac73"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/back.webp?v=4146811092"
+      },
+      {
+        "title": "Revoke",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Tara",
+        "basicText": "",
+        "immediateText": "Cancel any abilities on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/revoke.webp?v=9366bb5bd5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/revoke.webp?v=9366bb5bd5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/back.webp?v=4146811092"
+      },
+      {
+        "title": "When Good Magic Fails",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Willow",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "DARK WILLOW: Move Willow to any space in her zone. Discard the top card of your deck.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/when-good-magic-fails.webp?v=d2442e2cad",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/when-good-magic-fails.webp?v=d2442e2cad"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/back.webp?v=4146811092"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/feint.webp?v=45adaa8148",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/feint.webp?v=45adaa8148"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/back.webp?v=4146811092"
+      },
+      {
+        "title": "Meditation",
+        "quantity": 2,
+        "type": "defence",
+        "value": 5,
+        "boost": 2,
+        "characterName": "Willow",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "DARK WILLOW: Become Willow.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/meditation.webp?v=beffc00072",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/meditation.webp?v=beffc00072"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/back.webp?v=4146811092"
+      },
+      {
+        "title": "Resurrect",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Willow",
+        "basicText": "Choose a friendly fighter who has been defeated. Place that fighter in any space in Willow's zone and set their health to 3.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/resurrect.webp?v=140732f76f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/resurrect.webp?v=140732f76f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/back.webp?v=4146811092"
+      },
+      {
+        "title": "Swift Strike",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move your fighter up to 4 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/swift-strike.webp?v=effacf81d8",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/swift-strike.webp?v=effacf81d8"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/back.webp?v=4146811092"
+      },
+      {
+        "title": "Black Magic",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Willow",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "DARK WILLOW: BLIND BOOST this card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/black-magic.webp?v=8d067083fd",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/black-magic.webp?v=8d067083fd"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/back.webp?v=4146811092"
+      },
+      {
+        "title": "Knowledge of the Craft",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Tara",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, choose a card in your discard pile and add it to your hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/knowledge-of-the-craft.webp?v=50d90d3241",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/knowledge-of-the-craft.webp?v=50d90d3241"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/back.webp?v=4146811092"
+      },
+      {
+        "title": "Hacker",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Look at the top card of your deck, then choose to put it on the top of your deck or the bottom of your deck.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/hacker.webp?v=8c724030c4",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/cards/hacker.webp?v=8c724030c4"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/back.webp?v=4146811092"
+      },
+      {
+        "title": "Willow",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Willow",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/hero.webp?v=717bb0f792",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/hero.webp?v=717bb0f792"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/willow/back.webp?v=4146811092",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

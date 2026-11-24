@@ -1,0 +1,348 @@
+{
+  "id": "um-washington",
+  "family_id": "um-washington",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "George Washington",
+  "note": "Unmatched (Restoration Games), set stars-stripes. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-22T22:40:50.660Z",
+  "deck_first_published_on": "2026-11-22T22:40:50.660Z",
+  "published_on": "2026-11-22T22:40:50.660Z",
+  "updated_on": "2026-11-22T22:40:50.660Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "stars-stripes"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/token-hero.png?v=0c49a55cfa",
+      "clip": "circle",
+      "label": "George Washington",
+      "rim": "#1F1F1F",
+      "initials": "GW",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/token-culper-spy.png?v=63183cf232",
+      "clip": "circle",
+      "rim": "#1F1F1F",
+      "initials": "CS",
+      "size": 64,
+      "h": 64
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/token-culper-spy.png?v=63183cf232",
+      "clip": "circle",
+      "rim": "#1F1F1F",
+      "initials": "CS",
+      "size": 64,
+      "h": 64
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/token-culper-spy.png?v=63183cf232",
+      "clip": "circle",
+      "rim": "#1F1F1F",
+      "initials": "CS",
+      "size": 64,
+      "h": 64
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/token-ruse.png?v=c172722298",
+      "size": 56,
+      "h": 49
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/token-ruse.png?v=c172722298",
+      "size": 56,
+      "h": 49
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/token-ruse.png?v=c172722298",
+      "size": 56,
+      "h": 49
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/token-ruse.png?v=c172722298",
+      "size": 56,
+      "h": 49
+    }
+  ],
+  "deck_data": {
+    "name": "George Washington",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/back.webp?v=b282f50a9a",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "George Washington",
+      "hp": 14,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "ESPIONAGE\nYou start with 4 ruse tokens.\nWhen you attack, you may use a ruse token, placing it next to the card. Before your opponent chooses whether or not to defend, they may discard 1 random card to remove the ruse token.\n(Effects marked RUSE only work if the ruse token is still next to the card.)",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/token-hero.png?v=0c49a55cfa"
+    },
+    "sidekick": {
+      "name": "Culper Spy",
+      "quantity": 3,
+      "hp": 1,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/token-culper-spy.png?v=63183cf232"
+    },
+    "cards": [
+      {
+        "title": "Allies Everywhere",
+        "quantity": 3,
+        "type": "attack",
+        "value": 1,
+        "boost": 3,
+        "characterName": "George Washington",
+        "basicText": "RUSE: Washington recovers 3 health.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Gain 1 free action to attack.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/allies-everywhere.webp?v=5d14cc04df",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/allies-everywhere.webp?v=5d14cc04df"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/back.webp?v=b282f50a9a"
+      },
+      {
+        "title": "Circumvent",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "RUSE: Ignore the value of your opponent's card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/circumvent.webp?v=2e71636053",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/circumvent.webp?v=2e71636053"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/back.webp?v=b282f50a9a"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/feint.webp?v=b0a37882e2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/feint.webp?v=b0a37882e2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/back.webp?v=b282f50a9a"
+      },
+      {
+        "title": "Make a Stand",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If your fighter started this turn in their current space, this card's value becomes 5.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/make-a-stand.webp?v=0cda789354",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/make-a-stand.webp?v=0cda789354"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/back.webp?v=b282f50a9a"
+      },
+      {
+        "title": "Misinformation",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, regain a ruse token.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/misinformation.webp?v=27be2cf80d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/misinformation.webp?v=27be2cf80d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/back.webp?v=b282f50a9a"
+      },
+      {
+        "title": "Network of Spies",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "George Washington",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Add +1 to this card's value for each other friendly fighter in Washington's zone.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/network-of-spies.webp?v=157f7a3fff",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/network-of-spies.webp?v=157f7a3fff"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/back.webp?v=b282f50a9a"
+      },
+      {
+        "title": "Sympathetic Stain",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Culper Spy",
+        "basicText": "Choose an opponent and look at their hand.\nIf a Spy is adjacent to one of their fighters, choose a card for them to discard and regain a ruse token.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/sympathetic-stain.webp?v=57c901ed39",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/sympathetic-stain.webp?v=57c901ed39"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/back.webp?v=b282f50a9a"
+      },
+      {
+        "title": "Undercover Agent",
+        "quantity": 2,
+        "type": "defence",
+        "value": 1,
+        "boost": 2,
+        "characterName": "George Washington",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Washington may swap spaces with an adjacent Spy. If he does, that Spy is now the defender.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/undercover-agent.webp?v=5576a89cf3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/undercover-agent.webp?v=5576a89cf3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/back.webp?v=b282f50a9a"
+      },
+      {
+        "title": "Recruit to the Ring",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Return a defeated Spy to a space adjacent to Washington. If you won the combat, return that Spy to any space instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/recruit-to-the-ring.webp?v=e2f3a8d5ef",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/recruit-to-the-ring.webp?v=e2f3a8d5ef"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/back.webp?v=b282f50a9a"
+      },
+      {
+        "title": "Lead Astray",
+        "quantity": 2,
+        "type": "attack",
+        "value": 5,
+        "boost": 2,
+        "characterName": "George Washington",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move a fighter in the combat up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/lead-astray.webp?v=1a32f6c154",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/lead-astray.webp?v=1a32f6c154"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/back.webp?v=b282f50a9a"
+      },
+      {
+        "title": "Gather Information",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "George Washington",
+        "basicText": "Draw 3 cards.\nMove each of your fighters up to 3 spaces. They may move through opposing fighters.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/gather-information.webp?v=3b0cc7f0e5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/gather-information.webp?v=3b0cc7f0e5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/back.webp?v=b282f50a9a"
+      },
+      {
+        "title": "Agent 711",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "George Washington",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "RUSE: If you won the combat, deal 7 damage to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/agent-711.webp?v=40922f7e7a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/agent-711.webp?v=40922f7e7a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/back.webp?v=b282f50a9a"
+      },
+      {
+        "title": "Sabotage",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "RUSE: If you won the combat, your opponent discards 2 random cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/sabotage.webp?v=abc1cf1e9c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/cards/sabotage.webp?v=abc1cf1e9c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/back.webp?v=b282f50a9a"
+      },
+      {
+        "title": "George Washington",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "George Washington",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/hero.webp?v=3a38da575c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/hero.webp?v=3a38da575c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/back.webp?v=b282f50a9a",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

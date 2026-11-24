@@ -1,0 +1,340 @@
+{
+  "id": "um-muldoon",
+  "family_id": "um-muldoon",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Robert Muldoon",
+  "note": "Unmatched (Restoration Games), set raptors. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-22T22:40:45.725Z",
+  "deck_first_published_on": "2026-11-22T22:40:45.725Z",
+  "published_on": "2026-11-22T22:40:45.725Z",
+  "updated_on": "2026-11-22T22:40:45.725Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "raptors"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/token-hero.png?v=3d7fa9d690",
+      "clip": "circle",
+      "label": "Robert Muldoon",
+      "rim": "#1F1F1F",
+      "initials": "RM",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/token-ingen-worker.png?v=517bcdcea4",
+      "clip": "circle",
+      "rim": "#1F1F1F",
+      "initials": "IW",
+      "size": 64,
+      "h": 64
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/token-ingen-worker.png?v=517bcdcea4",
+      "clip": "circle",
+      "rim": "#1F1F1F",
+      "initials": "IW",
+      "size": 64,
+      "h": 64
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/token-ingen-worker.png?v=517bcdcea4",
+      "clip": "circle",
+      "rim": "#1F1F1F",
+      "initials": "IW",
+      "size": 64,
+      "h": 64
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/token-trap.png?v=4c833faa0a",
+      "size": 44,
+      "h": 44
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/token-trap.png?v=4c833faa0a",
+      "size": 44,
+      "h": 44
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/token-trap.png?v=4c833faa0a",
+      "size": 44,
+      "h": 44
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/token-trap.png?v=4c833faa0a",
+      "size": 44,
+      "h": 44
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/token-trap.png?v=4c833faa0a",
+      "size": 44,
+      "h": 44
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/token-trap.png?v=4c833faa0a",
+      "size": 44,
+      "h": 44
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/token-trap.png?v=4c833faa0a",
+      "size": 44,
+      "h": 44
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/token-trap.png?v=4c833faa0a",
+      "size": 44,
+      "h": 44
+    }
+  ],
+  "deck_data": {
+    "name": "Robert Muldoon",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/back.webp?v=76eed4950d",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Robert Muldoon",
+      "hp": 14,
+      "move": 3,
+      "isRanged": true,
+      "specialAbility": "At the start of your turn, you may place a trap.\nWhenever one of your traps is returned to the box, draw a card.\nMuldoon starts with 8 traps.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/token-hero.png?v=3d7fa9d690"
+    },
+    "sidekick": {
+      "name": "InGen Worker",
+      "quantity": 3,
+      "hp": 1,
+      "isRanged": true,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/token-ingen-worker.png?v=517bcdcea4"
+    },
+    "cards": [
+      {
+        "title": "Regroup",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 1,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/regroup.webp?v=2f63231f33",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/regroup.webp?v=2f63231f33"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/back.webp?v=76eed4950d"
+      },
+      {
+        "title": "Second Shot",
+        "quantity": 2,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this attack.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/second-shot.webp?v=dbc70bbebb",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/second-shot.webp?v=dbc70bbebb"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/back.webp?v=76eed4950d"
+      },
+      {
+        "title": "They Should All Be Destroyed",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Robert Muldoon",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "+1 to this attack for each trap token adjacent to the opposing fighter.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/they-should-all-be-destroyed.webp?v=3c35bbf0ed",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/they-should-all-be-destroyed.webp?v=3c35bbf0ed"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/back.webp?v=76eed4950d"
+      },
+      {
+        "title": "Call for Backup",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Robert Muldoon",
+        "basicText": "Choose 2 different effects:\n► place up to 3 traps\n► place all of your defeated InGen Workers (if any) in Muldoon's zone\n► draw 2 cards",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/call-for-backup.webp?v=ccb9288e66",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/call-for-backup.webp?v=ccb9288e66"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/back.webp?v=76eed4950d"
+      },
+      {
+        "title": "I've Hunted Most Things That Can Hunt You",
+        "quantity": 2,
+        "type": "defence",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Robert Muldoon",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move each of your fighters up to 5 spaces. You may move them through spaces containing opposing fighters.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/i-ve-hunted-most-things-that-can-hunt-you.webp?v=4d396d302f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/i-ve-hunted-most-things-that-can-hunt-you.webp?v=4d396d302f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/back.webp?v=76eed4950d"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/feint.webp?v=cd572af83e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/feint.webp?v=cd572af83e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/back.webp?v=76eed4950d"
+      },
+      {
+        "title": "Rending Shot",
+        "quantity": 4,
+        "type": "attack",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move the opposing fighter up to 3 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/rending-shot.webp?v=f453e7f261",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/rending-shot.webp?v=f453e7f261"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/back.webp?v=76eed4950d"
+      },
+      {
+        "title": "Remote Detonation",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "Choose a trap in the same zone as any of your InGen Workers. Deal 1 damage to each opposing fighter adjacent to that trap. Return that trap to the box.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/remote-detonation.webp?v=d16faecdd6",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/remote-detonation.webp?v=d16faecdd6"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/back.webp?v=76eed4950d"
+      },
+      {
+        "title": "Shoot Her!",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Robert Muldoon",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If this is your first action this turn, this card's value is 5 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/shoot-her.webp?v=f55d3027ef",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/shoot-her.webp?v=f55d3027ef"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/back.webp?v=76eed4950d"
+      },
+      {
+        "title": "Leap Away",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, choose one of the fighters in the combat and move them up to 4 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/leap-away.webp?v=0d1651f77f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/leap-away.webp?v=0d1651f77f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/back.webp?v=76eed4950d"
+      },
+      {
+        "title": "Tactical Advance",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "InGen Worker",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move each of your InGen Workers up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/tactical-advance.webp?v=196e098182",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/cards/tactical-advance.webp?v=196e098182"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/back.webp?v=76eed4950d"
+      },
+      {
+        "title": "Robert Muldoon",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Robert Muldoon",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/hero.webp?v=e3bd184521",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/hero.webp?v=e3bd184521"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/muldoon/back.webp?v=76eed4950d",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Traps",
+        "content": "Muldoon has 8 trap tokens for the whole game. When a fighter is moved or placed onto a space with a trap, it stops, takes 1 damage, and the trap is returned to the box (then Muldoon draws a card)."
+      }
+    ]
+  }
+}

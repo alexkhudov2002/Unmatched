@@ -1,0 +1,256 @@
+{
+  "id": "um-buffy-xander",
+  "family_id": "um-buffy-xander",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Buffy (Xander)",
+  "note": "Unmatched (Restoration Games), set buffy. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-22T22:40:48.449Z",
+  "deck_first_published_on": "2026-11-22T22:40:48.449Z",
+  "published_on": "2026-11-22T22:40:48.449Z",
+  "updated_on": "2026-11-22T22:40:48.449Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "buffy"
+  ],
+  "deck_data": {
+    "name": "Buffy (Xander)",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/back.webp?v=d3785f2b80",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Buffy",
+      "hp": 14,
+      "move": 3,
+      "isRanged": false,
+      "specialAbility": "Buffy may move through spaces containing opposing fighters (including when she is moved by effects).",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/token-hero.png?v=2e906790a3"
+    },
+    "sidekick": {
+      "name": "Xander",
+      "quantity": 1,
+      "hp": 6,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/token-xander.png?v=c72e068507"
+    },
+    "cards": [
+      {
+        "title": "Daring Strike",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, draw 2 cards. Otherwise, take 1 damage.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/daring-strike.webp?v=aaee287c7e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/daring-strike.webp?v=aaee287c7e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/back.webp?v=d3785f2b80"
+      },
+      {
+        "title": "Skirmish",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, move one of the fighters in the combat up to 2 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/skirmish.webp?v=fc028e4c32",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/skirmish.webp?v=fc028e4c32"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/back.webp?v=d3785f2b80"
+      },
+      {
+        "title": "Rapid Recovery",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Buffy",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Buffy recovers 1 health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/rapid-recovery.webp?v=195c960383",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/rapid-recovery.webp?v=195c960383"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/back.webp?v=d3785f2b80"
+      },
+      {
+        "title": "Swift Strike",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move your fighter up to 4 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/swift-strike.webp?v=b7c4208132",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/swift-strike.webp?v=b7c4208132"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/back.webp?v=d3785f2b80"
+      },
+      {
+        "title": "Slayer's Strength",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Buffy",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "You may move all fighters adjacent to Buffy to another space in their zone. Then, deal 1 damage to each fighter you moved.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/slayer-s-strength.webp?v=ef7ec9d6ce",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/slayer-s-strength.webp?v=ef7ec9d6ce"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/back.webp?v=d3785f2b80"
+      },
+      {
+        "title": "Feint",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/feint.webp?v=934093c426",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/feint.webp?v=934093c426"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/back.webp?v=d3785f2b80"
+      },
+      {
+        "title": "Regroup",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 1,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw a card. If you won the combat, draw 2 instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/regroup.webp?v=714793828c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/regroup.webp?v=714793828c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/back.webp?v=d3785f2b80"
+      },
+      {
+        "title": "Mr. Pointy",
+        "quantity": 2,
+        "type": "attack",
+        "value": 5,
+        "boost": 4,
+        "characterName": "Buffy",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/mr-pointy.webp?v=7cf203a164",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/mr-pointy.webp?v=7cf203a164"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/back.webp?v=d3785f2b80"
+      },
+      {
+        "title": "Cartwheel Kick",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Buffy",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "You may move Buffy up to 3 spaces. Then, deal 1 damage to each opposing fighter adjacent to her.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/cartwheel-kick.webp?v=10f0432eca",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/cartwheel-kick.webp?v=10f0432eca"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/back.webp?v=d3785f2b80"
+      },
+      {
+        "title": "Right-Hand Man",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Xander",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If Xander is adjacent to Buffy, the value of this card is 6 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/right-hand-man.webp?v=7b422dc8f1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/right-hand-man.webp?v=7b422dc8f1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/back.webp?v=d3785f2b80"
+      },
+      {
+        "title": "Military Knowledge",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Xander",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/military-knowledge.webp?v=59737e4b47",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/cards/military-knowledge.webp?v=59737e4b47"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/back.webp?v=d3785f2b80"
+      },
+      {
+        "title": "Buffy",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Buffy",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/hero.webp?v=7792b179ad",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/hero.webp?v=7792b179ad"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy-xander/back.webp?v=d3785f2b80",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}
