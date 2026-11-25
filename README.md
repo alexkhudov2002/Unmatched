@@ -41,6 +41,7 @@ En **unbrewed.xyz/bag**, pega un enlace en la barra de añadir.
 | Stars & Stripes | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/stars-stripes.json` |
 | Marvel: Brains and Brawn | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/brains-and-brawn.json` |
 | Witcher: Steel and Silver | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/witcher-steel-and-silver.json` |
+| TMNT: Shredder & Krang | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/turtles.json` |
 | Personalizados (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/custom.json` |
 
 **Héroes sueltos:**
@@ -121,6 +122,8 @@ En **unbrewed.xyz/bag**, pega un enlace en la barra de añadir.
 | Ciri | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/ciri.json` |
 | Geralt of Rivia | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/geralt.json` |
 | Ancient Leshen | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/leshen.json` |
+| Krang | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/krang.json` |
+| Shredder | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/shredder.json` |
 | Emperor Palpatine (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/palpatine.json` |
 | Lord Voldemort (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/voldemort.json` |
 | Tahm Kench (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/tahm-kench.json` |
@@ -212,6 +215,11 @@ Si un mazo cambia, bórralo de la bolsa y vuelve a añadirlo: Unbrewed guarda un
   una de las otras tres (las cartas «Gear: …»; la lista por tipo está en el panel de reglas).
 - **Ancient Leshen** (con 2 Wolves de 1 de vida): las fichas en la esquina del jugador. La regla de invocar
   lobos va en el panel de reglas.
+- **Krang**: su ficha y las 3 máquinas del fin del mundo, que se giran entre INACTIVE y ACTIVE (una sale
+  activa). Los «[?]» de las cartas son el dado de la Destrucción Definitiva: sin el dado físico, tira 1d6
+  en Unbrewed y cuenta el 6 como X (0). La regla está en el panel de reglas.
+- **Shredder** (con Bebop & Rocksteady, 7 de vida): su ficha, Bebop & Rocksteady y 25 Foot soldiers. Los Foot
+  soldiers van sobre la línea entre dos casillas adyacentes (uno por línea); la regla está en el panel.
 - **Personalizados** (mazos fan-made de unmatched.cards): **Emperor Palpatine** (con 2 Royal Guards de 5 de
   vida), **Lord Voldemort** (con 7 Horcruxes de 1 de vida, que empiezan fuera del tablero), **Tahm Kench**,
   **Evelynn**, **Lux** y **Akali** (su carta de personaje de dos caras va como dos cartas de personaje:
@@ -222,8 +230,8 @@ Si un mazo cambia, bórralo de la bolsa y vuelve a añadirlo: Unbrewed guarda un
   llegan para 2 rivales); salen junto a su ficha, en un punto fijo de la mesa.
 
 Invisible Man, Jekyll & Hyde, Blackbeard, Pandora, Dr. Jill Trent, Nikola Tesla, Alice, Hellboy, Abe
-Sapien, Beowulf, Ghost Rider, The Wayward Sisters, Titania, Muldoon, Spike, Willow, John Henry, Rosie y
-Washington usan una lista de fichas guardada en el mazo, y Unbrewed la pone siempre en el mismo punto
+Sapien, Beowulf, Ghost Rider, The Wayward Sisters, Titania, Muldoon, Spike, Willow, John Henry, Rosie,
+Washington, Krang y Shredder usan una lista de fichas guardada en el mazo, y Unbrewed la pone siempre en el mismo punto
 de la mesa, no en la esquina del jugador.
 
 ## Cómo se generan

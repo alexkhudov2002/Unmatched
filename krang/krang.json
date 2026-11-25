@@ -1,0 +1,296 @@
+{
+  "id": "um-krang",
+  "family_id": "um-krang",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Krang",
+  "note": "Unmatched (Restoration Games), set turtles. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-25T22:49:20.851Z",
+  "deck_first_published_on": "2026-11-25T22:49:20.851Z",
+  "published_on": "2026-11-25T22:49:20.851Z",
+  "updated_on": "2026-11-25T22:49:20.851Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "turtles"
+  ],
+  "savedTokens": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/token-hero.png?v=82e8340bcd",
+      "clip": "circle",
+      "label": "Krang",
+      "rim": "#1F1F1F",
+      "initials": "K",
+      "size": 88,
+      "h": 88,
+      "counter": {
+        "link": "hero"
+      }
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/token-machine.png?v=d19491e997",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 1
+      },
+      "altIndex": 0,
+      "size": 60,
+      "h": 60
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/token-machine.png?v=d19491e997",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "size": 60,
+      "h": 60
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/token-machine.png?v=d19491e997",
+      "sheet": {
+        "cols": 2,
+        "rows": 1,
+        "index": 0
+      },
+      "altIndex": 1,
+      "size": 60,
+      "h": 60
+    }
+  ],
+  "deck_data": {
+    "name": "Krang",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Krang",
+      "hp": 16,
+      "move": 1,
+      "isRanged": false,
+      "specialAbility": "DOOOOOM\nKrang has 3 doomsday machines. Start with one machine active.\nAfter you roll the Die of Ultimate Destruction, you can deactivate an active machine to reroll the die.\nAdd +1 to your move value for each active machine.",
+      "quote": "Morons! I'm surrounded by morons!",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/token-hero.png?v=82e8340bcd"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "IQ of 968",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 0,
+        "characterName": "Krang",
+        "basicText": "Activate all machines.\nDraw [?] cards.\nKrang recovers [?] health.\nBOOST: Its BOOST value is [?]: roll the Die of Ultimate Destruction.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/iq-of-968.webp?v=f1f661208e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/iq-of-968.webp?v=f1f661208e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+      },
+      {
+        "title": "Molecular Amplification Unit",
+        "quantity": 4,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Krang",
+        "basicText": "",
+        "immediateText": "Activate a machine.",
+        "duringText": "Increase this card's value by [?].",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/molecular-amplification-unit.webp?v=ef71863818",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/molecular-amplification-unit.webp?v=ef71863818"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+      },
+      {
+        "title": "Android Arms: Chain Flail",
+        "quantity": 3,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Krang",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If the printed value of your opponent's card is less than [?], or they didn't play a card, they discard 2 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/android-arms-chain-flail.webp?v=95d9e8b5e2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/android-arms-chain-flail.webp?v=95d9e8b5e2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+      },
+      {
+        "title": "Warlord of Dimension X",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Krang",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Reveal the top card of your deck and your opponent's deck. If your card's name is longer, draw it.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/warlord-of-dimension-x.webp?v=c68f78a94d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/warlord-of-dimension-x.webp?v=c68f78a94d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+      },
+      {
+        "title": "Android Arms: Powerbomb",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Krang",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this card.",
+        "afterText": "Move the opposing fighter a number of spaces up to the amount of combat damage dealt.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/android-arms-powerbomb.webp?v=d798438786",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/android-arms-powerbomb.webp?v=d798438786"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+      },
+      {
+        "title": "Welcome to the Technodrome!",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Krang",
+        "basicText": "",
+        "immediateText": "Choose one:\n► cancel all effects on your opponent's card\n► activate a machine",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/welcome-to-the-technodrome.webp?v=47195c7c2e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/welcome-to-the-technodrome.webp?v=47195c7c2e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+      },
+      {
+        "title": "Android Arms: Missiles",
+        "quantity": 3,
+        "type": "attack",
+        "value": 1,
+        "boost": 1,
+        "characterName": "Krang",
+        "basicText": "You may play this card face up as a ranged attack.",
+        "immediateText": "",
+        "duringText": "Increase this card's value by [?].",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/android-arms-missiles.webp?v=3ab49f19a7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/android-arms-missiles.webp?v=3ab49f19a7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+      },
+      {
+        "title": "Android Arms: Wings",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Krang",
+        "basicText": "Move Krang up to [?] spaces. Krang may move through opposing fighters. Then, deal 1 damage to each opposing fighter Krang moved through.\nGain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/android-arms-wings.webp?v=8b02a05bce",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/android-arms-wings.webp?v=8b02a05bce"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+      },
+      {
+        "title": "Minimizer",
+        "quantity": 3,
+        "type": "defence",
+        "value": 0,
+        "boost": 1,
+        "characterName": "Krang",
+        "basicText": "",
+        "immediateText": "Decrease the value of your opponent's card by 4.",
+        "duringText": "",
+        "afterText": "End the turn.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/minimizer.webp?v=37834780a5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/minimizer.webp?v=37834780a5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+      },
+      {
+        "title": "Pan-Dimensional Portal",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 0,
+        "characterName": "Krang",
+        "basicText": "BOOST: Its BOOST value is [?]: roll the Die of Ultimate Destruction.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Place a fighter in the combat in any space. They can't leave that space this turn. Both players put [?] random cards from their hands on the bottom of their decks, then both draw 2 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/pan-dimensional-portal.webp?v=88a06b4cd0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/pan-dimensional-portal.webp?v=88a06b4cd0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+      },
+      {
+        "title": "Krang",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Krang",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/hero.webp?v=e2783f65ea",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/hero.webp?v=e2783f65ea"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Die of Ultimate Destruction",
+        "content": "When you resolve an effect with the Ultimate Destruction icon (written [?] here), roll the Die of Ultimate Destruction and use the number rolled. If a card has more than one [?], roll separately for each. Rolling an X counts as 0 (no effect). A [?] BOOST value is rolled the same way when the card is used to BOOST. Without the physical die, roll 1d6 in Unbrewed and count a 6 as X (0) — this face mapping is an assumption, the die faces were not available."
+      },
+      {
+        "title": "Doomsday Machines",
+        "content": "Krang has 3 doomsday machine tokens: one starts active, two inactive. Flip a token to change its state. \"Activate a machine\": flip an inactive one to active (if all three are active, ignore it). Deactivating one after a roll lets you reroll the die. Krang's move value is 1 + the number of active machines."
+      }
+    ]
+  }
+}

@@ -13108,6 +13108,302 @@
       }
     },
     {
+      "id": "um-krang",
+      "family_id": "um-krang",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Krang",
+      "note": "Unmatched (Restoration Games), set turtles. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-25T22:49:20.851Z",
+      "deck_first_published_on": "2026-11-25T22:49:20.851Z",
+      "published_on": "2026-11-25T22:49:20.851Z",
+      "updated_on": "2026-11-25T22:49:20.851Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "turtles"
+      ],
+      "savedTokens": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/token-hero.png?v=82e8340bcd",
+          "clip": "circle",
+          "label": "Krang",
+          "rim": "#1F1F1F",
+          "initials": "K",
+          "size": 88,
+          "h": 88,
+          "counter": {
+            "link": "hero"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/token-machine.png?v=d19491e997",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 1
+          },
+          "altIndex": 0,
+          "size": 60,
+          "h": 60
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/token-machine.png?v=d19491e997",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 60,
+          "h": 60
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/token-machine.png?v=d19491e997",
+          "sheet": {
+            "cols": 2,
+            "rows": 1,
+            "index": 0
+          },
+          "altIndex": 1,
+          "size": 60,
+          "h": 60
+        }
+      ],
+      "deck_data": {
+        "name": "Krang",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Krang",
+          "hp": 16,
+          "move": 1,
+          "isRanged": false,
+          "specialAbility": "DOOOOOM\nKrang has 3 doomsday machines. Start with one machine active.\nAfter you roll the Die of Ultimate Destruction, you can deactivate an active machine to reroll the die.\nAdd +1 to your move value for each active machine.",
+          "quote": "Morons! I'm surrounded by morons!",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/token-hero.png?v=82e8340bcd"
+        },
+        "sidekick": {
+          "name": "Sidekick",
+          "hp": null,
+          "quantity": null,
+          "isRanged": false,
+          "quote": ""
+        },
+        "cards": [
+          {
+            "title": "IQ of 968",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 0,
+            "characterName": "Krang",
+            "basicText": "Activate all machines.\nDraw [?] cards.\nKrang recovers [?] health.\nBOOST: Its BOOST value is [?]: roll the Die of Ultimate Destruction.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/iq-of-968.webp?v=f1f661208e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/iq-of-968.webp?v=f1f661208e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+          },
+          {
+            "title": "Molecular Amplification Unit",
+            "quantity": 4,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Krang",
+            "basicText": "",
+            "immediateText": "Activate a machine.",
+            "duringText": "Increase this card's value by [?].",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/molecular-amplification-unit.webp?v=ef71863818",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/molecular-amplification-unit.webp?v=ef71863818"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+          },
+          {
+            "title": "Android Arms: Chain Flail",
+            "quantity": 3,
+            "type": "attack",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Krang",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If the printed value of your opponent's card is less than [?], or they didn't play a card, they discard 2 cards.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/android-arms-chain-flail.webp?v=95d9e8b5e2",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/android-arms-chain-flail.webp?v=95d9e8b5e2"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+          },
+          {
+            "title": "Warlord of Dimension X",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Krang",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Reveal the top card of your deck and your opponent's deck. If your card's name is longer, draw it.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/warlord-of-dimension-x.webp?v=c68f78a94d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/warlord-of-dimension-x.webp?v=c68f78a94d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+          },
+          {
+            "title": "Android Arms: Powerbomb",
+            "quantity": 3,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Krang",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BOOST this card.",
+            "afterText": "Move the opposing fighter a number of spaces up to the amount of combat damage dealt.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/android-arms-powerbomb.webp?v=d798438786",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/android-arms-powerbomb.webp?v=d798438786"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+          },
+          {
+            "title": "Welcome to the Technodrome!",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Krang",
+            "basicText": "",
+            "immediateText": "Choose one:\n► cancel all effects on your opponent's card\n► activate a machine",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/welcome-to-the-technodrome.webp?v=47195c7c2e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/welcome-to-the-technodrome.webp?v=47195c7c2e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+          },
+          {
+            "title": "Android Arms: Missiles",
+            "quantity": 3,
+            "type": "attack",
+            "value": 1,
+            "boost": 1,
+            "characterName": "Krang",
+            "basicText": "You may play this card face up as a ranged attack.",
+            "immediateText": "",
+            "duringText": "Increase this card's value by [?].",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/android-arms-missiles.webp?v=3ab49f19a7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/android-arms-missiles.webp?v=3ab49f19a7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+          },
+          {
+            "title": "Android Arms: Wings",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Krang",
+            "basicText": "Move Krang up to [?] spaces. Krang may move through opposing fighters. Then, deal 1 damage to each opposing fighter Krang moved through.\nGain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/android-arms-wings.webp?v=8b02a05bce",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/android-arms-wings.webp?v=8b02a05bce"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+          },
+          {
+            "title": "Minimizer",
+            "quantity": 3,
+            "type": "defence",
+            "value": 0,
+            "boost": 1,
+            "characterName": "Krang",
+            "basicText": "",
+            "immediateText": "Decrease the value of your opponent's card by 4.",
+            "duringText": "",
+            "afterText": "End the turn.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/minimizer.webp?v=37834780a5",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/minimizer.webp?v=37834780a5"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+          },
+          {
+            "title": "Pan-Dimensional Portal",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 0,
+            "characterName": "Krang",
+            "basicText": "BOOST: Its BOOST value is [?]: roll the Die of Ultimate Destruction.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Place a fighter in the combat in any space. They can't leave that space this turn. Both players put [?] random cards from their hands on the bottom of their decks, then both draw 2 cards.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/pan-dimensional-portal.webp?v=88a06b4cd0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/cards/pan-dimensional-portal.webp?v=88a06b4cd0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c"
+          },
+          {
+            "title": "Krang",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Krang",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/hero.webp?v=e2783f65ea",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/hero.webp?v=e2783f65ea"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/back.webp?v=7b4ca2eb2c",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Die of Ultimate Destruction",
+            "content": "When you resolve an effect with the Ultimate Destruction icon (written [?] here), roll the Die of Ultimate Destruction and use the number rolled. If a card has more than one [?], roll separately for each. Rolling an X counts as 0 (no effect). A [?] BOOST value is rolled the same way when the card is used to BOOST. Without the physical die, roll 1d6 in Unbrewed and count a 6 as X (0) — this face mapping is an assumption, the die faces were not available."
+          },
+          {
+            "title": "Doomsday Machines",
+            "content": "Krang has 3 doomsday machine tokens: one starts active, two inactive. Flip a token to change its state. \"Activate a machine\": flip an inactive one to active (if all three are active, ignore it). Deactivating one after a roll lets you reroll the die. Krang's move value is 1 + the number of active machines."
+          }
+        ]
+      }
+    },
+    {
       "id": "um-little-red",
       "family_id": "um-little-red",
       "version_id": "1",
@@ -20397,6 +20693,453 @@
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sherlock-holmes/back.webp?v=f2d2f0a1cc",
             "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-shredder",
+      "family_id": "um-shredder",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Shredder",
+      "note": "Unmatched (Restoration Games), set turtles. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-25T22:49:22.377Z",
+      "deck_first_published_on": "2026-11-25T22:49:22.377Z",
+      "published_on": "2026-11-25T22:49:22.377Z",
+      "updated_on": "2026-11-25T22:49:22.377Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "turtles"
+      ],
+      "savedTokens": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-hero.png?v=a7944b26f2",
+          "clip": "circle",
+          "label": "Shredder",
+          "rim": "#1F1F1F",
+          "initials": "S",
+          "size": 88,
+          "h": 88,
+          "counter": {
+            "link": "hero"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-bebop-rocksteady.png?v=2f24b069e2",
+          "clip": "circle",
+          "label": "Bebop & Rocksteady",
+          "rim": "#1F1F1F",
+          "initials": "BR",
+          "size": 64,
+          "h": 64,
+          "counter": {
+            "link": "sidekick"
+          }
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-foot-soldier.png?v=b1e4113351",
+          "size": 36,
+          "h": 36
+        }
+      ],
+      "deck_data": {
+        "name": "Shredder",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/back.webp?v=240f4dc60e",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Shredder",
+          "hp": 15,
+          "move": 3,
+          "isRanged": false,
+          "specialAbility": "MASTER OF THE CLAN\nAt the start of your turn, deploy a Foot soldier to a path adjacent to a friendly fighter.\nYou may attack opposing fighters adjacent to Foot soldiers.\nIf an opponent boosts their maneuver, they may remove any Foot soldiers their hero moves through.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-hero.png?v=a7944b26f2"
+        },
+        "sidekick": {
+          "name": "Bebop & Rocksteady",
+          "quantity": 1,
+          "hp": 7,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/token-bebop-rocksteady.png?v=2f24b069e2"
+        },
+        "cards": [
+          {
+            "title": "Master of the Foot",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Shredder",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 1 damage to each opposing fighter adjacent to a Foot soldier.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/master-of-the-foot.webp?v=0a0cf8946e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/master-of-the-foot.webp?v=0a0cf8946e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/back.webp?v=240f4dc60e"
+          },
+          {
+            "title": "Gruff Escort",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Bebop & Rocksteady",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deploy 2 Foot soldiers anywhere. Move Shredder up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/gruff-escort.webp?v=0d7ebbfe17",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/gruff-escort.webp?v=0d7ebbfe17"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/back.webp?v=240f4dc60e"
+          },
+          {
+            "title": "Swarming Strike",
+            "quantity": 3,
+            "type": "attack",
+            "value": 5,
+            "boost": 3,
+            "characterName": "Shredder",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Add +1 to this card's value for each adjacent Foot soldier.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/swarming-strike.webp?v=56efbc734b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/swarming-strike.webp?v=56efbc734b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/back.webp?v=240f4dc60e"
+          },
+          {
+            "title": "Disrupting Strike",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Shredder",
+            "basicText": "",
+            "immediateText": "The value of your opponent's card is equal to its printed value and cannot be changed.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/disrupting-strike.webp?v=055026f384",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/disrupting-strike.webp?v=055026f384"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/back.webp?v=240f4dc60e"
+          },
+          {
+            "title": "Savagery",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, deal 1 damage to each fighter adjacent to your fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/savagery.webp?v=4b8044191d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/savagery.webp?v=4b8044191d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/back.webp?v=240f4dc60e"
+          },
+          {
+            "title": "Think Hard",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Bebop & Rocksteady",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card for each Foot soldier adjacent to the opposing fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/think-hard.webp?v=1a5bbdcc3e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/think-hard.webp?v=1a5bbdcc3e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/back.webp?v=240f4dc60e"
+          },
+          {
+            "title": "Back to Work!",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Shredder",
+            "basicText": "Bebop & Rocksteady recover 3 health, even if they are defeated. Place them in a space as close as possible to Shredder.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/back-to-work.webp?v=33e0481a4d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/back-to-work.webp?v=33e0481a4d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/back.webp?v=240f4dc60e"
+          },
+          {
+            "title": "Masterful Defense",
+            "quantity": 2,
+            "type": "defence",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Shredder",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Shredder recovers 1 health for each adjacent Foot soldier.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/masterful-defense.webp?v=b9ec780f53",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/masterful-defense.webp?v=b9ec780f53"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/back.webp?v=240f4dc60e"
+          },
+          {
+            "title": "Long Shot",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If the opposing fighter is not adjacent to your fighter, this card's value is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/long-shot.webp?v=3fc62094e2",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/long-shot.webp?v=3fc62094e2"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/back.webp?v=240f4dc60e"
+          },
+          {
+            "title": "All According to Plan",
+            "quantity": 2,
+            "type": "defence",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Shredder",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Your opponent gains 1 action. At the end of this turn, if they didn't play a scheme, they discard 2 cards.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/all-according-to-plan.webp?v=43d1439550",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/all-according-to-plan.webp?v=43d1439550"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/back.webp?v=240f4dc60e"
+          },
+          {
+            "title": "Gang Up",
+            "quantity": 2,
+            "type": "attack",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Bebop & Rocksteady",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If the opposing fighter is adjacent to 2 or more Foot soldiers, this card's value is 6 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/gang-up.webp?v=29212f13ae",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/gang-up.webp?v=29212f13ae"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/back.webp?v=240f4dc60e"
+          },
+          {
+            "title": "Obedient Subjects",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Shredder",
+            "basicText": "Gain 1 action for each Foot soldier adjacent to Shredder.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/obedient-subjects.webp?v=64a8219c99",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/obedient-subjects.webp?v=64a8219c99"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/back.webp?v=240f4dc60e"
+          },
+          {
+            "title": "Perplexing Tactics",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Shredder",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card. If 10 or more Foot soldiers are deployed, also ignore that card's value.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/perplexing-tactics.webp?v=f5515337a9",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/cards/perplexing-tactics.webp?v=f5515337a9"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/back.webp?v=240f4dc60e"
+          },
+          {
+            "title": "Shredder",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Shredder",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/hero.webp?v=f3a1dd5d17",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/hero.webp?v=f3a1dd5d17"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/back.webp?v=240f4dc60e",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Foot soldiers",
+            "content": "A Foot soldier is deployed on a path: the line between two adjacent spaces (on a map without printed paths, put the token on the line joining the two spaces). Each path holds only one Foot soldier. Foot soldiers are not fighters: they cannot attack or be attacked, and fighters may move through them without stopping or taking damage. Shredder and Bebop & Rocksteady may attack any opposing fighter adjacent to a Foot soldier. When an opposing hero (not a sidekick) maneuvers and boosts, they may remove any number of Foot soldiers they move through (not with movement effects); removed Foot soldiers return to Shredder's supply. If the supply is empty, deploying does nothing."
           }
         ]
       }
