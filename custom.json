@@ -318,10 +318,10 @@
 			"note": "Unmatched (Restoration Games), set custom. Datos transcritos de las cartas; uso privado.",
 			"user": "alexkhudov2002",
 			"bgg_link": null,
-			"created_on": "2026-11-21T19:43:29.963Z",
-			"deck_first_published_on": "2026-11-21T19:43:29.963Z",
-			"published_on": "2026-11-21T19:43:29.963Z",
-			"updated_on": "2026-11-21T19:43:29.963Z",
+			"created_on": "2026-11-25T12:22:23.463Z",
+			"deck_first_published_on": "2026-11-25T12:22:23.463Z",
+			"published_on": "2026-11-25T12:22:23.463Z",
+			"updated_on": "2026-11-25T12:22:23.463Z",
 			"deck_published": false,
 			"published": false,
 			"liked": false,
@@ -344,7 +344,7 @@
 					"hp": 18,
 					"move": 2,
 					"isRanged": false,
-					"specialAbility": "FRENESÍ SANGUINARIO\nEmpieza CONTENIDA, con movimiento 2. Al comienzo de tu turno puedes entrar en FRENESÍ gratuitamente, o abandonar el frenesí descartando 2 cartas de tu mano. No gastas una acción. Si abandonas el frenesí, no puedes volver a entrar durante ese turno.\nEn FRENESÍ tienes movimiento 3 y tus ataques reciben +2 de valor, o +4 en su lugar si Briar tenía 8 vidas o menos al comenzar ese combate. Esta bonificación solo modifica el valor de ataque.\nMALDICIÓN CARMESÍ: Mientras Briar esté en frenesí, inmediatamente después de resolver el daño de uno de sus ataques y antes de resolver efectos DESPUÉS DEL COMBATE, recupera tanta vida como haya perdido el defensor por ese daño de combate. No se cura por daño prevenido, redirigido a otro luchador ni procedente de efectos. La curación está limitada a la vida que realmente perdía el defensor y a las 18 vidas máximas de Briar. Briar debe seguir viva para recuperarse.\nDurante tu turno en frenesí debes seguir las reglas de presa y persecución del suplemento.",
+					"specialAbility": "FRENESÍ SANGUINARIO\nBriar empieza CONTENIDA (movimiento 2). Al comienzo de tu turno puedes entrar en FRENESÍ, o salir de él descartando 2 cartas.\nEN FRENESÍ: Briar tiene movimiento 3 y el valor de sus ataques aumenta en 2. No puedes maniobrar si Briar puede atacar, y al maniobrar Briar debe acabar más cerca de un luchador oponente.",
 					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/token-hero.png?v=dbfb74e1c7"
 				},
 				"sidekick": {
@@ -362,13 +362,13 @@
 						"value": 3,
 						"boost": 3,
 						"characterName": "Briar",
-						"basicText": "RECORDATORIO: En frenesí, Maldición carmesí cura a Briar por la vida que el defensor pierda con el daño de combate de este ataque. Este recordatorio no aplica una segunda curación.",
+						"basicText": "",
 						"immediateText": "",
-						"duringText": "Si el defensor tenía 8 vidas o menos al comenzar este combate, el valor de esta carta aumenta en 2.",
+						"duringText": "Si el luchador oponente tiene 8 de vida o menos, el valor de esta carta aumenta en 2.",
 						"afterText": "",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/otro-mordisquito.webp?v=f368c6bfdb",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/otro-mordisquito.webp?v=a13b304050",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/otro-mordisquito.webp?v=f368c6bfdb"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/otro-mordisquito.webp?v=a13b304050"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
 					},
@@ -382,10 +382,10 @@
 						"basicText": "",
 						"immediateText": "",
 						"duringText": "",
-						"afterText": "Si el luchador contrario sigue en el tablero, puedes colocar a Briar en una casilla libre adyacente a él.",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/a-la-yugular.webp?v=119296be1d",
+						"afterText": "Puedes colocar a Briar en una casilla adyacente al luchador oponente.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/a-la-yugular.webp?v=1290f2ab69",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/a-la-yugular.webp?v=119296be1d"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/a-la-yugular.webp?v=1290f2ab69"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
 					},
@@ -400,9 +400,9 @@
 						"immediateText": "",
 						"duringText": "Puedes POTENCIAR esta carta.",
 						"afterText": "Si ganaste el combate, roba 1 carta.",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/desgarro-voraz.webp?v=5c91b8ee2c",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/desgarro-voraz.webp?v=3bf82ed2b9",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/desgarro-voraz.webp?v=5c91b8ee2c"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/desgarro-voraz.webp?v=3bf82ed2b9"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
 					},
@@ -417,9 +417,9 @@
 						"immediateText": "",
 						"duringText": "",
 						"afterText": "Si atacaste, roba 2 cartas. Si defendiste, roba 1 carta.",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hambre-insaciable.webp?v=9398a2b8cc",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hambre-insaciable.webp?v=aa402070c5",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hambre-insaciable.webp?v=9398a2b8cc"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hambre-insaciable.webp?v=aa402070c5"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
 					},
@@ -434,9 +434,9 @@
 						"immediateText": "Cancela todos los efectos de la carta de tu oponente.",
 						"duringText": "",
 						"afterText": "",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/tengo-hambre.webp?v=4833022784",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/tengo-hambre.webp?v=c7d332d99a",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/tengo-hambre.webp?v=4833022784"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/tengo-hambre.webp?v=c7d332d99a"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
 					},
@@ -451,9 +451,9 @@
 						"immediateText": "",
 						"duringText": "",
 						"afterText": "Si atacaste, inflige 2 de daño al luchador contrario. Si defendiste, recupera 1 vida.",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/herida-abierta.webp?v=6d7576e0dd",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/herida-abierta.webp?v=b9b2ddb308",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/herida-abierta.webp?v=6d7576e0dd"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/herida-abierta.webp?v=b9b2ddb308"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
 					},
@@ -468,9 +468,9 @@
 						"immediateText": "El luchador contrario no puede abandonar su casilla durante el resto de este turno.",
 						"duringText": "",
 						"afterText": "",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/no-te-vayas.webp?v=c87881f1ac",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/no-te-vayas.webp?v=3f53f40284",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/no-te-vayas.webp?v=c87881f1ac"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/no-te-vayas.webp?v=3f53f40284"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
 					},
@@ -483,11 +483,11 @@
 						"characterName": "Briar",
 						"basicText": "",
 						"immediateText": "",
-						"duringText": "Si Briar tiene al menos 3 vidas, puedes hacer que reciba 2 de daño. Si lo haces, el valor de esta carta aumenta en 2.",
-						"afterText": "",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/duele-pero-me-gusta.webp?v=eb03a8ec6c",
+						"duringText": "",
+						"afterText": "Roba tantas cartas como daño haya recibido Briar en este combate (de combate o de efectos).",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/duele-pero-me-gusta.webp?v=d13345091d",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/duele-pero-me-gusta.webp?v=eb03a8ec6c"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/duele-pero-me-gusta.webp?v=d13345091d"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
 					},
@@ -502,9 +502,9 @@
 						"immediateText": "",
 						"duringText": "",
 						"afterText": "Si Briar está en frenesí, puedes hacer que lo abandone. Si lo haces, recupera 2 vidas y mueve a Briar hasta 2 casillas.",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/alarido-escalofriante.webp?v=089b340600",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/alarido-escalofriante.webp?v=3d67d34f30",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/alarido-escalofriante.webp?v=089b340600"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/alarido-escalofriante.webp?v=3d67d34f30"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
 					},
@@ -519,9 +519,9 @@
 						"immediateText": "Cancela todos los efectos de la carta de tu oponente.",
 						"duringText": "Si Briar tenía 8 vidas o menos al comenzar este combate, el valor de esta carta es 6 en lugar de 4.",
 						"afterText": "",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hemolito.webp?v=425753ba10",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hemolito.webp?v=ab8a302890",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hemolito.webp?v=425753ba10"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hemolito.webp?v=ab8a302890"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
 					},
@@ -530,15 +530,15 @@
 						"quantity": 2,
 						"type": "scheme",
 						"value": null,
-						"boost": 3,
+						"boost": 4,
 						"characterName": "Briar",
-						"basicText": "Puedes jugar esta carta durante el frenesí en lugar de tu acción obligatoria. No puedes jugarla en el turno en el que Briar haya abandonado el frenesí.\nElige un héroe enemigo en el tablero junto al que puedas colocar legalmente a Briar. Ese héroe se convierte en tu presa hasta el final de este turno, sustituyendo la selección normal de presa. Coloca a Briar en una casilla libre adyacente a él y entra en frenesí. Gana 1 acción.",
+						"basicText": "Coloca a Briar en una casilla adyacente a un héroe oponente. Briar entra en FRENESÍ. Gana 1 acción.",
 						"immediateText": "",
 						"duringText": "",
 						"afterText": "",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/final-sangriento.webp?v=a29d90a6ed",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/final-sangriento.webp?v=b51def155e",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/final-sangriento.webp?v=a29d90a6ed"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/final-sangriento.webp?v=b51def155e"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
 					},
@@ -553,9 +553,9 @@
 						"immediateText": "",
 						"duringText": "",
 						"afterText": "",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/amigos.webp?v=01fcc12015",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/amigos.webp?v=2aab4176a1",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/amigos.webp?v=01fcc12015"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/amigos.webp?v=2aab4176a1"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
 					},
@@ -570,30 +570,12 @@
 						"immediateText": "",
 						"duringText": "",
 						"afterText": "",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/hero.webp?v=12d28f0f28",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/hero.webp?v=1747f1e8d9",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/hero.webp?v=12d28f0f28"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/hero.webp?v=1747f1e8d9"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f",
 						"isCharacterCard": true
-					}
-				],
-				"ruleCards": [
-					{
-						"title": "Presa y accesibilidad",
-						"content": "Antes de cada acción en frenesí determina tu presa: primero el héroe enemigo accesible más cercano; si no hay ninguno, el otro luchador enemigo accesible más cercano; si nadie es accesible en una maniobra, el héroe enemigo con la ruta legal más corta, o, si no hay ruta hacia ningún héroe, otro enemigo al que exista una ruta. Solo se consideran enemigos en el tablero. En empates elige Briar.\nAccesible significa poder alcanzar una casilla desde la que atacar cuerpo a cuerpo con una maniobra de movimiento 3, sin potenciar ni usar cartas. Se mide el desplazamiento necesario para llegar a esa casilla, no la distancia entre las figuras. Un enemigo adyacente requiere 0. Respeta ocupación, restricciones y reglas del mapa. Los costes para abrir puertas y usar conexiones especiales cuentan como los establezca el mapa.\nLa presa se fija durante cada acción. Solo se vuelve a determinar dentro de esa acción si la presa es derrotada o sale del tablero y un efecto posterior necesita una presa. Antes de la siguiente acción vuelve a seleccionarla, salvo la fijación de Final sangriento."
-					},
-					{
-						"title": "Persecución",
-						"content": "Si puedes atacar legalmente a tu presa y tienes una carta válida, debes gastar la acción en atacarla; eliges la carta. Si no, debes maniobrar: roba y avanza hacia la presa por una ruta de coste mínimo todo lo que permita tu movimiento, hasta poder atacarla cuerpo a cuerpo. Potenciar el movimiento es opcional. Si ya estás adyacente y no tienes carta, maniobra para robar y permanece allí; no atacas dentro de esa misma acción. Si no hay ruta legal hacia ningún enemigo, maniobra sin moverte.\nNo puedes elegir ingenios en lugar de la acción obligatoria salvo permiso expreso de la carta. Esto afecta también a las acciones adicionales. Los ataques adicionales que controles solo pueden dirigirse a la presa si es un objetivo legal; si no, no se realizan. Durante tu turno los desplazamientos que tú elijas deben acercarte a la presa por una ruta mínima; puedes recolocarte en otra casilla adyacente si ya estás adyacente. Los efectos que te permiten colocar a Briar pueden saltar directamente a una casilla libre adyacente a la presa. Respeta cualquier prohibición de abandonar casilla.\nLos movimientos impuestos por un rival funcionan normalmente. Fuera de tu turno puedes defender y resolver movimientos libremente. Salir del frenesí elimina estas obligaciones."
-					},
-					{
-						"title": "Curación y tiempos",
-						"content": "La vida de referencia de Briar y del defensor se fija al declarar cada combate, antes de resolver sus efectos. Duele… pero me gusta no activa retroactivamente la bonificación de vida baja del combate actual. Recibir daño DURANTE el combate puede derrotar a Briar antes de curarse.\nLa bonificación y la curación de la habilidad no son efectos de las cartas: cancelar una carta no las cancela. Sí se cancelan los efectos propios de la carta, incluidos el +2 de Otro mordisquito, la curación de Herida abierta y la salida de Alarido.\nLa curación de Maldición carmesí ocurre una sola vez por cada ataque que haga perder vida de combate al defensor. No incluye los 2 daños posteriores de Herida abierta. Si se redirige parte del daño, cuenta solo la vida perdida por el defensor. No cura por daño propio.\nEl daño que exceda la vida restante del defensor no aumenta la curación. Contra un esbirro de 1 vida se recupera como máximo 1 vida. Recuperar nunca evita una derrota que ya haya ocurrido."
-					},
-					{
-						"title": "Final sangriento y salida",
-						"content": "Final sangriento puede sustituir tu acción obligatoria de frenesí. Elige primero tu nueva presa; su fijación sustituye las prioridades normales durante el resto del turno y permite la colocación indicada. No obliga a realizar el ataque siguiente gratis: recuperas la acción gastada en el ingenio y puedes gastar una acción en atacar después. Requiere una casilla libre adyacente y una colocación legal; no evita una prohibición de abandonar la casilla. No se puede jugar el turno en que hayas abandonado el frenesí.\nSi la presa fijada es derrotada o sale del tablero, termina la fijación y vuelve a aplicarse la selección normal cuando haga falta. Si solo queda temporalmente inaccesible, sigue siendo tu presa: intenta acercarte; si no hay ruta, maniobra sin desplazarte. La fijación termina al acabar el turno o si abandonas el frenesí.\nAlarido escalofriante solo da su curación y movimiento si realmente sales del frenesí. Su desplazamiento se resuelve ya contenida. ¿Amigos? no tiene permiso especial para saltarse la persecución; en esta lista solo puedes elegirlo como ingenio mientras estés contenida."
 					}
 				]
 			}
@@ -608,10 +590,10 @@
 			"note": "Unmatched (Restoration Games), set custom. Datos transcritos de las cartas; uso privado.",
 			"user": "alexkhudov2002",
 			"bgg_link": null,
-			"created_on": "2026-11-21T19:43:30.890Z",
-			"deck_first_published_on": "2026-11-21T19:43:30.890Z",
-			"published_on": "2026-11-21T19:43:30.890Z",
-			"updated_on": "2026-11-21T19:43:30.890Z",
+			"created_on": "2026-11-25T12:16:15.849Z",
+			"deck_first_published_on": "2026-11-25T12:16:15.849Z",
+			"published_on": "2026-11-25T12:16:15.849Z",
+			"updated_on": "2026-11-25T12:16:15.849Z",
 			"deck_published": false,
 			"published": false,
 			"liked": false,
@@ -634,7 +616,7 @@
 					"hp": 15,
 					"move": 3,
 					"isRanged": false,
-					"specialAbility": "SOMBRA DEMONÍACA\nSOMBRA DEMONÍACA\nEmpiezas en SOMBRA. Al final de tu turno, si no estás adyacente a ningún luchador enemigo, entra en Sombra. Cuando entras en Sombra, si tienes 7 vidas o menos, recupera 2 vidas. Si ya estabas en Sombra, no vuelves a entrar ni te curas por permanecer en ella.\nMientras estés en Sombra, solo pueden elegirte como objetivo de ataques los luchadores adyacentes a ti. Los efectos de cartas y habilidades pueden afectarte normalmente.\nPierdes Sombra cuando declaras un ataque o cuando pierdes vida por cualquier motivo. Si declaras un ataque estando en Sombra, ese ataque recibe +2 al valor durante todo ese combate, aunque pierdas Sombra al declararlo. Acercarte a un enemigo, jugar un ingenio o defender sin perder vida no te hace perder Sombra.",
+					"specialAbility": "SOMBRA DEMONÍACA\nEvelynn empieza en SOMBRA. Al final de tu turno, si Evelynn no está en SOMBRA ni adyacente a ningún luchador oponente, vuelve a SOMBRA y, si tiene 7 de vida o menos, recupera 2 de vida.\nEn SOMBRA, solo los luchadores adyacentes pueden atacar a Evelynn. Cuando Evelynn ataca desde SOMBRA, el valor de su ataque aumenta en 2. Evelynn sale de SOMBRA cuando ataca o recibe daño.",
 					"tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/token-hero.png?v=0159e236e1"
 				},
 				"sidekick": {
@@ -655,10 +637,10 @@
 						"basicText": "",
 						"immediateText": "",
 						"duringText": "",
-						"afterText": "Si iniciaste este ataque en Sombra, inflige 2 de daño al luchador contrario.",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/pua-de-odio.webp?v=6403bb583f",
+						"afterText": "Si atacaste desde SOMBRA, inflige 2 de daño al luchador oponente.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/pua-de-odio.webp?v=ba62d9933f",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/pua-de-odio.webp?v=6403bb583f"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/pua-de-odio.webp?v=ba62d9933f"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
 					},
@@ -672,10 +654,10 @@
 						"basicText": "",
 						"immediateText": "",
 						"duringText": "",
-						"afterText": "Roba 1 carta. Si iniciaste este ataque en Sombra, gana 1 acción.",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/latigazo.webp?v=6436de193c",
+						"afterText": "Roba 1 carta. Si atacaste desde SOMBRA, gana 1 acción.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/latigazo.webp?v=fa08e17729",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/latigazo.webp?v=6436de193c"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/latigazo.webp?v=fa08e17729"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
 					},
@@ -688,11 +670,11 @@
 						"characterName": "Evelynn",
 						"basicText": "",
 						"immediateText": "",
-						"duringText": "Si atacas y el defensor tenía 6 vidas o menos al comenzar este combate, el valor de esta carta es 7 en lugar de 4.",
-						"afterText": "Mueve a Evelynn hasta 4 casillas. Durante este movimiento puede atravesar luchadores enemigos. Roba 1 carta.",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/hacedora-de-viudas.webp?v=12a3f3631b",
+						"duringText": "Si atacas a un luchador con 6 de vida o menos, el valor de esta carta es 7.",
+						"afterText": "Mueve a Evelynn hasta 4 casillas; puede atravesar luchadores oponentes. Roba 1 carta.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/hacedora-de-viudas.webp?v=39fdf75e45",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/hacedora-de-viudas.webp?v=12a3f3631b"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/hacedora-de-viudas.webp?v=39fdf75e45"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
 					},
@@ -706,10 +688,10 @@
 						"basicText": "",
 						"immediateText": "",
 						"duringText": "",
-						"afterText": "Puedes mover al luchador contrario hasta 2 casillas, acercándolo a Evelynn con cada paso. Si atacaste, roba 1 carta.",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/ven-aqui.webp?v=07cefab485",
+						"afterText": "Puedes mover al luchador oponente hasta 2 casillas hacia Evelynn. Si atacaste, roba 1 carta.",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/ven-aqui.webp?v=102f14b49d",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/ven-aqui.webp?v=07cefab485"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/ven-aqui.webp?v=102f14b49d"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
 					},
@@ -724,9 +706,9 @@
 						"immediateText": "",
 						"duringText": "",
 						"afterText": "Si atacaste, roba 2 cartas. Si defendiste, roba 1 carta.",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/abrazo-agonico.webp?v=df17602623",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/abrazo-agonico.webp?v=c9c8d7d047",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/abrazo-agonico.webp?v=df17602623"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/abrazo-agonico.webp?v=c9c8d7d047"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
 					},
@@ -741,9 +723,9 @@
 						"immediateText": "Cancela todos los efectos de la carta de tu oponente.",
 						"duringText": "",
 						"afterText": "",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/sonrisa-traicionera.webp?v=2fec1350ed",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/sonrisa-traicionera.webp?v=908e5efba1",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/sonrisa-traicionera.webp?v=2fec1350ed"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/sonrisa-traicionera.webp?v=908e5efba1"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
 					},
@@ -758,9 +740,9 @@
 						"immediateText": "",
 						"duringText": "",
 						"afterText": "Mueve a Evelynn hasta 3 casillas. Si perdiste el combate, roba 1 carta.",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/entre-sombras.webp?v=d36b6f0ac2",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/entre-sombras.webp?v=6a50a8ce20",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/entre-sombras.webp?v=d36b6f0ac2"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/entre-sombras.webp?v=6a50a8ce20"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
 					},
@@ -775,9 +757,9 @@
 						"immediateText": "",
 						"duringText": "",
 						"afterText": "Mueve a Evelynn hasta 3 casillas.",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/cuerpo-de-sombra.webp?v=786102eb9c",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/cuerpo-de-sombra.webp?v=1978750051",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/cuerpo-de-sombra.webp?v=786102eb9c"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/cuerpo-de-sombra.webp?v=1978750051"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
 					},
@@ -792,9 +774,9 @@
 						"immediateText": "Cancela todos los efectos de la carta de tu oponente.",
 						"duringText": "",
 						"afterText": "Puedes mover al atacante hasta 2 casillas.",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/sigue-mi-voz.webp?v=03ce934c10",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/sigue-mi-voz.webp?v=205e58d9b1",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/sigue-mi-voz.webp?v=03ce934c10"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/sigue-mi-voz.webp?v=205e58d9b1"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
 					},
@@ -805,13 +787,13 @@
 						"value": null,
 						"boost": 2,
 						"characterName": "Evelynn",
-						"basicText": "Elige un luchador enemigo en el tablero. Puedes moverlo hasta 2 casillas, acercándolo a Evelynn con cada paso.\nEn tu próximo ataque contra ese luchador durante este turno, reduce su valor final de defensa en 2, hasta un mínimo de 0. El efecto se consume con ese ataque o termina al acabar tu turno. Si ya había un efecto de Seducción pendiente, este lo sustituye; no se acumulan.\nRoba 1 carta. Gana 1 acción.",
+						"basicText": "Elige un luchador oponente. Puedes moverlo hasta 2 casillas hacia Evelynn. En el próximo ataque de Evelynn contra él este turno, el valor de su carta de defensa se reduce en 2. Roba 1 carta. Gana 1 acción.",
 						"immediateText": "",
 						"duringText": "",
 						"afterText": "",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/seduccion.webp?v=3625390c50",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/seduccion.webp?v=41913ca4d9",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/seduccion.webp?v=3625390c50"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/seduccion.webp?v=41913ca4d9"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
 					},
@@ -826,9 +808,9 @@
 						"immediateText": "",
 						"duringText": "",
 						"afterText": "",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/esencias-desesperadas.webp?v=bb636383a8",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/esencias-desesperadas.webp?v=40b2a5dcb7",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/esencias-desesperadas.webp?v=bb636383a8"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/esencias-desesperadas.webp?v=40b2a5dcb7"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
 					},
@@ -843,42 +825,12 @@
 						"immediateText": "",
 						"duringText": "",
 						"afterText": "",
-						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/hero.webp?v=206afe8481",
+						"imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/hero.webp?v=d9379fdfa9",
 						"cardImage": {
-							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/hero.webp?v=206afe8481"
+							"url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/hero.webp?v=d9379fdfa9"
 						},
 						"cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897",
 						"isCharacterCard": true
-					}
-				],
-				"ruleCards": [
-					{
-						"title": "Sombra: entrada y curación",
-						"content": "Evelynn empieza la partida en Sombra. Empezar en ese estado no activa su curación. Al final de cada uno de sus turnos, si no está adyacente a ningún luchador enemigo, entra en Sombra si no estaba ya en ese estado. Si al entrar tiene 7 vidas o menos, recupera 2 vidas, sin superar su vida máxima de 15. No se cura por permanecer en Sombra ni entra en Sombra por alejarse durante el turno de otro jugador. No puede volver a entrar mediante esta habilidad en mitad de su turno."
-					},
-					{
-						"title": "Sombra: ataques y salida",
-						"content": "La miniatura de Evelynn permanece en el tablero, ocupa su casilla y bloquea el movimiento normalmente. Mientras esté en Sombra, un luchador debe estar adyacente a ella para elegirla como objetivo de un ataque, aunque sea a distancia o tenga alcance aumentado. Las demás condiciones y restricciones de ataque siguen aplicándose. Las cartas y habilidades que infligen daño sin atacar pueden afectarla normalmente. Estar adyacente no elimina Sombra por sí solo. Tampoco lo hace jugar un ingenio o defender sin perder vida. Pierde Sombra al declarar un ataque o al perder vida, incluido el daño de combate, el daño de efectos y el agotamiento. Si se previene todo el daño y no pierde vida, no sale por ese motivo."
-					},
-					{
-						"title": "Ataques iniciados en Sombra",
-						"content": "Al declarar cada ataque, comprueba si Evelynn estaba en Sombra justo antes de declararlo. Si lo estaba, sale de Sombra y ese ataque recibe +2 al valor durante todo ese combate. Púa de odio y Latigazo usan esa misma comprobación. No es necesario que Evelynn siga en Sombra al resolver sus efectos. La bonificación de +2 procede de la habilidad y no se cancela al cancelar la carta de ataque. Los efectos propios de la carta sí se pueden cancelar. La bonificación no se aplica a las defensas ni a un ataque posterior iniciado fuera de Sombra. Ganar una acción con Latigazo no devuelve Sombra."
-					},
-					{
-						"title": "Seducción: solo ingenio",
-						"content": "Seducción solo se activa al jugar su carta de ingenio. No hay selección gratuita de víctima, carga por maniobrar ni otra pasiva de Seducción. El objetivo debe ser un luchador enemigo en el tablero al jugarla. El movimiento es opcional y la reducción se prepara aunque el objetivo no pueda moverse. La reducción se aplica únicamente al próximo combate que Evelynn inicie como atacante contra ese objetivo durante el mismo turno. Atacar a otro luchador no utiliza el efecto. Se consume con el ataque al objetivo aunque este no cause daño, y desaparece al terminar el turno si no se usa. Jugar una nueva Seducción sustituye cualquier efecto pendiente de otra Seducción, incluso si cambia de objetivo. Si el objetivo es derrotado, el efecto sobre él termina."
-					},
-					{
-						"title": "Seducción: cálculo y acciones",
-						"content": "Al calcular el daño del ataque afectado, después de resolver los efectos DURANTE EL COMBATE, resta 2 al valor final que se utilizaría para defender, hasta un mínimo de 0. No cancela otros efectos de la defensa ni produce valores negativos. Si no se juega defensa o un efecto ya ignora su valor, no añade daño por sí misma. Se puede combinar con el +2 del ataque iniciado en Sombra. Cancelar la carta de ataque no elimina el efecto de un ingenio ya resuelto. Jugar Seducción gasta una acción y su efecto concede una acción; por sí sola no concede un ataque gratuito. Su robo de una carta reemplaza la carta gastada en jugarla y no la devuelve a la mano."
-					},
-					{
-						"title": "Movimiento y remate",
-						"content": "Todos los movimientos respetan ocupación, conexiones y restricciones del mapa. Acercar un luchador con cada paso significa que cada paso reduce la distancia entre ese luchador y Evelynn. Solo Hacedora de viudas permite atravesar luchadores enemigos durante el movimiento que ella misma concede, sin terminar sobre otra figura. Una prohibición de abandonar casilla impide estos movimientos. Los luchadores derrotados no pueden moverse. Hacedora de viudas comprueba la vida del defensor al comienzo de su propio combate, antes de sus efectos. El daño de un combate anterior puede habilitar su valor 7. Ese valor 7 solo se aplica al atacar. La carta mantiene su valor base 4 al defender, salvo otros efectos."
-					},
-					{
-						"title": "Ejemplo: emboscada y retirada",
-						"content": "Evelynn empieza en Sombra adyacente a un enemigo con 10 vidas. Juega Seducción, roba 1 carta y recupera la acción gastada. Ataca con Latigazo: valor 4 + 2 por Sombra = 6. Frente a una defensa de valor final 4, Seducción la reduce a 2: el defensor pierde 4 vidas y queda con 6. Evelynn ya está fuera de Sombra. Si no se canceló Latigazo, roba 1 carta y gana 1 acción. Ataca con Hacedora de viudas, que vale 7 por las 6 vidas iniciales del defensor en este nuevo combate. Contra una defensa de 3 causa 4 daños, sin bonificación de Sombra ni una segunda Seducción. Después puede moverse hasta 4 casillas atravesando enemigos y roba 1 carta. Si termina su turno sin enemigos adyacentes, vuelve a Sombra. Si tiene 7 vidas o menos al volver, recupera 2 vidas. El ejemplo supone que no intervienen otros efectos."
 					}
 				]
 			}

@@ -1,0 +1,266 @@
+{
+  "id": "um-leshen",
+  "family_id": "um-leshen",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Ancient Leshen",
+  "note": "Unmatched (Restoration Games), set witcher-steel-and-silver. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-25T13:32:14.313Z",
+  "deck_first_published_on": "2026-11-25T13:32:14.313Z",
+  "published_on": "2026-11-25T13:32:14.313Z",
+  "updated_on": "2026-11-25T13:32:14.313Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "witcher-steel-and-silver"
+  ],
+  "deck_data": {
+    "name": "Ancient Leshen",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Ancient Leshen",
+      "hp": 13,
+      "move": 1,
+      "isRanged": true,
+      "specialAbility": "HEART OF THE FOREST\nAdd +3 to the value of the Leshen's attacks if it already attacked this turn.\nYour Wolves have a move value of 3.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/token-hero.png?v=db62b48b71"
+    },
+    "sidekick": {
+      "name": "Wolf",
+      "quantity": 2,
+      "hp": 1,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/token-wolf.png?v=6d01b65f32"
+    },
+    "cards": [
+      {
+        "title": "Harrying Strike",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Wolf",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Add +2 to this card's value for each of your fighters adjacent to the opposing fighter.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/harrying-strike.webp?v=103d6e4009",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/harrying-strike.webp?v=103d6e4009"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+      },
+      {
+        "title": "Nature Abounds",
+        "quantity": 3,
+        "type": "attack",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card for each of your fighters adjacent to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/nature-abounds.webp?v=933d381085",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/nature-abounds.webp?v=933d381085"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+      },
+      {
+        "title": "Wily Fighting",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 1 damage to each opposing fighter adjacent to your fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/wily-fighting.webp?v=df741b8220",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/wily-fighting.webp?v=df741b8220"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+      },
+      {
+        "title": "Primeval Guardian",
+        "quantity": 3,
+        "type": "defence",
+        "value": 5,
+        "boost": 2,
+        "characterName": "Ancient Leshen",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Your opponent discards the top card of their deck. Add its BOOST value to their card's value.",
+        "afterText": "Move each Wolf up to 3 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/primeval-guardian.webp?v=1c77bbbc0f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/primeval-guardian.webp?v=1c77bbbc0f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+      },
+      {
+        "title": "Command the Forest",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, your opponent discards 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/command-the-forest.webp?v=85305d44da",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/command-the-forest.webp?v=85305d44da"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+      },
+      {
+        "title": "Vanish into Murder",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Ancient Leshen",
+        "basicText": "Deal 1 damage to each opposing fighter in the Leshen's zone. Remove the Leshen from the board.\nAt the start of your next turn, place the Leshen in any space. Then, draw 1 card.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/vanish-into-murder.webp?v=5f26a18eec",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/vanish-into-murder.webp?v=5f26a18eec"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+      },
+      {
+        "title": "Disturbing Howls",
+        "quantity": 3,
+        "type": "attack",
+        "value": 1,
+        "boost": 1,
+        "characterName": "Wolf",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move the opposing fighter up to 2 spaces. Gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/disturbing-howls.webp?v=d001460660",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/disturbing-howls.webp?v=d001460660"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+      },
+      {
+        "title": "Strength of the Pack",
+        "quantity": 3,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "Ancient Leshen",
+        "basicText": "Summon a Wolf in the Leshen's zone.\nONGOING: At the start of your turn, the Leshen recovers 1 health. Discard this card at the end of your turn if there are no Wolves in the Leshen's zone.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/strength-of-the-pack.webp?v=64b7a6d846",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/strength-of-the-pack.webp?v=64b7a6d846"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+      },
+      {
+        "title": "Primeval Slam",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Ancient Leshen",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Summon a Wolf in the Leshen's zone. Then, move each Wolf up to 3 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/primeval-slam.webp?v=a02bec3a4b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/primeval-slam.webp?v=a02bec3a4b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+      },
+      {
+        "title": "Flock of Birds",
+        "quantity": 2,
+        "type": "attack",
+        "value": 5,
+        "boost": 1,
+        "characterName": "Ancient Leshen",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "You may place the Leshen in any space.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/flock-of-birds.webp?v=75bccbef09",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/flock-of-birds.webp?v=75bccbef09"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+      },
+      {
+        "title": "Planted Feet",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If your fighter hasn't left their space this turn, draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/planted-feet.webp?v=423bef0156",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/planted-feet.webp?v=423bef0156"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+      },
+      {
+        "title": "Ancient Leshen",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Ancient Leshen",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/hero.webp?v=bb4550c98c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/hero.webp?v=bb4550c98c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Summon a Wolf",
+        "content": "You have 2 Wolf tokens (1 health, melee, move 3). To summon a Wolf, if any of your Wolves are off the board (including defeated ones), place one in an empty space as the effect says. If both are on the board, choose one and place it there instead. The +3 of Heart of the Forest only counts the Leshen's own attacks, not the Wolves'."
+      },
+      {
+        "title": "Ongoing schemes",
+        "content": "After resolving an ONGOING scheme, leave it face up instead of discarding it. Check its discard condition only at the end of your turn. You can have only one ongoing scheme at a time: playing another discards the current one."
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "id": "um-ciri",
+  "family_id": "um-ciri",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Ciri",
+  "note": "Unmatched (Restoration Games), set witcher-steel-and-silver. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-25T13:32:13.620Z",
+  "deck_first_published_on": "2026-11-25T13:32:13.620Z",
+  "published_on": "2026-11-25T13:32:13.620Z",
+  "updated_on": "2026-11-25T13:32:13.620Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "witcher-steel-and-silver"
+  ],
+  "deck_data": {
+    "name": "Ciri",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Ciri",
+      "hp": 15,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "UNCONTAINABLE POWER\nSOURCE 7: Effects on Ciri's cards cannot be canceled.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/token-hero.png?v=91a8cdc464"
+    },
+    "sidekick": {
+      "name": "Ihuarraquax",
+      "quantity": 1,
+      "hp": 7,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/token-ihuarraquax.png?v=18a342d3b7"
+    },
+    "cards": [
+      {
+        "title": "Blink",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Ciri",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move Ciri up to 3 spaces. She may move through opposing fighters.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/blink.webp?v=d8f2f4e840",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/blink.webp?v=d8f2f4e840"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+      },
+      {
+        "title": "The Lady of Space and Time",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Ciri",
+        "basicText": "SOURCE card.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "SOURCE 3: Return a card from your discard pile to the top of your deck.\nSOURCE 8: Return a card from your discard pile to your hand. Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/the-lady-of-space-and-time.webp?v=68b99c0d01",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/the-lady-of-space-and-time.webp?v=68b99c0d01"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+      },
+      {
+        "title": "Parry",
+        "quantity": 3,
+        "type": "defence",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/parry.webp?v=481b379140",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/parry.webp?v=481b379140"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+      },
+      {
+        "title": "Searching Strike",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Ihuarraquax",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, you may search your deck for a SOURCE card, reveal it, and add it to your hand.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/searching-strike.webp?v=27e9f47680",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/searching-strike.webp?v=27e9f47680"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+      },
+      {
+        "title": "Bane of the Aen Elle",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 4,
+        "characterName": "Ihuarraquax",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move Ihuarraquax up to 4 spaces. He may move through opposing fighters. Then, deal 1 damage to an opposing fighter he moved through.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/bane-of-the-aen-elle.webp?v=a64024d4a6",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/bane-of-the-aen-elle.webp?v=a64024d4a6"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+      },
+      {
+        "title": "Lion Cub of Cintra",
+        "quantity": 3,
+        "type": "attack",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Ciri",
+        "basicText": "SOURCE card.",
+        "immediateText": "",
+        "duringText": "SOURCE 1: This card's value is 4 instead.\nSOURCE 5: This card's value is 7 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/lion-cub-of-cintra.webp?v=918cf4e7ba",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/lion-cub-of-cintra.webp?v=918cf4e7ba"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+      },
+      {
+        "title": "Zireael",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Ciri",
+        "basicText": "SOURCE card.",
+        "immediateText": "",
+        "duringText": "SOURCE 3: This card's value is 4 instead.\nSOURCE 5: This card's value is 4 instead, and your opponent discards 1 random card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/zireael.webp?v=edad24c35a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/zireael.webp?v=edad24c35a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+      },
+      {
+        "title": "Channel the Source",
+        "quantity": 3,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Ciri",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may discard any number of SOURCE cards from your hand. Add +2 to this card's value for each SOURCE card you discarded.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/channel-the-source.webp?v=6f42daba53",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/channel-the-source.webp?v=6f42daba53"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+      },
+      {
+        "title": "Pushed to the Brink",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Ciri",
+        "basicText": "SOURCE card.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "SOURCE 2: Deal 1 damage to the opposing fighter.\nSOURCE 7: Deal 2 damage to an opposing fighter within 3 spaces of Ciri.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/pushed-to-the-brink.webp?v=fd62714873",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/pushed-to-the-brink.webp?v=fd62714873"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+      },
+      {
+        "title": "Child of the Elder Blood",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Ciri",
+        "basicText": "SOURCE card.\nSOURCE 4: Deal 1 damage to each other fighter in Ciri's zone.\nSOURCE 9: Deal 3 damage to each other fighter in Ciri's zone.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/child-of-the-elder-blood.webp?v=db48606299",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/child-of-the-elder-blood.webp?v=db48606299"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+      },
+      {
+        "title": "Unicorn Ally",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "Ciri recovers 2 health.\nONGOING: After each combat your fighter is in, draw 1 card. Discard this card at the end of your turn if you have 5 or more cards in your hand.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/unicorn-ally.webp?v=76902a0303",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/unicorn-ally.webp?v=76902a0303"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+      },
+      {
+        "title": "Ciri",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Ciri",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/hero.webp?v=43fb159609",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/hero.webp?v=43fb159609"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Source",
+        "content": "Some of Ciri's cards are SOURCE cards (Source icon in the banner). Their effects are marked SOURCE N. When resolving one, count the SOURCE cards in your discard pile and resolve the effect with the highest N that is equal to or less than that count; you may not choose the lower one. If you have fewer than the lower N, resolve neither. With 7 or more SOURCE cards in your discard pile, effects on your cards cannot be canceled."
+      },
+      {
+        "title": "Ongoing schemes",
+        "content": "After resolving an ONGOING scheme, leave it face up instead of discarding it. Check its discard condition only at the end of your turn. You can have only one ongoing scheme at a time: playing another discards the current one."
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "id": "um-she-hulk",
+  "family_id": "um-she-hulk",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "She-Hulk",
+  "note": "Unmatched (Restoration Games), set brains-and-brawn. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-25T13:32:12.976Z",
+  "deck_first_published_on": "2026-11-25T13:32:12.976Z",
+  "published_on": "2026-11-25T13:32:12.976Z",
+  "updated_on": "2026-11-25T13:32:12.976Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "brains-and-brawn"
+  ],
+  "deck_data": {
+    "name": "She-Hulk",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "She-Hulk",
+      "hp": 20,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "JUST THROW SOMETHING\nAt the start of your turn, you may discard a card to deal damage equal to its BOOST value to a fighter in your zone.",
+      "quote": "Green, gorgeous, gamma-powered bombshell... I know that's what you're thinking.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/token-hero.png?v=1b73171819"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Sensational",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 2,
+        "characterName": "She-Hulk",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, you may choose a card from your discard pile and shuffle it into your deck.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/sensational.webp?v=314432e3ff",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/sensational.webp?v=314432e3ff"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+      },
+      {
+        "title": "Nerve Cluster Strike",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "She-Hulk",
+        "basicText": "",
+        "immediateText": "If She-Hulk is adjacent to the opposing fighter, the opposing fighter may not leave their space this turn.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/nerve-cluster-strike.webp?v=1deb5bf184",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/nerve-cluster-strike.webp?v=1deb5bf184"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+      },
+      {
+        "title": "Jennifer Walters, Esq.",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "She-Hulk",
+        "basicText": "Place She-Hulk in a starting space.\nDraw 1 card.\nGain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/jennifer-walters-esq.webp?v=3d4a13911d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/jennifer-walters-esq.webp?v=3d4a13911d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+      },
+      {
+        "title": "Green Energy",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 4,
+        "boost": 1,
+        "characterName": "She-Hulk",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, deal 1 damage to each fighter adjacent to She-Hulk.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/green-energy.webp?v=9b0a484ba1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/green-energy.webp?v=9b0a484ba1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+      },
+      {
+        "title": "Lady Justice",
+        "quantity": 3,
+        "type": "defence",
+        "value": 0,
+        "boost": 2,
+        "characterName": "She-Hulk",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Discard the top card of your opponent's deck. Increase the value of this card by twice that card's BOOST value.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/lady-justice.webp?v=cb5087af4d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/lady-justice.webp?v=cb5087af4d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+      },
+      {
+        "title": "Leap Toward",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "She-Hulk",
+        "basicText": "Move She-Hulk up to 4 spaces. She may move through opposing fighters. Then, if she is adjacent to an opposing fighter, gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/leap-toward.webp?v=6119acffa4",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/leap-toward.webp?v=6119acffa4"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+      },
+      {
+        "title": "Cease and Desist",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 1,
+        "boost": 2,
+        "characterName": "She-Hulk",
+        "basicText": "",
+        "immediateText": "Cancel all effects on your opponent's card.",
+        "duringText": "If you are attacking, the value of this card is 4 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/cease-and-desist.webp?v=e2179b9a87",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/cease-and-desist.webp?v=e2179b9a87"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+      },
+      {
+        "title": "Double Jeopardy",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "She-Hulk",
+        "basicText": "Draw 2 cards and recover 2 health.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/double-jeopardy.webp?v=1f251368ce",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/double-jeopardy.webp?v=1f251368ce"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+      },
+      {
+        "title": "The Savage She-Hulk",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "She-Hulk",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may spend an additional action to make this card's value 9 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/the-savage-she-hulk.webp?v=f402f6a01e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/the-savage-she-hulk.webp?v=f402f6a01e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+      },
+      {
+        "title": "The Defense Rests",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 2,
+        "characterName": "She-Hulk",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw cards equal to the amount of combat damage you took.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/the-defense-rests.webp?v=fe95b2ed1e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/the-defense-rests.webp?v=fe95b2ed1e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+      },
+      {
+        "title": "Omega-Level Threat",
+        "quantity": 2,
+        "type": "attack",
+        "value": 5,
+        "boost": 2,
+        "characterName": "She-Hulk",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you dealt 2 or more combat damage, your opponent discards 2 random cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/omega-level-threat.webp?v=dfec57b3b1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/omega-level-threat.webp?v=dfec57b3b1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+      },
+      {
+        "title": "Legalese",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "She-Hulk",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, your opponent chooses whether you both draw a card or both discard a card. If you lost the combat, you make the choice instead (see above).",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/legalese.webp?v=405464447e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/legalese.webp?v=405464447e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+      },
+      {
+        "title": "She-Hulk",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "She-Hulk",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/hero.webp?v=53d87b53af",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/hero.webp?v=53d87b53af"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

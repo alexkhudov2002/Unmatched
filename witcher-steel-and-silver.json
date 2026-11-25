@@ -1,0 +1,871 @@
+{
+  "decks": [
+    {
+      "id": "um-ciri",
+      "family_id": "um-ciri",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Ciri",
+      "note": "Unmatched (Restoration Games), set witcher-steel-and-silver. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-25T13:32:13.620Z",
+      "deck_first_published_on": "2026-11-25T13:32:13.620Z",
+      "published_on": "2026-11-25T13:32:13.620Z",
+      "updated_on": "2026-11-25T13:32:13.620Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "witcher-steel-and-silver"
+      ],
+      "deck_data": {
+        "name": "Ciri",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Ciri",
+          "hp": 15,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "UNCONTAINABLE POWER\nSOURCE 7: Effects on Ciri's cards cannot be canceled.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/token-hero.png?v=91a8cdc464"
+        },
+        "sidekick": {
+          "name": "Ihuarraquax",
+          "quantity": 1,
+          "hp": 7,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/token-ihuarraquax.png?v=18a342d3b7"
+        },
+        "cards": [
+          {
+            "title": "Blink",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Ciri",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move Ciri up to 3 spaces. She may move through opposing fighters.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/blink.webp?v=d8f2f4e840",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/blink.webp?v=d8f2f4e840"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "The Lady of Space and Time",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Ciri",
+            "basicText": "SOURCE card.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "SOURCE 3: Return a card from your discard pile to the top of your deck.\nSOURCE 8: Return a card from your discard pile to your hand. Draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/the-lady-of-space-and-time.webp?v=68b99c0d01",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/the-lady-of-space-and-time.webp?v=68b99c0d01"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Parry",
+            "quantity": 3,
+            "type": "defence",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/parry.webp?v=481b379140",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/parry.webp?v=481b379140"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Searching Strike",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Ihuarraquax",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, you may search your deck for a SOURCE card, reveal it, and add it to your hand.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/searching-strike.webp?v=27e9f47680",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/searching-strike.webp?v=27e9f47680"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Bane of the Aen Elle",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 4,
+            "characterName": "Ihuarraquax",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move Ihuarraquax up to 4 spaces. He may move through opposing fighters. Then, deal 1 damage to an opposing fighter he moved through.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/bane-of-the-aen-elle.webp?v=a64024d4a6",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/bane-of-the-aen-elle.webp?v=a64024d4a6"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Lion Cub of Cintra",
+            "quantity": 3,
+            "type": "attack",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Ciri",
+            "basicText": "SOURCE card.",
+            "immediateText": "",
+            "duringText": "SOURCE 1: This card's value is 4 instead.\nSOURCE 5: This card's value is 7 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/lion-cub-of-cintra.webp?v=918cf4e7ba",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/lion-cub-of-cintra.webp?v=918cf4e7ba"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Zireael",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Ciri",
+            "basicText": "SOURCE card.",
+            "immediateText": "",
+            "duringText": "SOURCE 3: This card's value is 4 instead.\nSOURCE 5: This card's value is 4 instead, and your opponent discards 1 random card.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/zireael.webp?v=edad24c35a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/zireael.webp?v=edad24c35a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Channel the Source",
+            "quantity": 3,
+            "type": "attack",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Ciri",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may discard any number of SOURCE cards from your hand. Add +2 to this card's value for each SOURCE card you discarded.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/channel-the-source.webp?v=6f42daba53",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/channel-the-source.webp?v=6f42daba53"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Pushed to the Brink",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Ciri",
+            "basicText": "SOURCE card.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "SOURCE 2: Deal 1 damage to the opposing fighter.\nSOURCE 7: Deal 2 damage to an opposing fighter within 3 spaces of Ciri.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/pushed-to-the-brink.webp?v=fd62714873",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/pushed-to-the-brink.webp?v=fd62714873"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Child of the Elder Blood",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Ciri",
+            "basicText": "SOURCE card.\nSOURCE 4: Deal 1 damage to each other fighter in Ciri's zone.\nSOURCE 9: Deal 3 damage to each other fighter in Ciri's zone.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/child-of-the-elder-blood.webp?v=db48606299",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/child-of-the-elder-blood.webp?v=db48606299"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Unicorn Ally",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "Ciri recovers 2 health.\nONGOING: After each combat your fighter is in, draw 1 card. Discard this card at the end of your turn if you have 5 or more cards in your hand.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/unicorn-ally.webp?v=76902a0303",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/unicorn-ally.webp?v=76902a0303"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Ciri",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Ciri",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/hero.webp?v=43fb159609",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/hero.webp?v=43fb159609"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Source",
+            "content": "Some of Ciri's cards are SOURCE cards (Source icon in the banner). Their effects are marked SOURCE N. When resolving one, count the SOURCE cards in your discard pile and resolve the effect with the highest N that is equal to or less than that count; you may not choose the lower one. If you have fewer than the lower N, resolve neither. With 7 or more SOURCE cards in your discard pile, effects on your cards cannot be canceled."
+          },
+          {
+            "title": "Ongoing schemes",
+            "content": "After resolving an ONGOING scheme, leave it face up instead of discarding it. Check its discard condition only at the end of your turn. You can have only one ongoing scheme at a time: playing another discards the current one."
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-geralt",
+      "family_id": "um-geralt",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Geralt of Rivia",
+      "note": "Unmatched (Restoration Games), set witcher-steel-and-silver. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-25T13:32:14.000Z",
+      "deck_first_published_on": "2026-11-25T13:32:14.000Z",
+      "published_on": "2026-11-25T13:32:14.000Z",
+      "updated_on": "2026-11-25T13:32:14.000Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "witcher-steel-and-silver"
+      ],
+      "deck_data": {
+        "name": "Geralt of Rivia",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Geralt of Rivia",
+          "hp": 16,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "ALWAYS PREPARED\nAt the start of the game, choose your gear. Select a POTION, ARMOR, and SWORD, and shuffle 2 copies of each into your deck.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/token-hero.png?v=d994171f50"
+        },
+        "sidekick": {
+          "name": "Dandelion",
+          "quantity": 1,
+          "hp": 5,
+          "isRanged": true,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/token-dandelion.png?v=3dab04eda6"
+        },
+        "cards": [
+          {
+            "title": "Igni",
+            "quantity": 2,
+            "type": "attack",
+            "value": 0,
+            "boost": 3,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 2 damage to the opposing fighter and 1 damage to each other fighter adjacent to Geralt.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/igni.webp?v=fdf6d382be",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/igni.webp?v=fdf6d382be"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Gear: Sword of Steel",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Gain 1 action. If the opposing fighter has 8 or more health, gain 2 actions instead.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-sword-of-steel.webp?v=58a0624be5",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-sword-of-steel.webp?v=58a0624be5"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Plot Twist",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Dandelion",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Look at your opponent's hand and choose 1 card for them to discard. Draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/plot-twist.webp?v=b478c433a0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/plot-twist.webp?v=b478c433a0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Witcher Senses",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Geralt of Rivia",
+            "basicText": "Search your deck or discard pile for a GEAR card and add it to your hand. If you took it from your deck, shuffle this card back into your deck.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/witcher-senses.webp?v=e5fa89c7f7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/witcher-senses.webp?v=e5fa89c7f7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Gear: Wolf Medallion",
+            "quantity": 2,
+            "type": "defence",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "If the opposing fighter is not adjacent to Geralt, ignore the value of your opponent's card.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-wolf-medallion.webp?v=ff779b1d2a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-wolf-medallion.webp?v=ff779b1d2a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Annoying Tune",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Dandelion",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move the opposing fighter up to 4 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/annoying-tune.webp?v=dbd9aa5352",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/annoying-tune.webp?v=dbd9aa5352"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Riposte",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Choose one:\n► deal 1 damage to an adjacent fighter\n► Geralt swaps spaces with an adjacent fighter",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/riposte.webp?v=7c3ab86538",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/riposte.webp?v=7c3ab86538"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Gear: Sword of Silver",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "If your opponent's card has a printed value of 4 or more, ignore its value.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-sword-of-silver.webp?v=1c2a644b6e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-sword-of-silver.webp?v=1c2a644b6e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Rend",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BOOST this card.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/rend.webp?v=1e2942b4cd",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/rend.webp?v=1e2942b4cd"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Disciplined Duelist",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If the printed value of your opponent's card is ...\n2: you may draw 1 card\n3: deal 1 damage to the opposing fighter\n4: your opponent discards 1 card",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/disciplined-duelist.webp?v=938ab9bdd8",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/disciplined-duelist.webp?v=938ab9bdd8"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Gear: Tawny Owl",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Geralt of Rivia",
+            "basicText": "Draw 2 cards. Gain 1 action.\nONGOING: If an effect would cause you to discard a card from your hand, you may choose to ignore it. Discard this card at the end of your turn if you didn't attack.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-tawny-owl.webp?v=df364c9e8f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-tawny-owl.webp?v=df364c9e8f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Gear: Blizzard",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Geralt of Rivia",
+            "basicText": "Draw 1 card. Move Geralt up to 3 spaces.\nONGOING: Opponents can't gain actions. Discard this card at the end of your turn if you didn't attack.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-blizzard.webp?v=8ebde374e7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-blizzard.webp?v=8ebde374e7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Gear: Armor of the Forgotten Wolf",
+            "quantity": 2,
+            "type": "defence",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Add +1 to this card's value for each fighter adjacent to Geralt.",
+            "afterText": "End the turn.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-armor-of-the-forgotten-wolf.webp?v=8c3140abd4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-armor-of-the-forgotten-wolf.webp?v=8c3140abd4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Damn, You're Ugly",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 5,
+            "boost": 4,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/damn-you-re-ugly.webp?v=8604a57d6e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/damn-you-re-ugly.webp?v=8604a57d6e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Yrden",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "The opposing fighter cannot leave their space this turn.",
+            "duringText": "",
+            "afterText": "Move Geralt up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/yrden.webp?v=3abc7061e9",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/yrden.webp?v=3abc7061e9"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Geralt of Rivia",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/hero.webp?v=44a6c6dc24",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/hero.webp?v=44a6c6dc24"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Gear",
+            "content": "Before the game, choose one gear of each type and put both copies of the chosen cards in your deck (24 + 6 = 30). Return the other gear cards to the box.\nSWORD: Gear: Sword of Steel / Gear: Sword of Silver.\nARMOR: Gear: Wolf Medallion / Gear: Armor of the Forgotten Wolf.\nPOTION: Gear: Tawny Owl / Gear: Blizzard.\nThis deck carries ALL 12 gear cards (36 cards): remove the 6 you did not choose."
+          },
+          {
+            "title": "Ongoing schemes",
+            "content": "After resolving an ONGOING scheme, leave it face up instead of discarding it. Check its discard condition only at the end of your turn. You can have only one ongoing scheme at a time: playing another discards the current one."
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-leshen",
+      "family_id": "um-leshen",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Ancient Leshen",
+      "note": "Unmatched (Restoration Games), set witcher-steel-and-silver. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-25T13:32:14.313Z",
+      "deck_first_published_on": "2026-11-25T13:32:14.313Z",
+      "published_on": "2026-11-25T13:32:14.313Z",
+      "updated_on": "2026-11-25T13:32:14.313Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "witcher-steel-and-silver"
+      ],
+      "deck_data": {
+        "name": "Ancient Leshen",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Ancient Leshen",
+          "hp": 13,
+          "move": 1,
+          "isRanged": true,
+          "specialAbility": "HEART OF THE FOREST\nAdd +3 to the value of the Leshen's attacks if it already attacked this turn.\nYour Wolves have a move value of 3.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/token-hero.png?v=db62b48b71"
+        },
+        "sidekick": {
+          "name": "Wolf",
+          "quantity": 2,
+          "hp": 1,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/token-wolf.png?v=6d01b65f32"
+        },
+        "cards": [
+          {
+            "title": "Harrying Strike",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Wolf",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Add +2 to this card's value for each of your fighters adjacent to the opposing fighter.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/harrying-strike.webp?v=103d6e4009",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/harrying-strike.webp?v=103d6e4009"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Nature Abounds",
+            "quantity": 3,
+            "type": "attack",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card for each of your fighters adjacent to the opposing fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/nature-abounds.webp?v=933d381085",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/nature-abounds.webp?v=933d381085"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Wily Fighting",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 1 damage to each opposing fighter adjacent to your fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/wily-fighting.webp?v=df741b8220",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/wily-fighting.webp?v=df741b8220"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Primeval Guardian",
+            "quantity": 3,
+            "type": "defence",
+            "value": 5,
+            "boost": 2,
+            "characterName": "Ancient Leshen",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Your opponent discards the top card of their deck. Add its BOOST value to their card's value.",
+            "afterText": "Move each Wolf up to 3 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/primeval-guardian.webp?v=1c77bbbc0f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/primeval-guardian.webp?v=1c77bbbc0f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Command the Forest",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, your opponent discards 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/command-the-forest.webp?v=85305d44da",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/command-the-forest.webp?v=85305d44da"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Vanish into Murder",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Ancient Leshen",
+            "basicText": "Deal 1 damage to each opposing fighter in the Leshen's zone. Remove the Leshen from the board.\nAt the start of your next turn, place the Leshen in any space. Then, draw 1 card.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/vanish-into-murder.webp?v=5f26a18eec",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/vanish-into-murder.webp?v=5f26a18eec"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Disturbing Howls",
+            "quantity": 3,
+            "type": "attack",
+            "value": 1,
+            "boost": 1,
+            "characterName": "Wolf",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move the opposing fighter up to 2 spaces. Gain 1 action.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/disturbing-howls.webp?v=d001460660",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/disturbing-howls.webp?v=d001460660"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Strength of the Pack",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 1,
+            "characterName": "Ancient Leshen",
+            "basicText": "Summon a Wolf in the Leshen's zone.\nONGOING: At the start of your turn, the Leshen recovers 1 health. Discard this card at the end of your turn if there are no Wolves in the Leshen's zone.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/strength-of-the-pack.webp?v=64b7a6d846",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/strength-of-the-pack.webp?v=64b7a6d846"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Primeval Slam",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Ancient Leshen",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Summon a Wolf in the Leshen's zone. Then, move each Wolf up to 3 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/primeval-slam.webp?v=a02bec3a4b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/primeval-slam.webp?v=a02bec3a4b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Flock of Birds",
+            "quantity": 2,
+            "type": "attack",
+            "value": 5,
+            "boost": 1,
+            "characterName": "Ancient Leshen",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You may place the Leshen in any space.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/flock-of-birds.webp?v=75bccbef09",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/flock-of-birds.webp?v=75bccbef09"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Planted Feet",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If your fighter hasn't left their space this turn, draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/planted-feet.webp?v=423bef0156",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/planted-feet.webp?v=423bef0156"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Ancient Leshen",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Ancient Leshen",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/hero.webp?v=bb4550c98c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/hero.webp?v=bb4550c98c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Summon a Wolf",
+            "content": "You have 2 Wolf tokens (1 health, melee, move 3). To summon a Wolf, if any of your Wolves are off the board (including defeated ones), place one in an empty space as the effect says. If both are on the board, choose one and place it there instead. The +3 of Heart of the Forest only counts the Leshen's own attacks, not the Wolves'."
+          },
+          {
+            "title": "Ongoing schemes",
+            "content": "After resolving an ONGOING scheme, leave it face up instead of discarding it. Check its discard condition only at the end of your turn. You can have only one ongoing scheme at a time: playing another discards the current one."
+          }
+        ]
+      }
+    }
+  ],
+  "maps": []
+}

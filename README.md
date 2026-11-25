@@ -39,6 +39,8 @@ En **unbrewed.xyz/bag**, pega un enlace en la barra de añadir.
 | Jurassic Park: InGen vs. Raptors | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raptors.json` |
 | Buffy the Vampire Slayer | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/buffy.json` |
 | Stars & Stripes | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/stars-stripes.json` |
+| Marvel: Brains and Brawn | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/brains-and-brawn.json` |
+| Witcher: Steel and Silver | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/witcher-steel-and-silver.json` |
 | Personalizados (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/custom.json` |
 
 **Héroes sueltos:**
@@ -113,6 +115,12 @@ En **unbrewed.xyz/bag**, pega un enlace en la barra de añadir.
 | Rosie the Riveter | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/rosie/rosie.json` |
 | George Washington | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/washington.json` |
 | Wyatt Earp | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/wyatt-earp/wyatt-earp.json` |
+| Spider-Man | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/spider-man.json` |
+| She-Hulk | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/she-hulk.json` |
+| Doctor Strange | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/doctor-strange.json` |
+| Ciri | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/ciri.json` |
+| Geralt of Rivia | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/geralt.json` |
+| Ancient Leshen | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/leshen.json` |
 | Emperor Palpatine (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/palpatine.json` |
 | Lord Voldemort (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/voldemort/voldemort.json` |
 | Tahm Kench (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/tahm-kench/tahm-kench.json` |
@@ -196,6 +204,14 @@ Si un mazo cambia, bórralo de la bolsa y vuelve a añadirlo: Unbrewed guarda un
   giran a activas. Lo que hace cada mejora está también en el panel de reglas.
 - **George Washington** (con 3 Culper Spies de 1 de vida): su ficha, los espías y 4 fichas de engaño. Los
   efectos con el ojo llevan delante «RUSE:» (solo valen si la ficha de engaño sigue junto a la carta).
+- **Spider-Man**, **She-Hulk** y **Doctor Strange** (con Wong): las fichas en la esquina del jugador.
+- **Ciri** (con Ihuarraquax): las fichas en la esquina del jugador. Sus cartas de Fuente empiezan con
+  «SOURCE card.» y cada efecto dice su umbral («SOURCE 3: …»); la regla está en el panel de reglas.
+- **Geralt of Rivia** (con Dandelion): las fichas en la esquina del jugador. **El mazo trae los 12 equipos
+  (36 cartas)**: antes de empezar, elige una espada, una armadura y una poción y quita las 2 copias de cada
+  una de las otras tres (las cartas «Gear: …»; la lista por tipo está en el panel de reglas).
+- **Ancient Leshen** (con 2 Wolves de 1 de vida): las fichas en la esquina del jugador. La regla de invocar
+  lobos va en el panel de reglas.
 - **Personalizados** (mazos fan-made de unmatched.cards): **Emperor Palpatine** (con 2 Royal Guards de 5 de
   vida), **Lord Voldemort** (con 7 Horcruxes de 1 de vida, que empiezan fuera del tablero), **Tahm Kench**,
   **Evelynn**, **Lux** y **Akali** (su carta de personaje de dos caras va como dos cartas de personaje:

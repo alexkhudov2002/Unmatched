@@ -1316,6 +1316,272 @@
       }
     },
     {
+      "id": "um-leshen",
+      "family_id": "um-leshen",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Ancient Leshen",
+      "note": "Unmatched (Restoration Games), set witcher-steel-and-silver. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-25T13:32:14.313Z",
+      "deck_first_published_on": "2026-11-25T13:32:14.313Z",
+      "published_on": "2026-11-25T13:32:14.313Z",
+      "updated_on": "2026-11-25T13:32:14.313Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "witcher-steel-and-silver"
+      ],
+      "deck_data": {
+        "name": "Ancient Leshen",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Ancient Leshen",
+          "hp": 13,
+          "move": 1,
+          "isRanged": true,
+          "specialAbility": "HEART OF THE FOREST\nAdd +3 to the value of the Leshen's attacks if it already attacked this turn.\nYour Wolves have a move value of 3.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/token-hero.png?v=db62b48b71"
+        },
+        "sidekick": {
+          "name": "Wolf",
+          "quantity": 2,
+          "hp": 1,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/token-wolf.png?v=6d01b65f32"
+        },
+        "cards": [
+          {
+            "title": "Harrying Strike",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Wolf",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Add +2 to this card's value for each of your fighters adjacent to the opposing fighter.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/harrying-strike.webp?v=103d6e4009",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/harrying-strike.webp?v=103d6e4009"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Nature Abounds",
+            "quantity": 3,
+            "type": "attack",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw 1 card for each of your fighters adjacent to the opposing fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/nature-abounds.webp?v=933d381085",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/nature-abounds.webp?v=933d381085"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Wily Fighting",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 1 damage to each opposing fighter adjacent to your fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/wily-fighting.webp?v=df741b8220",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/wily-fighting.webp?v=df741b8220"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Primeval Guardian",
+            "quantity": 3,
+            "type": "defence",
+            "value": 5,
+            "boost": 2,
+            "characterName": "Ancient Leshen",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Your opponent discards the top card of their deck. Add its BOOST value to their card's value.",
+            "afterText": "Move each Wolf up to 3 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/primeval-guardian.webp?v=1c77bbbc0f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/primeval-guardian.webp?v=1c77bbbc0f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Command the Forest",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, your opponent discards 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/command-the-forest.webp?v=85305d44da",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/command-the-forest.webp?v=85305d44da"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Vanish into Murder",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Ancient Leshen",
+            "basicText": "Deal 1 damage to each opposing fighter in the Leshen's zone. Remove the Leshen from the board.\nAt the start of your next turn, place the Leshen in any space. Then, draw 1 card.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/vanish-into-murder.webp?v=5f26a18eec",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/vanish-into-murder.webp?v=5f26a18eec"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Disturbing Howls",
+            "quantity": 3,
+            "type": "attack",
+            "value": 1,
+            "boost": 1,
+            "characterName": "Wolf",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move the opposing fighter up to 2 spaces. Gain 1 action.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/disturbing-howls.webp?v=d001460660",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/disturbing-howls.webp?v=d001460660"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Strength of the Pack",
+            "quantity": 3,
+            "type": "scheme",
+            "value": null,
+            "boost": 1,
+            "characterName": "Ancient Leshen",
+            "basicText": "Summon a Wolf in the Leshen's zone.\nONGOING: At the start of your turn, the Leshen recovers 1 health. Discard this card at the end of your turn if there are no Wolves in the Leshen's zone.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/strength-of-the-pack.webp?v=64b7a6d846",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/strength-of-the-pack.webp?v=64b7a6d846"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Primeval Slam",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Ancient Leshen",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Summon a Wolf in the Leshen's zone. Then, move each Wolf up to 3 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/primeval-slam.webp?v=a02bec3a4b",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/primeval-slam.webp?v=a02bec3a4b"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Flock of Birds",
+            "quantity": 2,
+            "type": "attack",
+            "value": 5,
+            "boost": 1,
+            "characterName": "Ancient Leshen",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "You may place the Leshen in any space.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/flock-of-birds.webp?v=75bccbef09",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/flock-of-birds.webp?v=75bccbef09"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Planted Feet",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If your fighter hasn't left their space this turn, draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/planted-feet.webp?v=423bef0156",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/cards/planted-feet.webp?v=423bef0156"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b"
+          },
+          {
+            "title": "Ancient Leshen",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Ancient Leshen",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/hero.webp?v=bb4550c98c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/hero.webp?v=bb4550c98c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/back.webp?v=94dca51a3b",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Summon a Wolf",
+            "content": "You have 2 Wolf tokens (1 health, melee, move 3). To summon a Wolf, if any of your Wolves are off the board (including defeated ones), place one in an empty space as the effect says. If both are on the board, choose one and place it there instead. The +3 of Heart of the Forest only counts the Leshen's own attacks, not the Wolves'."
+          },
+          {
+            "title": "Ongoing schemes",
+            "content": "After resolving an ONGOING scheme, leave it face up instead of discarding it. Check its discard condition only at the end of your turn. You can have only one ongoing scheme at a time: playing another discards the current one."
+          }
+        ]
+      }
+    },
+    {
       "id": "um-angel",
       "family_id": "um-angel",
       "version_id": "1",
@@ -4014,10 +4280,10 @@
       "note": "Unmatched (Restoration Games), set custom. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-21T19:43:29.963Z",
-      "deck_first_published_on": "2026-11-21T19:43:29.963Z",
-      "published_on": "2026-11-21T19:43:29.963Z",
-      "updated_on": "2026-11-21T19:43:29.963Z",
+      "created_on": "2026-11-25T12:22:23.463Z",
+      "deck_first_published_on": "2026-11-25T12:22:23.463Z",
+      "published_on": "2026-11-25T12:22:23.463Z",
+      "updated_on": "2026-11-25T12:22:23.463Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -4040,7 +4306,7 @@
           "hp": 18,
           "move": 2,
           "isRanged": false,
-          "specialAbility": "FRENESÍ SANGUINARIO\nEmpieza CONTENIDA, con movimiento 2. Al comienzo de tu turno puedes entrar en FRENESÍ gratuitamente, o abandonar el frenesí descartando 2 cartas de tu mano. No gastas una acción. Si abandonas el frenesí, no puedes volver a entrar durante ese turno.\nEn FRENESÍ tienes movimiento 3 y tus ataques reciben +2 de valor, o +4 en su lugar si Briar tenía 8 vidas o menos al comenzar ese combate. Esta bonificación solo modifica el valor de ataque.\nMALDICIÓN CARMESÍ: Mientras Briar esté en frenesí, inmediatamente después de resolver el daño de uno de sus ataques y antes de resolver efectos DESPUÉS DEL COMBATE, recupera tanta vida como haya perdido el defensor por ese daño de combate. No se cura por daño prevenido, redirigido a otro luchador ni procedente de efectos. La curación está limitada a la vida que realmente perdía el defensor y a las 18 vidas máximas de Briar. Briar debe seguir viva para recuperarse.\nDurante tu turno en frenesí debes seguir las reglas de presa y persecución del suplemento.",
+          "specialAbility": "FRENESÍ SANGUINARIO\nBriar empieza CONTENIDA (movimiento 2). Al comienzo de tu turno puedes entrar en FRENESÍ, o salir de él descartando 2 cartas.\nEN FRENESÍ: Briar tiene movimiento 3 y el valor de sus ataques aumenta en 2. No puedes maniobrar si Briar puede atacar, y al maniobrar Briar debe acabar más cerca de un luchador oponente.",
           "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/token-hero.png?v=dbfb74e1c7"
         },
         "sidekick": {
@@ -4058,13 +4324,13 @@
             "value": 3,
             "boost": 3,
             "characterName": "Briar",
-            "basicText": "RECORDATORIO: En frenesí, Maldición carmesí cura a Briar por la vida que el defensor pierda con el daño de combate de este ataque. Este recordatorio no aplica una segunda curación.",
+            "basicText": "",
             "immediateText": "",
-            "duringText": "Si el defensor tenía 8 vidas o menos al comenzar este combate, el valor de esta carta aumenta en 2.",
+            "duringText": "Si el luchador oponente tiene 8 de vida o menos, el valor de esta carta aumenta en 2.",
             "afterText": "",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/otro-mordisquito.webp?v=f368c6bfdb",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/otro-mordisquito.webp?v=a13b304050",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/otro-mordisquito.webp?v=f368c6bfdb"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/otro-mordisquito.webp?v=a13b304050"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
           },
@@ -4078,10 +4344,10 @@
             "basicText": "",
             "immediateText": "",
             "duringText": "",
-            "afterText": "Si el luchador contrario sigue en el tablero, puedes colocar a Briar en una casilla libre adyacente a él.",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/a-la-yugular.webp?v=119296be1d",
+            "afterText": "Puedes colocar a Briar en una casilla adyacente al luchador oponente.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/a-la-yugular.webp?v=1290f2ab69",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/a-la-yugular.webp?v=119296be1d"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/a-la-yugular.webp?v=1290f2ab69"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
           },
@@ -4096,9 +4362,9 @@
             "immediateText": "",
             "duringText": "Puedes POTENCIAR esta carta.",
             "afterText": "Si ganaste el combate, roba 1 carta.",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/desgarro-voraz.webp?v=5c91b8ee2c",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/desgarro-voraz.webp?v=3bf82ed2b9",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/desgarro-voraz.webp?v=5c91b8ee2c"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/desgarro-voraz.webp?v=3bf82ed2b9"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
           },
@@ -4113,9 +4379,9 @@
             "immediateText": "",
             "duringText": "",
             "afterText": "Si atacaste, roba 2 cartas. Si defendiste, roba 1 carta.",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hambre-insaciable.webp?v=9398a2b8cc",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hambre-insaciable.webp?v=aa402070c5",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hambre-insaciable.webp?v=9398a2b8cc"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hambre-insaciable.webp?v=aa402070c5"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
           },
@@ -4130,9 +4396,9 @@
             "immediateText": "Cancela todos los efectos de la carta de tu oponente.",
             "duringText": "",
             "afterText": "",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/tengo-hambre.webp?v=4833022784",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/tengo-hambre.webp?v=c7d332d99a",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/tengo-hambre.webp?v=4833022784"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/tengo-hambre.webp?v=c7d332d99a"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
           },
@@ -4147,9 +4413,9 @@
             "immediateText": "",
             "duringText": "",
             "afterText": "Si atacaste, inflige 2 de daño al luchador contrario. Si defendiste, recupera 1 vida.",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/herida-abierta.webp?v=6d7576e0dd",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/herida-abierta.webp?v=b9b2ddb308",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/herida-abierta.webp?v=6d7576e0dd"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/herida-abierta.webp?v=b9b2ddb308"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
           },
@@ -4164,9 +4430,9 @@
             "immediateText": "El luchador contrario no puede abandonar su casilla durante el resto de este turno.",
             "duringText": "",
             "afterText": "",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/no-te-vayas.webp?v=c87881f1ac",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/no-te-vayas.webp?v=3f53f40284",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/no-te-vayas.webp?v=c87881f1ac"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/no-te-vayas.webp?v=3f53f40284"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
           },
@@ -4179,11 +4445,11 @@
             "characterName": "Briar",
             "basicText": "",
             "immediateText": "",
-            "duringText": "Si Briar tiene al menos 3 vidas, puedes hacer que reciba 2 de daño. Si lo haces, el valor de esta carta aumenta en 2.",
-            "afterText": "",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/duele-pero-me-gusta.webp?v=eb03a8ec6c",
+            "duringText": "",
+            "afterText": "Roba tantas cartas como daño haya recibido Briar en este combate (de combate o de efectos).",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/duele-pero-me-gusta.webp?v=d13345091d",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/duele-pero-me-gusta.webp?v=eb03a8ec6c"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/duele-pero-me-gusta.webp?v=d13345091d"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
           },
@@ -4198,9 +4464,9 @@
             "immediateText": "",
             "duringText": "",
             "afterText": "Si Briar está en frenesí, puedes hacer que lo abandone. Si lo haces, recupera 2 vidas y mueve a Briar hasta 2 casillas.",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/alarido-escalofriante.webp?v=089b340600",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/alarido-escalofriante.webp?v=3d67d34f30",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/alarido-escalofriante.webp?v=089b340600"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/alarido-escalofriante.webp?v=3d67d34f30"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
           },
@@ -4215,9 +4481,9 @@
             "immediateText": "Cancela todos los efectos de la carta de tu oponente.",
             "duringText": "Si Briar tenía 8 vidas o menos al comenzar este combate, el valor de esta carta es 6 en lugar de 4.",
             "afterText": "",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hemolito.webp?v=425753ba10",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hemolito.webp?v=ab8a302890",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hemolito.webp?v=425753ba10"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/hemolito.webp?v=ab8a302890"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
           },
@@ -4226,15 +4492,15 @@
             "quantity": 2,
             "type": "scheme",
             "value": null,
-            "boost": 3,
+            "boost": 4,
             "characterName": "Briar",
-            "basicText": "Puedes jugar esta carta durante el frenesí en lugar de tu acción obligatoria. No puedes jugarla en el turno en el que Briar haya abandonado el frenesí.\nElige un héroe enemigo en el tablero junto al que puedas colocar legalmente a Briar. Ese héroe se convierte en tu presa hasta el final de este turno, sustituyendo la selección normal de presa. Coloca a Briar en una casilla libre adyacente a él y entra en frenesí. Gana 1 acción.",
+            "basicText": "Coloca a Briar en una casilla adyacente a un héroe oponente. Briar entra en FRENESÍ. Gana 1 acción.",
             "immediateText": "",
             "duringText": "",
             "afterText": "",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/final-sangriento.webp?v=a29d90a6ed",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/final-sangriento.webp?v=b51def155e",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/final-sangriento.webp?v=a29d90a6ed"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/final-sangriento.webp?v=b51def155e"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
           },
@@ -4249,9 +4515,9 @@
             "immediateText": "",
             "duringText": "",
             "afterText": "",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/amigos.webp?v=01fcc12015",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/amigos.webp?v=2aab4176a1",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/amigos.webp?v=01fcc12015"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/cards/amigos.webp?v=2aab4176a1"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f"
           },
@@ -4266,30 +4532,12 @@
             "immediateText": "",
             "duringText": "",
             "afterText": "",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/hero.webp?v=12d28f0f28",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/hero.webp?v=1747f1e8d9",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/hero.webp?v=12d28f0f28"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/hero.webp?v=1747f1e8d9"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/briar/back.webp?v=1011a9437f",
             "isCharacterCard": true
-          }
-        ],
-        "ruleCards": [
-          {
-            "title": "Presa y accesibilidad",
-            "content": "Antes de cada acción en frenesí determina tu presa: primero el héroe enemigo accesible más cercano; si no hay ninguno, el otro luchador enemigo accesible más cercano; si nadie es accesible en una maniobra, el héroe enemigo con la ruta legal más corta, o, si no hay ruta hacia ningún héroe, otro enemigo al que exista una ruta. Solo se consideran enemigos en el tablero. En empates elige Briar.\nAccesible significa poder alcanzar una casilla desde la que atacar cuerpo a cuerpo con una maniobra de movimiento 3, sin potenciar ni usar cartas. Se mide el desplazamiento necesario para llegar a esa casilla, no la distancia entre las figuras. Un enemigo adyacente requiere 0. Respeta ocupación, restricciones y reglas del mapa. Los costes para abrir puertas y usar conexiones especiales cuentan como los establezca el mapa.\nLa presa se fija durante cada acción. Solo se vuelve a determinar dentro de esa acción si la presa es derrotada o sale del tablero y un efecto posterior necesita una presa. Antes de la siguiente acción vuelve a seleccionarla, salvo la fijación de Final sangriento."
-          },
-          {
-            "title": "Persecución",
-            "content": "Si puedes atacar legalmente a tu presa y tienes una carta válida, debes gastar la acción en atacarla; eliges la carta. Si no, debes maniobrar: roba y avanza hacia la presa por una ruta de coste mínimo todo lo que permita tu movimiento, hasta poder atacarla cuerpo a cuerpo. Potenciar el movimiento es opcional. Si ya estás adyacente y no tienes carta, maniobra para robar y permanece allí; no atacas dentro de esa misma acción. Si no hay ruta legal hacia ningún enemigo, maniobra sin moverte.\nNo puedes elegir ingenios en lugar de la acción obligatoria salvo permiso expreso de la carta. Esto afecta también a las acciones adicionales. Los ataques adicionales que controles solo pueden dirigirse a la presa si es un objetivo legal; si no, no se realizan. Durante tu turno los desplazamientos que tú elijas deben acercarte a la presa por una ruta mínima; puedes recolocarte en otra casilla adyacente si ya estás adyacente. Los efectos que te permiten colocar a Briar pueden saltar directamente a una casilla libre adyacente a la presa. Respeta cualquier prohibición de abandonar casilla.\nLos movimientos impuestos por un rival funcionan normalmente. Fuera de tu turno puedes defender y resolver movimientos libremente. Salir del frenesí elimina estas obligaciones."
-          },
-          {
-            "title": "Curación y tiempos",
-            "content": "La vida de referencia de Briar y del defensor se fija al declarar cada combate, antes de resolver sus efectos. Duele… pero me gusta no activa retroactivamente la bonificación de vida baja del combate actual. Recibir daño DURANTE el combate puede derrotar a Briar antes de curarse.\nLa bonificación y la curación de la habilidad no son efectos de las cartas: cancelar una carta no las cancela. Sí se cancelan los efectos propios de la carta, incluidos el +2 de Otro mordisquito, la curación de Herida abierta y la salida de Alarido.\nLa curación de Maldición carmesí ocurre una sola vez por cada ataque que haga perder vida de combate al defensor. No incluye los 2 daños posteriores de Herida abierta. Si se redirige parte del daño, cuenta solo la vida perdida por el defensor. No cura por daño propio.\nEl daño que exceda la vida restante del defensor no aumenta la curación. Contra un esbirro de 1 vida se recupera como máximo 1 vida. Recuperar nunca evita una derrota que ya haya ocurrido."
-          },
-          {
-            "title": "Final sangriento y salida",
-            "content": "Final sangriento puede sustituir tu acción obligatoria de frenesí. Elige primero tu nueva presa; su fijación sustituye las prioridades normales durante el resto del turno y permite la colocación indicada. No obliga a realizar el ataque siguiente gratis: recuperas la acción gastada en el ingenio y puedes gastar una acción en atacar después. Requiere una casilla libre adyacente y una colocación legal; no evita una prohibición de abandonar la casilla. No se puede jugar el turno en que hayas abandonado el frenesí.\nSi la presa fijada es derrotada o sale del tablero, termina la fijación y vuelve a aplicarse la selección normal cuando haga falta. Si solo queda temporalmente inaccesible, sigue siendo tu presa: intenta acercarte; si no hay ruta, maniobra sin desplazarte. La fijación termina al acabar el turno o si abandonas el frenesí.\nAlarido escalofriante solo da su curación y movimiento si realmente sales del frenesí. Su desplazamiento se resuelve ya contenida. ¿Amigos? no tiene permiso especial para saltarse la persecución; en esta lista solo puedes elegirlo como ingenio mientras estés contenida."
           }
         ]
       }
@@ -5693,6 +5941,272 @@
       }
     },
     {
+      "id": "um-ciri",
+      "family_id": "um-ciri",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Ciri",
+      "note": "Unmatched (Restoration Games), set witcher-steel-and-silver. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-25T13:32:13.620Z",
+      "deck_first_published_on": "2026-11-25T13:32:13.620Z",
+      "published_on": "2026-11-25T13:32:13.620Z",
+      "updated_on": "2026-11-25T13:32:13.620Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "witcher-steel-and-silver"
+      ],
+      "deck_data": {
+        "name": "Ciri",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Ciri",
+          "hp": 15,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "UNCONTAINABLE POWER\nSOURCE 7: Effects on Ciri's cards cannot be canceled.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/token-hero.png?v=91a8cdc464"
+        },
+        "sidekick": {
+          "name": "Ihuarraquax",
+          "quantity": 1,
+          "hp": 7,
+          "isRanged": false,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/token-ihuarraquax.png?v=18a342d3b7"
+        },
+        "cards": [
+          {
+            "title": "Blink",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Ciri",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move Ciri up to 3 spaces. She may move through opposing fighters.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/blink.webp?v=d8f2f4e840",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/blink.webp?v=d8f2f4e840"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "The Lady of Space and Time",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Ciri",
+            "basicText": "SOURCE card.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "SOURCE 3: Return a card from your discard pile to the top of your deck.\nSOURCE 8: Return a card from your discard pile to your hand. Draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/the-lady-of-space-and-time.webp?v=68b99c0d01",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/the-lady-of-space-and-time.webp?v=68b99c0d01"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Parry",
+            "quantity": 3,
+            "type": "defence",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/parry.webp?v=481b379140",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/parry.webp?v=481b379140"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Searching Strike",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Ihuarraquax",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, you may search your deck for a SOURCE card, reveal it, and add it to your hand.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/searching-strike.webp?v=27e9f47680",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/searching-strike.webp?v=27e9f47680"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Bane of the Aen Elle",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 4,
+            "characterName": "Ihuarraquax",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move Ihuarraquax up to 4 spaces. He may move through opposing fighters. Then, deal 1 damage to an opposing fighter he moved through.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/bane-of-the-aen-elle.webp?v=a64024d4a6",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/bane-of-the-aen-elle.webp?v=a64024d4a6"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Lion Cub of Cintra",
+            "quantity": 3,
+            "type": "attack",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Ciri",
+            "basicText": "SOURCE card.",
+            "immediateText": "",
+            "duringText": "SOURCE 1: This card's value is 4 instead.\nSOURCE 5: This card's value is 7 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/lion-cub-of-cintra.webp?v=918cf4e7ba",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/lion-cub-of-cintra.webp?v=918cf4e7ba"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Zireael",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Ciri",
+            "basicText": "SOURCE card.",
+            "immediateText": "",
+            "duringText": "SOURCE 3: This card's value is 4 instead.\nSOURCE 5: This card's value is 4 instead, and your opponent discards 1 random card.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/zireael.webp?v=edad24c35a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/zireael.webp?v=edad24c35a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Channel the Source",
+            "quantity": 3,
+            "type": "attack",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Ciri",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may discard any number of SOURCE cards from your hand. Add +2 to this card's value for each SOURCE card you discarded.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/channel-the-source.webp?v=6f42daba53",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/channel-the-source.webp?v=6f42daba53"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Pushed to the Brink",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Ciri",
+            "basicText": "SOURCE card.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "SOURCE 2: Deal 1 damage to the opposing fighter.\nSOURCE 7: Deal 2 damage to an opposing fighter within 3 spaces of Ciri.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/pushed-to-the-brink.webp?v=fd62714873",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/pushed-to-the-brink.webp?v=fd62714873"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Child of the Elder Blood",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Ciri",
+            "basicText": "SOURCE card.\nSOURCE 4: Deal 1 damage to each other fighter in Ciri's zone.\nSOURCE 9: Deal 3 damage to each other fighter in Ciri's zone.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/child-of-the-elder-blood.webp?v=db48606299",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/child-of-the-elder-blood.webp?v=db48606299"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Unicorn Ally",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "Ciri recovers 2 health.\nONGOING: After each combat your fighter is in, draw 1 card. Discard this card at the end of your turn if you have 5 or more cards in your hand.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/unicorn-ally.webp?v=76902a0303",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/cards/unicorn-ally.webp?v=76902a0303"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b"
+          },
+          {
+            "title": "Ciri",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Ciri",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/hero.webp?v=43fb159609",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/hero.webp?v=43fb159609"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/back.webp?v=ddf017f22b",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Source",
+            "content": "Some of Ciri's cards are SOURCE cards (Source icon in the banner). Their effects are marked SOURCE N. When resolving one, count the SOURCE cards in your discard pile and resolve the effect with the highest N that is equal to or less than that count; you may not choose the lower one. If you have fewer than the lower N, resolve neither. With 7 or more SOURCE cards in your discard pile, effects on your cards cannot be canceled."
+          },
+          {
+            "title": "Ongoing schemes",
+            "content": "After resolving an ONGOING scheme, leave it face up instead of discarding it. Check its discard condition only at the end of your turn. You can have only one ongoing scheme at a time: playing another discards the current one."
+          }
+        ]
+      }
+    },
+    {
       "id": "um-cloak-dagger",
       "family_id": "um-cloak-dagger",
       "version_id": "1",
@@ -6750,6 +7264,262 @@
               "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/hero.webp?v=0bdbc021ab"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/deadpool/back.webp?v=bbea73c5e6",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-doctor-strange",
+      "family_id": "um-doctor-strange",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Doctor Strange",
+      "note": "Unmatched (Restoration Games), set brains-and-brawn. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-25T13:32:13.301Z",
+      "deck_first_published_on": "2026-11-25T13:32:13.301Z",
+      "published_on": "2026-11-25T13:32:13.301Z",
+      "updated_on": "2026-11-25T13:32:13.301Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "brains-and-brawn"
+      ],
+      "deck_data": {
+        "name": "Doctor Strange",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/back.webp?v=5d4fb0cf80",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Doctor Strange",
+          "hp": 14,
+          "move": 2,
+          "isRanged": true,
+          "specialAbility": "DARK PACT\nAfter each combat, if Doctor Strange played a card, you may deal 1 damage to him. If you do, put that card on the bottom of your deck and draw 1 card.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/token-hero.png?v=2df7064d81"
+        },
+        "sidekick": {
+          "name": "Wong",
+          "quantity": 1,
+          "hp": 6,
+          "isRanged": true,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/token-wong.png?v=de1aa10303"
+        },
+        "cards": [
+          {
+            "title": "Steadfast Disciple",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Wong",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If Wong is adjacent to the opposing fighter, deal 1 damage to the opposing fighter and draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/steadfast-disciple.webp?v=ed8eab784f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/steadfast-disciple.webp?v=ed8eab784f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/back.webp?v=5d4fb0cf80"
+          },
+          {
+            "title": "Feint",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/feint.webp?v=510ea0a9c5",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/feint.webp?v=510ea0a9c5"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/back.webp?v=5d4fb0cf80"
+          },
+          {
+            "title": "The Mists of Munnopor",
+            "quantity": 3,
+            "type": "defence",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Doctor Strange",
+            "basicText": "",
+            "immediateText": "Discard your opponent's card. They reveal cards from their deck until they reveal an attack or versatile card they can play. They play that card and randomly put the rest of the revealed cards on the bottom of their deck.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/the-mists-of-munnopor.webp?v=3b42ff25f5",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/the-mists-of-munnopor.webp?v=3b42ff25f5"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/back.webp?v=5d4fb0cf80"
+          },
+          {
+            "title": "The Winds of Watoomb",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Doctor Strange",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Your opponent places Doctor Strange in a starting space. Place the opposing fighter in another starting space. All players shuffle their decks.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/the-winds-of-watoomb.webp?v=0f62a587f6",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/the-winds-of-watoomb.webp?v=0f62a587f6"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/back.webp?v=5d4fb0cf80"
+          },
+          {
+            "title": "Cloak of Levitation",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Doctor Strange",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If Doctor Strange is adjacent to the opposing fighter, ignore the value of your opponent's card.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/cloak-of-levitation.webp?v=8d7f02437d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/cloak-of-levitation.webp?v=8d7f02437d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/back.webp?v=5d4fb0cf80"
+          },
+          {
+            "title": "No, Really, I'm a Doctor",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Doctor Strange",
+            "basicText": "Reveal a card from your hand and put it on top of your deck. Doctor Strange or a friendly fighter adjacent to him recovers health equal to that card's BOOST value.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/no-really-i-m-a-doctor.webp?v=e6effb5663",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/no-really-i-m-a-doctor.webp?v=e6effb5663"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/back.webp?v=5d4fb0cf80"
+          },
+          {
+            "title": "Master of Kamar-Taj",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If Doctor Strange and Wong are adjacent, this card's value is 4 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/master-of-kamar-taj.webp?v=885cb5825a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/master-of-kamar-taj.webp?v=885cb5825a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/back.webp?v=5d4fb0cf80"
+          },
+          {
+            "title": "The Rings of Raggadorr",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, your fighter and each friendly fighter adjacent to them recover health equal to the damage dealt.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/the-rings-of-raggadorr.webp?v=30a3708cda",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/the-rings-of-raggadorr.webp?v=30a3708cda"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/back.webp?v=5d4fb0cf80"
+          },
+          {
+            "title": "Bolts of Balthakk",
+            "quantity": 4,
+            "type": "attack",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Any",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BLIND BOOST this card.",
+            "afterText": "If you won the combat, gain 1 action.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/bolts-of-balthakk.webp?v=5aab3d7c9e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/bolts-of-balthakk.webp?v=5aab3d7c9e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/back.webp?v=5d4fb0cf80"
+          },
+          {
+            "title": "Eye of Agamotto",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "Doctor Strange",
+            "basicText": "Shuffle your hand into your deck.\nDraw 5 cards.\nGain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/eye-of-agamotto.webp?v=ec04a8f09f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/eye-of-agamotto.webp?v=ec04a8f09f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/back.webp?v=5d4fb0cf80"
+          },
+          {
+            "title": "Seven Suns of Cinnibus",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Doctor Strange",
+            "basicText": "If the value of this card is above 7, ignore its value.",
+            "immediateText": "",
+            "duringText": "You may BLIND BOOST this card up to two times.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/seven-suns-of-cinnibus.webp?v=fab40a6ac0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/cards/seven-suns-of-cinnibus.webp?v=fab40a6ac0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/back.webp?v=5d4fb0cf80"
+          },
+          {
+            "title": "Doctor Strange",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Doctor Strange",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/hero.webp?v=ae8cd2629d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/hero.webp?v=ae8cd2629d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/doctor-strange/back.webp?v=5d4fb0cf80",
             "isCharacterCard": true
           }
         ]
@@ -8564,10 +9334,10 @@
       "note": "Unmatched (Restoration Games), set custom. Datos transcritos de las cartas; uso privado.",
       "user": "alexkhudov2002",
       "bgg_link": null,
-      "created_on": "2026-11-21T19:43:30.890Z",
-      "deck_first_published_on": "2026-11-21T19:43:30.890Z",
-      "published_on": "2026-11-21T19:43:30.890Z",
-      "updated_on": "2026-11-21T19:43:30.890Z",
+      "created_on": "2026-11-25T12:16:15.849Z",
+      "deck_first_published_on": "2026-11-25T12:16:15.849Z",
+      "published_on": "2026-11-25T12:16:15.849Z",
+      "updated_on": "2026-11-25T12:16:15.849Z",
       "deck_published": false,
       "published": false,
       "liked": false,
@@ -8590,7 +9360,7 @@
           "hp": 15,
           "move": 3,
           "isRanged": false,
-          "specialAbility": "SOMBRA DEMONÍACA\nSOMBRA DEMONÍACA\nEmpiezas en SOMBRA. Al final de tu turno, si no estás adyacente a ningún luchador enemigo, entra en Sombra. Cuando entras en Sombra, si tienes 7 vidas o menos, recupera 2 vidas. Si ya estabas en Sombra, no vuelves a entrar ni te curas por permanecer en ella.\nMientras estés en Sombra, solo pueden elegirte como objetivo de ataques los luchadores adyacentes a ti. Los efectos de cartas y habilidades pueden afectarte normalmente.\nPierdes Sombra cuando declaras un ataque o cuando pierdes vida por cualquier motivo. Si declaras un ataque estando en Sombra, ese ataque recibe +2 al valor durante todo ese combate, aunque pierdas Sombra al declararlo. Acercarte a un enemigo, jugar un ingenio o defender sin perder vida no te hace perder Sombra.",
+          "specialAbility": "SOMBRA DEMONÍACA\nEvelynn empieza en SOMBRA. Al final de tu turno, si Evelynn no está en SOMBRA ni adyacente a ningún luchador oponente, vuelve a SOMBRA y, si tiene 7 de vida o menos, recupera 2 de vida.\nEn SOMBRA, solo los luchadores adyacentes pueden atacar a Evelynn. Cuando Evelynn ataca desde SOMBRA, el valor de su ataque aumenta en 2. Evelynn sale de SOMBRA cuando ataca o recibe daño.",
           "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/token-hero.png?v=0159e236e1"
         },
         "sidekick": {
@@ -8611,10 +9381,10 @@
             "basicText": "",
             "immediateText": "",
             "duringText": "",
-            "afterText": "Si iniciaste este ataque en Sombra, inflige 2 de daño al luchador contrario.",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/pua-de-odio.webp?v=6403bb583f",
+            "afterText": "Si atacaste desde SOMBRA, inflige 2 de daño al luchador oponente.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/pua-de-odio.webp?v=ba62d9933f",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/pua-de-odio.webp?v=6403bb583f"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/pua-de-odio.webp?v=ba62d9933f"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
           },
@@ -8628,10 +9398,10 @@
             "basicText": "",
             "immediateText": "",
             "duringText": "",
-            "afterText": "Roba 1 carta. Si iniciaste este ataque en Sombra, gana 1 acción.",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/latigazo.webp?v=6436de193c",
+            "afterText": "Roba 1 carta. Si atacaste desde SOMBRA, gana 1 acción.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/latigazo.webp?v=fa08e17729",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/latigazo.webp?v=6436de193c"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/latigazo.webp?v=fa08e17729"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
           },
@@ -8644,11 +9414,11 @@
             "characterName": "Evelynn",
             "basicText": "",
             "immediateText": "",
-            "duringText": "Si atacas y el defensor tenía 6 vidas o menos al comenzar este combate, el valor de esta carta es 7 en lugar de 4.",
-            "afterText": "Mueve a Evelynn hasta 4 casillas. Durante este movimiento puede atravesar luchadores enemigos. Roba 1 carta.",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/hacedora-de-viudas.webp?v=12a3f3631b",
+            "duringText": "Si atacas a un luchador con 6 de vida o menos, el valor de esta carta es 7.",
+            "afterText": "Mueve a Evelynn hasta 4 casillas; puede atravesar luchadores oponentes. Roba 1 carta.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/hacedora-de-viudas.webp?v=39fdf75e45",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/hacedora-de-viudas.webp?v=12a3f3631b"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/hacedora-de-viudas.webp?v=39fdf75e45"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
           },
@@ -8662,10 +9432,10 @@
             "basicText": "",
             "immediateText": "",
             "duringText": "",
-            "afterText": "Puedes mover al luchador contrario hasta 2 casillas, acercándolo a Evelynn con cada paso. Si atacaste, roba 1 carta.",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/ven-aqui.webp?v=07cefab485",
+            "afterText": "Puedes mover al luchador oponente hasta 2 casillas hacia Evelynn. Si atacaste, roba 1 carta.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/ven-aqui.webp?v=102f14b49d",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/ven-aqui.webp?v=07cefab485"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/ven-aqui.webp?v=102f14b49d"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
           },
@@ -8680,9 +9450,9 @@
             "immediateText": "",
             "duringText": "",
             "afterText": "Si atacaste, roba 2 cartas. Si defendiste, roba 1 carta.",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/abrazo-agonico.webp?v=df17602623",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/abrazo-agonico.webp?v=c9c8d7d047",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/abrazo-agonico.webp?v=df17602623"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/abrazo-agonico.webp?v=c9c8d7d047"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
           },
@@ -8697,9 +9467,9 @@
             "immediateText": "Cancela todos los efectos de la carta de tu oponente.",
             "duringText": "",
             "afterText": "",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/sonrisa-traicionera.webp?v=2fec1350ed",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/sonrisa-traicionera.webp?v=908e5efba1",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/sonrisa-traicionera.webp?v=2fec1350ed"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/sonrisa-traicionera.webp?v=908e5efba1"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
           },
@@ -8714,9 +9484,9 @@
             "immediateText": "",
             "duringText": "",
             "afterText": "Mueve a Evelynn hasta 3 casillas. Si perdiste el combate, roba 1 carta.",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/entre-sombras.webp?v=d36b6f0ac2",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/entre-sombras.webp?v=6a50a8ce20",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/entre-sombras.webp?v=d36b6f0ac2"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/entre-sombras.webp?v=6a50a8ce20"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
           },
@@ -8731,9 +9501,9 @@
             "immediateText": "",
             "duringText": "",
             "afterText": "Mueve a Evelynn hasta 3 casillas.",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/cuerpo-de-sombra.webp?v=786102eb9c",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/cuerpo-de-sombra.webp?v=1978750051",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/cuerpo-de-sombra.webp?v=786102eb9c"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/cuerpo-de-sombra.webp?v=1978750051"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
           },
@@ -8748,9 +9518,9 @@
             "immediateText": "Cancela todos los efectos de la carta de tu oponente.",
             "duringText": "",
             "afterText": "Puedes mover al atacante hasta 2 casillas.",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/sigue-mi-voz.webp?v=03ce934c10",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/sigue-mi-voz.webp?v=205e58d9b1",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/sigue-mi-voz.webp?v=03ce934c10"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/sigue-mi-voz.webp?v=205e58d9b1"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
           },
@@ -8761,13 +9531,13 @@
             "value": null,
             "boost": 2,
             "characterName": "Evelynn",
-            "basicText": "Elige un luchador enemigo en el tablero. Puedes moverlo hasta 2 casillas, acercándolo a Evelynn con cada paso.\nEn tu próximo ataque contra ese luchador durante este turno, reduce su valor final de defensa en 2, hasta un mínimo de 0. El efecto se consume con ese ataque o termina al acabar tu turno. Si ya había un efecto de Seducción pendiente, este lo sustituye; no se acumulan.\nRoba 1 carta. Gana 1 acción.",
+            "basicText": "Elige un luchador oponente. Puedes moverlo hasta 2 casillas hacia Evelynn. En el próximo ataque de Evelynn contra él este turno, el valor de su carta de defensa se reduce en 2. Roba 1 carta. Gana 1 acción.",
             "immediateText": "",
             "duringText": "",
             "afterText": "",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/seduccion.webp?v=3625390c50",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/seduccion.webp?v=41913ca4d9",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/seduccion.webp?v=3625390c50"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/seduccion.webp?v=41913ca4d9"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
           },
@@ -8782,9 +9552,9 @@
             "immediateText": "",
             "duringText": "",
             "afterText": "",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/esencias-desesperadas.webp?v=bb636383a8",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/esencias-desesperadas.webp?v=40b2a5dcb7",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/esencias-desesperadas.webp?v=bb636383a8"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/cards/esencias-desesperadas.webp?v=40b2a5dcb7"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897"
           },
@@ -8799,42 +9569,12 @@
             "immediateText": "",
             "duringText": "",
             "afterText": "",
-            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/hero.webp?v=206afe8481",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/hero.webp?v=d9379fdfa9",
             "cardImage": {
-              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/hero.webp?v=206afe8481"
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/hero.webp?v=d9379fdfa9"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/evelynn-sombra/back.webp?v=e5b5993897",
             "isCharacterCard": true
-          }
-        ],
-        "ruleCards": [
-          {
-            "title": "Sombra: entrada y curación",
-            "content": "Evelynn empieza la partida en Sombra. Empezar en ese estado no activa su curación. Al final de cada uno de sus turnos, si no está adyacente a ningún luchador enemigo, entra en Sombra si no estaba ya en ese estado. Si al entrar tiene 7 vidas o menos, recupera 2 vidas, sin superar su vida máxima de 15. No se cura por permanecer en Sombra ni entra en Sombra por alejarse durante el turno de otro jugador. No puede volver a entrar mediante esta habilidad en mitad de su turno."
-          },
-          {
-            "title": "Sombra: ataques y salida",
-            "content": "La miniatura de Evelynn permanece en el tablero, ocupa su casilla y bloquea el movimiento normalmente. Mientras esté en Sombra, un luchador debe estar adyacente a ella para elegirla como objetivo de un ataque, aunque sea a distancia o tenga alcance aumentado. Las demás condiciones y restricciones de ataque siguen aplicándose. Las cartas y habilidades que infligen daño sin atacar pueden afectarla normalmente. Estar adyacente no elimina Sombra por sí solo. Tampoco lo hace jugar un ingenio o defender sin perder vida. Pierde Sombra al declarar un ataque o al perder vida, incluido el daño de combate, el daño de efectos y el agotamiento. Si se previene todo el daño y no pierde vida, no sale por ese motivo."
-          },
-          {
-            "title": "Ataques iniciados en Sombra",
-            "content": "Al declarar cada ataque, comprueba si Evelynn estaba en Sombra justo antes de declararlo. Si lo estaba, sale de Sombra y ese ataque recibe +2 al valor durante todo ese combate. Púa de odio y Latigazo usan esa misma comprobación. No es necesario que Evelynn siga en Sombra al resolver sus efectos. La bonificación de +2 procede de la habilidad y no se cancela al cancelar la carta de ataque. Los efectos propios de la carta sí se pueden cancelar. La bonificación no se aplica a las defensas ni a un ataque posterior iniciado fuera de Sombra. Ganar una acción con Latigazo no devuelve Sombra."
-          },
-          {
-            "title": "Seducción: solo ingenio",
-            "content": "Seducción solo se activa al jugar su carta de ingenio. No hay selección gratuita de víctima, carga por maniobrar ni otra pasiva de Seducción. El objetivo debe ser un luchador enemigo en el tablero al jugarla. El movimiento es opcional y la reducción se prepara aunque el objetivo no pueda moverse. La reducción se aplica únicamente al próximo combate que Evelynn inicie como atacante contra ese objetivo durante el mismo turno. Atacar a otro luchador no utiliza el efecto. Se consume con el ataque al objetivo aunque este no cause daño, y desaparece al terminar el turno si no se usa. Jugar una nueva Seducción sustituye cualquier efecto pendiente de otra Seducción, incluso si cambia de objetivo. Si el objetivo es derrotado, el efecto sobre él termina."
-          },
-          {
-            "title": "Seducción: cálculo y acciones",
-            "content": "Al calcular el daño del ataque afectado, después de resolver los efectos DURANTE EL COMBATE, resta 2 al valor final que se utilizaría para defender, hasta un mínimo de 0. No cancela otros efectos de la defensa ni produce valores negativos. Si no se juega defensa o un efecto ya ignora su valor, no añade daño por sí misma. Se puede combinar con el +2 del ataque iniciado en Sombra. Cancelar la carta de ataque no elimina el efecto de un ingenio ya resuelto. Jugar Seducción gasta una acción y su efecto concede una acción; por sí sola no concede un ataque gratuito. Su robo de una carta reemplaza la carta gastada en jugarla y no la devuelve a la mano."
-          },
-          {
-            "title": "Movimiento y remate",
-            "content": "Todos los movimientos respetan ocupación, conexiones y restricciones del mapa. Acercar un luchador con cada paso significa que cada paso reduce la distancia entre ese luchador y Evelynn. Solo Hacedora de viudas permite atravesar luchadores enemigos durante el movimiento que ella misma concede, sin terminar sobre otra figura. Una prohibición de abandonar casilla impide estos movimientos. Los luchadores derrotados no pueden moverse. Hacedora de viudas comprueba la vida del defensor al comienzo de su propio combate, antes de sus efectos. El daño de un combate anterior puede habilitar su valor 7. Ese valor 7 solo se aplica al atacar. La carta mantiene su valor base 4 al defender, salvo otros efectos."
-          },
-          {
-            "title": "Ejemplo: emboscada y retirada",
-            "content": "Evelynn empieza en Sombra adyacente a un enemigo con 10 vidas. Juega Seducción, roba 1 carta y recupera la acción gastada. Ataca con Latigazo: valor 4 + 2 por Sombra = 6. Frente a una defensa de valor final 4, Seducción la reduce a 2: el defensor pierde 4 vidas y queda con 6. Evelynn ya está fuera de Sombra. Si no se canceló Latigazo, roba 1 carta y gana 1 acción. Ataca con Hacedora de viudas, que vale 7 por las 6 vidas iniciales del defensor en este nuevo combate. Contra una defensa de 3 causa 4 daños, sin bonificación de Sombra ni una segunda Seducción. Después puede moverse hasta 4 casillas atravesando enemigos y roba 1 carta. Si termina su turno sin enemigos adyacentes, vuelve a Sombra. Si tiene 7 vidas o menos al volver, recupera 2 vidas. El ejemplo supone que no intervienen otros efectos."
           }
         ]
       }
@@ -9183,6 +9923,340 @@
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/washington/back.webp?v=b282f50a9a",
             "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-geralt",
+      "family_id": "um-geralt",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Geralt of Rivia",
+      "note": "Unmatched (Restoration Games), set witcher-steel-and-silver. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-25T13:32:14.000Z",
+      "deck_first_published_on": "2026-11-25T13:32:14.000Z",
+      "published_on": "2026-11-25T13:32:14.000Z",
+      "updated_on": "2026-11-25T13:32:14.000Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "witcher-steel-and-silver"
+      ],
+      "deck_data": {
+        "name": "Geralt of Rivia",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Geralt of Rivia",
+          "hp": 16,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "ALWAYS PREPARED\nAt the start of the game, choose your gear. Select a POTION, ARMOR, and SWORD, and shuffle 2 copies of each into your deck.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/token-hero.png?v=d994171f50"
+        },
+        "sidekick": {
+          "name": "Dandelion",
+          "quantity": 1,
+          "hp": 5,
+          "isRanged": true,
+          "quote": "",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/token-dandelion.png?v=3dab04eda6"
+        },
+        "cards": [
+          {
+            "title": "Igni",
+            "quantity": 2,
+            "type": "attack",
+            "value": 0,
+            "boost": 3,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Deal 2 damage to the opposing fighter and 1 damage to each other fighter adjacent to Geralt.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/igni.webp?v=fdf6d382be",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/igni.webp?v=fdf6d382be"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Gear: Sword of Steel",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Gain 1 action. If the opposing fighter has 8 or more health, gain 2 actions instead.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-sword-of-steel.webp?v=58a0624be5",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-sword-of-steel.webp?v=58a0624be5"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Plot Twist",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Dandelion",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Look at your opponent's hand and choose 1 card for them to discard. Draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/plot-twist.webp?v=b478c433a0",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/plot-twist.webp?v=b478c433a0"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Witcher Senses",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Geralt of Rivia",
+            "basicText": "Search your deck or discard pile for a GEAR card and add it to your hand. If you took it from your deck, shuffle this card back into your deck.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/witcher-senses.webp?v=e5fa89c7f7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/witcher-senses.webp?v=e5fa89c7f7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Gear: Wolf Medallion",
+            "quantity": 2,
+            "type": "defence",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "If the opposing fighter is not adjacent to Geralt, ignore the value of your opponent's card.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-wolf-medallion.webp?v=ff779b1d2a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-wolf-medallion.webp?v=ff779b1d2a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Annoying Tune",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 3,
+            "characterName": "Dandelion",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move the opposing fighter up to 4 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/annoying-tune.webp?v=dbd9aa5352",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/annoying-tune.webp?v=dbd9aa5352"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Riposte",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Choose one:\n► deal 1 damage to an adjacent fighter\n► Geralt swaps spaces with an adjacent fighter",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/riposte.webp?v=7c3ab86538",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/riposte.webp?v=7c3ab86538"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Gear: Sword of Silver",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "If your opponent's card has a printed value of 4 or more, ignore its value.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-sword-of-silver.webp?v=1c2a644b6e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-sword-of-silver.webp?v=1c2a644b6e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Rend",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may BOOST this card.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/rend.webp?v=1e2942b4cd",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/rend.webp?v=1e2942b4cd"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Disciplined Duelist",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If the printed value of your opponent's card is ...\n2: you may draw 1 card\n3: deal 1 damage to the opposing fighter\n4: your opponent discards 1 card",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/disciplined-duelist.webp?v=938ab9bdd8",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/disciplined-duelist.webp?v=938ab9bdd8"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Gear: Tawny Owl",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Geralt of Rivia",
+            "basicText": "Draw 2 cards. Gain 1 action.\nONGOING: If an effect would cause you to discard a card from your hand, you may choose to ignore it. Discard this card at the end of your turn if you didn't attack.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-tawny-owl.webp?v=df364c9e8f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-tawny-owl.webp?v=df364c9e8f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Gear: Blizzard",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Geralt of Rivia",
+            "basicText": "Draw 1 card. Move Geralt up to 3 spaces.\nONGOING: Opponents can't gain actions. Discard this card at the end of your turn if you didn't attack.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-blizzard.webp?v=8ebde374e7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-blizzard.webp?v=8ebde374e7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Gear: Armor of the Forgotten Wolf",
+            "quantity": 2,
+            "type": "defence",
+            "value": 2,
+            "boost": 3,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Add +1 to this card's value for each fighter adjacent to Geralt.",
+            "afterText": "End the turn.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-armor-of-the-forgotten-wolf.webp?v=8c3140abd4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/gear-armor-of-the-forgotten-wolf.webp?v=8c3140abd4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Damn, You're Ugly",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 5,
+            "boost": 4,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/damn-you-re-ugly.webp?v=8604a57d6e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/damn-you-re-ugly.webp?v=8604a57d6e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Yrden",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 2,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "The opposing fighter cannot leave their space this turn.",
+            "duringText": "",
+            "afterText": "Move Geralt up to 2 spaces.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/yrden.webp?v=3abc7061e9",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/cards/yrden.webp?v=3abc7061e9"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1"
+          },
+          {
+            "title": "Geralt of Rivia",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Geralt of Rivia",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/hero.webp?v=44a6c6dc24",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/hero.webp?v=44a6c6dc24"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/back.webp?v=edfd5d64e1",
+            "isCharacterCard": true
+          }
+        ],
+        "ruleCards": [
+          {
+            "title": "Gear",
+            "content": "Before the game, choose one gear of each type and put both copies of the chosen cards in your deck (24 + 6 = 30). Return the other gear cards to the box.\nSWORD: Gear: Sword of Steel / Gear: Sword of Silver.\nARMOR: Gear: Wolf Medallion / Gear: Armor of the Forgotten Wolf.\nPOTION: Gear: Tawny Owl / Gear: Blizzard.\nThis deck carries ALL 12 gear cards (36 cards): remove the 6 you did not choose."
+          },
+          {
+            "title": "Ongoing schemes",
+            "content": "After resolving an ONGOING scheme, leave it face up instead of discarding it. Check its discard condition only at the end of your turn. You can have only one ongoing scheme at a time: playing another discards the current one."
           }
         ]
       }
@@ -18765,6 +19839,279 @@
       }
     },
     {
+      "id": "um-she-hulk",
+      "family_id": "um-she-hulk",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "She-Hulk",
+      "note": "Unmatched (Restoration Games), set brains-and-brawn. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-25T13:32:12.976Z",
+      "deck_first_published_on": "2026-11-25T13:32:12.976Z",
+      "published_on": "2026-11-25T13:32:12.976Z",
+      "updated_on": "2026-11-25T13:32:12.976Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "brains-and-brawn"
+      ],
+      "deck_data": {
+        "name": "She-Hulk",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "She-Hulk",
+          "hp": 20,
+          "move": 2,
+          "isRanged": false,
+          "specialAbility": "JUST THROW SOMETHING\nAt the start of your turn, you may discard a card to deal damage equal to its BOOST value to a fighter in your zone.",
+          "quote": "Green, gorgeous, gamma-powered bombshell... I know that's what you're thinking.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/token-hero.png?v=1b73171819"
+        },
+        "sidekick": {
+          "name": "Sidekick",
+          "hp": null,
+          "quantity": null,
+          "isRanged": false,
+          "quote": ""
+        },
+        "cards": [
+          {
+            "title": "Sensational",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 2,
+            "characterName": "She-Hulk",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, you may choose a card from your discard pile and shuffle it into your deck.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/sensational.webp?v=314432e3ff",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/sensational.webp?v=314432e3ff"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+          },
+          {
+            "title": "Nerve Cluster Strike",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "She-Hulk",
+            "basicText": "",
+            "immediateText": "If She-Hulk is adjacent to the opposing fighter, the opposing fighter may not leave their space this turn.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/nerve-cluster-strike.webp?v=1deb5bf184",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/nerve-cluster-strike.webp?v=1deb5bf184"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+          },
+          {
+            "title": "Jennifer Walters, Esq.",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 1,
+            "characterName": "She-Hulk",
+            "basicText": "Place She-Hulk in a starting space.\nDraw 1 card.\nGain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/jennifer-walters-esq.webp?v=3d4a13911d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/jennifer-walters-esq.webp?v=3d4a13911d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+          },
+          {
+            "title": "Green Energy",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 4,
+            "boost": 1,
+            "characterName": "She-Hulk",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, deal 1 damage to each fighter adjacent to She-Hulk.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/green-energy.webp?v=9b0a484ba1",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/green-energy.webp?v=9b0a484ba1"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+          },
+          {
+            "title": "Lady Justice",
+            "quantity": 3,
+            "type": "defence",
+            "value": 0,
+            "boost": 2,
+            "characterName": "She-Hulk",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Discard the top card of your opponent's deck. Increase the value of this card by twice that card's BOOST value.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/lady-justice.webp?v=cb5087af4d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/lady-justice.webp?v=cb5087af4d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+          },
+          {
+            "title": "Leap Toward",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 1,
+            "characterName": "She-Hulk",
+            "basicText": "Move She-Hulk up to 4 spaces. She may move through opposing fighters. Then, if she is adjacent to an opposing fighter, gain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/leap-toward.webp?v=6119acffa4",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/leap-toward.webp?v=6119acffa4"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+          },
+          {
+            "title": "Cease and Desist",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 1,
+            "boost": 2,
+            "characterName": "She-Hulk",
+            "basicText": "",
+            "immediateText": "Cancel all effects on your opponent's card.",
+            "duringText": "If you are attacking, the value of this card is 4 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/cease-and-desist.webp?v=e2179b9a87",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/cease-and-desist.webp?v=e2179b9a87"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+          },
+          {
+            "title": "Double Jeopardy",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 2,
+            "characterName": "She-Hulk",
+            "basicText": "Draw 2 cards and recover 2 health.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/double-jeopardy.webp?v=1f251368ce",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/double-jeopardy.webp?v=1f251368ce"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+          },
+          {
+            "title": "The Savage She-Hulk",
+            "quantity": 2,
+            "type": "attack",
+            "value": 3,
+            "boost": 3,
+            "characterName": "She-Hulk",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "You may spend an additional action to make this card's value 9 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/the-savage-she-hulk.webp?v=f402f6a01e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/the-savage-she-hulk.webp?v=f402f6a01e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+          },
+          {
+            "title": "The Defense Rests",
+            "quantity": 2,
+            "type": "defence",
+            "value": 2,
+            "boost": 2,
+            "characterName": "She-Hulk",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw cards equal to the amount of combat damage you took.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/the-defense-rests.webp?v=fe95b2ed1e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/the-defense-rests.webp?v=fe95b2ed1e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+          },
+          {
+            "title": "Omega-Level Threat",
+            "quantity": 2,
+            "type": "attack",
+            "value": 5,
+            "boost": 2,
+            "characterName": "She-Hulk",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you dealt 2 or more combat damage, your opponent discards 2 random cards.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/omega-level-threat.webp?v=dfec57b3b1",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/omega-level-threat.webp?v=dfec57b3b1"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+          },
+          {
+            "title": "Legalese",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "She-Hulk",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, your opponent chooses whether you both draw a card or both discard a card. If you lost the combat, you make the choice instead (see above).",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/legalese.webp?v=405464447e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/cards/legalese.webp?v=405464447e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4"
+          },
+          {
+            "title": "She-Hulk",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "She-Hulk",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/hero.webp?v=53d87b53af",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/hero.webp?v=53d87b53af"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/she-hulk/back.webp?v=714a42c9e4",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
       "id": "um-sherlock-holmes",
       "family_id": "um-sherlock-holmes",
       "version_id": "1",
@@ -19390,6 +20737,279 @@
               "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/hero.webp?v=e7956f7cb3"
             },
             "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/sinbad/back.webp?v=5df0a31045",
+            "isCharacterCard": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "um-spider-man",
+      "family_id": "um-spider-man",
+      "version_id": "1",
+      "version_name": "1",
+      "versions": [],
+      "name": "Spider-Man",
+      "note": "Unmatched (Restoration Games), set brains-and-brawn. Datos transcritos de las cartas; uso privado.",
+      "user": "alexkhudov2002",
+      "bgg_link": null,
+      "created_on": "2026-11-25T13:32:12.560Z",
+      "deck_first_published_on": "2026-11-25T13:32:12.560Z",
+      "published_on": "2026-11-25T13:32:12.560Z",
+      "updated_on": "2026-11-25T13:32:12.560Z",
+      "deck_published": false,
+      "published": false,
+      "liked": false,
+      "likes": 0,
+      "tags": [
+        "unmatched",
+        "brains-and-brawn"
+      ],
+      "deck_data": {
+        "name": "Spider-Man",
+        "appearance": {
+          "borderColour": "#1F1F1F",
+          "highlightColour": "#E8C547",
+          "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f",
+          "isPNP": false,
+          "patternName": ""
+        },
+        "hero": {
+          "name": "Spider-Man",
+          "hp": 15,
+          "move": 3,
+          "isRanged": false,
+          "specialAbility": "SPIDEY-SENSE\nWhen an opponent attacks Spider-Man, before you play a defense card, they must tell you the printed value of their card.",
+          "quote": "It's easy to laugh in the face of danger when you don't take anything too seriously.",
+          "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/token-hero.png?v=d8dc741401"
+        },
+        "sidekick": {
+          "name": "Sidekick",
+          "hp": null,
+          "quantity": null,
+          "isRanged": false,
+          "quote": ""
+        },
+        "cards": [
+          {
+            "title": "Momentous Shift",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Spider-Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "If Spider-Man started this turn in a different space, the value of this card is 5 instead.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/momentous-shift.webp?v=cb0f46d740",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/momentous-shift.webp?v=cb0f46d740"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+          },
+          {
+            "title": "Right in the Face!",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 4,
+            "boost": 2,
+            "characterName": "Spider-Man",
+            "basicText": "",
+            "immediateText": "Your opponent can't draw cards this turn.",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/right-in-the-face.webp?v=661ee0bca9",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/right-in-the-face.webp?v=661ee0bca9"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+          },
+          {
+            "title": "Swinging Kick",
+            "quantity": 3,
+            "type": "attack",
+            "value": 6,
+            "boost": 2,
+            "characterName": "Spider-Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Move the opposing fighter a number of spaces up to the amount of combat damage dealt.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/swinging-kick.webp?v=29ebbb9bb1",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/swinging-kick.webp?v=29ebbb9bb1"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+          },
+          {
+            "title": "Disarming Shot",
+            "quantity": 2,
+            "type": "attack",
+            "value": 4,
+            "boost": 3,
+            "characterName": "Spider-Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Draw a number of cards equal to the amount of combat damage dealt to the opposing fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/disarming-shot.webp?v=10dbabe067",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/disarming-shot.webp?v=10dbabe067"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+          },
+          {
+            "title": "Wall Crawler",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Spider-Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "Place Spider-Man in any space in his zone.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/wall-crawler.webp?v=5f838c8e5c",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/wall-crawler.webp?v=5f838c8e5c"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+          },
+          {
+            "title": "Counter-Attack",
+            "quantity": 3,
+            "type": "defence",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Spider-Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If the value of your opponent's card is 4 or higher, deal 2 damage to the opposing fighter.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/counter-attack.webp?v=0c3150fcae",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/counter-attack.webp?v=0c3150fcae"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+          },
+          {
+            "title": "Friendly Neighborhood Spider-Man",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Spider-Man",
+            "basicText": "Recover 3 health.\nPlace Spider-Man in any space in his zone.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/friendly-neighborhood-spider-man.webp?v=099da791a7",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/friendly-neighborhood-spider-man.webp?v=099da791a7"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+          },
+          {
+            "title": "Spider-Sense Tingling!",
+            "quantity": 3,
+            "type": "versatile",
+            "value": 2,
+            "boost": 1,
+            "characterName": "Spider-Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If the value of your opponent's card is 4 or higher, draw 2 cards.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/spider-sense-tingling.webp?v=a5c82a9d0a",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/spider-sense-tingling.webp?v=a5c82a9d0a"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+          },
+          {
+            "title": "Snark",
+            "quantity": 2,
+            "type": "versatile",
+            "value": 3,
+            "boost": 1,
+            "characterName": "Spider-Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If Spider-Man is adjacent to the opposing fighter, draw 1 card.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/snark.webp?v=f4f1740a9d",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/snark.webp?v=f4f1740a9d"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+          },
+          {
+            "title": "Web Shooters",
+            "quantity": 3,
+            "type": "defence",
+            "value": 3,
+            "boost": 2,
+            "characterName": "Spider-Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "Spider-Man cannot take more than 2 combat damage this combat.",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/web-shooters.webp?v=78317c6087",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/web-shooters.webp?v=78317c6087"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+          },
+          {
+            "title": "With Great Power",
+            "quantity": 2,
+            "type": "scheme",
+            "value": null,
+            "boost": 3,
+            "characterName": "Spider-Man",
+            "basicText": "All of Spider-Man's attacks this turn are +1 value.\nDraw 1 card.\nGain 1 action.",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/with-great-power.webp?v=92d35d561e",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/with-great-power.webp?v=92d35d561e"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+          },
+          {
+            "title": "Thwip!",
+            "quantity": 3,
+            "type": "attack",
+            "value": 4,
+            "boost": 1,
+            "characterName": "Spider-Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "If you won the combat, place Spider-Man in any space in his zone.",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/thwip.webp?v=1bcb0db58f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/thwip.webp?v=1bcb0db58f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+          },
+          {
+            "title": "Spider-Man",
+            "quantity": 1,
+            "type": "versatile",
+            "value": null,
+            "boost": 0,
+            "characterName": "Spider-Man",
+            "basicText": "",
+            "immediateText": "",
+            "duringText": "",
+            "afterText": "",
+            "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/hero.webp?v=35f342344f",
+            "cardImage": {
+              "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/hero.webp?v=35f342344f"
+            },
+            "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f",
             "isCharacterCard": true
           }
         ]

@@ -1,0 +1,273 @@
+{
+  "id": "um-spider-man",
+  "family_id": "um-spider-man",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Spider-Man",
+  "note": "Unmatched (Restoration Games), set brains-and-brawn. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-25T13:32:12.560Z",
+  "deck_first_published_on": "2026-11-25T13:32:12.560Z",
+  "published_on": "2026-11-25T13:32:12.560Z",
+  "updated_on": "2026-11-25T13:32:12.560Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "brains-and-brawn"
+  ],
+  "deck_data": {
+    "name": "Spider-Man",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Spider-Man",
+      "hp": 15,
+      "move": 3,
+      "isRanged": false,
+      "specialAbility": "SPIDEY-SENSE\nWhen an opponent attacks Spider-Man, before you play a defense card, they must tell you the printed value of their card.",
+      "quote": "It's easy to laugh in the face of danger when you don't take anything too seriously.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/token-hero.png?v=d8dc741401"
+    },
+    "sidekick": {
+      "name": "Sidekick",
+      "hp": null,
+      "quantity": null,
+      "isRanged": false,
+      "quote": ""
+    },
+    "cards": [
+      {
+        "title": "Momentous Shift",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Spider-Man",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If Spider-Man started this turn in a different space, the value of this card is 5 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/momentous-shift.webp?v=cb0f46d740",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/momentous-shift.webp?v=cb0f46d740"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+      },
+      {
+        "title": "Right in the Face!",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Spider-Man",
+        "basicText": "",
+        "immediateText": "Your opponent can't draw cards this turn.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/right-in-the-face.webp?v=661ee0bca9",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/right-in-the-face.webp?v=661ee0bca9"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+      },
+      {
+        "title": "Swinging Kick",
+        "quantity": 3,
+        "type": "attack",
+        "value": 6,
+        "boost": 2,
+        "characterName": "Spider-Man",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move the opposing fighter a number of spaces up to the amount of combat damage dealt.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/swinging-kick.webp?v=29ebbb9bb1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/swinging-kick.webp?v=29ebbb9bb1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+      },
+      {
+        "title": "Disarming Shot",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Spider-Man",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw a number of cards equal to the amount of combat damage dealt to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/disarming-shot.webp?v=10dbabe067",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/disarming-shot.webp?v=10dbabe067"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+      },
+      {
+        "title": "Wall Crawler",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Spider-Man",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Place Spider-Man in any space in his zone.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/wall-crawler.webp?v=5f838c8e5c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/wall-crawler.webp?v=5f838c8e5c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+      },
+      {
+        "title": "Counter-Attack",
+        "quantity": 3,
+        "type": "defence",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Spider-Man",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If the value of your opponent's card is 4 or higher, deal 2 damage to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/counter-attack.webp?v=0c3150fcae",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/counter-attack.webp?v=0c3150fcae"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+      },
+      {
+        "title": "Friendly Neighborhood Spider-Man",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Spider-Man",
+        "basicText": "Recover 3 health.\nPlace Spider-Man in any space in his zone.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/friendly-neighborhood-spider-man.webp?v=099da791a7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/friendly-neighborhood-spider-man.webp?v=099da791a7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+      },
+      {
+        "title": "Spider-Sense Tingling!",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Spider-Man",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If the value of your opponent's card is 4 or higher, draw 2 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/spider-sense-tingling.webp?v=a5c82a9d0a",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/spider-sense-tingling.webp?v=a5c82a9d0a"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+      },
+      {
+        "title": "Snark",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Spider-Man",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If Spider-Man is adjacent to the opposing fighter, draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/snark.webp?v=f4f1740a9d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/snark.webp?v=f4f1740a9d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+      },
+      {
+        "title": "Web Shooters",
+        "quantity": 3,
+        "type": "defence",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Spider-Man",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Spider-Man cannot take more than 2 combat damage this combat.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/web-shooters.webp?v=78317c6087",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/web-shooters.webp?v=78317c6087"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+      },
+      {
+        "title": "With Great Power",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Spider-Man",
+        "basicText": "All of Spider-Man's attacks this turn are +1 value.\nDraw 1 card.\nGain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/with-great-power.webp?v=92d35d561e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/with-great-power.webp?v=92d35d561e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+      },
+      {
+        "title": "Thwip!",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Spider-Man",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, place Spider-Man in any space in his zone.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/thwip.webp?v=1bcb0db58f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/cards/thwip.webp?v=1bcb0db58f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f"
+      },
+      {
+        "title": "Spider-Man",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Spider-Man",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/hero.webp?v=35f342344f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/hero.webp?v=35f342344f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/spider-man/back.webp?v=6844ff148f",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}
