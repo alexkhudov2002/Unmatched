@@ -1,0 +1,273 @@
+{
+  "id": "um-raphael",
+  "family_id": "um-raphael",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Raphael",
+  "note": "Unmatched (Restoration Games), set turtles. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-26T09:05:03.159Z",
+  "deck_first_published_on": "2026-11-26T09:05:03.159Z",
+  "published_on": "2026-11-26T09:05:03.159Z",
+  "updated_on": "2026-11-26T09:05:03.159Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "turtles"
+  ],
+  "deck_data": {
+    "name": "Raphael",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/back.webp?v=ed166b3493",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Raphael",
+      "hp": 17,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "ANGER ISSUES\nOn each of your turns, the first time you lose combat, gain 1 action.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/token-hero.png?v=bd3073598a"
+    },
+    "sidekick": {
+      "name": "Casey Jones",
+      "quantity": 1,
+      "hp": 8,
+      "isRanged": true,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/token-casey-jones.png?v=9ae48b66c5"
+    },
+    "cards": [
+      {
+        "title": "Payback Time!",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If you lost a combat this turn, this card's value is 5 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/payback-time.webp?v=f0f8f912ac",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/payback-time.webp?v=f0f8f912ac"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/back.webp?v=ed166b3493"
+      },
+      {
+        "title": "Sai",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 4,
+        "boost": 2,
+        "characterName": "Raphael",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/sai.webp?v=a462b60daf",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/sai.webp?v=a462b60daf"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/back.webp?v=ed166b3493"
+      },
+      {
+        "title": "Heroes in a Half Shell",
+        "quantity": 2,
+        "type": "defence",
+        "value": 5,
+        "boost": 2,
+        "characterName": "Raphael",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/heroes-in-a-half-shell.webp?v=ef3ed508f4",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/heroes-in-a-half-shell.webp?v=ef3ed508f4"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/back.webp?v=ed166b3493"
+      },
+      {
+        "title": "Let's Do This!",
+        "quantity": 3,
+        "type": "attack",
+        "value": 1,
+        "boost": 3,
+        "characterName": "Raphael",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card. If you won the combat, draw 2 cards instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/let-s-do-this.webp?v=5778b48ae9",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/let-s-do-this.webp?v=5778b48ae9"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/back.webp?v=ed166b3493"
+      },
+      {
+        "title": "Unbridled Rage",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 4,
+        "characterName": "Raphael",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Discard any number of defense or versatile cards. Add +2 to this card's value for each card discarded this way.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/unbridled-rage.webp?v=ee5d39d161",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/unbridled-rage.webp?v=ee5d39d161"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/back.webp?v=ed166b3493"
+      },
+      {
+        "title": "Slapshot",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Casey Jones",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "If Casey is adjacent to the opposing fighter, this card's value is 6 instead.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/slapshot.webp?v=35511512ed",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/slapshot.webp?v=35511512ed"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/back.webp?v=ed166b3493"
+      },
+      {
+        "title": "Raphael Is Cool but Rude",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Raphael",
+        "basicText": "Deal 1 damage to each opposing fighter adjacent to at least one friendly fighter.\nDraw 1 card.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/raphael-is-cool-but-rude.webp?v=e56d84c3c4",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/raphael-is-cool-but-rude.webp?v=e56d84c3c4"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/back.webp?v=ed166b3493"
+      },
+      {
+        "title": "Turtle Power!",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Raphael",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this attack.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/turtle-power.webp?v=7d5e965edf",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/turtle-power.webp?v=7d5e965edf"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/back.webp?v=ed166b3493"
+      },
+      {
+        "title": "Crowd Control",
+        "quantity": 3,
+        "type": "attack",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card for each adjacent opposing fighter. Deal 1 damage to each of those fighters.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/crowd-control.webp?v=b7f92bb376",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/crowd-control.webp?v=b7f92bb376"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/back.webp?v=ed166b3493"
+      },
+      {
+        "title": "Relentless",
+        "quantity": 2,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Shuffle this card into your deck. Then, draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/relentless.webp?v=d7075417c5",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/relentless.webp?v=d7075417c5"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/back.webp?v=ed166b3493"
+      },
+      {
+        "title": "Break Something",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Raphael",
+        "basicText": "",
+        "immediateText": "Cancel all DURING COMBAT and AFTER COMBAT effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "If no effects were canceled this way, deal 2 damage to an adjacent opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/break-something.webp?v=3e32c95d45",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/break-something.webp?v=3e32c95d45"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/back.webp?v=ed166b3493"
+      },
+      {
+        "title": "Batter Up!",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Casey Jones",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, move the opposing fighter up to 3 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/batter-up.webp?v=bb64b439ea",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/cards/batter-up.webp?v=bb64b439ea"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/back.webp?v=ed166b3493"
+      },
+      {
+        "title": "Raphael",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Raphael",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/hero.webp?v=760f443dcd",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/hero.webp?v=760f443dcd"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/back.webp?v=ed166b3493",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

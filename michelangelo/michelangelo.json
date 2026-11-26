@@ -1,0 +1,279 @@
+{
+  "id": "um-michelangelo",
+  "family_id": "um-michelangelo",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Michelangelo",
+  "note": "Unmatched (Restoration Games), set turtles. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-26T09:05:02.871Z",
+  "deck_first_published_on": "2026-11-26T09:05:02.871Z",
+  "published_on": "2026-11-26T09:05:02.871Z",
+  "updated_on": "2026-11-26T09:05:02.871Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "turtles"
+  ],
+  "deck_data": {
+    "name": "Michelangelo",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/back.webp?v=9a79d703e5",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Michelangelo",
+      "hp": 14,
+      "move": 3,
+      "isRanged": false,
+      "specialAbility": "PIZZA PARTY\nAfter you attack or scheme, draw 1 card.\nYour starting and maximum hand size is 3.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/token-hero.png?v=fbdc158935"
+    },
+    "sidekick": {
+      "name": "April O'Neil",
+      "quantity": 1,
+      "hp": 6,
+      "isRanged": true,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/token-april-o-neil.png?v=c6f72f9456"
+    },
+    "cards": [
+      {
+        "title": "Heroes in a Half Shell",
+        "quantity": 2,
+        "type": "defence",
+        "value": 5,
+        "boost": 2,
+        "characterName": "Michelangelo",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/heroes-in-a-half-shell.webp?v=dcc8375876",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/heroes-in-a-half-shell.webp?v=dcc8375876"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/back.webp?v=9a79d703e5"
+      },
+      {
+        "title": "Guaranteed Delivery",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "You may put a card from your hand on the bottom of your deck to cancel all effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "If your hand is empty, draw 2 cards.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/guaranteed-delivery.webp?v=271701f1bc",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/guaranteed-delivery.webp?v=271701f1bc"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/back.webp?v=9a79d703e5"
+      },
+      {
+        "title": "Hi-Yaaaaah!!",
+        "quantity": 3,
+        "type": "attack",
+        "value": 4,
+        "boost": 3,
+        "characterName": "Michelangelo",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 1 damage to an adjacent opposing fighter. You may put a card from your hand on the bottom of your deck to gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/hi-yaaaaah.webp?v=63c93e2658",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/hi-yaaaaah.webp?v=63c93e2658"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/back.webp?v=9a79d703e5"
+      },
+      {
+        "title": "Nunchaku",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Michelangelo",
+        "basicText": "Add +1 to the value of Michelangelo's attacks this turn.\nGain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/nunchaku.webp?v=afd861ad55",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/nunchaku.webp?v=afd861ad55"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/back.webp?v=9a79d703e5"
+      },
+      {
+        "title": "Michelangelo Is a Party Dude!!",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Michelangelo",
+        "basicText": "Each friendly fighter recovers 1 health.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/michelangelo-is-a-party-dude.webp?v=17f6e81267",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/michelangelo-is-a-party-dude.webp?v=17f6e81267"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/back.webp?v=9a79d703e5"
+      },
+      {
+        "title": "Shell Insertion",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "April O'Neil",
+        "basicText": "Choose two different effects:\n► each opponent discards 1 card\n► move a friendly fighter up to 2 spaces\n► put a card from your hand on the bottom of your deck to gain 1 action\n► shuffle 2 random cards from your discard pile back into your deck",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/shell-insertion.webp?v=35e327e5c6",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/shell-insertion.webp?v=35e327e5c6"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/back.webp?v=9a79d703e5"
+      },
+      {
+        "title": "Turtle Power!!",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Michelangelo",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this attack.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/turtle-power.webp?v=d1fdcd8e2c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/turtle-power.webp?v=d1fdcd8e2c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/back.webp?v=9a79d703e5"
+      },
+      {
+        "title": "Back for Seconds",
+        "quantity": 2,
+        "type": "defence",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Shuffle 2 random cards from your discard pile back into your deck.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/back-for-seconds.webp?v=88e3eeb43b",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/back-for-seconds.webp?v=88e3eeb43b"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/back.webp?v=9a79d703e5"
+      },
+      {
+        "title": "Hard-Hitting Investigation",
+        "quantity": 3,
+        "type": "attack",
+        "value": 0,
+        "boost": 3,
+        "characterName": "April O'Neil",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 1 damage to the opposing fighter. Gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/hard-hitting-investigation.webp?v=10043fcd27",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/hard-hitting-investigation.webp?v=10043fcd27"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/back.webp?v=9a79d703e5"
+      },
+      {
+        "title": "Let's Go!!",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move a friendly fighter up to 3 spaces.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/let-s-go.webp?v=1826d3c03f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/let-s-go.webp?v=1826d3c03f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/back.webp?v=9a79d703e5"
+      },
+      {
+        "title": "Boisterous Beatdown",
+        "quantity": 3,
+        "type": "attack",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Michelangelo",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Gain 1 action. If you won the combat, gain 2 actions instead.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/boisterous-beatdown.webp?v=87330d0c6d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/boisterous-beatdown.webp?v=87330d0c6d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/back.webp?v=9a79d703e5"
+      },
+      {
+        "title": "Cowabunga!!",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Michelangelo",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Add +1 to this card's value for each other card you played this turn.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/cowabunga.webp?v=ea0990a397",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/cards/cowabunga.webp?v=ea0990a397"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/back.webp?v=9a79d703e5"
+      },
+      {
+        "title": "Michelangelo",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Michelangelo",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/hero.webp?v=324dbea45e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/hero.webp?v=324dbea45e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/back.webp?v=9a79d703e5",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Hand size 3",
+        "content": "Michelangelo starts with 3 cards and his maximum hand size is 3 (discard down to 3 at the end of your turn). Unbrewed deals the normal opening hand: if it gives you 5, shuffle 2 of them back into your deck before the game starts."
+      }
+    ]
+  }
+}

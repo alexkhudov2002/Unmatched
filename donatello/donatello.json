@@ -1,0 +1,313 @@
+{
+  "id": "um-donatello",
+  "family_id": "um-donatello",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Donatello",
+  "note": "Unmatched (Restoration Games), set turtles. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-26T09:05:02.578Z",
+  "deck_first_published_on": "2026-11-26T09:05:02.578Z",
+  "published_on": "2026-11-26T09:05:02.578Z",
+  "updated_on": "2026-11-26T09:05:02.578Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "turtles"
+  ],
+  "deck_data": {
+    "name": "Donatello",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/back.webp?v=c904bb9cac",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Donatello",
+      "hp": 14,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "INVENTIVE\nWhen you maneuver, you may draw 2 cards instead of 1. If you do, put a card in your hand on the bottom of your deck.\nAfter you play an invention, tuck it under this card.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/token-hero.png?v=fed491279c"
+    },
+    "sidekick": {
+      "name": "Metalhead",
+      "quantity": 1,
+      "hp": 7,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/token-metalhead.png?v=40001498b7"
+    },
+    "cards": [
+      {
+        "title": "Short Circuit",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "Cancel all AFTER COMBAT effects on your opponent's card.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/short-circuit.webp?v=16a0207b0f",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/short-circuit.webp?v=16a0207b0f"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/back.webp?v=c904bb9cac"
+      },
+      {
+        "title": "Electro Grenade",
+        "quantity": 1,
+        "type": "attack",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Donatello",
+        "basicText": "INVENTION (while tucked under Donatello's hero card): Add +1 to the value of your attacks.",
+        "immediateText": "",
+        "duringText": "Remove up to 4 attack or versatile cards in your discard pile from the game. Add +1 to this card's value for each card removed.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/electro-grenade.webp?v=89b124bc89",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/electro-grenade.webp?v=89b124bc89"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/back.webp?v=c904bb9cac"
+      },
+      {
+        "title": "Heroes in a Half Shell",
+        "quantity": 2,
+        "type": "defence",
+        "value": 5,
+        "boost": 1,
+        "characterName": "Donatello",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/heroes-in-a-half-shell.webp?v=a8fe67275e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/heroes-in-a-half-shell.webp?v=a8fe67275e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/back.webp?v=c904bb9cac"
+      },
+      {
+        "title": "Thinking Ahead",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If you won the combat, you may put a card in your discard pile on the bottom of your deck.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/thinking-ahead.webp?v=7fc546c6eb",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/thinking-ahead.webp?v=7fc546c6eb"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/back.webp?v=c904bb9cac"
+      },
+      {
+        "title": "The Future of Ninjutsu",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 1,
+        "characterName": "Metalhead",
+        "basicText": "Look at the top card of any deck. You may put it on the bottom.\nDraw 1 card.\nGain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/the-future-of-ninjutsu.webp?v=3b2973c005",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/the-future-of-ninjutsu.webp?v=3b2973c005"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/back.webp?v=c904bb9cac"
+      },
+      {
+        "title": "Self Defense Grid",
+        "quantity": 1,
+        "type": "defence",
+        "value": 2,
+        "boost": 3,
+        "characterName": "Donatello",
+        "basicText": "INVENTION (while tucked under Donatello's hero card): Add +1 to the value of your defenses.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Remove up to 4 defense or versatile cards in your discard pile from the game. Donatello recovers that much health.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/self-defense-grid.webp?v=7fb70e8944",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/self-defense-grid.webp?v=7fb70e8944"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/back.webp?v=c904bb9cac"
+      },
+      {
+        "title": "Bo Staff",
+        "quantity": 2,
+        "type": "defence",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Donatello",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Deal 1 damage to an opposing fighter adjacent to Donatello. Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/bo-staff.webp?v=eb54dc8449",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/bo-staff.webp?v=eb54dc8449"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/back.webp?v=c904bb9cac"
+      },
+      {
+        "title": "Turtle Power!",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/turtle-power.webp?v=74f4bc4e60",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/turtle-power.webp?v=74f4bc4e60"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/back.webp?v=c904bb9cac"
+      },
+      {
+        "title": "Donatello Does Machines",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Donatello",
+        "basicText": "You and each other friendly player may return an attack, versatile, or defense card in their discard pile to their hand.\nDraw 1 card.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/donatello-does-machines.webp?v=a93a3b311e",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/donatello-does-machines.webp?v=a93a3b311e"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/back.webp?v=c904bb9cac"
+      },
+      {
+        "title": "Quick Strike",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/quick-strike.webp?v=1541f11de2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/quick-strike.webp?v=1541f11de2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/back.webp?v=c904bb9cac"
+      },
+      {
+        "title": "Party Wagon!",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Donatello",
+        "basicText": "Move a friendly fighter up to 5 spaces. They may move through opposing fighters. Then, deal 2 damage to an opposing fighter they moved through.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/party-wagon.webp?v=a9a9ff56ee",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/party-wagon.webp?v=a9a9ff56ee"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/back.webp?v=c904bb9cac"
+      },
+      {
+        "title": "Untested Enhancements",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Metalhead",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Discard the bottom card of your deck. Add its BOOST value to this card's value.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/untested-enhancements.webp?v=90945ca1b2",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/untested-enhancements.webp?v=90945ca1b2"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/back.webp?v=c904bb9cac"
+      },
+      {
+        "title": "Smoke Bomb",
+        "quantity": 1,
+        "type": "scheme",
+        "value": null,
+        "boost": 3,
+        "characterName": "Donatello",
+        "basicText": "Remove up to 4 scheme cards in your discard pile from the game. Gain that many actions.\nINVENTION (while tucked under Donatello's hero card): When you play a scheme, gain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/smoke-bomb.webp?v=1662ab7860",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/smoke-bomb.webp?v=1662ab7860"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/back.webp?v=c904bb9cac"
+      },
+      {
+        "title": "Shift Focus",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Donatello",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move another fighter in Donatello's zone up to 3 spaces. They may move through other fighters.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/shift-focus.webp?v=87428f3ed1",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/cards/shift-focus.webp?v=87428f3ed1"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/back.webp?v=c904bb9cac"
+      },
+      {
+        "title": "Donatello",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Donatello",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/hero.webp?v=d110d25ff8",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/hero.webp?v=d110d25ff8"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/back.webp?v=c904bb9cac",
+        "isCharacterCard": true
+      }
+    ],
+    "ruleCards": [
+      {
+        "title": "Inventions",
+        "content": "Electro Grenade, Self Defense Grid and Smoke Bomb are inventions (purple strip at the bottom). After you play an invention, resolve it as normal, then tuck it under Donatello's hero card instead of discarding it. While tucked, the effect on its purple strip stays active for the rest of the game. In Unbrewed, leave the card on the table next to the hero card."
+      }
+    ]
+  }
+}

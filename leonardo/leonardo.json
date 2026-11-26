@@ -1,0 +1,273 @@
+{
+  "id": "um-leonardo",
+  "family_id": "um-leonardo",
+  "version_id": "1",
+  "version_name": "1",
+  "versions": [],
+  "name": "Leonardo",
+  "note": "Unmatched (Restoration Games), set turtles. Datos transcritos de las cartas; uso privado.",
+  "user": "alexkhudov2002",
+  "bgg_link": null,
+  "created_on": "2026-11-26T09:05:02.285Z",
+  "deck_first_published_on": "2026-11-26T09:05:02.285Z",
+  "published_on": "2026-11-26T09:05:02.285Z",
+  "updated_on": "2026-11-26T09:05:02.285Z",
+  "deck_published": false,
+  "published": false,
+  "liked": false,
+  "likes": 0,
+  "tags": [
+    "unmatched",
+    "turtles"
+  ],
+  "deck_data": {
+    "name": "Leonardo",
+    "appearance": {
+      "borderColour": "#1F1F1F",
+      "highlightColour": "#E8C547",
+      "cardbackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/back.webp?v=a7ed90f8fd",
+      "isPNP": false,
+      "patternName": ""
+    },
+    "hero": {
+      "name": "Leonardo",
+      "hp": 16,
+      "move": 2,
+      "isRanged": false,
+      "specialAbility": "TEAM TACTICS\nAt the start of your turn, you may move any fighter 1 space.",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/token-hero.png?v=1ca6bac1b0"
+    },
+    "sidekick": {
+      "name": "Splinter",
+      "quantity": 1,
+      "hp": 9,
+      "isRanged": false,
+      "quote": "",
+      "tokenImageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/token-splinter.png?v=7a0a96b301"
+    },
+    "cards": [
+      {
+        "title": "Eat, Sleep, and Breathe Ninjutsu",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Place each fighter adjacent to your fighter in another space in their zone.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/eat-sleep-and-breathe-ninjutsu.webp?v=cdda07f12d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/eat-sleep-and-breathe-ninjutsu.webp?v=cdda07f12d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/back.webp?v=a7ed90f8fd"
+      },
+      {
+        "title": "Quick Strike",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/quick-strike.webp?v=dbfadabda7",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/quick-strike.webp?v=dbfadabda7"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/back.webp?v=a7ed90f8fd"
+      },
+      {
+        "title": "Heroes in a Half Shell",
+        "quantity": 2,
+        "type": "defence",
+        "value": 5,
+        "boost": 3,
+        "characterName": "Leonardo",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/heroes-in-a-half-shell.webp?v=3919ad34c3",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/heroes-in-a-half-shell.webp?v=3919ad34c3"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/back.webp?v=a7ed90f8fd"
+      },
+      {
+        "title": "Protective Father",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 2,
+        "characterName": "Splinter",
+        "basicText": "Splinter may swap spaces with another friendly fighter. If he does, they both recover 2 health.\nGain 1 action.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/protective-father.webp?v=811c9ada0d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/protective-father.webp?v=811c9ada0d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/back.webp?v=a7ed90f8fd"
+      },
+      {
+        "title": "Leonardo Leads",
+        "quantity": 2,
+        "type": "scheme",
+        "value": null,
+        "boost": 4,
+        "characterName": "Leonardo",
+        "basicText": "Move each friendly fighter up to 3 spaces.\nDraw 1 card.",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/leonardo-leads.webp?v=0c102afc6d",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/leonardo-leads.webp?v=0c102afc6d"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/back.webp?v=a7ed90f8fd"
+      },
+      {
+        "title": "I Have a Plan",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "You may discard 1 card. If you do, cancel all effects on your opponent's card and ignore its value.",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/i-have-a-plan.webp?v=f575b0c9f0",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/i-have-a-plan.webp?v=f575b0c9f0"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/back.webp?v=a7ed90f8fd"
+      },
+      {
+        "title": "For Sensei",
+        "quantity": 2,
+        "type": "attack",
+        "value": 4,
+        "boost": 1,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "Move both fighters in the combat up to 1 space each. You may discard 1 card to gain 1 action.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/for-sensei.webp?v=944d5eebae",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/for-sensei.webp?v=944d5eebae"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/back.webp?v=a7ed90f8fd"
+      },
+      {
+        "title": "Wise Beyond His Years",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 2,
+        "boost": 2,
+        "characterName": "Leonardo",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If the opposing fighter is in fewer zones than Leonardo, deal 2 damage to the opposing fighter.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/wise-beyond-his-years.webp?v=4d59ac66f8",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/wise-beyond-his-years.webp?v=4d59ac66f8"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/back.webp?v=a7ed90f8fd"
+      },
+      {
+        "title": "Turtle Power!",
+        "quantity": 2,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Leonardo",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "You may BOOST this card.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/turtle-power.webp?v=c537b95f35",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/turtle-power.webp?v=c537b95f35"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/back.webp?v=a7ed90f8fd"
+      },
+      {
+        "title": "Fearless Leader",
+        "quantity": 3,
+        "type": "attack",
+        "value": 3,
+        "boost": 2,
+        "characterName": "Any",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "Add +2 to this card's value for each other friendly fighter adjacent to the opposing fighter.",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/fearless-leader.webp?v=077c57196c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/fearless-leader.webp?v=077c57196c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/back.webp?v=a7ed90f8fd"
+      },
+      {
+        "title": "Katana",
+        "quantity": 2,
+        "type": "attack",
+        "value": 6,
+        "boost": 2,
+        "characterName": "Leonardo",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/katana.webp?v=7b9eaf34fe",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/katana.webp?v=7b9eaf34fe"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/back.webp?v=a7ed90f8fd"
+      },
+      {
+        "title": "Spatial Awareness",
+        "quantity": 3,
+        "type": "versatile",
+        "value": 3,
+        "boost": 3,
+        "characterName": "Splinter",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "If the opposing fighter is in fewer zones than Splinter, deal 1 damage to the opposing fighter and draw 1 card.",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/spatial-awareness.webp?v=97b94a2976",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/cards/spatial-awareness.webp?v=97b94a2976"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/back.webp?v=a7ed90f8fd"
+      },
+      {
+        "title": "Leonardo",
+        "quantity": 1,
+        "type": "versatile",
+        "value": null,
+        "boost": 0,
+        "characterName": "Leonardo",
+        "basicText": "",
+        "immediateText": "",
+        "duringText": "",
+        "afterText": "",
+        "imageUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/hero.webp?v=d3d8d1928c",
+        "cardImage": {
+          "url": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/hero.webp?v=d3d8d1928c"
+        },
+        "cardBackUrl": "https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/back.webp?v=a7ed90f8fd",
+        "isCharacterCard": true
+      }
+    ]
+  }
+}

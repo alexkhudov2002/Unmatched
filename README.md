@@ -41,7 +41,7 @@ En **unbrewed.xyz/bag**, pega un enlace en la barra de añadir.
 | Stars & Stripes | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/stars-stripes.json` |
 | Marvel: Brains and Brawn | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/brains-and-brawn.json` |
 | Witcher: Steel and Silver | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/witcher-steel-and-silver.json` |
-| TMNT: Shredder & Krang | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/turtles.json` |
+| Teenage Mutant Ninja Turtles | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/turtles.json` |
 | Personalizados (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/custom.json` |
 
 **Héroes sueltos:**
@@ -122,6 +122,10 @@ En **unbrewed.xyz/bag**, pega un enlace en la barra de añadir.
 | Ciri | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/ciri/ciri.json` |
 | Geralt of Rivia | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/geralt/geralt.json` |
 | Ancient Leshen | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leshen/leshen.json` |
+| Leonardo | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/leonardo/leonardo.json` |
+| Donatello | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/donatello/donatello.json` |
+| Michelangelo | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/michelangelo/michelangelo.json` |
+| Raphael | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/raphael/raphael.json` |
 | Krang | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/krang/krang.json` |
 | Shredder | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/shredder/shredder.json` |
 | Emperor Palpatine (fan-made) | `https://raw.githubusercontent.com/alexkhudov2002/Unmatched/main/palpatine/palpatine.json` |
@@ -215,6 +219,14 @@ Si un mazo cambia, bórralo de la bolsa y vuelve a añadirlo: Unbrewed guarda un
   una de las otras tres (las cartas «Gear: …»; la lista por tipo está en el panel de reglas).
 - **Ancient Leshen** (con 2 Wolves de 1 de vida): las fichas en la esquina del jugador. La regla de invocar
   lobos va en el panel de reglas.
+- **Leonardo** (con Splinter, 9 de vida), **Raphael** (con Casey Jones, 8 de vida, a distancia): las fichas
+  en la esquina del jugador.
+- **Donatello** (con Metalhead, 7 de vida): las fichas en la esquina del jugador. Electro Grenade, Self Defense
+  Grid y Smoke Bomb son inventos: tras jugarlos se dejan junto a la carta de héroe y su efecto de la franja
+  morada (línea «INVENTION») sigue activo el resto de la partida.
+- **Michelangelo** (con April O'Neil, 6 de vida, a distancia): las fichas en la esquina del jugador. Su mano
+  inicial y máxima es de 3 cartas; Unbrewed reparte la mano normal, así que devuelve las que sobren al mazo y
+  barájalo antes de empezar (la regla está en el panel de reglas).
 - **Krang**: su ficha y las 3 máquinas del fin del mundo, que se giran entre INACTIVE y ACTIVE (una sale
   activa). Los «[?]» de las cartas son el dado de la Destrucción Definitiva: sin el dado físico, tira 1d6
   en Unbrewed y cuenta el 6 como X (0). La regla está en el panel de reglas.
